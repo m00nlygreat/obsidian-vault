@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "#efd36b",
+  "theme": "moonstone",
+  "interfaceFontFamily": "Input",
+  "baseFontSize": 14,
+  "translucency": true
 }
