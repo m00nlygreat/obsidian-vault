@@ -15,6 +15,7 @@
               "state": {
                 "file": "그 애.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
