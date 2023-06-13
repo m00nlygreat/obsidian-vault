@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d97671dc551979c7",
+        "id": "7b5ff93b7b6f9a15",
         "type": "tabs",
         "children": [
           {
-            "id": "5fdccdd3eb88cad7",
+            "id": "09a262ba2707fc51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "그 애.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8169d147aea6c1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "보수와 진보는 뇌의 두께가 다르더라.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "보수와 진보는 뇌의 두께가 다르더라.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "보수와 진보는 뇌의 두께가 다르더라.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "보수와 진보는 뇌의 두께가 다르더라.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8169d147aea6c1b",
+  "active": "09a262ba2707fc51",
   "lastOpenFiles": [
     "그 애.md",
     "보수와 진보는 뇌의 두께가 다르더라.md",
