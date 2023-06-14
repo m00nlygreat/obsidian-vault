@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fdccdd3eb88cad7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "그 애.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8169d147aea6c1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "보수와 진보는 뇌의 두께가 다르더라.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "64a809b2a63f529c",
             "type": "leaf",
             "state": {
@@ -46,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,9 +149,9 @@
   },
   "active": "64a809b2a63f529c",
   "lastOpenFiles": [
+    "그 애.md",
     "보수와 진보는 뇌의 두께가 다르더라.md",
     "마인크래프트 성장형 RPG 시스템.md",
-    "그 애.md",
     "무제 파일.canvas",
     "2023-06-13.md"
   ]

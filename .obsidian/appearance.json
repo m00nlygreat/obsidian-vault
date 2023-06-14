@@ -4,5 +4,6 @@
   "interfaceFontFamily": "Input",
   "baseFontSize": 14,
   "translucency": false,
-  "cssTheme": ""
+  "cssTheme": "",
+  "enabledCssSnippets": []
 }
