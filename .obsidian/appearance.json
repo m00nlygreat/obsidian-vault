@@ -3,5 +3,6 @@
   "theme": "moonstone",
   "interfaceFontFamily": "Input",
   "baseFontSize": 14,
-  "translucency": false
+  "translucency": false,
+  "cssTheme": ""
 }
