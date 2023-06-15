@@ -11,8 +11,13 @@
             "id": "87da4fadd9f52356",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까?.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까?.md"
+              }
             }
           }
         ]
