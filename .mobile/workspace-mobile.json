@@ -11,8 +11,12 @@
             "id": "e21e2ef5a6076995",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까?.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까?.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까?.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까?.md"
+          }
         }
       }
     ],
@@ -125,13 +133,13 @@
   },
   "active": "e21e2ef5a6076995",
   "lastOpenFiles": [
+    "마인크래프트 성장형 RPG 시스템.md",
     "프로덕트 기획에 ChatGPT 사용하기.md",
     "보수와 진보는 뇌의 두께가 다르더라.md",
     "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까?.md",
     "헤어질 결심(2022).md",
     "어포던스.md",
     "링크 래퍼.md",
-    "마인크래프트 성장형 RPG 시스템.md",
     "베라모드의 독백.md",
     "버블의 불편함을 해소하는 팁 3가지.md",
     "신금일주 정리.md",
