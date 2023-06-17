@@ -21,20 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "846893d0011b8299",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d199556efc371951",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
