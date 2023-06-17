@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dab7dff3d830b462",
+            "id": "9312967384cb4527",
             "type": "leaf",
             "state": {
-              "type": "mindmap",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "버블의 불편함을 해소하는 팁 3가지.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "버블의 불편함을 해소하는 팁 3가지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "버블의 불편함을 해소하는 팁 3가지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "버블의 불편함을 해소하는 팁 3가지.md"
+              }
             }
           },
           {
@@ -134,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dab7dff3d830b462",
+  "active": "9312967384cb4527",
   "lastOpenFiles": [
     "버블 스크롤 애니메이션.md",
     "버블의 불편함을 해소하는 팁 3가지.md",
