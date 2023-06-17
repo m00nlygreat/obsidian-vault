@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "그 애.md",
+                "file": "링크 래퍼.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "그 애.md",
+                "file": "링크 래퍼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "그 애.md",
+                "file": "링크 래퍼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "그 애.md"
+                "file": "링크 래퍼.md"
               }
             }
           },
@@ -137,14 +137,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "914ea0d1337d9b38",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,12 +160,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9312967384cb4527",
+  "active": "914ea0d1337d9b38",
   "lastOpenFiles": [
     "대운-세운 관계.md",
+    "그 애.md",
     "링크 래퍼.md",
     "버블 스크롤 애니메이션.md",
     "버블의 불편함을 해소하는 팁 3가지.md",
@@ -177,7 +187,6 @@
     "프로덕트 기획에 ChatGPT 사용하기.md",
     "Pasted image 20230209182313.png.md",
     "Untitled.md",
-    "그 애.md",
     "무제 파일.canvas",
     "2023-06-13.md"
   ]
