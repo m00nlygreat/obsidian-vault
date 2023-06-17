@@ -11,25 +11,14 @@
             "id": "09a262ba2707fc51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "191c4fe46907e648",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,7 +149,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "191c4fe46907e648",
+  "active": "09a262ba2707fc51",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "헤어질 결심(2022).md",
