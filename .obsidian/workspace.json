@@ -14,20 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "513253dd88eb2e26",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "513253dd88eb2e26",
+  "active": "0ef2b4b022d7ac86",
   "lastOpenFiles": [
     "보수와 진보는 뇌의 두께가 다르더라.md",
     "마인크래프트 성장형 RPG 시스템.md",
