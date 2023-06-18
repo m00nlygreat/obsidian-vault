@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "블록코딩 앱의 기획.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "블록코딩 앱의 기획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "블록코딩 앱의 기획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "블록코딩 앱의 기획.md"
               }
             }
           },
@@ -221,7 +221,7 @@
   "active": "bd7bfd6ad8b2628e",
   "lastOpenFiles": [
     "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
-    "Untitled.md",
+    "블록코딩 앱의 기획.md",
     "스크립트/서버와 클라이언트, DB의 관계.md",
     "그 애.md",
     "마인크래프트 성장형 RPG 시스템.md",
