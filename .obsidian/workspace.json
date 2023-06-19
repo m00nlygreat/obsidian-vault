@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1af55281802e725c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "현생인류가 사라지고.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "현생인류가 사라지고.md",
+                "file": "아이디어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "현생인류가 사라지고.md",
+                "file": "아이디어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "현생인류가 사라지고.md"
+                "file": "아이디어.md"
               }
             }
           }
@@ -161,12 +147,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1af55281802e725c",
+  "active": "819742b5865b710a",
   "lastOpenFiles": [
-    "뻘 생각.md",
-    "현생인류가 사라지고.md",
+    "마인크래프트 성장형 RPG 시스템.md",
     "아이디어.md",
     "블록코딩 앱.md",
+    "링크 래퍼.md",
+    "그 애.md",
+    "버블의 불편함을 해소하는 팁 3가지.md",
+    "현생인류가 사라지고.md",
+    "뻘 생각.md",
     "README.md",
     "신금일주 정리.md",
     "사주명리.md",
@@ -174,11 +164,8 @@
     "프로덕트 기획에 ChatGPT 사용하기.md",
     "진보는 외부 자극에, 보수는 공포에 민감.md",
     "보수와 진보는 뇌의 두께가 다르더라.md",
-    "링크 래퍼.md",
-    "마인크래프트 성장형 RPG 시스템.md",
     "버블 스크롤 애니메이션.md",
     "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
-    "버블의 불편함을 해소하는 팁 3가지.md",
     "스크립트/서버와 클라이언트, DB의 관계.md",
     "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
     "스크롤 바 자리 차지하지 않게 하기.md",
@@ -189,7 +176,6 @@
     "스프레드시트 상대적 시간 수식.md",
     "Pasted image 20230209182313.png.md",
     "헤어질 결심(2022).md",
-    "노코드 툴 버블로 3일 만에 MVP 만들기.md",
     "무제 파일.canvas"
   ]
 }
