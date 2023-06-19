@@ -11,11 +11,30 @@
             "id": "819742b5865b710a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "아이디어.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1af55281802e725c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "현생인류가 사라지고.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "현생인류가 사라지고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "현생인류가 사라지고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "현생인류가 사라지고.md"
+              }
             }
           }
         ]
@@ -138,10 +161,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "819742b5865b710a",
+  "active": "1af55281802e725c",
   "lastOpenFiles": [
-    "블록코딩 앱.md",
+    "뻘 생각.md",
+    "현생인류가 사라지고.md",
     "아이디어.md",
+    "블록코딩 앱.md",
     "README.md",
     "신금일주 정리.md",
     "사주명리.md",
@@ -165,8 +190,6 @@
     "Pasted image 20230209182313.png.md",
     "헤어질 결심(2022).md",
     "노코드 툴 버블로 3일 만에 MVP 만들기.md",
-    "정규식 문법 정리.md",
-    "어포던스.md",
     "무제 파일.canvas"
   ]
 }
