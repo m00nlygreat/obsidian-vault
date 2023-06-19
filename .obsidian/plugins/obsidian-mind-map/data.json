@@ -1,0 +1,9 @@
+{
+  "splitDirection": "horizontal",
+  "nodeMinHeight": 16,
+  "lineHeight": "1em",
+  "spacingVertical": 5,
+  "spacingHorizontal": 60,
+  "paddingX": 6,
+  "maxWidth": 300
+}
