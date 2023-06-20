@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "블록코딩 앱의 기획.md",
+                "file": "링크 래퍼.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "블록코딩 앱의 기획.md",
+            "file": "링크 래퍼.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "블록코딩 앱의 기획.md",
+            "file": "링크 래퍼.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "블록코딩 앱의 기획.md"
+            "file": "링크 래퍼.md"
           }
         }
       }
@@ -133,11 +133,12 @@
   },
   "active": "e21e2ef5a6076995",
   "lastOpenFiles": [
+    "스크롤 바 자리 차지하지 않게 하기.md",
+    "블록코딩 앱의 기획.md",
     "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
     "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까?.md",
     "스크립트/서버와 클라이언트, DB의 관계.md",
     "마인크래프트 성장형 RPG 시스템.md",
-    "블록코딩 앱의 기획.md",
     "스크립트",
     "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
     "버블 스크롤 애니메이션.md",
@@ -154,7 +155,6 @@
     "Pasted image 20230209182313.png.md",
     "정규식 문법 정리.md",
     "그 애.md",
-    "스프레드시트 상대적 시간 수식.md",
-    "스크롤 바 자리 차지하지 않게 하기.md"
+    "스프레드시트 상대적 시간 수식.md"
   ]
 }
