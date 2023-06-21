@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "나의 효능감.md",
+                "file": "링크 래퍼.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "나의 효능감.md",
+                "file": "링크 래퍼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "나의 효능감.md",
+                "file": "링크 래퍼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "나의 효능감.md"
+                "file": "링크 래퍼.md"
               }
             }
           }
@@ -151,9 +151,12 @@
   },
   "active": "ab0d5fe1ac963141",
   "lastOpenFiles": [
+    "읽을거리.md",
+    "아이디어.md",
+    "스크롤 바 자리 차지하지 않게 하기.md",
+    "나의 효능감.md",
     "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
     "뻘 생각.md",
-    "나의 효능감.md",
     "나의 효능감효능감(효능감).md",
     "현생인류가 사라지고.md",
     "프로덕트 기획에 ChatGPT 사용하기.md",
@@ -162,16 +165,13 @@
     "대운-세운 관계.md",
     "버블 스크롤 애니메이션.md",
     "블록코딩 앱.md",
-    "스크롤 바 자리 차지하지 않게 하기.md",
     "journal/2023-06-20.md",
     "journal",
     "untitled folder",
     "사주명리.md",
-    "아이디어.md",
     "마인크래프트 성장형 RPG 시스템.md",
     "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
     "README.md",
-    "읽을거리.md",
     "스크립트/서버와 클라이언트, DB의 관계.md",
     "그 애.md",
     "버블의 불편함을 해소하는 팁 3가지.md",
