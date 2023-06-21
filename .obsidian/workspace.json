@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "그 애.md",
+                "file": "타인은 나를 비추는 거울.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "그 애.md",
+                "file": "타인은 나를 비추는 거울.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "그 애.md",
+                "file": "타인은 나를 비추는 거울.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "그 애.md"
+                "file": "타인은 나를 비추는 거울.md"
               }
             }
           },
@@ -160,6 +160,12 @@
   },
   "active": "ab0d5fe1ac963141",
   "lastOpenFiles": [
+    "블록코딩 앱.md",
+    "블록코딩 앱의 기획.md",
+    "타인은 나를 비추는 거울.md",
+    "읽을거리.md",
+    "사주명리.md",
+    "그 애.md",
     "보수와 진보는 뇌의 두께가 다르더라.md",
     "마인크래프트 성장형 RPG 시스템.md",
     "대운-세운 관계.md",
@@ -172,21 +178,15 @@
     "스프레드시트 상대적 시간 수식.md",
     "진보는 외부 자극에, 보수는 공포에 민감.md",
     "README.md",
-    "사주명리.md",
     "현생인류가 사라지고.md",
     "아이디어.md",
-    "타인은 나를 비추는 거울.md",
     "링크 래퍼.md",
-    "블록코딩 앱의 기획.md",
-    "읽을거리.md",
     "스크롤 바 자리 차지하지 않게 하기.md",
     "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
     "뻘 생각.md",
     "나의 효능감효능감(효능감).md",
     "프로덕트 기획에 ChatGPT 사용하기.md",
     "gladly-app-icon.png",
-    "블록코딩 앱.md",
-    "journal/2023-06-20.md",
     "journal",
     "untitled folder",
     "스크립트",
