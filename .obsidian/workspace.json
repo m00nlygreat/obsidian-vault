@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d79ecf4c640e4ef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "원칙주의자인 나.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "클리앙과 같은 커뮤니티 만드는 법.md",
+                "file": "원칙주의자인 나.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "클리앙과 같은 커뮤니티 만드는 법.md",
+                "file": "원칙주의자인 나.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "클리앙과 같은 커뮤니티 만드는 법.md"
+                "file": "원칙주의자인 나.md"
               }
             }
           },
@@ -231,10 +244,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d8128f4a8bcd35ea",
+  "active": "d79ecf4c640e4ef5",
   "lastOpenFiles": [
-    "블록코딩 앱의 기획.md",
     "클리앙과 같은 커뮤니티 만드는 법.md",
+    "원칙주의자인 나.md",
+    "블록코딩 앱의 기획.md",
     "스크롤 바 자리 차지하지 않게 하기.md",
     "보수와 진보는 뇌의 두께가 다르더라.md",
     "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
