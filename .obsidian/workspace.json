@@ -60,19 +60,6 @@
             }
           },
           {
-            "id": "bd7bfd6ad8b2628e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "블록코딩 앱의 기획.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d8128f4a8bcd35ea",
             "type": "leaf",
             "state": {
@@ -99,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -246,8 +233,18 @@
   },
   "active": "d79ecf4c640e4ef5",
   "lastOpenFiles": [
-    "클리앙과 같은 커뮤니티 만드는 법.md",
+    "conflict-files-obsidian-git.md",
     "원칙주의자인 나.md",
+    "현생인류가 사라지고.md",
+    "타인은 나를 비추는 거울.md",
+    "읽을거리.md",
+    "아이디어.md",
+    "사주명리.md",
+    "뻘 생각.md",
+    "블록코딩 앱.md",
+    "나의 효능감.md",
+    "README.md",
+    "클리앙과 같은 커뮤니티 만드는 법.md",
     "블록코딩 앱의 기획.md",
     "스크롤 바 자리 차지하지 않게 하기.md",
     "보수와 진보는 뇌의 두께가 다르더라.md",
@@ -263,16 +260,6 @@
     "스프레드시트 상대적 시간 수식.md",
     "정규식 문법 정리.md",
     "헤어질 결심(2022).md",
-    "Pasted image 20230209182313.png.md",
-    "Untitled mindmap.md",
-    "어포던스.md",
-    "신금일주 정리.md",
-    "대운-세운 관계.md",
-    "진보는 외부 자극에, 보수는 공포에 민감.md",
-    "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
-    "conflict-files-obsidian-git.md",
-    "프로덕트 기획에 ChatGPT 사용하기.md",
-    "무제 파일.canvas",
-    "2023-06-13.md"
+    "무제 파일.canvas"
   ]
 }

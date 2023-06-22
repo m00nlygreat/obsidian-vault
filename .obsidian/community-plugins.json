@@ -1,6 +1,9 @@
 [
   "obsidian-git",
+  "obsidian-outliner",
+  "obsidian-zoom",
   "obsidian-mind-map",
+  "obsidian-advanced-slides",
   "table-editor-obsidian",
-  "obsidian-advanced-slides"
+  "obsidian-quickshare"
 ]
