@@ -211,9 +211,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "a6e67f43f40f9e3d",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -231,7 +239,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d79ecf4c640e4ef5",
+  "active": "a6e67f43f40f9e3d",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "원칙주의자인 나.md",
