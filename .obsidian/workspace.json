@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5216e146ca1fc61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로덕트 기획에 ChatGPT 사용하기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "원칙주의자인 나.md",
+                "file": "프로덕트 기획에 ChatGPT 사용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "원칙주의자인 나.md",
+                "file": "프로덕트 기획에 ChatGPT 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "원칙주의자인 나.md"
+                "file": "프로덕트 기획에 ChatGPT 사용하기.md"
               }
             }
           },
@@ -239,12 +252,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d79ecf4c640e4ef5",
+  "active": "f5216e146ca1fc61",
   "lastOpenFiles": [
+    "현생인류가 사라지고.md",
+    "히로스에 료코 불륜으로 본 일본의 성문화.md",
+    "원칙주의자인 나.md",
     "마인크래프트 성장형 RPG 시스템.md",
     "conflict-files-obsidian-git.md",
-    "원칙주의자인 나.md",
-    "현생인류가 사라지고.md",
     "타인은 나를 비추는 거울.md",
     "읽을거리.md",
     "아이디어.md",
@@ -267,7 +281,6 @@
     "링크 래퍼.md",
     "스프레드시트 상대적 시간 수식.md",
     "정규식 문법 정리.md",
-    "헤어질 결심(2022).md",
     "무제 파일.canvas"
   ]
 }
