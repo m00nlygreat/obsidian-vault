@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로덕트 기획에 ChatGPT 사용하기.md",
+                "file": "스크롤 바 자리 차지하지 않게 하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로덕트 기획에 ChatGPT 사용하기.md",
+                "file": "스크롤 바 자리 차지하지 않게 하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로덕트 기획에 ChatGPT 사용하기.md",
+                "file": "스크롤 바 자리 차지하지 않게 하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로덕트 기획에 ChatGPT 사용하기.md"
+                "file": "스크롤 바 자리 차지하지 않게 하기.md"
               }
             }
           },
@@ -254,8 +254,10 @@
   },
   "active": "f5216e146ca1fc61",
   "lastOpenFiles": [
-    "현생인류가 사라지고.md",
+    "portfolio.png.md",
     "히로스에 료코 불륜으로 본 일본의 성문화.md",
+    "프로덕트 기획에 ChatGPT 사용하기.md",
+    "현생인류가 사라지고.md",
     "원칙주의자인 나.md",
     "마인크래프트 성장형 RPG 시스템.md",
     "conflict-files-obsidian-git.md",
@@ -279,8 +281,6 @@
     "베라모드의 독백.md",
     "버블 스크롤 애니메이션.md",
     "링크 래퍼.md",
-    "스프레드시트 상대적 시간 수식.md",
-    "정규식 문법 정리.md",
     "무제 파일.canvas"
   ]
 }
