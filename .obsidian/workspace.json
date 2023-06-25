@@ -8,98 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50562dff4ddf49c1",
+            "id": "5b3f9fe5c9a4eff1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "마인크래프트 성장형 RPG 시스템.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f701856cb350262",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "스크립트/서버와 클라이언트, DB의 관계.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aadacaeab5e9c808",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "스크립트/서버와 클라이언트, DB의 관계.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e84c131816b385d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8128f4a8bcd35ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "클리앙과 같은 커뮤니티 만드는 법.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d79ecf4c640e4ef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "원칙주의자인 나.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5216e146ca1fc61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "스크롤 바 자리 차지하지 않게 하기.md",
+                "file": "디스코드 스터디 봇.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 346.5
   },
   "right": {
     "id": "347bc8c266adcad6",
@@ -165,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스크롤 바 자리 차지하지 않게 하기.md",
+                "file": "디스코드 스터디 봇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스크롤 바 자리 차지하지 않게 하기.md",
+                "file": "디스코드 스터디 봇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스크롤 바 자리 차지하지 않게 하기.md"
+                "file": "디스코드 스터디 봇.md"
               }
             }
           },
@@ -238,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,14 +174,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f5216e146ca1fc61",
+  "active": "5b3f9fe5c9a4eff1",
   "lastOpenFiles": [
-    "portfolio.png.md",
+    "마인크래프트 성장형 RPG 시스템.md",
+    "디스코드 스터디 봇.md",
+    "스크립트/서버와 클라이언트, DB의 관계.md",
+    "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
+    "클리앙과 같은 커뮤니티 만드는 법.md",
+    "원칙주의자인 나.md",
     "히로스에 료코 불륜으로 본 일본의 성문화.md",
+    "스크롤 바 자리 차지하지 않게 하기.md",
+    "portfolio.png.md",
     "프로덕트 기획에 ChatGPT 사용하기.md",
     "현생인류가 사라지고.md",
-    "원칙주의자인 나.md",
-    "마인크래프트 성장형 RPG 시스템.md",
     "conflict-files-obsidian-git.md",
     "타인은 나를 비추는 거울.md",
     "읽을거리.md",
@@ -269,18 +196,13 @@
     "블록코딩 앱.md",
     "나의 효능감.md",
     "README.md",
-    "클리앙과 같은 커뮤니티 만드는 법.md",
     "블록코딩 앱의 기획.md",
-    "스크롤 바 자리 차지하지 않게 하기.md",
     "보수와 진보는 뇌의 두께가 다르더라.md",
-    "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
-    "스크립트/서버와 클라이언트, DB의 관계.md",
     "그 애.md",
     "스크립트",
     "버블의 불편함을 해소하는 팁 3가지.md",
     "베라모드의 독백.md",
     "버블 스크롤 애니메이션.md",
-    "링크 래퍼.md",
     "무제 파일.canvas"
   ]
 }
