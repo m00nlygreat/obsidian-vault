@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디스코드 스터디 봇.md",
+                "file": "m00nlygreat의 경우.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디스코드 스터디 봇.md",
+                "file": "m00nlygreat의 경우.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "디스코드 스터디 봇.md",
+                "file": "m00nlygreat의 경우.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디스코드 스터디 봇.md"
+                "file": "m00nlygreat의 경우.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   },
   "active": "5b3f9fe5c9a4eff1",
   "lastOpenFiles": [
-    "마인크래프트 성장형 RPG 시스템.md",
     "디스코드 스터디 봇.md",
+    "m00nlygreat의 경우.md",
+    "마인크래프트 성장형 RPG 시스템.md",
     "스크립트/서버와 클라이언트, DB의 관계.md",
     "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
     "클리앙과 같은 커뮤니티 만드는 법.md",
@@ -202,7 +203,6 @@
     "스크립트",
     "버블의 불편함을 해소하는 팁 3가지.md",
     "베라모드의 독백.md",
-    "버블 스크롤 애니메이션.md",
     "무제 파일.canvas"
   ]
 }
