@@ -4,23 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "9cd5edf7d5c8e77c",
+        "id": "02aa77b2e6ad957e",
         "type": "tabs",
         "children": [
           {
-            "id": "33a86b5c7c7838db",
+            "id": "47a57fb0c2378ed9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "10cfe737eaa497c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "m00nlygreat의 경우.md",
+                "file": "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "m00nlygreat의 경우.md",
+                "file": "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "m00nlygreat의 경우.md",
+                "file": "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "m00nlygreat의 경우.md"
+                "file": "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md"
               }
             }
           },
@@ -175,10 +184,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "33a86b5c7c7838db",
+  "active": "10cfe737eaa497c3",
   "lastOpenFiles": [
-    "오수영.md",
+    "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
     "m00nlygreat의 경우.md",
+    "오수영.md",
     "디스코드 스터디 봇.md",
     "마인크래프트 성장형 RPG 시스템.md",
     "스크립트/서버와 클라이언트, DB의 관계.md",
@@ -203,7 +213,6 @@
     "보수와 진보는 뇌의 두께가 다르더라.md",
     "그 애.md",
     "스크립트",
-    "버블의 불편함을 해소하는 팁 3가지.md",
     "무제 파일.canvas"
   ]
 }
