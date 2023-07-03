@@ -28,8 +28,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,7 +179,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "10cfe737eaa497c3",
+  "active": "47a57fb0c2378ed9",
   "lastOpenFiles": [
     "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
     "m00nlygreat의 경우.md",
