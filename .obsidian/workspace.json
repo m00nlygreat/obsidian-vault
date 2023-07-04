@@ -26,20 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30c8c178ccff4752",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "진보는 외부 자극에, 보수는 공포에 민감.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "진보는 외부 자극에, 보수는 공포에 민감.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "진보는 외부 자극에, 보수는 공포에 민감.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "진보는 외부 자극에, 보수는 공포에 민감.md"
               }
             }
           },
@@ -185,11 +172,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "30c8c178ccff4752",
+  "active": "7839365aa2f91fad",
   "lastOpenFiles": [
+    "아이디어.md",
+    "스프레드시트 상대적 시간 수식.md",
+    "버블 스크롤 애니메이션.md",
+    "어포던스.md",
+    "정규식 문법 정리.md",
     "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
-    "오수영.md",
     "conflict-files-obsidian-git.md",
+    "오수영.md",
     "히로스에 료코 불륜으로 본 일본의 성문화.md",
     "클리앙과 같은 커뮤니티 만드는 법.md",
     "원칙주의자인 나.md",
@@ -201,7 +193,6 @@
     "현생인류가 사라지고.md",
     "사주명리.md",
     "읽을거리.md",
-    "아이디어.md",
     "뻘 생각.md",
     "링크 래퍼.md",
     "그 애.md",
@@ -209,10 +200,6 @@
     "블록코딩 앱.md",
     "블록코딩 앱의 기획.md",
     "보수와 진보는 뇌의 두께가 다르더라.md",
-    "마인크래프트 성장형 RPG 시스템.md",
-    "대운-세운 관계.md",
-    "신금일주 정리.md",
-    "어포던스.md",
     "gladly-app-icon.png",
     "journal",
     "untitled folder",
