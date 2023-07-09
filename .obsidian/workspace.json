@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3e992fe194cd9794",
+        "id": "02aa77b2e6ad957e",
         "type": "tabs",
         "children": [
           {
-            "id": "ab0d5fe1ac963141",
+            "id": "4aecbbd4943b1ff6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "현생인류가 사라지고.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7839365aa2f91fad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "진보는 외부 자극에, 보수는 공포에 민감.md",
+                "file": "journal/2023-07-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -84,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 346.5
   },
   "right": {
     "id": "347bc8c266adcad6",
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "진보는 외부 자극에, 보수는 공포에 민감.md",
+                "file": "journal/2023-07-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "진보는 외부 자극에, 보수는 공포에 민감.md",
+                "file": "journal/2023-07-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,12 +126,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "진보는 외부 자극에, 보수는 공포에 민감.md"
+                "file": "journal/2023-07-09.md"
               }
             }
           },
           {
-            "id": "e960c8625b08d5fd",
+            "id": "e96fa0cb56961e33",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "914ea0d1337d9b38",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6e67f43f40f9e3d",
             "type": "leaf",
             "state": {
               "type": "QUICKSHARE_SIDE_VIEW",
@@ -153,56 +155,55 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 432.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7839365aa2f91fad",
+  "active": "4aecbbd4943b1ff6",
   "lastOpenFiles": [
-    "아이디어.md",
-    "스프레드시트 상대적 시간 수식.md",
-    "버블 스크롤 애니메이션.md",
-    "어포던스.md",
-    "정규식 문법 정리.md",
+    "이재원.md",
+    "journal/2023-07-09.md",
+    "디스코드봇.md",
+    "journal",
+    "새 폴더",
     "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
-    "conflict-files-obsidian-git.md",
+    "m00nlygreat의 경우.md",
     "오수영.md",
-    "히로스에 료코 불륜으로 본 일본의 성문화.md",
+    "디스코드 스터디 봇.md",
+    "마인크래프트 성장형 RPG 시스템.md",
+    "스크립트/서버와 클라이언트, DB의 관계.md",
+    "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
     "클리앙과 같은 커뮤니티 만드는 법.md",
     "원칙주의자인 나.md",
-    "디스코드 스터디 봇.md",
-    "나의 효능감.md",
+    "히로스에 료코 불륜으로 본 일본의 성문화.md",
+    "스크롤 바 자리 차지하지 않게 하기.md",
     "portfolio.png.md",
-    "m00nlygreat의 경우.md",
-    "Untitled.md",
+    "프로덕트 기획에 ChatGPT 사용하기.md",
     "현생인류가 사라지고.md",
-    "사주명리.md",
-    "읽을거리.md",
-    "뻘 생각.md",
-    "링크 래퍼.md",
-    "그 애.md",
+    "conflict-files-obsidian-git.md",
     "타인은 나를 비추는 거울.md",
+    "읽을거리.md",
+    "아이디어.md",
+    "사주명리.md",
+    "뻘 생각.md",
     "블록코딩 앱.md",
-    "블록코딩 앱의 기획.md",
-    "보수와 진보는 뇌의 두께가 다르더라.md",
-    "gladly-app-icon.png",
-    "journal",
-    "untitled folder",
+    "나의 효능감.md",
+    "README.md",
     "스크립트",
     "무제 파일.canvas"
   ]
