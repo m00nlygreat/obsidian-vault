@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수돌님 230709.md",
+                "file": "대운-세운 관계.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "347bc8c266adcad6",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "수돌님 230709.md",
+                "file": "대운-세운 관계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "수돌님 230709.md",
+                "file": "대운-세운 관계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "수돌님 230709.md"
+                "file": "대운-세운 관계.md"
               }
             }
           },
@@ -156,12 +155,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,10 +173,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4aecbbd4943b1ff6",
+  "active": "add325b5f570d310",
   "lastOpenFiles": [
-    "journal/2023-07-09.md",
     "수돌님 230709.md",
+    "journal/2023-07-09.md",
     "디스코드 스터디 봇.md",
     "링크 래퍼.md",
     "신금일주 정리.md",
