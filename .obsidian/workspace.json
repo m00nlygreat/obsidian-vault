@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2023-07-09.md",
+                "file": "수돌님 230709.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2023-07-09.md",
+                "file": "수돌님 230709.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2023-07-09.md",
+                "file": "수돌님 230709.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2023-07-09.md"
+                "file": "수돌님 230709.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "4aecbbd4943b1ff6",
   "lastOpenFiles": [
+    "journal/2023-07-09.md",
     "수돌님 230709.md",
     "디스코드 스터디 봇.md",
     "링크 래퍼.md",
@@ -187,7 +188,6 @@
     "사주명리.md",
     "블록코딩 앱.md",
     "베라모드의 독백.md",
-    "journal/2023-07-09.md",
     "이재원.md",
     "디스코드봇.md",
     "journal",
