@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "읽을거리.md",
+                "file": "타인은 나를 비추는 거울.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "읽을거리.md",
+            "file": "타인은 나를 비추는 거울.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "읽을거리.md",
+            "file": "타인은 나를 비추는 거울.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "읽을거리.md"
+            "file": "타인은 나를 비추는 거울.md"
           }
         }
       }
@@ -131,8 +131,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e21e2ef5a6076995",
+  "active": "2622e13e25571957",
   "lastOpenFiles": [
+    "히로스에 료코 불륜으로 본 일본의 성문화.md",
+    "원칙주의자인 나.md",
+    "클리앙과 같은 커뮤니티 만드는 법.md",
+    "디스코드 스터디 봇.md",
+    "portfolio.png.md",
+    "읽을거리.md",
     "스프레드시트 상대적 시간 수식.md",
     "타인은 나를 비추는 거울.md",
     "뻘 생각.md",
@@ -153,12 +159,6 @@
     "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
     "버블 스크롤 애니메이션.md",
     "대운-세운 관계.md",
-    "버블의 불편함을 해소하는 팁 3가지.md",
-    "보수와 진보는 뇌의 두께가 다르더라.md",
-    "헤어질 결심(2022).md",
-    "베라모드의 독백.md",
-    "신금일주 정리.md",
-    "Pasted image 20230209182313.png.md",
-    "정규식 문법 정리.md"
+    "버블의 불편함을 해소하는 팁 3가지.md"
   ]
 }
