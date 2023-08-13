@@ -1,6 +1,5 @@
 ![](https://cdn.mos.cms.futurecdn.net/vZr8VQjjgACFcrR7rgjPxX-320-80.jpg)
 
-  
 
 For the last few weeks, Windows Central has been documenting and explaining various tips for [Windows 10](https://www.windowscentral.com/software-apps/windows-10) meant for novices and those new to Windows. Today, we are taking a look at a more advanced tip that some enthusiasts may like. Once again, this is a carry-over from previous iterations of Windows so it is not new, but like ['God Mode'](https://www.windowscentral.com/how-enable-god-mode-windows-10) many people may not know about it or have simply forgotten the feature.
 
