@@ -3,5 +3,5 @@
   "spellcheck": false,
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./attachments"
 }
