@@ -196,7 +196,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1611df4c969d1983",
+  "floating": {
+    "id": "38ad10f2cbe5e37e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5ab6cded0429a014",
+        "type": "window",
+        "children": [
+          {
+            "id": "1e4af98771e1709e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f6051661d9d5445a",
+                "type": "leaf",
+                "state": {
+                  "type": "reveal-preview-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 900,
+        "y": 237,
+        "width": 959,
+        "height": 589,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f6051661d9d5445a",
   "lastOpenFiles": [
     "m00nlygreat의 경우.md",
     "유저, 버블 표현식.md",
