@@ -7,7 +7,7 @@
   "enableMenu": false,
   "enablePointer": true,
   "enableTimeBar": true,
-  "theme": "",
+  "theme": "css/mattropolis.css",
   "highlightTheme": "zenburn",
   "transition": "convex",
   "transitionSpeed": "normal",
