@@ -3,5 +3,6 @@
   "spellcheck": false,
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "tabSize": 2
 }
