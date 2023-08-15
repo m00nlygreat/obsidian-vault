@@ -7,7 +7,7 @@
   "enableMenu": false,
   "enablePointer": true,
   "enableTimeBar": true,
-  "theme": "night",
+  "theme": "",
   "highlightTheme": "zenburn",
   "transition": "convex",
   "transitionSpeed": "normal",

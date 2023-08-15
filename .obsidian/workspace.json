@@ -196,39 +196,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "38ad10f2cbe5e37e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5ab6cded0429a014",
-        "type": "window",
-        "children": [
-          {
-            "id": "1e4af98771e1709e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f6051661d9d5445a",
-                "type": "leaf",
-                "state": {
-                  "type": "reveal-preview-view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 454,
-        "y": 237,
-        "width": 1405,
-        "height": 828,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "1611df4c969d1983",
   "lastOpenFiles": [
     "m00nlygreat의 경우.md",
