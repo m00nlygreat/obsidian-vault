@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "02aa77b2e6ad957e",
+        "id": "45c7c4653d0c07fd",
         "type": "tabs",
         "children": [
           {
-            "id": "4aecbbd4943b1ff6",
+            "id": "34509d9d191ba295",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assign specific processor cores for certain apps in Windows 10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assign specific processor cores for certain apps in Windows 10.md",
+                "file": "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assign specific processor cores for certain apps in Windows 10.md",
+                "file": "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assign specific processor cores for certain apps in Windows 10.md"
+                "file": "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md"
               }
             }
           },
@@ -173,36 +168,86 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+  "floating": {
+    "id": "8cba66cec80b491d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0a301bf894455b6b",
+        "type": "window",
+        "children": [
+          {
+            "id": "c126eb37084f26d0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4aecbbd4943b1ff6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 664,
+        "y": 193,
+        "width": 1028,
+        "height": 831,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "4aecbbd4943b1ff6",
   "lastOpenFiles": [
+    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/FrKbwC5WwFTKavaexzhgcL.png",
+    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/mXbhDTpHEe5yuD85ykzihb.png",
+    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/VJbXDW8dHFvFrGehm8ieAh.png",
+    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/mvuL8WJPWx7mCfjNyurV5E.png",
+    "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
+    "수돌님 230709.md",
+    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/vZr8VQjjgACFcrR7rgjPxX-320-80.jpg",
+    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/2f7E8wiSQQYJExgdjCp9yB.png",
+    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central",
+    "attachments",
+    "링크 래퍼.md",
+    "아이디어.md",
+    "사주명리.md",
+    "블록코딩 앱.md",
+    "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
+    "이재원.md",
+    "스크립트/서버와 클라이언트, DB의 관계.md",
+    "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
     "대운-세운 관계.md",
+    "journal/2023-07-09.md",
     "Assign specific processor cores for certain apps in Windows 10.md",
-    "rapture_20230813160546.png",
+    "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/zCeE2vNXGonRzaavmN2y3U.png",
+    "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/YzPHx5gEPVqWnGxXqjvLcg.png",
+    "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/mXbhDTpHEe5yuD85ykzihb.png",
+    "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/mvuL8WJPWx7mCfjNyurV5E.png",
+    "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central",
     "정규식 문법 정리.md",
     "신금일주 정리.md",
     "portfolio.png.md",
-    "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
-    "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
-    "스크립트/서버와 클라이언트, DB의 관계.md",
     "그 애.md",
     "journal/2023-08-14.md",
-    "수돌님 230709.md",
-    "journal/2023-07-09.md",
     "디스코드 스터디 봇.md",
-    "링크 래퍼.md",
-    "아이디어.md",
     "어포던스.md",
     "스프레드시트 상대적 시간 수식.md",
-    "사주명리.md",
-    "블록코딩 앱.md",
     "베라모드의 독백.md",
-    "이재원.md",
     "디스코드봇.md",
     "journal",
     "새 폴더",
     "m00nlygreat의 경우.md",
     "오수영.md",
-    "마인크래프트 성장형 RPG 시스템.md",
     "스크립트",
     "무제 파일.canvas"
   ]

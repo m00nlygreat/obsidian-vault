@@ -1,5 +1,6 @@
-![](https://cdn.mos.cms.futurecdn.net/vZr8VQjjgACFcrR7rgjPxX-320-80.jpg)
+![](attachments/Pro%20Tip%20Assign%20specific%20processor%20cores%20for%20certain%20apps%20in%20Windows%2010%20%20Windows%20Central/vZr8VQjjgACFcrR7rgjPxX-320-80.jpg)
 
+  
 
 For the last few weeks, Windows Central has been documenting and explaining various tips for [Windows 10](https://www.windowscentral.com/software-apps/windows-10) meant for novices and those new to Windows. Today, we are taking a look at a more advanced tip that some enthusiasts may like. Once again, this is a carry-over from previous iterations of Windows so it is not new, but like ['God Mode'](https://www.windowscentral.com/how-enable-god-mode-windows-10) many people may not know about it or have simply forgotten the feature.
 
@@ -25,31 +26,31 @@ Mind you, Windows, and by extension Windows 10, is actually very good at managin
 
 ## 2\. Right click on the Task Bar and choose Task Manager (or type in Task Manager in the search bar)
 
-![](https://cdn.mos.cms.futurecdn.net/mvuL8WJPWx7mCfjNyurV5E.png)
+![](attachments/Pro%20Tip%20Assign%20specific%20processor%20cores%20for%20certain%20apps%20in%20Windows%2010%20%20Windows%20Central/mvuL8WJPWx7mCfjNyurV5E.png)
 
 ## 3\. Once Task Manager is launched choose More Details near the bottom
 
-![](https://cdn.mos.cms.futurecdn.net/FrKbwC5WwFTKavaexzhgcL.png)
+![](attachments/Pro%20Tip%20Assign%20specific%20processor%20cores%20for%20certain%20apps%20in%20Windows%2010%20%20Windows%20Central/FrKbwC5WwFTKavaexzhgcL.png)
 
 ## 4\. Choose the app (that is already running) that you would like to designate cores for
 
-![](https://cdn.mos.cms.futurecdn.net/VJbXDW8dHFvFrGehm8ieAh.png)
+![](attachments/Pro%20Tip%20Assign%20specific%20processor%20cores%20for%20certain%20apps%20in%20Windows%2010%20%20Windows%20Central/VJbXDW8dHFvFrGehm8ieAh.png)
 
 ## 5\. Right-click on the app and select Go to details
 
-![](https://cdn.mos.cms.futurecdn.net/mXbhDTpHEe5yuD85ykzihb.png)
+![](attachments/Pro%20Tip%20Assign%20specific%20processor%20cores%20for%20certain%20apps%20in%20Windows%2010%20%20Windows%20Central/mXbhDTpHEe5yuD85ykzihb.png)
 
 ## 6\. Under details again right-click on the app and now choose Set Affinity
 
-![](https://cdn.mos.cms.futurecdn.net/zCeE2vNXGonRzaavmN2y3U.png)
+![](attachments/Pro%20Tip%20Assign%20specific%20processor%20cores%20for%20certain%20apps%20in%20Windows%2010%20%20Windows%20Central/zCeE2vNXGonRzaavmN2y3U.png)
 
 ## 7\. In the Processor Affinity windows uncheck the CPU cores but leave the ones you want to set core affinity for
 
-![](https://cdn.mos.cms.futurecdn.net/YzPHx5gEPVqWnGxXqjvLcg.png)
+![](attachments/Pro%20Tip%20Assign%20specific%20processor%20cores%20for%20certain%20apps%20in%20Windows%2010%20%20Windows%20Central/YzPHx5gEPVqWnGxXqjvLcg.png)
 
 ## 8\. Once done, click OK to save the settings
 
-![](https://cdn.mos.cms.futurecdn.net/2f7E8wiSQQYJExgdjCp9yB.png)
+![](attachments/Pro%20Tip%20Assign%20specific%20processor%20cores%20for%20certain%20apps%20in%20Windows%2010%20%20Windows%20Central/2f7E8wiSQQYJExgdjCp9yB.png)
 
 ## 10\. Restarting the computer will revert the changes
 
