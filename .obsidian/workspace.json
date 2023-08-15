@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "유저, 버블 표현식.md",
+                "file": "유저.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "유저, 버블 표현식.md",
+                "file": "유저.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "유저, 버블 표현식.md",
+                "file": "유저.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "유저, 버블 표현식.md"
+                "file": "유저.md"
               }
             }
           },
@@ -198,8 +198,10 @@
   },
   "active": "1611df4c969d1983",
   "lastOpenFiles": [
+    "프로퍼티.md",
+    "버블 튜토리얼.md",
+    "유저.md",
     "m00nlygreat의 경우.md",
-    "유저, 버블 표현식.md",
     "export/유저, 버블 표현식/plugin/chalkboard/img/whiteboard.png",
     "export/유저, 버블 표현식/plugin/chalkboard/img/sponge.png",
     "export/유저, 버블 표현식/plugin/chalkboard/img/chalk-yellow.png",
@@ -225,8 +227,6 @@
     "export/유저, 버블 표현식/plugin/customcontrols/README.md",
     "export/유저, 버블 표현식/plugin/menu/README.md",
     "export/유저, 버블 표현식/plugin/menu/CONTRIBUTING.md",
-    "버블 튜토리얼.md",
-    "프로퍼티.md",
     "타입과 연산.md",
     "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
     "스크립트/서버와 클라이언트, DB의 관계.md",
