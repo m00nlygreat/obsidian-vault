@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "타인은 나를 비추는 거울.md",
+                "file": "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "타인은 나를 비추는 거울.md",
+            "file": "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "타인은 나를 비추는 거울.md",
+            "file": "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "타인은 나를 비추는 거울.md"
+            "file": "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md"
           }
         }
       }
@@ -133,6 +133,14 @@
   },
   "active": "2622e13e25571957",
   "lastOpenFiles": [
+    "타인은 나를 비추는 거울.md",
+    "수돌님 230709.md",
+    "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
+    "오수영.md",
+    "이재원.md",
+    "m00nlygreat의 경우.md",
+    "journal",
+    "journal/2023-07-09.md",
     "히로스에 료코 불륜으로 본 일본의 성문화.md",
     "원칙주의자인 나.md",
     "클리앙과 같은 커뮤니티 만드는 법.md",
@@ -140,7 +148,6 @@
     "portfolio.png.md",
     "읽을거리.md",
     "스프레드시트 상대적 시간 수식.md",
-    "타인은 나를 비추는 거울.md",
     "뻘 생각.md",
     "나의 효능감.md",
     "사주명리.md",
@@ -153,12 +160,6 @@
     "스크롤 바 자리 차지하지 않게 하기.md",
     "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
     "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까?.md",
-    "스크립트/서버와 클라이언트, DB의 관계.md",
-    "마인크래프트 성장형 RPG 시스템.md",
-    "스크립트",
-    "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
-    "버블 스크롤 애니메이션.md",
-    "대운-세운 관계.md",
-    "버블의 불편함을 해소하는 팁 3가지.md"
+    "스크립트"
   ]
 }
