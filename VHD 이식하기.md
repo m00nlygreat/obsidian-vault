@@ -1,5 +1,4 @@
 ## Boot to a virtual hard disk: Add a VHDX or VHD to the boot menu
-
 ## In this article
 
 1.  [Prerequisites](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#prerequisites)
@@ -64,6 +63,7 @@ On the technician PC:
     exit
     ```
     
+
 ## Step 2: Apply a Windows image to the VHD
 
 On your technician PC, apply a generalized Windows image to the primary partition of the VHDX that you created and attached in [Step 1](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#step-1-create-a-vhdx-from-diskpart).
@@ -71,7 +71,6 @@ On your technician PC, apply a generalized Windows image to the primary partitio
 ```
 Dism /Apply-Image /ImageFile:install.wim /index:1 /ApplyDir:V:\
 ```
-
 
 ## Step 3: Detach the VHD, copy it to a new device, and attach it (optional)
 
@@ -94,60 +93,89 @@ You can deploy the VHDX to a device that already has a copy of Windows installed
     copy C:\windows.VHDX n:\VHDs\
     ```
     
+
 ### Clean and prepare a new device for native boot
 
 On your destination PC:
 
- Clean and prepare the destination PC's hard drive. Create a system partition (S), and a main partition (M) where the VHDX will be stored.
+1.  Use your bootable WinPE key to [boot the destination PC to WinPE](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/boot-to-uefi-mode-or-legacy-bios-mode?view=windows-11).
+    
+2.  Clean and prepare the destination PC's hard drive. Create a system partition (S), and a main partition (M) where the VHDX will be stored.
+    
     **UEFI**:
-```
-diskpart
-select disk 0
-clean
-convert gpt
-rem == 1. System partition =========================
-create partition efi size=100
-format quick fs=fat32 label="System"
-assign letter="S"
-rem == 2. Microsoft Reserved (MSR) partition =======
-create partition msr size=128
-rem == 3. Main partition ===========================
-create partition primary 
-format quick fs=ntfs label="Main"
-assign letter="M"
-exit
-```
-  **BIOS**:
-```
-diskpart
-select disk 0
-clean
-rem == 1. System partition ======================
-create partition primary size=100
-format quick fs=ntfs label="System"
-assign letter="S"
-active
-rem == 2. Main partition ========================
-create partition primary
-format quick fs=ntfs label="Main"
-assign letter="M"
-exit
-```
+    
+    ```
+    diskpart
+    select disk 0
+    clean
+    convert gpt
+    rem == 1. System partition =========================
+    create partition efi size=100
+    format quick fs=fat32 label="System"
+    assign letter="S"
+    rem == 2. Microsoft Reserved (MSR) partition =======
+    create partition msr size=128
+    rem == 3. Main partition ===========================
+    create partition primary 
+    format quick fs=ntfs label="Main"
+    assign letter="M"
+    exit
+    ```
+    
+    **BIOS**:
+    
+    ```
+    diskpart
+    select disk 0
+    clean
+    rem == 1. System partition ======================
+    create partition primary size=100
+    format quick fs=ntfs label="System"
+    assign letter="S"
+    active
+    rem == 2. Main partition ========================
+    create partition primary
+    format quick fs=ntfs label="Main"
+    assign letter="M"
+    exit
+    ```
+    
+3.  Connect to the network drive or storage location where you copied the VHDX in [step 3.2](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/_generated_background_page.html#step-3-detach-the-vhd-copy-it-to-a-new-device-and-attach-it-optional).
+    
+    ```
+    net use N: \\server\share
+    ```
+    
+4.  Copy the VHDX from the network drive or storage location to the destination PC's main partition.
+    
+    ```
+    copy N:\VHDs\Windows.vhdx M:
+    ```
+    
+
 ### Attach the VHDX
+
 1.  While still booted into WinPE, attach your VHDX to the destination PC.
+    
     ```
     diskpart
     select vdisk file=M:\windows.vhdx
     attach vdisk
     ```
+    
 2.  Identify the attached VHDX's volume letter. (Optional: Change it to another letter that makes more sense, for example V, and leave the diskpart command line open for the next step).
+    
     ```
     list volume
     select volume 3
     assign letter=v
     ```
+    
+
 ## Step 4: Add a boot entry
+
 1.  From your destination PC, open Diskpart (if necessary) and identify the drive letters of the VHDX and the system partition, for example, V and S.
+    
     ```
     diskpart
     list volume
@@ -261,6 +289,3 @@ Documentation
 -   [BIOS/MBR-based hard drive partitions](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/en-us/windows-hardware/manufacture/desktop/configure-biosmbr-based-hard-drive-partitions?source=recommendations)
     
     BIOS/MBR-based hard drive partitions
-    
-
-### In this article
