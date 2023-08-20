@@ -8,28 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71902a26b0acd3b3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "99d42362c5bee2c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노코드 엔지니어링/노코드 엔지니어링.md",
+                "file": "버블 튜토리얼/유저.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노코드 엔지니어링/노코드 엔지니어링.md",
+                "file": "버블 튜토리얼/유저.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노코드 엔지니어링/노코드 엔지니어링.md",
+                "file": "버블 튜토리얼/유저.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노코드 엔지니어링/노코드 엔지니어링.md"
+                "file": "버블 튜토리얼/유저.md"
               }
             }
           },
