@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
+                "file": "노코드 엔지니어링/노코드 엔지니어링.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
+                "file": "노코드 엔지니어링/노코드 엔지니어링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md"
+                "file": "노코드 엔지니어링/노코드 엔지니어링.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
+                "file": "노코드 엔지니어링/노코드 엔지니어링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +148,7 @@
   },
   "active": "87da4fadd9f52356",
   "lastOpenFiles": [
+    "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
     "히로스에 료코 불륜으로 본 일본의 성문화.md",
     "현생인류가 사라지고.md",
     "프로퍼티.md",
@@ -176,7 +177,6 @@
     "노코드 엔지니어링/노코드 엔지니어링.md",
     "노코드 엔지니어링",
     "나의 효능감.md",
-    "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
     "journal",
     "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/zCeE2vNXGonRzaavmN2y3U.png",
     "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/vZr8VQjjgACFcrR7rgjPxX-320-80.jpg",
