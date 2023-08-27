@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "45c7c4653d0c07fd",
+        "id": "c3d3aa1ffe4d3d67",
         "type": "tabs",
         "children": [
           {
-            "id": "99d42362c5bee2c4",
+            "id": "87da4fadd9f52356",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "버블 튜토리얼/유저.md",
+                "file": "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "347bc8c266adcad6",
@@ -82,29 +81,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7c116f4f85b6793",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "버블 튜토리얼/유저.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "26c325dbdf70b192",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "버블 튜토리얼/유저.md",
+                "file": "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,41 +109,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "버블 튜토리얼/유저.md"
+                "file": "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md"
               }
             }
           },
           {
-            "id": "e96fa0cb56961e33",
+            "id": "1d7ec01d5e58e51a",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "914ea0d1337d9b38",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "a6e67f43f40f9e3d",
-            "type": "leaf",
-            "state": {
-              "type": "QUICKSHARE_SIDE_VIEW",
-              "state": {}
+              "type": "backlink",
+              "state": {
+                "file": "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,59 +143,51 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "marp:Marp: Open Preview": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "99d42362c5bee2c4",
+  "active": "87da4fadd9f52356",
   "lastOpenFiles": [
-    "노코드 엔지니어링/노코드 엔지니어링.md",
-    "노코드 엔지니어링",
-    "VHD 이식하기.md",
-    "유저.md",
-    "m00nlygreat의 경우.md",
-    "버블 튜토리얼.md",
+    "히로스에 료코 불륜으로 본 일본의 성문화.md",
+    "현생인류가 사라지고.md",
     "프로퍼티.md",
-    "export/유저, 버블 표현식/plugin/chalkboard/img/whiteboard.png",
-    "export/유저, 버블 표현식/plugin/chalkboard/img/sponge.png",
-    "export/유저, 버블 표현식/plugin/chalkboard/img/chalk-yellow.png",
-    "export/유저, 버블 표현식/plugin/chalkboard/img/chalk-white.png",
-    "export/유저, 버블 표현식/plugin/chalkboard/img/chalk-red.png",
-    "export/유저, 버블 표현식/plugin/chalkboard/img/chalk-orange.png",
-    "export/유저, 버블 표현식/plugin/chalkboard/img/chalk-purple.png",
-    "export/유저, 버블 표현식/plugin/chalkboard/img/chalk-green.png",
-    "export/유저, 버블 표현식/plugin/chalkboard/img/chalk-blue.png",
-    "export/유저, 버블 표현식/plugin/chalkboard/img/boardmarker-yellow.png",
-    "export/유저, 버블 표현식/plugin/chalkboard/_style.css",
-    "export/유저, 버블 표현식/plugin/chalkboard/plugin.js",
-    "export/유저, 버블 표현식/plugin/chalkboard/style.css",
-    "export/유저, 버블 표현식/plugin/chalkboard/README.md",
-    "export/유저, 버블 표현식/plugin/chalkboard/plugin (copy).js",
-    "export/유저, 버블 표현식/plugin/chalkboard/img",
-    "export/유저, 버블 표현식/plugin/chalkboard",
-    "export/유저, 버블 표현식/plugin/highlight/zenburn.css",
-    "export/유저, 버블 표현식/plugin/highlight/plugin.js",
-    "export/유저, 버블 표현식/plugin/highlight/monokai.css",
-    "export/유저, 버블 표현식/plugin/chart/README.md",
-    "export/유저, 버블 표현식/plugin/customcontrols/README.md",
-    "export/유저, 버블 표현식/plugin/menu/README.md",
-    "export/유저, 버블 표현식/plugin/menu/CONTRIBUTING.md",
     "타입과 연산.md",
+    "타인은 나를 비추는 거울.md",
+    "클리앙과 같은 커뮤니티 만드는 법.md",
+    "읽을거리.md",
+    "이재원.md",
+    "유저.md",
+    "원칙주의자인 나.md",
+    "오수영.md",
+    "아이디어.md",
     "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
     "스크립트/서버와 클라이언트, DB의 관계.md",
+    "스크립트",
     "수돌님 230709.md",
-    "링크 래퍼.md",
-    "대운-세운 관계.md",
-    "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
-    "아이디어.md",
     "사주명리.md",
+    "뻘 생각.md",
     "블록코딩 앱.md",
+    "버블 튜토리얼/프로퍼티.md",
+    "버블 튜토리얼/타입과 연산.md",
+    "버블 튜토리얼/유저.md",
+    "버블 튜토리얼",
+    "버블 튜토리얼.md",
+    "디스코드 스터디 봇.md",
+    "노코드 엔지니어링/노코드 엔지니어링.md",
+    "노코드 엔지니어링",
+    "나의 효능감.md",
     "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
-    "이재원.md",
-    "journal/2023-07-09.md",
-    "Assign specific processor cores for certain apps in Windows 10.md",
-    "정규식 문법 정리.md",
+    "journal",
+    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/zCeE2vNXGonRzaavmN2y3U.png",
+    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/vZr8VQjjgACFcrR7rgjPxX-320-80.jpg",
+    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/mvuL8WJPWx7mCfjNyurV5E.png",
+    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/mXbhDTpHEe5yuD85ykzihb.png",
+    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/YzPHx5gEPVqWnGxXqjvLcg.png",
+    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/VJbXDW8dHFvFrGehm8ieAh.png",
+    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/FrKbwC5WwFTKavaexzhgcL.png",
+    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/2f7E8wiSQQYJExgdjCp9yB.png",
+    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central",
+    "attachments",
     "무제 파일.canvas"
   ]
 }
