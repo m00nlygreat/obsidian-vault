@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "버블 튜토리얼/유저.md",
+                "file": "journal/2023-08-31.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "347bc8c266adcad6",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "버블 튜토리얼/유저.md",
+                "file": "journal/2023-08-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "버블 튜토리얼/유저.md",
+                "file": "journal/2023-08-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "버블 튜토리얼/유저.md"
+                "file": "journal/2023-08-31.md"
               }
             }
           },
@@ -177,6 +176,8 @@
   },
   "active": "99d42362c5bee2c4",
   "lastOpenFiles": [
+    "버블 튜토리얼/유저.md",
+    "journal/2023-08-31.md",
     "노코드 엔지니어링/노코드 엔지니어링.md",
     "노코드 엔지니어링",
     "VHD 이식하기.md",
@@ -221,8 +222,6 @@
     "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
     "이재원.md",
     "journal/2023-07-09.md",
-    "Assign specific processor cores for certain apps in Windows 10.md",
-    "정규식 문법 정리.md",
     "무제 파일.canvas"
   ]
 }
