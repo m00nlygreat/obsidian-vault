@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8월 4주 Recap.md",
+                "file": "9월 1주 Recap 공지.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#스터디",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8월 4주 Recap.md",
+                "file": "9월 1주 Recap 공지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8월 4주 Recap.md",
+                "file": "9월 1주 Recap 공지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8월 4주 Recap.md"
+                "file": "9월 1주 Recap 공지.md"
               }
             }
           },
@@ -174,10 +175,11 @@
       "marp:Marp: Open Preview": false
     }
   },
-  "active": "0ef2b4b022d7ac86",
+  "active": "99d42362c5bee2c4",
   "lastOpenFiles": [
-    "버블 튜토리얼.md",
     "8월 4주 Recap.md",
+    "9월 1주 Recap 공지.md",
+    "버블 튜토리얼.md",
     "journal/2023-09-01.md",
     "프로퍼티.md",
     "유저.md",
@@ -221,7 +223,6 @@
     "아이디어.md",
     "사주명리.md",
     "블록코딩 앱.md",
-    "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
     "무제 파일.canvas"
   ]
 }
