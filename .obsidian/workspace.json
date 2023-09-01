@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6cb62fb6fe7143f3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +174,16 @@
       "marp:Marp: Open Preview": false
     }
   },
-  "active": "6cb62fb6fe7143f3",
+  "active": "99d42362c5bee2c4",
   "lastOpenFiles": [
+    "journal/2023-09-01.md",
+    "프로퍼티.md",
+    "유저.md",
+    "타입과 연산.md",
+    "수돌님 230709.md",
+    "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
     "conflict-files-obsidian-git.md",
     "journal/2023-08-31.md",
-    "프로퍼티.md",
-    "타입과 연산.md",
-    "유저.md",
     "버블 튜토리얼/유저.md",
     "노코드 엔지니어링/노코드 엔지니어링.md",
     "노코드 엔지니어링",
@@ -224,15 +216,12 @@
     "export/유저, 버블 표현식/plugin/menu/CONTRIBUTING.md",
     "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
     "스크립트/서버와 클라이언트, DB의 관계.md",
-    "수돌님 230709.md",
     "링크 래퍼.md",
     "대운-세운 관계.md",
-    "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
     "아이디어.md",
     "사주명리.md",
     "블록코딩 앱.md",
     "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
-    "이재원.md",
     "무제 파일.canvas"
   ]
 }
