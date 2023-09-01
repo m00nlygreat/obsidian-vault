@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2023-08-31.md",
+                "file": "8월 4주 Recap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2023-08-31.md",
+                "file": "8월 4주 Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2023-08-31.md",
+                "file": "8월 4주 Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2023-08-31.md"
+                "file": "8월 4주 Recap.md"
               }
             }
           },
@@ -174,8 +174,10 @@
       "marp:Marp: Open Preview": false
     }
   },
-  "active": "99d42362c5bee2c4",
+  "active": "0ef2b4b022d7ac86",
   "lastOpenFiles": [
+    "버블 튜토리얼.md",
+    "8월 4주 Recap.md",
     "journal/2023-09-01.md",
     "프로퍼티.md",
     "유저.md",
@@ -183,13 +185,11 @@
     "수돌님 230709.md",
     "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
     "conflict-files-obsidian-git.md",
-    "journal/2023-08-31.md",
     "버블 튜토리얼/유저.md",
     "노코드 엔지니어링/노코드 엔지니어링.md",
     "노코드 엔지니어링",
     "VHD 이식하기.md",
     "m00nlygreat의 경우.md",
-    "버블 튜토리얼.md",
     "export/유저, 버블 표현식/plugin/chalkboard/img/whiteboard.png",
     "export/유저, 버블 표현식/plugin/chalkboard/img/sponge.png",
     "export/유저, 버블 표현식/plugin/chalkboard/img/chalk-yellow.png",
