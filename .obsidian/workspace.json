@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "시간이 가속되는 구간에서의 발버둥.md",
+                "file": "9월 1주 Recap 공지.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시간이 가속되는 구간에서의 발버둥.md",
+                "file": "9월 1주 Recap 공지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시간이 가속되는 구간에서의 발버둥.md",
+                "file": "9월 1주 Recap 공지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시간이 가속되는 구간에서의 발버둥.md"
+                "file": "9월 1주 Recap 공지.md"
               }
             }
           },
@@ -177,12 +176,13 @@
   },
   "active": "99d42362c5bee2c4",
   "lastOpenFiles": [
-    "journal/2023-09-02.md",
-    "시간이 가속되는 구간에서의 발버둥.md",
-    "9월 1주 Recap 공지.md",
     "8월 4주 Recap.md",
-    "버블 튜토리얼.md",
+    "9월 1주 Recap 공지.md",
+    "시간이 가속되는 구간.md",
+    "journal/2023-07-09.md",
+    "journal/2023-09-02.md",
     "journal/2023-09-01.md",
+    "버블 튜토리얼.md",
     "프로퍼티.md",
     "유저.md",
     "타입과 연산.md",
@@ -222,7 +222,6 @@
     "스크립트/서버와 클라이언트, DB의 관계.md",
     "링크 래퍼.md",
     "대운-세운 관계.md",
-    "아이디어.md",
     "무제 파일.canvas"
   ]
 }
