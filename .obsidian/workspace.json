@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9월4일 업데이트 공지.md",
+                "file": "노코드 엔지니어링/노코드 엔지니어링.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51d41ea1d4ee770f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "디지텍고 강의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9월4일 업데이트 공지.md",
+                "file": "디지텍고 강의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9월4일 업데이트 공지.md",
+                "file": "디지텍고 강의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9월4일 업데이트 공지.md"
+                "file": "디지텍고 강의.md"
               }
             }
           },
@@ -174,10 +188,13 @@
       "marp:Marp: Open Preview": false
     }
   },
-  "active": "99d42362c5bee2c4",
+  "active": "51d41ea1d4ee770f",
   "lastOpenFiles": [
-    "journal/2023-09-03.md",
+    "노코드 엔지니어링/노코드 엔지니어링.md",
+    "디지텍고 강의.md",
+    "journal/2023-09-04.md",
     "9월4일 업데이트 공지.md",
+    "journal/2023-09-03.md",
     "9월 1주 Recap 공지.md",
     "8월 4주 Recap.md",
     "시간이 가속되는 구간.md",
@@ -192,7 +209,6 @@
     "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
     "conflict-files-obsidian-git.md",
     "버블 튜토리얼/유저.md",
-    "노코드 엔지니어링/노코드 엔지니어링.md",
     "노코드 엔지니어링",
     "VHD 이식하기.md",
     "m00nlygreat의 경우.md",
@@ -220,8 +236,6 @@
     "export/유저, 버블 표현식/plugin/customcontrols/README.md",
     "export/유저, 버블 표현식/plugin/menu/README.md",
     "export/유저, 버블 표현식/plugin/menu/CONTRIBUTING.md",
-    "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
-    "스크립트/서버와 클라이언트, DB의 관계.md",
     "무제 파일.canvas"
   ]
 }
