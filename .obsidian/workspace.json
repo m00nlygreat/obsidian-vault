@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "시간이 가속되는 구간.md",
+                "file": "아무거나자랑-바탕화면 할일정리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시간이 가속되는 구간.md",
+                "file": "아무거나자랑-바탕화면 할일정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시간이 가속되는 구간.md",
+                "file": "아무거나자랑-바탕화면 할일정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시간이 가속되는 구간.md"
+                "file": "아무거나자랑-바탕화면 할일정리.md"
               }
             }
           },
@@ -176,11 +176,12 @@
   },
   "active": "99d42362c5bee2c4",
   "lastOpenFiles": [
+    "journal/2023-09-04.md",
+    "아무거나자랑-바탕화면 할일정리.md",
+    "시간이 가속되는 구간.md",
     "노코드 엔지니어링/디지텍고 강의.md",
     "9월4일 업데이트 공지.md",
     "journal/2023-09-03.md",
-    "journal/2023-09-04.md",
-    "시간이 가속되는 구간.md",
     "노코드 엔지니어링/노코드 엔지니어링.md",
     "9월 1주 Recap 공지.md",
     "8월 4주 Recap.md",
@@ -221,7 +222,6 @@
     "export/유저, 버블 표현식/plugin/chart/README.md",
     "export/유저, 버블 표현식/plugin/customcontrols/README.md",
     "export/유저, 버블 표현식/plugin/menu/README.md",
-    "export/유저, 버블 표현식/plugin/menu/CONTRIBUTING.md",
     "무제 파일.canvas"
   ]
 }
