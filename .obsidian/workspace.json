@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아무거나자랑-바탕화면 할일정리.md",
+                "file": "노코드 엔지니어링/디지텍고 강의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "아무거나자랑-바탕화면 할일정리.md",
+                "file": "노코드 엔지니어링/디지텍고 강의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아무거나자랑-바탕화면 할일정리.md",
+                "file": "노코드 엔지니어링/디지텍고 강의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아무거나자랑-바탕화면 할일정리.md"
+                "file": "노코드 엔지니어링/디지텍고 강의.md"
               }
             }
           },
@@ -176,14 +176,15 @@
   },
   "active": "99d42362c5bee2c4",
   "lastOpenFiles": [
-    "attachments/desktop-todolist.jpg",
+    "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
     "attachments/rapture_20230904144532.png",
-    "시간이 가속되는 구간.md",
-    "아무거나자랑-바탕화면 할일정리.md",
-    "KakaoTalk_20230904_150927114.jpg.md",
-    "journal/2023-09-04.md",
-    "journal/2023-09-02.md",
     "journal/2023-09-03.md",
+    "journal/2023-09-04.md",
+    "아무거나자랑-바탕화면 할일정리.md",
+    "attachments/desktop-todolist.jpg",
+    "시간이 가속되는 구간.md",
+    "KakaoTalk_20230904_150927114.jpg.md",
+    "journal/2023-09-02.md",
     "노코드 엔지니어링/디지텍고 강의.md",
     "노코드 엔지니어링/노코드 엔지니어링.md",
     "attachments/KakaoTalk_20230904_150927114.jpg",
