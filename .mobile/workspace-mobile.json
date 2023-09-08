@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "버블 튜토리얼/타입과 연산.md",
+                "file": "노코드 엔지니어링/디지텍고 강의.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "버블 튜토리얼/타입과 연산.md",
+            "file": "노코드 엔지니어링/디지텍고 강의.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "버블 튜토리얼/타입과 연산.md",
+            "file": "노코드 엔지니어링/디지텍고 강의.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "버블 튜토리얼/타입과 연산.md"
+            "file": "노코드 엔지니어링/디지텍고 강의.md"
           }
         }
       }
@@ -131,8 +131,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e21e2ef5a6076995",
+  "active": "2622e13e25571957",
   "lastOpenFiles": [
+    "버블 튜토리얼/타입과 연산.md",
     "노코드 엔지니어링/디지텍고 강의.md",
     "아무거나자랑-바탕화면 할일정리.md",
     "시간이 가속되는 구간.md",
@@ -149,7 +150,6 @@
     "VHD 이식하기.md",
     "버블 튜토리얼/프로퍼티.md",
     "버블 튜토리얼",
-    "버블 튜토리얼/타입과 연산.md",
     "노코드 엔지니어링",
     "노코드 엔지니어링/노코드 엔지니어링.md",
     "버블 튜토리얼.md",
