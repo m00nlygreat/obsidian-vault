@@ -173,16 +173,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ef2b4b022d7ac86",
+  "active": "99d42362c5bee2c4",
   "lastOpenFiles": [
-    "노코드 엔지니어링/노코드 엔지니어링.md",
-    "아무거나자랑-바탕화면 할일정리.md",
-    "노코드 엔지니어링/attachments/Outside.webp",
-    "스크립트/서버와 클라이언트, DB의 관계.md",
-    "노코드 엔지니어링/디지텍고 강의.md",
-    "노코드 엔지니어링/디지텍고 강의.pptx",
+    "노코드 엔지니어링/~$digi.pptx",
     "노코드 엔지니어링/digi.pptx",
     "노코드 엔지니어링/~$디지텍고 강의.pptx",
+    "노코드 엔지니어링/디지텍고 강의.pptx",
+    "노코드 엔지니어링/노코드 엔지니어링.md",
+    "노코드 엔지니어링/디지텍고 강의.md",
+    "노코드 엔지니어링/attachments/Outside.webp",
+    "노코드 엔지니어링/디지텍고 강의.html",
+    "아무거나자랑-바탕화면 할일정리.md",
+    "스크립트/서버와 클라이언트, DB의 관계.md",
     "노코드 엔지니어링/attachments",
     "Outside.webp.md",
     "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
@@ -219,7 +221,6 @@
     "export/유저, 버블 표현식/plugin/chalkboard/plugin.js",
     "export/유저, 버블 표현식/plugin/chalkboard/style.css",
     "export/유저, 버블 표현식/plugin/chalkboard/plugin (copy).js",
-    "export/유저, 버블 표현식/plugin/chalkboard/img",
     "무제 파일.canvas"
   ]
 }
