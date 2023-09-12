@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노코드 엔지니어링/디지텍고 강의.md",
+                "file": "오늘의 나는 누가 뭐래도 멋있었다..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노코드 엔지니어링/디지텍고 강의.md",
+                "file": "오늘의 나는 누가 뭐래도 멋있었다..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노코드 엔지니어링/디지텍고 강의.md",
+                "file": "오늘의 나는 누가 뭐래도 멋있었다..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노코드 엔지니어링/디지텍고 강의.md"
+                "file": "오늘의 나는 누가 뭐래도 멋있었다..md"
               }
             }
           },
@@ -174,8 +174,10 @@
   },
   "active": "99d42362c5bee2c4",
   "lastOpenFiles": [
-    "journal/2023-09-09.md",
+    "journal/2023-09-12.md",
+    "오늘의 나는 누가 뭐래도 멋있었다..md",
     "노코드 엔지니어링/디지텍고 강의.md",
+    "journal/2023-09-09.md",
     "9월 1주 Recap 공지.md",
     "스크립트/서버와 클라이언트, DB의 관계.md",
     "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
@@ -208,9 +210,7 @@
     "수돌님 230709.md",
     "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
     "conflict-files-obsidian-git.md",
-    "버블 튜토리얼/유저.md",
     "노코드 엔지니어링",
-    "VHD 이식하기.md",
     "export/유저, 버블 표현식/plugin/chalkboard/img/whiteboard.png",
     "export/유저, 버블 표현식/plugin/chalkboard/img/sponge.png",
     "export/유저, 버블 표현식/plugin/chalkboard/img/chalk-yellow.png",
