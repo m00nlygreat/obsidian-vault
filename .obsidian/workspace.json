@@ -24,9 +24,12 @@
             "id": "35b426dcb4459799",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "노코드 엔지니어링/디지텍고 강의.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "버블 튜토리얼/프로퍼티.md",
+                "file": "노코드 엔지니어링/디지텍고 강의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "버블 튜토리얼/프로퍼티.md",
+                "file": "노코드 엔지니어링/디지텍고 강의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "버블 튜토리얼/프로퍼티.md"
+                "file": "노코드 엔지니어링/디지텍고 강의.md"
               }
             }
           },
@@ -174,9 +177,19 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "737244ffd339e3b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "노코드 엔지니어링/디지텍고 강의.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -193,7 +206,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35b426dcb4459799",
+  "active": "737244ffd339e3b3",
   "lastOpenFiles": [
     "버블 튜토리얼/유저.md",
     "버블 튜토리얼/프로퍼티.md",
