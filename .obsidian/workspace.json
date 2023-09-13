@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "오늘의 나는 누가 뭐래도 멋있었다..md",
+                "file": "버블 튜토리얼/프로퍼티.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "35b426dcb4459799",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "오늘의 나는 누가 뭐래도 멋있었다..md",
+                "file": "버블 튜토리얼/프로퍼티.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "오늘의 나는 누가 뭐래도 멋있었다..md",
+                "file": "버블 튜토리얼/프로퍼티.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "오늘의 나는 누가 뭐래도 멋있었다..md"
+                "file": "버블 튜토리얼/프로퍼티.md"
               }
             }
           },
@@ -153,6 +164,16 @@
               "type": "QUICKSHARE_SIDE_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "35ba0385c28bbbca",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -172,10 +193,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99d42362c5bee2c4",
+  "active": "35b426dcb4459799",
   "lastOpenFiles": [
-    "journal/2023-09-10.md",
+    "버블 튜토리얼/유저.md",
+    "버블 튜토리얼/프로퍼티.md",
     "오늘의 나는 누가 뭐래도 멋있었다..md",
+    "journal/2023-09-10.md",
     "노코드 엔지니어링/디지텍고 강의.md",
     "journal/2023-09-09.md",
     "9월 1주 Recap 공지.md",
@@ -208,8 +231,6 @@
     "유저.md",
     "타입과 연산.md",
     "수돌님 230709.md",
-    "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
-    "conflict-files-obsidian-git.md",
     "노코드 엔지니어링",
     "export/유저, 버블 표현식/plugin/chalkboard/img/whiteboard.png",
     "export/유저, 버블 표현식/plugin/chalkboard/img/sponge.png",
