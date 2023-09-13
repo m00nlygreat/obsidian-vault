@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노코드 엔지니어링/디지텍고 강의.md",
-                "mode": "source",
+                "file": "HTTP의 Stateless, 비연결성.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노코드 엔지니어링/디지텍고 강의.md",
+                "file": "HTTP의 Stateless, 비연결성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노코드 엔지니어링/디지텍고 강의.md",
+                "file": "HTTP의 Stateless, 비연결성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노코드 엔지니어링/디지텍고 강의.md"
+                "file": "HTTP의 Stateless, 비연결성.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "노코드 엔지니어링/디지텍고 강의.md"
+                "file": "HTTP의 Stateless, 비연결성.md"
               }
             }
           }
@@ -222,8 +222,22 @@
   },
   "active": "01ce7b0fa73a8bc7",
   "lastOpenFiles": [
-    "오늘의 나는 누가 뭐래도 멋있었다..md",
+    "attachments/desktop-todolist.jpg",
+    "attachments/HTTP의 Stateless, 비연결성/img.png",
+    "attachments/HTTP의 Stateless, 비연결성/img.9.png",
+    "attachments/HTTP의 Stateless, 비연결성/img.8.png",
+    "attachments/HTTP의 Stateless, 비연결성/img.7.png",
+    "attachments/HTTP의 Stateless, 비연결성/img.6.png",
+    "attachments/HTTP의 Stateless, 비연결성/img.5.png",
+    "attachments/HTTP의 Stateless, 비연결성/img.4.png",
+    "attachments/HTTP의 Stateless, 비연결성/img.3.png",
+    "attachments/HTTP의 Stateless, 비연결성/img.2.png",
+    "attachments/HTTP의 Stateless, 비연결성/img.18.png",
+    "attachments/HTTP의 Stateless, 비연결성",
+    "HTTP의 Stateless, 비연결성.md",
     "노코드 엔지니어링/디지텍고 강의.md",
+    "attachments/Untitled",
+    "오늘의 나는 누가 뭐래도 멋있었다..md",
     "journal/2023-09-10.md",
     "신금일주 정리.md",
     "사주명리.md",
@@ -238,36 +252,22 @@
     "노코드 엔지니어링/digi.pptx",
     "노코드 엔지니어링/~$디지텍고 강의.pptx",
     "노코드 엔지니어링/노코드 엔지니어링.md",
-    "노코드 엔지니어링/attachments/Outside.webp",
     "노코드 엔지니어링/디지텍고 강의.html",
     "아무거나자랑-바탕화면 할일정리.md",
     "노코드 엔지니어링/attachments",
     "Outside.webp.md",
-    "attachments/rapture_20230904144532.png",
     "journal/2023-09-03.md",
     "journal/2023-09-04.md",
-    "attachments/desktop-todolist.jpg",
     "시간이 가속되는 구간.md",
     "KakaoTalk_20230904_150927114.jpg.md",
     "journal/2023-09-02.md",
-    "attachments/KakaoTalk_20230904_150927114.jpg",
     "9월4일 업데이트 공지.md",
     "8월 4주 Recap.md",
     "journal/2023-07-09.md",
     "journal/2023-09-01.md",
     "버블 튜토리얼.md",
-    "프로퍼티.md",
-    "유저.md",
     "노코드 엔지니어링",
-    "export/유저, 버블 표현식/plugin/chalkboard/img/whiteboard.png",
-    "export/유저, 버블 표현식/plugin/chalkboard/img/sponge.png",
-    "export/유저, 버블 표현식/plugin/chalkboard/img/chalk-yellow.png",
-    "export/유저, 버블 표현식/plugin/chalkboard/img/chalk-white.png",
-    "export/유저, 버블 표현식/plugin/chalkboard/img/chalk-red.png",
-    "export/유저, 버블 표현식/plugin/chalkboard/img/chalk-orange.png",
     "export/유저, 버블 표현식/plugin/chalkboard/_style.css",
-    "export/유저, 버블 표현식/plugin/chalkboard/plugin.js",
-    "export/유저, 버블 표현식/plugin/chalkboard/style.css",
     "무제 파일.canvas"
   ]
 }
