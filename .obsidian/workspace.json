@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP의 Stateless, 비연결성.md",
-                "mode": "preview",
+                "file": "노코드 엔지니어링/디지텍고 강의.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTP의 Stateless, 비연결성.md",
+                "file": "노코드 엔지니어링/디지텍고 강의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTTP의 Stateless, 비연결성.md",
+                "file": "노코드 엔지니어링/디지텍고 강의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTP의 Stateless, 비연결성.md"
+                "file": "노코드 엔지니어링/디지텍고 강의.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "HTTP의 Stateless, 비연결성.md"
+                "file": "노코드 엔지니어링/디지텍고 강의.md"
               }
             }
           }
@@ -222,6 +222,8 @@
   },
   "active": "01ce7b0fa73a8bc7",
   "lastOpenFiles": [
+    "노코드 엔지니어링/노코드 엔지니어링.md",
+    "HTTP의 Stateless, 비연결성.md",
     "attachments/desktop-todolist.jpg",
     "attachments/HTTP의 Stateless, 비연결성/img.png",
     "attachments/HTTP의 Stateless, 비연결성/img.9.png",
@@ -232,9 +234,7 @@
     "attachments/HTTP의 Stateless, 비연결성/img.4.png",
     "attachments/HTTP의 Stateless, 비연결성/img.3.png",
     "attachments/HTTP의 Stateless, 비연결성/img.2.png",
-    "attachments/HTTP의 Stateless, 비연결성/img.18.png",
     "attachments/HTTP의 Stateless, 비연결성",
-    "HTTP의 Stateless, 비연결성.md",
     "노코드 엔지니어링/디지텍고 강의.md",
     "attachments/Untitled",
     "오늘의 나는 누가 뭐래도 멋있었다..md",
@@ -251,7 +251,6 @@
     "노코드 엔지니어링/~$digi.pptx",
     "노코드 엔지니어링/digi.pptx",
     "노코드 엔지니어링/~$디지텍고 강의.pptx",
-    "노코드 엔지니어링/노코드 엔지니어링.md",
     "노코드 엔지니어링/디지텍고 강의.html",
     "아무거나자랑-바탕화면 할일정리.md",
     "노코드 엔지니어링/attachments",
