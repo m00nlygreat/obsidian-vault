@@ -50,9 +50,12 @@
             "id": "68d7ed555dfccaa3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "journal/2023-09-17.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -123,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
+                "file": "journal/2023-09-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
+                "file": "journal/2023-09-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md"
+                "file": "journal/2023-09-17.md"
               }
             }
           },
@@ -207,7 +210,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md"
+                "file": "journal/2023-09-17.md"
               }
             }
           }
@@ -232,6 +235,7 @@
   },
   "active": "68d7ed555dfccaa3",
   "lastOpenFiles": [
+    "journal/2023-09-17.md",
     "노코드 엔지니어링/디지텍고 강의.md",
     "오늘의 나는 누가 뭐래도 멋있었다.md",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
@@ -275,7 +279,6 @@
     "8월 4주 Recap.md",
     "journal/2023-07-09.md",
     "journal/2023-09-01.md",
-    "버블 튜토리얼.md",
     "노코드 엔지니어링",
     "export/유저, 버블 표현식/plugin/chalkboard/_style.css",
     "무제 파일.canvas"
