@@ -45,9 +45,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "68d7ed555dfccaa3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,7 +230,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c9c0072bfce1b10a",
+  "active": "68d7ed555dfccaa3",
   "lastOpenFiles": [
     "노코드 엔지니어링/디지텍고 강의.md",
     "오늘의 나는 누가 뭐래도 멋있었다.md",
