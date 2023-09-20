@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노코드 엔지니어링/디지텍고 강의.md",
+                "file": "타인은 나를 비추는 거울.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노코드 엔지니어링/디지텍고 강의.md",
+                "file": "타인은 나를 비추는 거울.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노코드 엔지니어링/디지텍고 강의.md"
+                "file": "타인은 나를 비추는 거울.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노코드 엔지니어링/디지텍고 강의.md",
+                "file": "타인은 나를 비추는 거울.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,12 +182,17 @@
   },
   "active": "0d3e6cb03e2be1d8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "클리앙과 같은 커뮤니티 만드는 법.md",
+    "어포던스.md",
+    "아무거나자랑-바탕화면 할일정리.md",
+    "신금일주 정리.md",
+    "시간이 가속되는 구간.md",
+    "HTTP의 Stateless, 비연결성.md",
+    "9월 1주 Recap 공지.md",
     "노코드 엔지니어링/디지텍고 강의.md",
+    "conflict-files-obsidian-git.md",
     "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
     "오늘의 나는 누가 뭐래도 멋있었다.md",
-    "아무거나자랑-바탕화면 할일정리.md",
-    "시간이 가속되는 구간.md",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
     "노코드 엔지니어링/attachments/컴퓨터_프로그래밍_언어.jpg",
     "노코드 엔지니어링/attachments/bubble-editor.png",
@@ -206,9 +211,7 @@
     "attachments/HTTP의 Stateless, 비연결성/img.7.png",
     "attachments/HTTP의 Stateless, 비연결성/img.6.png",
     "attachments/HTTP의 Stateless, 비연결성",
-    "HTTP의 Stateless, 비연결성.md",
     "9월4일 업데이트 공지.md",
-    "9월 1주 Recap 공지.md",
     "8월 4주 Recap.md",
     "노코드 엔지니어링/노코드 엔지니어링.md",
     "journal/2023-08-31.md",
@@ -217,9 +220,6 @@
     "히로스에 료코 불륜으로 본 일본의 성문화.md",
     "현생인류가 사라지고.md",
     "프로퍼티.md",
-    "타입과 연산.md",
-    "타인은 나를 비추는 거울.md",
-    "클리앙과 같은 커뮤니티 만드는 법.md",
     "스크립트",
     "버블 튜토리얼",
     "노코드 엔지니어링",
