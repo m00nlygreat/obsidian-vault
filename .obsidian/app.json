@@ -4,5 +4,8 @@
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
   "attachmentFolderPath": "./attachments",
-  "tabSize": 2
+  "tabSize": 2,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "livePreview": false
 }

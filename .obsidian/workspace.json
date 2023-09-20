@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "64f719447830e6d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d3e6cb03e2be1d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -119,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +164,16 @@
               "type": "QUICKSHARE_SIDE_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "4726ab15cd8907af",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -148,7 +185,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "marp:Marp: Open Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -157,8 +193,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87da4fadd9f52356",
+  "active": "0d3e6cb03e2be1d8",
   "lastOpenFiles": [
+    "노코드 엔지니어링/디지텍고 강의.md",
+    "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
+    "conflict-files-obsidian-git.md",
+    "오늘의 나는 누가 뭐래도 멋있었다.md",
+    "아무거나자랑-바탕화면 할일정리.md",
+    "시간이 가속되는 구간.md",
+    "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
+    "노코드 엔지니어링/attachments/컴퓨터_프로그래밍_언어.jpg",
+    "노코드 엔지니어링/attachments/bubble-editor.png",
+    "노코드 엔지니어링/attachments/Outside.webp",
+    "노코드 엔지니어링/attachments",
+    "journal/2023-09-17.md",
+    "journal/2023-09-10.md",
+    "journal/2023-09-04.md",
+    "journal/2023-09-03.md",
+    "journal/2023-09-02.md",
+    "attachments/rapture_20230904144532.png",
+    "attachments/desktop-todolist.jpg",
+    "attachments/HTTP의 Stateless, 비연결성/img.png",
+    "attachments/HTTP의 Stateless, 비연결성/img.9.png",
+    "attachments/HTTP의 Stateless, 비연결성/img.8.png",
+    "attachments/HTTP의 Stateless, 비연결성/img.7.png",
+    "attachments/HTTP의 Stateless, 비연결성/img.6.png",
+    "attachments/HTTP의 Stateless, 비연결성",
+    "HTTP의 Stateless, 비연결성.md",
+    "9월4일 업데이트 공지.md",
+    "9월 1주 Recap 공지.md",
+    "8월 4주 Recap.md",
     "노코드 엔지니어링/노코드 엔지니어링.md",
     "journal/2023-08-31.md",
     "마인크래프트 성장형 RPG 시스템.md",
@@ -169,34 +233,10 @@
     "타입과 연산.md",
     "타인은 나를 비추는 거울.md",
     "클리앙과 같은 커뮤니티 만드는 법.md",
-    "읽을거리.md",
-    "이재원.md",
-    "유저.md",
-    "원칙주의자인 나.md",
-    "오수영.md",
-    "아이디어.md",
-    "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
-    "스크립트/서버와 클라이언트, DB의 관계.md",
     "스크립트",
-    "수돌님 230709.md",
-    "사주명리.md",
-    "뻘 생각.md",
-    "블록코딩 앱.md",
-    "버블 튜토리얼/프로퍼티.md",
-    "버블 튜토리얼/타입과 연산.md",
-    "버블 튜토리얼/유저.md",
     "버블 튜토리얼",
-    "버블 튜토리얼.md",
     "노코드 엔지니어링",
     "journal",
-    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/zCeE2vNXGonRzaavmN2y3U.png",
-    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/vZr8VQjjgACFcrR7rgjPxX-320-80.jpg",
-    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/mvuL8WJPWx7mCfjNyurV5E.png",
-    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/mXbhDTpHEe5yuD85ykzihb.png",
-    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/YzPHx5gEPVqWnGxXqjvLcg.png",
-    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/VJbXDW8dHFvFrGehm8ieAh.png",
-    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/FrKbwC5WwFTKavaexzhgcL.png",
-    "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central/2f7E8wiSQQYJExgdjCp9yB.png",
     "attachments/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central",
     "attachments",
     "무제 파일.canvas"
