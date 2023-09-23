@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
+                "file": "9월4일 업데이트 공지.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "0d3e6cb03e2be1d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "타인은 나를 비추는 거울.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "타인은 나를 비추는 거울.md",
+                "file": "9월4일 업데이트 공지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "타인은 나를 비추는 거울.md"
+                "file": "9월4일 업데이트 공지.md"
               }
             }
           },
@@ -133,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "타인은 나를 비추는 거울.md",
+                "file": "9월4일 업데이트 공지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,18 +166,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d3e6cb03e2be1d8",
+  "active": "87da4fadd9f52356",
   "lastOpenFiles": [
+    "9월 1주 Recap 공지.md",
+    "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
+    "타인은 나를 비추는 거울.md",
     "클리앙과 같은 커뮤니티 만드는 법.md",
     "어포던스.md",
     "아무거나자랑-바탕화면 할일정리.md",
     "신금일주 정리.md",
     "시간이 가속되는 구간.md",
     "HTTP의 Stateless, 비연결성.md",
-    "9월 1주 Recap 공지.md",
     "노코드 엔지니어링/디지텍고 강의.md",
     "conflict-files-obsidian-git.md",
-    "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
     "오늘의 나는 누가 뭐래도 멋있었다.md",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
     "노코드 엔지니어링/attachments/컴퓨터_프로그래밍_언어.jpg",
@@ -219,7 +206,6 @@
     "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
     "히로스에 료코 불륜으로 본 일본의 성문화.md",
     "현생인류가 사라지고.md",
-    "프로퍼티.md",
     "스크립트",
     "버블 튜토리얼",
     "노코드 엔지니어링",
