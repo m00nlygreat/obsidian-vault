@@ -16,8 +16,19 @@
                 "file": "attachments/HTTP의 Stateless, 비연결성/img.2.png"
               }
             }
+          },
+          {
+            "id": "bbdf0ba83212741e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +174,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d23d897f3d45a278",
+  "active": "bbdf0ba83212741e",
   "lastOpenFiles": [
     "attachments/HTTP의 Stateless, 비연결성/img.png",
     "히로스에 료코 불륜으로 본 일본의 성문화.md",
