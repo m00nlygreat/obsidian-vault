@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "347bc8c266adcad6",
@@ -190,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8040ddac63785e51",
+  "active": "0ef2b4b022d7ac86",
   "lastOpenFiles": [
     "노코드 엔지니어링/디지텍고 강의.md",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
