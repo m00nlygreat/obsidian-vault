@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9월 1주 Recap 공지.md",
+                "file": "노코드 엔지니어링/디지텍고 강의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9월 1주 Recap 공지.md",
+                "file": "노코드 엔지니어링/디지텍고 강의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9월 1주 Recap 공지.md"
+                "file": "노코드 엔지니어링/디지텍고 강의.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9월 1주 Recap 공지.md",
+                "file": "노코드 엔지니어링/디지텍고 강의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,14 +191,14 @@
   },
   "active": "8040ddac63785e51",
   "lastOpenFiles": [
-    "8월 4주 Recap.md",
+    "노코드 엔지니어링/노코드 엔지니어링.md",
+    "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
+    "노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
     "9월 1주 Recap 공지.md",
+    "8월 4주 Recap.md",
     "9월4일 업데이트 공지.md",
     "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
-    "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
     "노코드 엔지니어링/디지텍고 강의.md",
-    "노코드 엔지니어링/노코드 엔지니어링.md",
-    "노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
     "attachments/HTTP의 Stateless, 비연결성/img.2.png",
     "attachments/HTTP의 Stateless, 비연결성/img.png",
     "히로스에 료코 불륜으로 본 일본의 성문화.md",
