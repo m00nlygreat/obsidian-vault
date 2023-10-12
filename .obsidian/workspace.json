@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노코드 엔지니어링/노코드 개론.md",
-                "mode": "preview",
+                "file": "노코드 엔지니어링/피그마로 UI 디자인하기.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노코드 엔지니어링/노코드 개론.md",
+                "file": "노코드 엔지니어링/피그마로 UI 디자인하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노코드 엔지니어링/노코드 개론.md"
+                "file": "노코드 엔지니어링/피그마로 UI 디자인하기.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노코드 엔지니어링/노코드 개론.md",
+                "file": "노코드 엔지니어링/피그마로 UI 디자인하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +183,8 @@
   },
   "active": "65bf4ae83a7f4923",
   "lastOpenFiles": [
+    "노코드 엔지니어링/attachments/컴퓨터_프로그래밍_언어.jpg",
+    "노코드 엔지니어링/노코드 개론.md",
     "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "노코드 엔지니어링/피그마로 UI 디자인하기.md",
     "타입과 연산.md",
@@ -198,7 +200,6 @@
     "신금일주 정리.md",
     "스크롤 바 자리 차지하지 않게 하기.md",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
-    "노코드 엔지니어링/노코드 개론.md",
     "마인크래프트 성장형 RPG 시스템.md",
     "대운-세운 관계.md",
     "그 애.md",
@@ -214,10 +215,8 @@
     "노코드 엔지니어링/nocode.pptx",
     "노코드 엔지니어링/nocode.html",
     "9월 1주 Recap 공지.md",
-    "9월4일 업데이트 공지.md",
     "attachments/HTTP의 Stateless, 비연결성/img.2.png",
     "attachments/HTTP의 Stateless, 비연결성/img.png",
-    "노코드 엔지니어링/attachments/컴퓨터_프로그래밍_언어.jpg",
     "노코드 엔지니어링/attachments/bubble-editor.png",
     "노코드 엔지니어링/attachments/Outside.webp",
     "노코드 엔지니어링/attachments",
