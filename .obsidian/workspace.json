@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
+                "file": "노코드 엔지니어링/피그마로 UI 디자인하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노코드 엔지니어링/구글 시트로 데이터 관리하기.md"
+                "file": "노코드 엔지니어링/피그마로 UI 디자인하기.md"
               }
             }
           },
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
+                "file": "노코드 엔지니어링/피그마로 UI 디자인하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "814a5a674b2538d3",
+  "active": "65bf4ae83a7f4923",
   "lastOpenFiles": [
     "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "타입과 연산.md",
