@@ -5,7 +5,10 @@
   "baseFontSize": 14,
   "translucency": false,
   "cssTheme": "",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "monospace"
+  ],
   "textFontFamily": "Input",
-  "monospaceFontFamily": "Input"
+  "monospaceFontFamily": "Input",
+  "nativeMenus": false
 }

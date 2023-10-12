@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노코드 엔지니어링/피그마로 UI 디자인하기.md",
-                "mode": "source",
+                "file": "노코드 엔지니어링/노코드 개론.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노코드 엔지니어링/피그마로 UI 디자인하기.md",
+                "file": "노코드 엔지니어링/노코드 개론.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노코드 엔지니어링/피그마로 UI 디자인하기.md"
+                "file": "노코드 엔지니어링/노코드 개론.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노코드 엔지니어링/피그마로 UI 디자인하기.md",
+                "file": "노코드 엔지니어링/노코드 개론.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,6 +184,7 @@
   "active": "65bf4ae83a7f4923",
   "lastOpenFiles": [
     "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
+    "노코드 엔지니어링/피그마로 UI 디자인하기.md",
     "타입과 연산.md",
     "버블 튜토리얼.md",
     "아이디어.md",
@@ -197,7 +198,6 @@
     "신금일주 정리.md",
     "스크롤 바 자리 차지하지 않게 하기.md",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
-    "노코드 엔지니어링/피그마로 UI 디자인하기.md",
     "노코드 엔지니어링/노코드 개론.md",
     "마인크래프트 성장형 RPG 시스템.md",
     "대운-세운 관계.md",
