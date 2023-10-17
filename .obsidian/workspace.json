@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
+                "file": "노코드 엔지니어링/노코드 개론.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
-          },
-          {
-            "id": "65bf4ae83a7f4923",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lenovo Legion Y700 ZUI 14에 구글 플레이 결제 연동하기.  클리앙.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lenovo Legion Y700 ZUI 14에 구글 플레이 결제 연동하기.  클리앙.md",
+                "file": "노코드 엔지니어링/노코드 개론.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lenovo Legion Y700 ZUI 14에 구글 플레이 결제 연동하기.  클리앙.md"
+                "file": "노코드 엔지니어링/노코드 개론.md"
               }
             }
           },
@@ -133,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lenovo Legion Y700 ZUI 14에 구글 플레이 결제 연동하기.  클리앙.md",
+                "file": "노코드 엔지니어링/노코드 개론.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,10 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65bf4ae83a7f4923",
+  "active": "814a5a674b2538d3",
   "lastOpenFiles": [
-    "Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트.md",
+    "노코드 엔지니어링/노코드 엔지니어링.md",
+    "노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
+    "그 애.md",
+    "나의 효능감.md",
+    "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
+    "8월 4주 Recap.md",
+    "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "Lenovo Legion Y700 ZUI 14에 구글 플레이 결제 연동하기.  클리앙.md",
+    "Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트.md",
     "노코드 엔지니어링/피그마로 UI 디자인하기.md",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=790&height=790&face=0_0_790_790,httpsscrap.kakaocdn.netdnBdVLLhyRlBogm87y9RdkpiXBxqI9z1dDgQDF1img.jpgwidth=790&height=790&face=0_0_790_790,http.jpg",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=771&height=771&face=0_0_771_771,httpsscrap.kakaocdn.netdn7CdrPhyQRVMxFdimHxICloXMYBNkQLkQoR1aKimg.jpgwidth=771&height=771&face=0_0_771_771,http.jpg",
@@ -198,7 +191,6 @@
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=500&height=500&face=0_0_500_500,httpsscrap.kakaocdn.netdneCRhDvhyQRJL7ethQYbaB95HzQ9BGtXwrXNvWkimg.jpgwidth=500&height=500&face=0_0_500_500,htt.jpg",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트",
     "노코드 엔지니어링/노코드 개론.md",
-    "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "타입과 연산.md",
     "버블 튜토리얼.md",
     "아이디어.md",
@@ -214,12 +206,6 @@
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
     "마인크래프트 성장형 RPG 시스템.md",
     "대운-세운 관계.md",
-    "그 애.md",
-    "나의 효능감.md",
-    "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
-    "8월 4주 Recap.md",
-    "노코드 엔지니어링/노코드 엔지니어링.md",
-    "노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기.pptx",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기'.pptx",
     "노코드 엔지니어링/notion.pptx",
