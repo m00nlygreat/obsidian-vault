@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노코드 엔지니어링/노코드 개론.md",
+                "file": "스프레드시트 상대적 시간 수식.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노코드 엔지니어링/노코드 개론.md",
+                "file": "스프레드시트 상대적 시간 수식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노코드 엔지니어링/노코드 개론.md"
+                "file": "스프레드시트 상대적 시간 수식.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노코드 엔지니어링/노코드 개론.md",
+                "file": "스프레드시트 상대적 시간 수식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +169,7 @@
   },
   "active": "814a5a674b2538d3",
   "lastOpenFiles": [
+    "노코드 엔지니어링/노코드 개론.md",
     "노코드 엔지니어링/노코드 엔지니어링.md",
     "노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
     "그 애.md",
@@ -190,7 +191,6 @@
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=506&height=269&face=0_0_506_269,httpsscrap.kakaocdn.netdnchDtRZhyQRTHVhjzflK5YgGz1D5p8iL0x1StqKimg.pngwidth=506&height=269&face=0_0_506_269,htt.png",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=500&height=500&face=0_0_500_500,httpsscrap.kakaocdn.netdneCRhDvhyQRJL7ethQYbaB95HzQ9BGtXwrXNvWkimg.jpgwidth=500&height=500&face=0_0_500_500,htt.jpg",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트",
-    "노코드 엔지니어링/노코드 개론.md",
     "타입과 연산.md",
     "버블 튜토리얼.md",
     "아이디어.md",
