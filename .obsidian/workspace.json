@@ -19,8 +19,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0bf2df2874f02294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "양손 스와이프 키보드.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "eafdebff5682ad16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "맥시멀리스트.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이디어.md",
+                "file": "양손 스와이프 키보드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어.md"
+                "file": "양손 스와이프 키보드.md"
               }
             }
           },
@@ -119,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "아이디어.md",
+                "file": "양손 스와이프 키보드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,11 +194,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "814a5a674b2538d3",
+  "active": "0bf2df2874f02294",
   "lastOpenFiles": [
+    "아이디어.md",
+    "양손 스와이프 키보드.md",
+    "맥시멀리스트.md",
     "나 살아있소.md",
     "대운-세운 관계.md",
-    "아이디어.md",
     "스프레드시트 상대적 시간 수식.md",
     "노코드 엔지니어링/디지텍고 강의.md",
     "노코드 엔지니어링/노코드 개론.md",
@@ -204,8 +233,6 @@
     "이재원.md",
     "원칙주의자인 나.md",
     "오늘의 나는 누가 뭐래도 멋있었다.md",
-    "아무거나자랑-바탕화면 할일정리.md",
-    "신금일주 정리.md",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기.pptx",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기'.pptx",
     "노코드 엔지니어링/notion.pptx",
