@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9ecceb3c2d410263",
+        "id": "fa5128636afba0f6",
         "type": "tabs",
         "children": [
           {
-            "id": "28d067a224f1d992",
+            "id": "677f6ea0c2a5510a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노코드 엔지니어링/버블.md",
+                "file": "노코드 엔지니어링/피그마로 UI 디자인하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노코드 엔지니어링/버블.md",
+                "file": "노코드 엔지니어링/피그마로 UI 디자인하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노코드 엔지니어링/버블.md"
+                "file": "노코드 엔지니어링/피그마로 UI 디자인하기.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노코드 엔지니어링/버블.md",
+                "file": "노코드 엔지니어링/피그마로 UI 디자인하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,15 +176,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28d067a224f1d992",
+  "active": "677f6ea0c2a5510a",
   "lastOpenFiles": [
+    "노코드 엔지니어링/Untitled.md",
+    "노코드 엔지니어링/피그마로 UI 디자인하기.md",
+    "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
+    "노코드 엔지니어링/~$노코드 개론.pptx",
+    "노코드 엔지니어링/ppt6E.tmp",
+    "노코드 엔지니어링/~$노션으로 랜딩페이지 만들기.pptx",
+    "노코드 엔지니어링/버블.md",
     "노코드 엔지니어링/디지텍고 강의.md",
     "노코드 엔지니어링/노코드 엔지니어링.md",
     "노코드 엔지니어링/노코드 개론.md",
     "노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
-    "노코드 엔지니어링/~$노코드 개론.pptx",
-    "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
-    "노코드 엔지니어링/~$노션으로 랜딩페이지 만들기.pptx",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기.pptx",
     "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "노코드 엔지니어링/노코드 개론.pptx",
@@ -192,7 +196,6 @@
     "아이디어.md",
     "노코드 엔지니어링/~$nocode-intro.pptx",
     "노코드 엔지니어링/nocode-intro.pptx",
-    "노코드 엔지니어링/버블.md",
     "노코드 엔지니어링/attachments/bubble-editor.png",
     "양손 스와이프 키보드.md",
     "나 살아있소.md",
@@ -204,7 +207,6 @@
     "8월 4주 Recap.md",
     "Lenovo Legion Y700 ZUI 14에 구글 플레이 결제 연동하기.  클리앙.md",
     "Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트.md",
-    "노코드 엔지니어링/피그마로 UI 디자인하기.md",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=790&height=790&face=0_0_790_790,httpsscrap.kakaocdn.netdnBdVLLhyRlBogm87y9RdkpiXBxqI9z1dDgQDF1img.jpgwidth=790&height=790&face=0_0_790_790,http.jpg",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=771&height=771&face=0_0_771_771,httpsscrap.kakaocdn.netdn7CdrPhyQRVMxFdimHxICloXMYBNkQLkQoR1aKimg.jpgwidth=771&height=771&face=0_0_771_771,http.jpg",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=771&height=771&face=0_0_771_771,httpsscrap.kakaocdn.jpg",
@@ -222,7 +224,6 @@
     "프로덕트 기획에 ChatGPT 사용하기.md",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기'.pptx",
     "노코드 엔지니어링/notion.pptx",
-    "노코드 엔지니어링/nocode.pptx",
     "무제 파일.canvas"
   ]
 }
