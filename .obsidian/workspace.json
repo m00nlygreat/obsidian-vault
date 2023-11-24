@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
+                "file": "노코드 엔지니어링/버블.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
+                "file": "노코드 엔지니어링/버블.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md"
+                "file": "노코드 엔지니어링/버블.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
+                "file": "노코드 엔지니어링/버블.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,11 +178,15 @@
   },
   "active": "28d067a224f1d992",
   "lastOpenFiles": [
+    "노코드 엔지니어링/디지텍고 강의.md",
+    "노코드 엔지니어링/노코드 엔지니어링.md",
+    "노코드 엔지니어링/노코드 개론.md",
+    "노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
+    "노코드 엔지니어링/~$노코드 개론.pptx",
+    "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
     "노코드 엔지니어링/~$노션으로 랜딩페이지 만들기.pptx",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기.pptx",
     "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
-    "노코드 엔지니어링/노코드 개론.md",
-    "노코드 엔지니어링/~$노코드 개론.pptx",
     "노코드 엔지니어링/노코드 개론.pptx",
     "맥시멀리스트.md",
     "아이디어.md",
@@ -190,13 +194,10 @@
     "노코드 엔지니어링/nocode-intro.pptx",
     "노코드 엔지니어링/버블.md",
     "노코드 엔지니어링/attachments/bubble-editor.png",
-    "노코드 엔지니어링/디지텍고 강의.md",
     "양손 스와이프 키보드.md",
     "나 살아있소.md",
     "대운-세운 관계.md",
     "스프레드시트 상대적 시간 수식.md",
-    "노코드 엔지니어링/노코드 엔지니어링.md",
-    "노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
     "그 애.md",
     "나의 효능감.md",
     "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
@@ -219,11 +220,9 @@
     "블록코딩 앱.md",
     "링크 래퍼.md",
     "프로덕트 기획에 ChatGPT 사용하기.md",
-    "이재원.md",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기'.pptx",
     "노코드 엔지니어링/notion.pptx",
     "노코드 엔지니어링/nocode.pptx",
-    "노코드 엔지니어링/nocode.html",
     "무제 파일.canvas"
   ]
 }
