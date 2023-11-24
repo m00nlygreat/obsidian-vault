@@ -1,14 +1,14 @@
 {
   "accentColor": "#efd36b",
   "theme": "system",
-  "interfaceFontFamily": "Input",
+  "interfaceFontFamily": "Input Mono",
   "baseFontSize": 14,
   "translucency": false,
   "cssTheme": "",
   "enabledCssSnippets": [
     "monospace"
   ],
-  "textFontFamily": "Input",
+  "textFontFamily": "Input Mono",
   "monospaceFontFamily": "Input",
   "nativeMenus": false
 }

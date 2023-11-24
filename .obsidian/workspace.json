@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3798f60f7a71ecf7",
+        "id": "9ecceb3c2d410263",
         "type": "tabs",
         "children": [
           {
-            "id": "0bf2df2874f02294",
+            "id": "28d067a224f1d992",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노코드 엔지니어링/노코드 개론.md",
+                "file": "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "347bc8c266adcad6",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노코드 엔지니어링/노코드 개론.md",
+                "file": "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노코드 엔지니어링/노코드 개론.md"
+                "file": "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md"
               }
             }
           },
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노코드 엔지니어링/노코드 개론.md",
+                "file": "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,9 +148,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "1dc2e97cbc17f5df",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -169,10 +176,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bf2df2874f02294",
+  "active": "28d067a224f1d992",
   "lastOpenFiles": [
-    "노코드 엔지니어링/~$노코드 개론.pptx",
+    "노코드 엔지니어링/~$노션으로 랜딩페이지 만들기.pptx",
+    "노코드 엔지니어링/노션으로 랜딩페이지 만들기.pptx",
+    "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "노코드 엔지니어링/노코드 개론.md",
+    "노코드 엔지니어링/~$노코드 개론.pptx",
     "노코드 엔지니어링/노코드 개론.pptx",
     "맥시멀리스트.md",
     "아이디어.md",
@@ -191,7 +201,6 @@
     "나의 효능감.md",
     "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
     "8월 4주 Recap.md",
-    "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "Lenovo Legion Y700 ZUI 14에 구글 플레이 결제 연동하기.  클리앙.md",
     "Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트.md",
     "노코드 엔지니어링/피그마로 UI 디자인하기.md",
@@ -211,7 +220,6 @@
     "링크 래퍼.md",
     "프로덕트 기획에 ChatGPT 사용하기.md",
     "이재원.md",
-    "노코드 엔지니어링/노션으로 랜딩페이지 만들기.pptx",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기'.pptx",
     "노코드 엔지니어링/notion.pptx",
     "노코드 엔지니어링/nocode.pptx",
