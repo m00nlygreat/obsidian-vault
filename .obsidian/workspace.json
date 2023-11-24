@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "양손 스와이프 키보드.md",
+                "file": "노코드 엔지니어링/디지텍고 강의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "양손 스와이프 키보드.md",
+                "file": "노코드 엔지니어링/디지텍고 강의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "양손 스와이프 키보드.md"
+                "file": "노코드 엔지니어링/디지텍고 강의.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "양손 스와이프 키보드.md",
+                "file": "노코드 엔지니어링/디지텍고 강의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,8 +196,8 @@
   },
   "active": "0bf2df2874f02294",
   "lastOpenFiles": [
-    "아이디어.md",
     "양손 스와이프 키보드.md",
+    "아이디어.md",
     "맥시멀리스트.md",
     "나 살아있소.md",
     "대운-세운 관계.md",
