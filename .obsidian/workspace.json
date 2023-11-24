@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "814a5a674b2538d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "아이디어.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "0bf2df2874f02294",
             "type": "leaf",
             "state": {
@@ -32,35 +19,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "0772340ad1b779cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "노코드 엔지니어링/버블.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "eafdebff5682ad16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "맥시멀리스트.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -208,16 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bf2df2874f02294",
+  "active": "0ef2b4b022d7ac86",
   "lastOpenFiles": [
+    "맥시멀리스트.md",
+    "노코드 엔지니어링/노코드 개론.md",
+    "아이디어.md",
+    "노코드 엔지니어링/~$nocode-intro.pptx",
     "노코드 엔지니어링/nocode-intro.pptx",
     "노코드 엔지니어링/버블.md",
     "노코드 엔지니어링/attachments/bubble-editor.png",
-    "노코드 엔지니어링/노코드 개론.md",
     "노코드 엔지니어링/디지텍고 강의.md",
     "양손 스와이프 키보드.md",
-    "아이디어.md",
-    "맥시멀리스트.md",
     "나 살아있소.md",
     "대운-세운 관계.md",
     "스프레드시트 상대적 시간 수식.md",
@@ -254,8 +216,6 @@
     "노코드 엔지니어링/nocode.pptx",
     "노코드 엔지니어링/nocode.html",
     "노코드 엔지니어링/attachments",
-    "attachments/HTTP의 Stateless, 비연결성",
-    "스크립트",
     "무제 파일.canvas"
   ]
 }
