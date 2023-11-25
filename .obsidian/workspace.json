@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노코드 엔지니어링/프레이머로 블로그 만들기.md",
+                "file": "노코드 엔지니어링/버블.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노코드 엔지니어링/프레이머로 블로그 만들기.md",
+                "file": "노코드 엔지니어링/버블.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노코드 엔지니어링/프레이머로 블로그 만들기.md"
+                "file": "노코드 엔지니어링/버블.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노코드 엔지니어링/프레이머로 블로그 만들기.md",
+                "file": "노코드 엔지니어링/버블.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,10 +178,11 @@
   },
   "active": "4b5d184aa3a9e136",
   "lastOpenFiles": [
-    "나 살아있소.md",
+    "노코드 엔지니어링/노코드 최강자 버블.md",
     "노코드 엔지니어링/프레이머로 블로그 만들기.md",
-    "노코드 엔지니어링/피그마로 UI 디자인하기.md",
     "노코드 엔지니어링/~$프레이머로 블로그 만들기.pptx",
+    "노코드 엔지니어링/피그마로 UI 디자인하기.md",
+    "나 살아있소.md",
     "노코드 엔지니어링/프레이머로 블로그 만들기.pptx",
     "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "노코드 엔지니어링/~$구글 시트로 데이터 관리하기.pptx",
