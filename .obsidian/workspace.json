@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fa5128636afba0f6",
+        "id": "17520c55cb51d121",
         "type": "tabs",
         "children": [
           {
-            "id": "677f6ea0c2a5510a",
+            "id": "4b5d184aa3a9e136",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
+                "file": "노코드 엔지니어링/프레이머로 블로그 만들기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
+                "file": "노코드 엔지니어링/프레이머로 블로그 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노코드 엔지니어링/구글 시트로 데이터 관리하기.md"
+                "file": "노코드 엔지니어링/프레이머로 블로그 만들기.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
+                "file": "노코드 엔지니어링/프레이머로 블로그 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,12 +176,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "677f6ea0c2a5510a",
+  "active": "4b5d184aa3a9e136",
   "lastOpenFiles": [
+    "노코드 엔지니어링/~$프레이머로 블로그 만들기.pptx",
+    "노코드 엔지니어링/프레이머로 블로그 만들기.pptx",
+    "노코드 엔지니어링/프레이머로 블로그 만들기.md",
+    "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "노코드 엔지니어링/~$구글 시트로 데이터 관리하기.pptx",
     "Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트.md",
     "Lenovo Legion Y700 ZUI 14에 구글 플레이 결제 연동하기.  클리앙.md",
-    "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
     "노코드 엔지니어링/구글 시트로 데이터 관리하기.pptx",
     "노코드 엔지니어링/노코드 엔지니어링.md",
@@ -190,7 +193,6 @@
     "노코드 엔지니어링/버블.md",
     "노코드 엔지니어링/~$피그마로 UI 디자인하기.pptx",
     "노코드 엔지니어링/피그마로 UI 디자인하기.pptx",
-    "노코드 엔지니어링/Untitled.md",
     "노코드 엔지니어링/~$노코드 개론.pptx",
     "노코드 엔지니어링/ppt6E.tmp",
     "노코드 엔지니어링/~$노션으로 랜딩페이지 만들기.pptx",
@@ -200,7 +202,6 @@
     "노코드 엔지니어링/노코드 개론.pptx",
     "맥시멀리스트.md",
     "아이디어.md",
-    "노코드 엔지니어링/~$nocode-intro.pptx",
     "노코드 엔지니어링/attachments/bubble-editor.png",
     "양손 스와이프 키보드.md",
     "나 살아있소.md",
