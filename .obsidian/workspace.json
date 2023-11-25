@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노코드 엔지니어링/피그마로 UI 디자인하기.md",
+                "file": "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노코드 엔지니어링/피그마로 UI 디자인하기.md",
+                "file": "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노코드 엔지니어링/피그마로 UI 디자인하기.md"
+                "file": "노코드 엔지니어링/구글 시트로 데이터 관리하기.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노코드 엔지니어링/피그마로 UI 디자인하기.md",
+                "file": "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,8 +179,8 @@
   "active": "677f6ea0c2a5510a",
   "lastOpenFiles": [
     "노코드 엔지니어링/~$피그마로 UI 디자인하기.pptx",
-    "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
     "노코드 엔지니어링/피그마로 UI 디자인하기.md",
+    "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
     "노코드 엔지니어링/피그마로 UI 디자인하기.pptx",
     "노코드 엔지니어링/Untitled.md",
     "노코드 엔지니어링/~$노코드 개론.pptx",
