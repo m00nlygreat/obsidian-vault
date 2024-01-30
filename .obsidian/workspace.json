@@ -31,6 +31,19 @@
             }
           },
           {
+            "id": "4a2ed8b4fdea7468",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UX 이론.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "943d256999acd6be",
             "type": "leaf",
             "state": {
@@ -44,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍을 처음 학습하는 이들에게.md",
+                "file": "UX 이론.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍을 처음 학습하는 이들에게.md"
+                "file": "UX 이론.md"
               }
             }
           },
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍을 처음 학습하는 이들에게.md",
+                "file": "UX 이론.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,8 +215,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2db98726557a4db2",
+  "active": "4a2ed8b4fdea7468",
   "lastOpenFiles": [
+    "UX 이론.md",
     "대운-세운 관계.md",
     "9월4일 업데이트 공지.md",
     "8월 4주 Recap.md",
@@ -240,7 +254,6 @@
     "노코드 엔지니어링/attachments/bubble-editor.png",
     "양손 스와이프 키보드.md",
     "스프레드시트 상대적 시간 수식.md",
-    "그 애.md",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=790&height=790&face=0_0_790_790,httpsscrap.kakaocdn.netdnBdVLLhyRlBogm87y9RdkpiXBxqI9z1dDgQDF1img.jpgwidth=790&height=790&face=0_0_790_790,http.jpg",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=771&height=771&face=0_0_771_771,httpsscrap.kakaocdn.netdn7CdrPhyQRVMxFdimHxICloXMYBNkQLkQoR1aKimg.jpgwidth=771&height=771&face=0_0_771_771,http.jpg",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=771&height=771&face=0_0_771_771,httpsscrap.kakaocdn.jpg",
