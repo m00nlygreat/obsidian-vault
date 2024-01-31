@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UX 이론.md",
+                "file": "강의/UX 이론.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UX 이론.md",
+                "file": "강의/UX 이론.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UX 이론.md"
+                "file": "강의/UX 이론.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UX 이론.md",
+                "file": "강의/UX 이론.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,45 +178,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a2ed8b4fdea7468",
+  "active": "0ef2b4b022d7ac86",
   "lastOpenFiles": [
+    "스크립트/서버와 클라이언트, DB의 관계.md",
+    "강의/UX 이론.md",
+    "강의",
+    "강ㅇ.md",
     "프로그래밍을 처음 학습하는 이들에게.md",
-    "UX 이론.md",
     "대운-세운 관계.md",
     "9월4일 업데이트 공지.md",
     "8월 4주 Recap.md",
     "9월 1주 Recap 공지.md",
-    "노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
+    "강의/노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
     "디스코드 스터디 봇.md",
     "노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "프로그래밍을 처음 학습하는 이들에게  클리앙.md",
     "노코드를 시작하기 전에 알았으면 좋았을 것들.pptx",
     "아이디어.md",
-    "노코드 엔지니어링/프레이머로 블로그 만들기.md",
-    "노코드 엔지니어링/노코드 최강자 버블.md",
+    "강의/노코드 엔지니어링/프레이머로 블로그 만들기.md",
+    "강의/노코드 엔지니어링/노코드 최강자 버블.md",
     "노코드 엔지니어링/~$노코드 최강자 버블.pptx",
     "노코드 엔지니어링/노코드 최강자 버블.pptx",
-    "노코드 엔지니어링/버블.md",
+    "강의/노코드 엔지니어링/버블.md",
     "노코드 엔지니어링/~$프레이머로 블로그 만들기.pptx",
-    "노코드 엔지니어링/피그마로 UI 디자인하기.md",
+    "강의/노코드 엔지니어링/피그마로 UI 디자인하기.md",
     "나 살아있소.md",
     "노코드 엔지니어링/프레이머로 블로그 만들기.pptx",
-    "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
+    "강의/노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "노코드 엔지니어링/~$구글 시트로 데이터 관리하기.pptx",
     "Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트.md",
     "Lenovo Legion Y700 ZUI 14에 구글 플레이 결제 연동하기.  클리앙.md",
-    "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
+    "강의/노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
     "노코드 엔지니어링/구글 시트로 데이터 관리하기.pptx",
-    "노코드 엔지니어링/노코드 엔지니어링.md",
-    "노코드 엔지니어링/노코드 개론.md",
+    "강의/노코드 엔지니어링/노코드 엔지니어링.md",
+    "강의/노코드 엔지니어링/노코드 개론.md",
     "노코드 엔지니어링/~$피그마로 UI 디자인하기.pptx",
     "노코드 엔지니어링/피그마로 UI 디자인하기.pptx",
-    "노코드 엔지니어링/~$노코드 개론.pptx",
-    "노코드 엔지니어링/디지텍고 강의.md",
+    "강의/노코드 엔지니어링/디지텍고 강의.md",
     "맥시멀리스트.md",
-    "노코드 엔지니어링/attachments/bubble-editor.png",
-    "양손 스와이프 키보드.md",
-    "스프레드시트 상대적 시간 수식.md",
+    "강의/노코드 엔지니어링/attachments/bubble-editor.png",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=790&height=790&face=0_0_790_790,httpsscrap.kakaocdn.netdnBdVLLhyRlBogm87y9RdkpiXBxqI9z1dDgQDF1img.jpgwidth=790&height=790&face=0_0_790_790,http.jpg",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=771&height=771&face=0_0_771_771,httpsscrap.kakaocdn.netdn7CdrPhyQRVMxFdimHxICloXMYBNkQLkQoR1aKimg.jpgwidth=771&height=771&face=0_0_771_771,http.jpg",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=771&height=771&face=0_0_771_771,httpsscrap.kakaocdn.jpg",
