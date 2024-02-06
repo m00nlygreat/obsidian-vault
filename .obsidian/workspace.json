@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/프레이머로 블로그 만들기.md",
+                "file": "강의/노코드 엔지니어링/노코드 개론.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/노코드 엔지니어링/프레이머로 블로그 만들기.md",
+                "file": "강의/노코드 엔지니어링/노코드 개론.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노코드 엔지니어링/프레이머로 블로그 만들기.md"
+                "file": "강의/노코드 엔지니어링/노코드 개론.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/노코드 엔지니어링/프레이머로 블로그 만들기.md",
+                "file": "강의/노코드 엔지니어링/노코드 개론.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,8 +178,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a2ed8b4fdea7468",
+  "active": "0ef2b4b022d7ac86",
   "lastOpenFiles": [
+    "강의/노코드 엔지니어링/프레이머로 블로그 만들기.md",
     "강의/노코드 엔지니어링/디지텍고 강의.md",
     "강의/노코드 엔지니어링/노코드 최강자 버블.md",
     "강의/노코드 엔지니어링/노코드 엔지니어링.md",
@@ -198,7 +199,6 @@
     "프로그래밍을 처음 학습하는 이들에게  클리앙.md",
     "노코드를 시작하기 전에 알았으면 좋았을 것들.pptx",
     "아이디어.md",
-    "강의/노코드 엔지니어링/프레이머로 블로그 만들기.md",
     "노코드 엔지니어링/~$노코드 최강자 버블.pptx",
     "노코드 엔지니어링/노코드 최강자 버블.pptx",
     "강의/노코드 엔지니어링/버블.md",
