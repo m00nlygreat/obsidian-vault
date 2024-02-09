@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "aac5eb6ae5f94949",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "f5084d5eff4ec372",
             "type": "leaf",
             "state": {
@@ -101,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "외할머니가 돌아가셨다.md",
+                "file": "모하고 지내.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "외할머니가 돌아가셨다.md"
+                "file": "모하고 지내.md"
               }
             }
           },
@@ -134,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "외할머니가 돌아가셨다.md",
+                "file": "모하고 지내.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,10 +202,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5084d5eff4ec372",
+  "active": "aac5eb6ae5f94949",
   "lastOpenFiles": [
-    "모하고 지내.md",
     "외할머니가 돌아가셨다.md",
+    "모하고 지내.md",
     "강의/UX 이론.md",
     "강의/노코드 엔지니어링/노코드 개론.md",
     "강의/노코드 엔지니어링/프레이머로 블로그 만들기.md",
