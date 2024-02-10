@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/노코드 개론.md",
+                "file": "강의/노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/노코드 엔지니어링/노코드 개론.md",
+                "file": "강의/노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노코드 엔지니어링/노코드 개론.md"
+                "file": "강의/노코드 엔지니어링/노션으로 랜딩페이지 만들기.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/노코드 엔지니어링/노코드 개론.md",
+                "file": "강의/노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +180,7 @@
   },
   "active": "0ef2b4b022d7ac86",
   "lastOpenFiles": [
+    "강의/노코드 엔지니어링/노코드 개론.md",
     "강의/노코드 엔지니어링/_노코드 개론.md",
     "강의/노코드 엔지니어링/노코드 개론.md_",
     "강의/노코드 엔지니어링/~$text.pptx",
@@ -187,7 +188,6 @@
     "강의/노코드 엔지니어링/text.txt",
     "강의/노코드 엔지니어링/새 텍스트 문서.txt",
     "강의/노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
-    "강의/노코드 엔지니어링/노코드 개론.md",
     "강의/노코드 엔지니어링/~$nocode.pptx",
     "강의/노코드 엔지니어링/nocode.pptx",
     "강의/노코드 엔지니어링/노코드 엔지니어링.md",
