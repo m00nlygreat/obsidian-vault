@@ -18,7 +18,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "Spaces/Home",
+  "activeView": "spaces://$tags",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -35,7 +35,8 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "spaces://$tags/spaces://#사주팔자"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

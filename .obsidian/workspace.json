@@ -13,20 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md",
+                "file": "신금일주 정리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "977896de20b654e0",
-            "type": "leaf",
-            "state": {
-              "type": "make-file-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
               }
             }
           },
@@ -120,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md"
+              }
             }
           },
           {
@@ -150,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,11 +201,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "977896de20b654e0",
+  "active": "99d9ad4adef74270",
   "lastOpenFiles": [
+    "신금일주 정리.md",
+    "대운-세운 관계.md",
+    "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md",
     "Spaces/Home",
     "Spaces",
-    "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md",
     "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
     "강의/UX 이론.md",
     "강의/노코드 엔지니어링/피그마로 UI 디자인하기.md",
@@ -236,10 +232,8 @@
     "강의/노코드 엔지니어링/노코드 최강자 버블.md",
     "강의/노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
     "스크립트/서버와 클라이언트, DB의 관계.md",
-    "강의",
     "강ㅇ.md",
     "프로그래밍을 처음 학습하는 이들에게.md",
-    "대운-세운 관계.md",
     "9월4일 업데이트 공지.md",
     "8월 4주 Recap.md",
     "9월 1주 Recap 공지.md",
