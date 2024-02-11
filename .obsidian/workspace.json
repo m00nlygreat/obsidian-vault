@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
+                "file": "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
+                "file": "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md"
+                "file": "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
+                "file": "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,15 +180,15 @@
   },
   "active": "89289d08ea5024ad",
   "lastOpenFiles": [
-    "강의/노코드 엔지니어링/피그마로 UI 디자인하기.md",
     "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
+    "강의/UX 이론.md",
+    "강의/노코드 엔지니어링/피그마로 UI 디자인하기.md",
     "강의/노코드 엔지니어링/버블.md",
     "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md",
     "강의/노코드 엔지니어링/노코드 개론.md",
     "강의/노션/이메일로 가입.md",
     "강의/노코드 엔지니어링/_노션으로 랜딩페이지 만들기.md",
     "강의/노코드 엔지니어링/노션",
-    "강의/UX 이론.md",
     "강의/노코드 엔지니어링/_노코드 개론.md",
     "강의/노코드 엔지니어링/노코드 개론.md_",
     "강의/노코드 엔지니어링/~$text.pptx",
