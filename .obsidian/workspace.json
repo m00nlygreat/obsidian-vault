@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노션 강의 아웃라인.md",
+                "file": "강의/노코드 엔지니어링/노코드 개론.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/노션 강의 아웃라인.md",
+                "file": "강의/노코드 엔지니어링/노코드 개론.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노션 강의 아웃라인.md"
+                "file": "강의/노코드 엔지니어링/노코드 개론.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/노션 강의 아웃라인.md",
+                "file": "강의/노코드 엔지니어링/노코드 개론.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,10 +192,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adf73c0453c9db13",
+  "active": "0ef2b4b022d7ac86",
   "lastOpenFiles": [
-    "강의/노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
     "강의/노션 강의 아웃라인.md",
+    "강의/노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
     "강의/UX 이론.md",
     "강의/노코드 엔지니어링/노코드 개론.md",
     "강의/노코드 엔지니어링/_노션으로 랜딩페이지 만들기.md",
