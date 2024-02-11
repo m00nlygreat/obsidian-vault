@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "977896de20b654e0",
+            "type": "leaf",
+            "state": {
+              "type": "make-file-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              }
+            }
+          },
+          {
             "id": "99d9ad4adef74270",
             "type": "leaf",
             "state": {
@@ -34,6 +44,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -79,8 +90,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "4cc7b8631eb742c7",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -100,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md"
-              }
+              "state": {}
             }
           },
           {
@@ -133,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,10 +207,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89289d08ea5024ad",
+  "active": "977896de20b654e0",
   "lastOpenFiles": [
-    "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
+    "Spaces/Home",
+    "Spaces",
     "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md",
+    "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
     "강의/UX 이론.md",
     "강의/노코드 엔지니어링/피그마로 UI 디자인하기.md",
     "강의/노코드 엔지니어링/버블.md",
@@ -227,8 +245,6 @@
     "9월 1주 Recap 공지.md",
     "디스코드 스터디 봇.md",
     "노코드를 시작하기 전에 알았으면 좋았을 것들.md",
-    "프로그래밍을 처음 학습하는 이들에게  클리앙.md",
-    "노코드를 시작하기 전에 알았으면 좋았을 것들.pptx",
     "강의/노코드 엔지니어링/attachments/bubble-editor.png",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=790&height=790&face=0_0_790_790,httpsscrap.kakaocdn.netdnBdVLLhyRlBogm87y9RdkpiXBxqI9z1dDgQDF1img.jpgwidth=790&height=790&face=0_0_790_790,http.jpg",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=771&height=771&face=0_0_771_771,httpsscrap.kakaocdn.netdn7CdrPhyQRVMxFdimHxICloXMYBNkQLkQoR1aKimg.jpgwidth=771&height=771&face=0_0_771_771,http.jpg",
