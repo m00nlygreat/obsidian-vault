@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "버블 튜토리얼/유저.md",
+                "file": "m00nlygreat의 경우.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "버블 튜토리얼/유저.md",
+                "file": "m00nlygreat의 경우.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "버블 튜토리얼/유저.md"
+                "file": "m00nlygreat의 경우.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "버블 튜토리얼/유저.md",
+                "file": "m00nlygreat의 경우.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,8 +187,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4cc7b8631eb742c7",
+  "active": "03304902e861eb96",
   "lastOpenFiles": [
+    "디스코드 스터디 봇.md",
+    "링크 래퍼.md",
+    "마인크래프트 성장형 RPG 시스템.md",
+    "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
+    "버블 스크롤 애니메이션.md",
+    "버블 튜토리얼/유저.md",
     "버블 튜토리얼/_유저.md",
     "강의/노코드 엔지니어링/노코드 엔지니어링.md",
     "강의/노코드 엔지니어링/버블.md",
@@ -210,13 +216,8 @@
     "신금일주 정리.md",
     "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
     "대운-세운 관계.md",
-    "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md",
     "Spaces/Home",
     "Spaces",
-    "강의/노코드 엔지니어링/피그마로 UI 디자인하기.md",
-    "강의/노코드 엔지니어링/노코드 개론.md",
-    "강의/노션/이메일로 가입.md",
-    "강의/노코드 엔지니어링/_노션으로 랜딩페이지 만들기.md",
     "강의/노코드 엔지니어링/노션",
     "강의/노코드 엔지니어링/노코드 개론.md_",
     "강의/노코드 엔지니어링/~$text.pptx",
@@ -225,7 +226,6 @@
     "강의/노코드 엔지니어링/새 텍스트 문서.txt",
     "강의/노코드 엔지니어링/~$nocode.pptx",
     "강의/노코드 엔지니어링/nocode.pptx",
-    "모하고 지내.md",
     "강의/노코드 엔지니어링/attachments/bubble-editor.png",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=790&height=790&face=0_0_790_790,httpsscrap.kakaocdn.netdnBdVLLhyRlBogm87y9RdkpiXBxqI9z1dDgQDF1img.jpgwidth=790&height=790&face=0_0_790_790,http.jpg",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=771&height=771&face=0_0_771_771,httpsscrap.kakaocdn.netdn7CdrPhyQRVMxFdimHxICloXMYBNkQLkQoR1aKimg.jpgwidth=771&height=771&face=0_0_771_771,http.jpg",
