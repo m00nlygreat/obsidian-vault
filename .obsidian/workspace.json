@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "583555d9a9c7f1de",
+        "id": "fe1ba99600fccc3d",
         "type": "tabs",
         "children": [
           {
-            "id": "bde9bcd14c27db3c",
+            "id": "578b2f7259c22d34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "명리/신금일주 정리.md",
+                "file": "명리/대운-세운 관계.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "명리/신금일주 정리.md",
+                "file": "명리/대운-세운 관계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "명리/신금일주 정리.md"
+                "file": "명리/대운-세운 관계.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "명리/신금일주 정리.md",
+                "file": "명리/대운-세운 관계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,11 +185,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ef2b4b022d7ac86",
+  "active": "578b2f7259c22d34",
   "lastOpenFiles": [
     "명리/배우자 운 좋고 자수성가하는 辛巳일생.md",
-    "명리/신사(辛巳) 일주.md",
     "명리/신금일주 정리.md",
+    "십간의 성격.md",
+    "명리/신사(辛巳) 일주.md",
     "사주명리.md",
     "그 애.md",
     "9월4일 업데이트 공지.md",
@@ -213,7 +214,6 @@
     "원칙주의자인 나.md",
     "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
     "모하고 지내.md",
-    "버블 튜토리얼.md",
     "Untitled.canvas",
     "Spaces/Home",
     "Spaces",
