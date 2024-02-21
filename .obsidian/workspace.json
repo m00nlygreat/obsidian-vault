@@ -11,8 +11,13 @@
             "id": "578b2f7259c22d34",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "웹클립/보수와 진보는 뇌의 두께가 다르더라.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
@@ -90,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "웹클립/보수와 진보는 뇌의 두께가 다르더라.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "웹클립/보수와 진보는 뇌의 두께가 다르더라.md"
+              }
             }
           },
           {
@@ -120,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "웹클립/보수와 진보는 뇌의 두께가 다르더라.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,15 +185,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4cc7b8631eb742c7",
+  "active": "578b2f7259c22d34",
   "lastOpenFiles": [
+    "글/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
+    "디스코드 스터디 봇.md",
+    "글/바탕화면 할일정리.md",
+    "글/외할머니가 돌아가셨다.md",
+    "Vault.md",
     "아이디어/아이디어.md",
     "명리/십간의 성격.md",
     "아이디어/블록코딩 앱.md",
     "수돌님 230709.md",
     "아이디어/맥시멀리스트.md",
     "아이디어/마인크래프트 성장형 RPG 시스템.md",
-    "디스코드 스터디 봇.md",
     "아이디어/나 살아있소.md",
     "아이디어",
     "나의 효능감.md",
@@ -195,17 +208,13 @@
     "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
     "글/시간이 가속되는 구간.md",
     "뻘 생각.md",
-    "글/아무거나자랑-바탕화면 할일정리.md",
     "헤어질 결심(2022).md",
     "원칙주의자인 나.md",
     "글/타인은 나를 비추는 거울.md",
     "프로그래밍을 처음 학습하는 이들에게.md",
     "글/현생인류가 사라지고.md",
     "베라모드의 독백.md",
-    "버블 튜토리얼.md",
-    "보수와 진보는 뇌의 두께가 다르더라.md",
     "웹클립",
-    "글/모하고 지내.md",
     "글",
     "강의/노코드 엔지니어링/피그마",
     "명리",
