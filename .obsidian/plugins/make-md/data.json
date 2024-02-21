@@ -54,8 +54,9 @@
     "//Spaces",
     "//Spaces/Spaces/Home",
     "//Spaces",
-    "//웹클립",
-    "//웹클립"
+    "//강의",
+    "//강의/강의/노코드 엔지니어링",
+    "//명리"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
