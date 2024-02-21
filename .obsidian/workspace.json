@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
+                "file": "신사(辛巳) 일주.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
+                "file": "신사(辛巳) 일주.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md"
+                "file": "신사(辛巳) 일주.md"
               }
             }
           },
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
+                "file": "신사(辛巳) 일주.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,9 +202,10 @@
   },
   "active": "64c5a4ff87b16bae",
   "lastOpenFiles": [
-    "강의/노코드 엔지니어링/노션/_노션으로 랜딩페이지 만들기.md",
-    "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md",
     "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
+    "신사(辛巳) 일주.md",
+    "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md",
+    "강의/노코드 엔지니어링/노션/_노션으로 랜딩페이지 만들기.md",
     "오늘의 나는 누가 뭐래도 멋있었다.md",
     "히로스에 료코 불륜으로 본 일본의 성문화.md",
     "읽을거리.md",
@@ -228,7 +228,6 @@
     "README.md",
     "버블 튜토리얼/유저.md",
     "강의/노코드 엔지니어링/노코드 개론.md",
-    "강의/노코드 엔지니어링/피그마로 UI 디자인하기.md",
     "Untitled.canvas",
     "Spaces/Home",
     "Spaces",
