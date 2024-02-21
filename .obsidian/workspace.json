@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "987e91d3f312c76e",
+        "id": "583555d9a9c7f1de",
         "type": "tabs",
         "children": [
           {
-            "id": "64c5a4ff87b16bae",
+            "id": "bde9bcd14c27db3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP의 Stateless, 비연결성.md",
+                "file": "배우자 운 좋고 자수성가하는 辛巳일생.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTTP의 Stateless, 비연결성.md",
+                "file": "배우자 운 좋고 자수성가하는 辛巳일생.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTP의 Stateless, 비연결성.md"
+                "file": "배우자 운 좋고 자수성가하는 辛巳일생.md"
               }
             }
           },
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTP의 Stateless, 비연결성.md",
+                "file": "배우자 운 좋고 자수성가하는 辛巳일생.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,18 +185,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64c5a4ff87b16bae",
+  "active": "0ef2b4b022d7ac86",
   "lastOpenFiles": [
+    "배우자 운 좋고 자수성가하는 辛巳일생.md",
     "신사(辛巳) 일주.md",
     "신금일주 정리.md",
+    "사주명리.md",
+    "히로스에 료코 불륜으로 본 일본의 성문화.md",
+    "HTTP의 Stateless, 비연결성.md",
     "스크립트/서버와 클라이언트, DB의 관계.md",
     "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
-    "배우자 운 좋고 자수성가하는 辛巳일생.md",
     "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
     "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md",
     "강의/노코드 엔지니어링/노션/_노션으로 랜딩페이지 만들기.md",
     "오늘의 나는 누가 뭐래도 멋있었다.md",
-    "히로스에 료코 불륜으로 본 일본의 성문화.md",
     "읽을거리.md",
     "현생인류가 사라지고.md",
     "프로퍼티.md",
@@ -212,8 +213,6 @@
     "버블 튜토리얼.md",
     "버블 스크롤 애니메이션.md",
     "대운-세운 관계.md",
-    "나의 효능감.md",
-    "m00nlygreat의 경우.md",
     "Untitled.canvas",
     "Spaces/Home",
     "Spaces",
