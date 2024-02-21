@@ -18,16 +18,6 @@
     "basename": "사주명리",
     "deleted_from_vault": true
   },
-  "오늘의 나는 누가 뭐래도 멋있었다.md": {
-    "shared_datetime": "2023-09-13T14:11:31.982Z",
-    "updated_datetime": null,
-    "expire_datetime": "2023-10-13T14:11:34.473Z",
-    "view_url": "https://noteshare.space/note/clmhtli311417601mwohhq643m#YcRvkFjeFrXELh3o/C6KcAryUmIfn8epWYNkz4KSPPM",
-    "secret_token": "Dski3t6EJrsoz25kYxdUHroqQj0xyIihjhtPqnESL3A=",
-    "note_id": "clmhtli311417601mwohhq643m",
-    "basename": "오늘의 나는 누가 뭐래도 멋있었다.",
-    "deleted_from_server": true
-  },
   "히로스에 료코 불륜으로 본 일본의 성문화.md": {
     "shared_datetime": "2024-02-20T05:29:08.810Z",
     "updated_datetime": null,
@@ -36,5 +26,15 @@
     "secret_token": "4DoUXKtmWz2KD1EltLpCBnd2Q0Hr+lhFjOso/NvSZIk=",
     "note_id": "clstxdz1t5540901mws2md3nzw",
     "basename": "히로스에 료코 불륜으로 본 일본의 성문화"
+  },
+  "글/오늘의 나는 누가 뭐래도 멋있었다.md": {
+    "shared_datetime": "2023-09-13T14:11:31.982Z",
+    "updated_datetime": null,
+    "expire_datetime": "2023-10-13T14:11:34.473Z",
+    "view_url": "https://noteshare.space/note/clmhtli311417601mwohhq643m#YcRvkFjeFrXELh3o/C6KcAryUmIfn8epWYNkz4KSPPM",
+    "secret_token": "Dski3t6EJrsoz25kYxdUHroqQj0xyIihjhtPqnESL3A=",
+    "note_id": "clmhtli311417601mwohhq643m",
+    "basename": "오늘의 나는 누가 뭐래도 멋있었다.",
+    "deleted_from_server": true
   }
 }
