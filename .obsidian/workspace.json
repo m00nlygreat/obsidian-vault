@@ -11,12 +11,9 @@
             "id": "578b2f7259c22d34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "강의/노코드 엔지니어링/피그마/피그마로 UI 디자인하기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "path": "강의/노코드 엔지니어링/피그마"
               }
             }
           }
@@ -95,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/노코드 엔지니어링/피그마/피그마로 UI 디자인하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "강의/노코드 엔지니어링/피그마/피그마로 UI 디자인하기.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/노코드 엔지니어링/피그마/피그마로 UI 디자인하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,10 +180,10 @@
   },
   "active": "578b2f7259c22d34",
   "lastOpenFiles": [
+    "강의/노코드 엔지니어링/피그마/피그마로 UI 디자인하기.md",
     "강의/노코드 엔지니어링/피그마/피그마.md",
     "강의/노코드 엔지니어링/피그마",
     "강의/노코드 엔지니어링/노션/노션.md",
-    "강의/노코드 엔지니어링/피그마/피그마로 UI 디자인하기.md",
     "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md",
     "강의/노코드 엔지니어링/_피그마로 UI 디자인하기.md",
     "명리/대운-세운 관계.md",
