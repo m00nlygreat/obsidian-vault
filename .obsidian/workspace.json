@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "578b2f7259c22d34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/노코드 엔지니어링/피그마/피그마로 UI 디자인하기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "0697865e91266028",
             "type": "leaf",
             "state": {
@@ -31,7 +18,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +72,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,8 +179,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0697865e91266028",
+  "active": "0ef2b4b022d7ac86",
   "lastOpenFiles": [
+    "노코드를 시작하기 전에 알았으면 좋았을 것들.md",
+    "나 살아있소.md",
+    "9월 1주 Recap 공지.md",
+    "8월 4주 Recap.md",
+    "명리/신금일주 정리.md",
+    "명리/배우자 운 좋고 자수성가하는 辛巳일생.md",
+    "명리/신사(辛巳) 일주.md",
+    "명리/십간의 성격.md",
+    "명리/병신합.md",
+    "명리/(천간완벽정리) 신금론.md",
+    "명리/일간별 화낼 때 특징.md",
     "강의/노코드 엔지니어링/피그마/피그마로 UI 디자인하기.md",
     "히로스에 료코 불륜으로 본 일본의 성문화.md",
     "현생인류가 사라지고.md",
@@ -209,17 +207,6 @@
     "읽을거리.md",
     "이재원.md",
     "유저.md",
-    "원칙주의자인 나.md",
-    "외할머니가 돌아가셨다.md",
-    "오수영.md",
-    "오늘의 나는 누가 뭐래도 멋있었다.md",
-    "어포던스.md",
-    "양손 스와이프 키보드.md",
-    "아이디어.md",
-    "아무거나자랑-바탕화면 할일정리.md",
-    "신금일주 정리.md",
-    "시간이 가속되는 구간.md",
-    "스프레드시트 상대적 시간 수식.md",
     "버블 튜토리얼",
     "노코드 엔지니어링/attachments/컴퓨터_프로그래밍_언어.jpg",
     "노코드 엔지니어링/attachments/Outside.webp",
