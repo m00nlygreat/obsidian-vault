@@ -11,12 +11,9 @@
             "id": "578b2f7259c22d34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "버블 스크롤 애니메이션.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "path": "명리"
               }
             }
           }
@@ -75,8 +72,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "버블 스크롤 애니메이션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "버블 스크롤 애니메이션.md"
-              }
+              "state": {}
             }
           },
           {
@@ -129,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "버블 스크롤 애니메이션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,14 +178,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ef2b4b022d7ac86",
+  "active": "578b2f7259c22d34",
   "lastOpenFiles": [
+    "Spaces/Home",
+    "Spaces",
+    "웹클립/VHD 이식하기.md",
+    "Vault.md",
+    "메모/어포던스.md",
+    "Untitled.md",
+    "메모/m00nlygreat의 경우.md",
+    "메모/헤어질 결심(2022).md",
+    "메모/정규식 문법 정리.md",
+    "유저.md",
+    "강의/버블 튜토리얼/유저.md",
+    "메모/수돌님 230709.md",
+    "웹클립/베라모드의 독백.md",
+    "메모/버블 스크롤 애니메이션.md",
     "메모/디스코드 스터디 봇.md",
     "웹클립/그 애.md",
-    "Untitled.md",
     "메모",
     "메모/구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
-    "헤어질 결심(2022).md",
     "journal/2023-09-03.md",
     "journal/2023-09-04.md",
     "journal/2023-09-10.md",
@@ -201,20 +205,9 @@
     "journal/2023-09-02.md",
     "journal/2023-07-09.md",
     "메모/9월 1주 Recap 공지.md",
-    "m00nlygreat의 경우.md",
-    "버블 스크롤 애니메이션.md",
-    "수돌님 230709.md",
-    "어포던스.md",
-    "오수영.md",
-    "정규식 문법 정리.md",
-    "이재원.md",
+    "메모/오수영.md",
+    "메모/이재원.md",
     "메모/9월4일 업데이트 공지.md",
-    "메모/8월 4주 Recap.md",
-    "명리/병신합.md",
-    "journal/2024-02-22.md",
-    "글/버블의 불편함을 해소하는 팁 3가지.md",
-    "유저.md",
-    "명리/신금일주 정리.md",
     "코드",
     "아이디어",
     "웹클립",
@@ -222,8 +215,6 @@
     "강의/노코드 엔지니어링/피그마",
     "명리",
     "Untitled.canvas",
-    "Spaces/Home",
-    "Spaces",
     "강의/노코드 엔지니어링/노션",
     "강의/노코드 엔지니어링/attachments/bubble-editor.png",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=790&height=790&face=0_0_790_790,httpsscrap.kakaocdn.netdnBdVLLhyRlBogm87y9RdkpiXBxqI9z1dDgQDF1img.jpgwidth=790&height=790&face=0_0_790_790,http.jpg",
