@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "987e91d3f312c76e",
+        "id": "fe1ba99600fccc3d",
         "type": "tabs",
         "children": [
           {
-            "id": "03304902e861eb96",
+            "id": "578b2f7259c22d34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "64c5a4ff87b16bae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "path": "명리"
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -48,6 +31,14 @@
         "id": "175ca76bbb9f696c",
         "type": "tabs",
         "children": [
+          {
+            "id": "4cc7b8631eb742c7",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
           {
             "id": "0ef2b4b022d7ac86",
             "type": "leaf",
@@ -80,17 +71,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "4cc7b8631eb742c7",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,12 +161,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,45 +178,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64c5a4ff87b16bae",
+  "active": "578b2f7259c22d34",
   "lastOpenFiles": [
-    "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md",
-    "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
-    "강의/노코드 엔지니어링/노코드 개론.md",
-    "강의/노코드 엔지니어링/피그마로 UI 디자인하기.md",
-    "강의/노코드 엔지니어링/디지텍고 강의.md",
-    "HTTP의 Stateless, 비연결성.md",
-    "강의/노코드 엔지니어링/_노코드 개론.md",
-    "m00nlygreat의 경우.md",
-    "디스코드 스터디 봇.md",
-    "링크 래퍼.md",
-    "마인크래프트 성장형 RPG 시스템.md",
-    "마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
-    "버블 스크롤 애니메이션.md",
-    "버블 튜토리얼/유저.md",
-    "버블 튜토리얼/_유저.md",
-    "강의/노코드 엔지니어링/노코드 엔지니어링.md",
-    "강의/노코드 엔지니어링/버블.md",
-    "강의/노코드 엔지니어링/노코드 최강자 버블.md",
-    "강의/노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
-    "강의/노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
-    "강의/UX 이론.md",
-    "9월4일 업데이트 공지.md",
-    "journal/2024-02-12.md",
-    "Untitled.canvas",
-    "journal/2023-09-17.md",
-    "journal/2023-09-10.md",
-    "journal/2023-09-04.md",
     "Spaces/Home",
     "Spaces",
+    "웹클립/VHD 이식하기.md",
+    "Vault.md",
+    "메모/어포던스.md",
+    "Untitled.md",
+    "메모/m00nlygreat의 경우.md",
+    "메모/헤어질 결심(2022).md",
+    "메모/정규식 문법 정리.md",
+    "유저.md",
+    "강의/버블 튜토리얼/유저.md",
+    "메모/수돌님 230709.md",
+    "웹클립/베라모드의 독백.md",
+    "메모/버블 스크롤 애니메이션.md",
+    "메모/디스코드 스터디 봇.md",
+    "웹클립/그 애.md",
+    "메모",
+    "메모/구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
+    "journal/2023-09-03.md",
+    "journal/2023-09-04.md",
+    "journal/2023-09-10.md",
+    "journal/2023-09-17.md",
+    "journal/2023-09-02.md",
+    "journal/2023-07-09.md",
+    "메모/9월 1주 Recap 공지.md",
+    "메모/오수영.md",
+    "메모/이재원.md",
+    "메모/9월4일 업데이트 공지.md",
+    "코드",
+    "아이디어",
+    "웹클립",
+    "글",
+    "강의/노코드 엔지니어링/피그마",
+    "명리",
+    "Untitled.canvas",
     "강의/노코드 엔지니어링/노션",
-    "강의/노코드 엔지니어링/노코드 개론.md_",
-    "강의/노코드 엔지니어링/~$text.pptx",
-    "강의/노코드 엔지니어링/text.pptx",
-    "강의/노코드 엔지니어링/text.txt",
-    "강의/노코드 엔지니어링/새 텍스트 문서.txt",
-    "강의/노코드 엔지니어링/~$nocode.pptx",
-    "강의/노코드 엔지니어링/nocode.pptx",
     "강의/노코드 엔지니어링/attachments/bubble-editor.png",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=790&height=790&face=0_0_790_790,httpsscrap.kakaocdn.netdnBdVLLhyRlBogm87y9RdkpiXBxqI9z1dDgQDF1img.jpgwidth=790&height=790&face=0_0_790_790,http.jpg",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=771&height=771&face=0_0_771_771,httpsscrap.kakaocdn.netdn7CdrPhyQRVMxFdimHxICloXMYBNkQLkQoR1aKimg.jpgwidth=771&height=771&face=0_0_771_771,http.jpg",

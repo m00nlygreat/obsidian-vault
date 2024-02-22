@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "오늘의 나는 누가 뭐래도 멋있었다.md",
+                "file": "프로퍼티.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "오늘의 나는 누가 뭐래도 멋있었다.md",
+            "file": "프로퍼티.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "오늘의 나는 누가 뭐래도 멋있었다.md",
+            "file": "프로퍼티.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "오늘의 나는 누가 뭐래도 멋있었다.md"
+            "file": "프로퍼티.md"
           }
         }
       }
@@ -133,6 +133,7 @@
   },
   "active": "2622e13e25571957",
   "lastOpenFiles": [
+    "오늘의 나는 누가 뭐래도 멋있었다.md",
     "노코드 엔지니어링/피그마로 UI 디자인하기.md",
     "프로그래밍을 처음 학습하는 이들에게.md",
     "노코드를 시작하기 전에 알았으면 좋았을 것들.md",
@@ -163,7 +164,6 @@
     "버블 튜토리얼.md",
     "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
     "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
-    "타인은 나를 비추는 거울.md",
     "journal",
     "스크립트"
   ]
