@@ -19,8 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0697865e91266028",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "강의/노코드 엔지니어링/피그마"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/노코드 엔지니어링/피그마/피그마로 UI 디자인하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "강의/노코드 엔지니어링/피그마/피그마로 UI 디자인하기.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/노코드 엔지니어링/피그마/피그마로 UI 디자인하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +192,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "578b2f7259c22d34",
+  "active": "0697865e91266028",
   "lastOpenFiles": [
+    "강의/노코드 엔지니어링/피그마/피그마로 UI 디자인하기.md",
     "히로스에 료코 불륜으로 본 일본의 성문화.md",
     "현생인류가 사라지고.md",
     "헤어질 결심(2022).md",
@@ -212,7 +220,6 @@
     "신금일주 정리.md",
     "시간이 가속되는 구간.md",
     "스프레드시트 상대적 시간 수식.md",
-    "스크롤 바 자리 차지하지 않게 하기.md",
     "버블 튜토리얼",
     "노코드 엔지니어링/attachments/컴퓨터_프로그래밍_언어.jpg",
     "노코드 엔지니어링/attachments/Outside.webp",
