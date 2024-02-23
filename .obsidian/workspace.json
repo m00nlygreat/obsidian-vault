@@ -19,8 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ce3b68097f4e544f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -75,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,7 +196,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ef2b4b022d7ac86",
+  "active": "ce3b68097f4e544f",
   "lastOpenFiles": [
     "아이디어/링크 래퍼.md",
     "아이디어/나 살아있소.md",
