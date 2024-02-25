@@ -11,12 +11,9 @@
             "id": "0697865e91266028",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "강의/노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "path": "명리"
               }
             }
           }
@@ -95,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "강의/노코드 엔지니어링/구글 시트로 데이터 관리하기.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,6 +180,7 @@
   },
   "active": "0697865e91266028",
   "lastOpenFiles": [
+    "강의/노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "강의/노코드 엔지니어링/_구글 시트로 데이터 관리하기.md",
     "강의/노코드 엔지니어링/피그마/피그마로 UI 디자인하기.md",
     "강의/노코드 엔지니어링/피그마/_피그마로 UI 디자인하기.md",
@@ -212,7 +206,6 @@
     "노코드 엔지니어링/노코드 개론.md",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
     "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
-    "Lenovo Legion Y700 ZUI 14에 구글 플레이 결제 연동하기.  클리앙.md",
     "버블 튜토리얼",
     "노코드 엔지니어링/attachments/컴퓨터_프로그래밍_언어.jpg",
     "노코드 엔지니어링/attachments/Outside.webp",
