@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "명리/신금일주 정리.md",
+                "file": "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "명리/신금일주 정리.md",
+                "file": "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "명리/신금일주 정리.md"
+                "file": "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md"
               }
             }
           },
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "명리/신금일주 정리.md",
+                "file": "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +188,12 @@
   },
   "active": "0697865e91266028",
   "lastOpenFiles": [
+    "노코드 엔지니어링/노코드 개론.md",
+    "노코드 엔지니어링/피그마로 UI 디자인하기.md",
     "강의/노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
+    "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
+    "노코드 엔지니어링/프레이머로 블로그 만들기.md",
+    "명리/신금일주 정리.md",
     "강의/노코드 엔지니어링/_구글 시트로 데이터 관리하기.md",
     "강의/노코드 엔지니어링/피그마/피그마로 UI 디자인하기.md",
     "강의/노코드 엔지니어링/피그마/_피그마로 UI 디자인하기.md",
@@ -208,11 +214,6 @@
     "명리/(천간완벽정리) 신금론.md",
     "노코드 엔지니어링/디지텍고 강의.md",
     "노코드 엔지니어링/노코드 최강자 버블.md",
-    "노코드 엔지니어링/노코드 엔지니어링.md",
-    "노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
-    "노코드 엔지니어링/노코드 개론.md",
-    "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
-    "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "버블 튜토리얼",
     "노코드 엔지니어링/attachments/컴퓨터_프로그래밍_언어.jpg",
     "노코드 엔지니어링/attachments/Outside.webp",
