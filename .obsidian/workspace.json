@@ -11,9 +11,12 @@
             "id": "0697865e91266028",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "명리"
+                "file": "명리/신금일주 정리.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -92,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "명리/신금일주 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "명리/신금일주 정리.md"
+              }
             }
           },
           {
@@ -122,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "명리/신금일주 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
