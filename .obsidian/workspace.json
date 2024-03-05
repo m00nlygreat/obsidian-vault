@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "2fc1d2bef8abba98",
+            "id": "6804ab0103598c8b",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.5.3"
+                "currentVersion": "1.5.8"
               }
             }
           }
@@ -196,7 +196,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2fc1d2bef8abba98",
+  "active": "6804ab0103598c8b",
   "lastOpenFiles": [
     "강의/노코드 엔지니어링/노코드 최강자 버블.md",
     "강의/노코드 엔지니어링/_노코드 최강자 버블.md",
