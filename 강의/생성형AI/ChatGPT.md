@@ -6,8 +6,8 @@
 
 - OpenAI ChatGPT (3.5/4)
 - Anthropic Claude (Haiku, Sonnet, Opus)
-- Hyper Clova
-- Gemini (Pro/Ultra)
+- Naver HyperCLOVA X
+- Google Gemini (Nano/Pro/Ultra)
 - Llama
 
 ## 프롬프팅 잘하기
