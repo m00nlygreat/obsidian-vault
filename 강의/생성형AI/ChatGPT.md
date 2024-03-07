@@ -8,6 +8,8 @@
 
 - 세종대왕 맥북 던짐 사건
 
+![](attachments/Fpdln-jaMAA-Gw1.jpg)
+
 - 오픈 AI와 일론 머스크
 - 멀티 모달
 - AI윤리
