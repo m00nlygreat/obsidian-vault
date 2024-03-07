@@ -1,5 +1,14 @@
 - 생성형 AI
 - 오픈 AI와 일론 머스크
+- 멀티 모달
+
+## LLM의 종류
+
+- ChatGPT (3.5/4)
+- Claude (Haiku, Sonnet, Opus)
+- HyperClova
+- Gemini (Pro/Ultra)
+- Llama
 
 ## 프롬프팅 잘하기
 
