@@ -6,7 +6,7 @@
 
 - ChatGPT (3.5/4)
 - Claude (Haiku, Sonnet, Opus)
-- HyperClova
+- Hyper Clova
 - Gemini (Pro/Ultra)
 - Llama
 
