@@ -4,8 +4,8 @@
 
 ## LLM의 종류
 
-- ChatGPT (3.5/4)
-- Claude (Haiku, Sonnet, Opus)
+- OpenAI ChatGPT (3.5/4)
+- Anthropic Claude (Haiku, Sonnet, Opus)
 - Hyper Clova
 - Gemini (Pro/Ultra)
 - Llama
