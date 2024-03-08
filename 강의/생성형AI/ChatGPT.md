@@ -1,4 +1,4 @@
-# ChatGPT의 이해
+# ChatGPT의 이해와 활용
 
 ## 생성형 AI (Generative AI)
 
@@ -16,13 +16,13 @@
 
 - 세종대왕 맥북 던짐 사건
 
-![](attachments/Fpdln-jaMAA-Gw1.jpg)
+![](attachments/Fpdln-jaMAA-Gw1.jpg) 
 
 ---
 
 ## LLM의 종류
 
-- OpenAI ChatGPT (3.5/4)
+- OpenAI ChatGPT (GPT 3.5/4)
 - Anthropic Claude (Haiku, Sonnet, Opus)
 - Naver HyperCLOVA X
 - Google Gemini (Nano/Pro/Ultra)
@@ -35,7 +35,7 @@
 ### 대화를 잘 한다. 라는 것
 
 - 상대방의 의도를 이해하고, 나의 의도를 오해없이 전달하는 것
-	- 경청의 중요성
+	- '경청'의 중요성
 - 맥락과 의도를 설명하는 충실함.
 - 내가 당연히 알고 있는 것들에서 벗어나 상대가 파악한 수준을 고려하기
 - 즉 대화를 잘 한다는 것은 '태도의 문제'라고 볼 수 있음.
