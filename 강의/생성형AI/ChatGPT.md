@@ -89,9 +89,14 @@
 
 ---
 
-### 다양하고 자세한 맥락을 제공하기
+### 프롬프트의 필수 요소들
 
-- 역할 부여하기
+- Persona
+- Context
+- Task
+- Format
+- Example
+- Tone
 
 ---
 
