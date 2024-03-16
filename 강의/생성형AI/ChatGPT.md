@@ -34,7 +34,7 @@
 - Groq
 - Naver HyperCLOVA X
 - Llama
-
+z
 ## 프롬프팅 잘하기
 
 - 프롬프팅을 잘하는 것은 대화를 잘하는 것
