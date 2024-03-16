@@ -30,8 +30,9 @@
 
 - OpenAI ChatGPT (GPT 3.5/4)
 - Anthropic Claude (Haiku, Sonnet, Opus)
-- Naver HyperCLOVA X
 - Google Gemini (Nano/Pro/Ultra)
+- Groq
+- Naver HyperCLOVA X
 - Llama
 
 ## 프롬프팅 잘하기
