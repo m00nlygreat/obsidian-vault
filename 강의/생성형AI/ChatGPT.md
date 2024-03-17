@@ -91,11 +91,11 @@
 
 ### 프롬프트의 필수 요소들
 
-- Persona
-- Context
 - Task
-- Format
+- Context
+- Persona
 - Example
+- Format
 - Tone
 
 ---
