@@ -163,12 +163,23 @@
 
 ## 이메일 작성하기
 
+- https://www.youtube.com/watch?v=aODhSiEI9qM
 - 제가 왜 늦었냐면요
 	- 지각에 대해 사죄하는 이메일
 	- 공손하고 정중하게 상황을 설명
 	- 다음부터 늦지 않을 것임을 강조
 
-## 이력서를 주고 물어보기
+## 예제들
 
-## 회사의 재무제표 분석
-
+- 이력서를 주고 물어보기
+- 회사의 재무제표 분석
+- 아보카도 가격 분석
+	- https://www.kaggle.com/datasets/neuromusic/avocado-prices
+- 2023 스포티파이
+	- https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
+- Vision 활용
+- Browsing
+	- 2024년 디자인 업계 트렌드 분석
+- 커스텀 GPT 만들기
+	- 각종 업무양식 만들기
+	- 신입사원 매뉴얼 상담봇 만들기
