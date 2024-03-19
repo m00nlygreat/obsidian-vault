@@ -202,7 +202,8 @@
 
 ## 회사의 재무제표 분석
 
-- 
+- 재무제표 데이터를 주고, 
+
 - 아보카도 가격 분석
 	- https://www.kaggle.com/datasets/neuromusic/avocado-prices
 - 2023 스포티파이
