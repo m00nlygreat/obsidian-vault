@@ -43,6 +43,12 @@
 
 # AI 이모저모
 
+## 역사
+
+- 인공지능 (Artificial Inteligence)의 두 갈래
+	- 알고리즘 기반
+	- 인공신경망 기반
+
 ## LLM의 종류
 
 - OpenAI ChatGPT (GPT-3.5/4)
