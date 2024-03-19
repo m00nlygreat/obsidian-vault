@@ -17,7 +17,7 @@
 
 ## ChatGPT
 
-- OpenAI 가 발표한 Generative Pre-trained Transformer 모델
+- OpenAI 가 발표한 Generative Pre-trained Transformer 모델의 생성형 AI
 
 ## 생성형 AI (Generative AI)
 
@@ -27,7 +27,7 @@
 ### 대규모 언어모델 (Large Language Models, LLM)
 
 - 인터넷 등에 쓰여진 대량의 텍스트를 학습하여 
-- 주어진 글의 다음에 올 확률이 높은 단어를 배치
+- 주어진 글의 다음에 올 확률이 높은 단어를 배치하는 인공지능 모델
 - 개발자들도 원리를 잘 모른다!
 
 ### 멀티 모달
@@ -62,7 +62,8 @@
 ### 알고리즘과 신경망의 대결
 
 - 1950년대, 인공지능에 대한 구상 중 인공 신경망 개념 등장
-	- 도형을 인식하는 퍼셉트론 (Perceptron)
+	- 도형을 인식하는 퍼셉트론 (Perceptron) 이후 잊혀져 있다가
+- 2010년초 제프리 힌턴에 의해 재발견됨.
 
 ## LLM의 종류
 
