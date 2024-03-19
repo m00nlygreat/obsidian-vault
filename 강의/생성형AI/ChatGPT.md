@@ -217,7 +217,8 @@
 ## 스포티파이 곡 재생 데이터 분석
 
 - https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
-
+- 얼마나 많은 K-Pop 곡들이 순위에 올라왔나?
+- 2023년의 전체적인 무드는?
 
 
 - Vision 활용
