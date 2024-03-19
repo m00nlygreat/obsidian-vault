@@ -211,9 +211,15 @@
 
 - https://www.kaggle.com/datasets/neuromusic/avocado-prices
 - 미국의 일별 / 지역별로 기록된 아보카도 평균 가격과 판매량 데이터를 주고 물어보기
-	- 
-- 2023 스포티파이
-	- https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
+	- 같은 기간 동안 가장 많이 오른 지역은?
+	- 아보카도 가격에 가장 많이 영향을 주는 요소는?
+
+## 스포티파이 곡 재생 데이터 분석
+
+- https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
+
+
+
 - Vision 활용
 - Browsing
 	- 2024년 디자인 업계 트렌드 분석
