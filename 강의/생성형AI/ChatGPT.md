@@ -209,7 +209,7 @@
 
 ## 아보카도 가격 분석
 
-- 
+- 미국의 일별 / 지역별로 기록된 아보카도 평균 가격과  
 - 아보카도 가격 분석
 	- https://www.kaggle.com/datasets/neuromusic/avocado-prices
 - 2023 스포티파이
