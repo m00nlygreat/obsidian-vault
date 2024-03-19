@@ -209,9 +209,9 @@
 
 ## 아보카도 가격 분석
 
-- 미국의 일별 / 지역별로 기록된 아보카도 평균 가격과  
-- 아보카도 가격 분석
-	- https://www.kaggle.com/datasets/neuromusic/avocado-prices
+- https://www.kaggle.com/datasets/neuromusic/avocado-prices
+- 미국의 일별 / 지역별로 기록된 아보카도 평균 가격과 판매량 데이터를 주고 물어보기
+	- 
 - 2023 스포티파이
 	- https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
 - Vision 활용
