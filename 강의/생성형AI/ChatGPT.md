@@ -15,6 +15,10 @@
 - '23 한양대학교 강의
 - '23 서울 디지텍고 강의
 
+## ChatGPT
+
+- OpenAI 가 발표한 Generative Pre-trained Transformer 모델
+
 ## 생성형 AI (Generative AI)
 
 - 완성된 그림, 음악, 글 등을 작은 조각으로 나누어서 가지고 있는 거대한 레고블럭 박스
