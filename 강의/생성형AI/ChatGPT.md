@@ -56,8 +56,6 @@
 
 ---
 
-
-
 ## LLM의 종류
 
 - OpenAI ChatGPT (GPT-3.5/4)
