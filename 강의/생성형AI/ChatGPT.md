@@ -181,4 +181,10 @@
 
 ![ChatGPT예제_회사원](sections/ChatGPT예제_회사원.md)
 
+# ChatGPT 고급 기능 소개
+
+## GPT-4 Vision
+
+- 사진을 보고 해석하는 능력
+
 # 감사합니다
