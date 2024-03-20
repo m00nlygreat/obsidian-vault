@@ -26,7 +26,7 @@
     {
       "id": "so49bu1jxf",
       "platform_specific_commands": {
-        "default": "md2ppt {{filen}}"
+        "default": "md2ppt {{file_path:relative}}"
       },
       "shells": {},
       "alias": "",
@@ -54,7 +54,13 @@
       "output_handling_mode": "buffered",
       "events": {},
       "command_palette_availability": "enabled",
-      "preactions": [],
+      "preactions": [
+        {
+          "type": "prompt",
+          "enabled": false,
+          "prompt_id": ""
+        }
+      ],
       "variable_default_values": {}
     }
   ],
