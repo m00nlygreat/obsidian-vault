@@ -29,7 +29,7 @@
 
 - 세종대왕 맥북 던짐 사건
 
-![세종대왕 맥북 던진 사건](attachments/Fpdln-jaMAA-Gw1.jpg) 
+![](attachments/Fpdln-jaMAA-Gw1.jpg) 
 
 # AI 이모저모
 
@@ -46,7 +46,7 @@
 
 ---
 
-![신경망](attachments/Neuron.png)
+![](attachments/Neuron.png)
 
 ---
 
@@ -115,7 +115,7 @@
 
 ## 프롬프트 잘 쓰기
 
-- 프롬프팅을 잘하는 것은 대화를 잘하는 것
+- 프롬프팅을 잘하는 것은 **대화를 잘하는 것**
 
 ### 대화를 잘 한다. 라는 것
 
@@ -129,12 +129,12 @@
 
 ### 프롬프트의 필수 요소들
 
-- Task 무엇을 해야하는지
-- Context 어떤 상황인지
-- Persona 어떤 역할이 되어야 하는지
-- Example 예시로는 어떤 것이 있는지
-- Format 어떤 형태로 작성해야 하는지
-- Tone 어떤 어조를 사용할 것인지
+- **Task** 무엇을 해야하는지
+- **Context** 어떤 상황인지
+- **Persona** 어떤 역할이 되어야 하는지
+- **Example** 예시로는 어떤 것이 있는지
+- **Format** 어떤 형태로 작성해야 하는지
+- **Tone** 어떤 어조를 사용할 것인지
 
 ---
 
