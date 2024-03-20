@@ -2,10 +2,10 @@
 
 ## 제품 소개하기
 
+- [마이 파워 AB 슬라이드](https://www.funshop.co.kr/goods/detail/261563?t=m&t=m&utm_source=pm&utm_medium=md8&utm_campaign=pm_261563)
 - 제품 소개글을 작성
 - 단점을 숨기고 장점을 부각하는 형태의 제품 소개
 - 친구가 소개하듯 친근한 말투
-- https://www.funshop.co.kr/goods/detail/261563?t=m&t=m&utm_source=pm&utm_medium=md8&utm_campaign=pm_261563
 
 ### 장점
 
@@ -19,7 +19,7 @@
 
 ## 이메일 작성하기
 
-- https://www.youtube.com/watch?v=aODhSiEI9qM
+- [제가 왜 늦었냐면요 - 티키틱](https://www.youtube.com/watch?v=aODhSiEI9qM)
 - 제가 왜 늦었냐면요
 	- 지각에 대해 사죄하는 이메일
 	- 공손하고 정중하게 상황을 설명
@@ -41,14 +41,14 @@
 
 ## 아보카도 가격 분석
 
-- https://www.kaggle.com/datasets/neuromusic/avocado-prices
+- [캐글 - 아보카도 가격 분석](https://www.kaggle.com/datasets/neuromusic/avocado-prices)
 - 미국의 일별 / 지역별로 기록된 아보카도 평균 가격과 판매량 데이터를 주고 물어보기
 	- 같은 기간 동안 가장 많이 오른 지역은?
 	- 아보카도 가격에 가장 많이 영향을 주는 요소는?
 
 ## 스포티파이 곡 재생 데이터 분석
 
-- https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
+- [캐글 - Most streamed spotify songs 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
 - 2023년의 스포티파이 곡 재생 데이터를 주고 물어보기
 	- 얼마나 많은 K-Pop 곡들이 순위에 올라왔나?
 	- 2023년의 전체적인 무드는?
