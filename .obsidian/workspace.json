@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.md",
+                "file": "강의/샘플 강의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.md",
+                "file": "강의/샘플 강의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.md"
+                "file": "강의/샘플 강의.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.md",
+                "file": "강의/샘플 강의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,12 +195,14 @@
   },
   "active": "0697865e91266028",
   "lastOpenFiles": [
+    "강의/샘플 임베드 강의.md",
+    "강의/샘플 강의.md",
+    "강의/샘플 강의.baked.md.md",
+    "강의/샘플 강의.baked.md",
     "강의/생성형AI/ChatGPT.md",
     "강의/생성형AI/sections/sections.md",
     "강의/생성형AI/sections",
     "강의/생성형AI/Untitled.md",
-    "강의/샘플 임베드 강의.md",
-    "강의/샘플 강의.md",
     "강의/~$샘플 강의.pptx",
     "강의/샘플 강의.pptx",
     "강의/생성형AI/attachments/Fpdln-jaMAA-Gw1.jpg",
@@ -225,8 +227,6 @@
     "강의/생성형AI",
     "글/프로덕트 기획에 ChatGPT 사용하기.md",
     "강의/노코드 엔지니어링/노코드 최강자 버블.md",
-    "강의/노코드 엔지니어링/_노코드 최강자 버블.md",
-    "강의/노코드 엔지니어링/버블.md",
     "버블 튜토리얼",
     "노코드 엔지니어링/attachments/컴퓨터_프로그래밍_언어.jpg",
     "노코드 엔지니어링/attachments/Outside.webp",
