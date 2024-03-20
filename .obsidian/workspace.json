@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fe1ba99600fccc3d",
+        "id": "5b056937f5c7fada",
         "type": "tabs",
         "children": [
           {
-            "id": "0697865e91266028",
+            "id": "f4d17ac4c1d0ca44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/샘플 강의.md",
+                "file": "강의/생성형AI/ChatGPT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -34,14 +34,6 @@
         "id": "175ca76bbb9f696c",
         "type": "tabs",
         "children": [
-          {
-            "id": "4cc7b8631eb742c7",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          },
           {
             "id": "0ef2b4b022d7ac86",
             "type": "leaf",
@@ -74,8 +66,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "4ca6928a5c932162",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/샘플 강의.md",
+                "file": "강의/생성형AI/ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/샘플 강의.md"
+                "file": "강의/생성형AI/ChatGPT.md"
               }
             }
           },
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/샘플 강의.md",
+                "file": "강의/생성형AI/ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,13 +194,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0697865e91266028",
+  "active": "f4d17ac4c1d0ca44",
   "lastOpenFiles": [
+    "강의/UX 이론.md",
+    "강의/강사 소개.md",
+    "강의/생성형AI/ChatGPT.md",
+    "강의/생성형AI/ChatGPT.baked.md",
     "강의/샘플 임베드 강의.md",
     "강의/샘플 강의.md",
-    "강의/샘플 강의.baked.md.md",
     "강의/샘플 강의.baked.md",
-    "강의/생성형AI/ChatGPT.md",
+    "강의/_샘플 강의.baked.md",
+    "강의/샘플 강의.baked.md.md",
+    "강의/_샘플 강의.md",
+    "강의/새 폴더",
     "강의/생성형AI/sections/sections.md",
     "강의/생성형AI/sections",
     "강의/생성형AI/Untitled.md",
@@ -208,7 +215,6 @@
     "강의/생성형AI/attachments/Fpdln-jaMAA-Gw1.jpg",
     "강의/생성형AI/_ChatGPT.md",
     "강의/노코드 엔지니어링/노코드 개론.md",
-    "강의/UX 이론.md",
     "강의/생성형AI/attachments",
     "스크립트/서버와 클라이언트, DB의 관계.md",
     "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
@@ -222,11 +228,7 @@
     "아이디어/마인크래프트 성장형 RPG 시스템.md",
     "아이디어/나 살아있소.md",
     "아이디어/링크 래퍼.md",
-    "아이디어/맥시멀리스트.md",
-    "강의/생성형AI/생성형AI.md",
     "강의/생성형AI",
-    "글/프로덕트 기획에 ChatGPT 사용하기.md",
-    "강의/노코드 엔지니어링/노코드 최강자 버블.md",
     "버블 튜토리얼",
     "노코드 엔지니어링/attachments/컴퓨터_프로그래밍_언어.jpg",
     "노코드 엔지니어링/attachments/Outside.webp",
@@ -234,7 +236,6 @@
     "노코드 엔지니어링/attachments",
     "노코드 엔지니어링",
     "Spaces/Home",
-    "Spaces",
     "Untitled.canvas",
     "강의/노코드 엔지니어링/attachments/bubble-editor.png",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=790&height=790&face=0_0_790_790,httpsscrap.kakaocdn.netdnBdVLLhyRlBogm87y9RdkpiXBxqI9z1dDgQDF1img.jpgwidth=790&height=790&face=0_0_790_790,http.jpg",
