@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노코드 엔지니어링/디지텍고 강의.md",
+                "file": "오늘의 나는 누가 뭐래도 멋있었다.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "노코드 엔지니어링/디지텍고 강의.md",
+            "file": "오늘의 나는 누가 뭐래도 멋있었다.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "노코드 엔지니어링/디지텍고 강의.md",
+            "file": "오늘의 나는 누가 뭐래도 멋있었다.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "노코드 엔지니어링/디지텍고 강의.md"
+            "file": "오늘의 나는 누가 뭐래도 멋있었다.md"
           }
         }
       }
@@ -131,11 +131,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e21e2ef5a6076995",
+  "active": "2622e13e25571957",
   "lastOpenFiles": [
+    "노코드 엔지니어링/피그마로 UI 디자인하기.md",
+    "프로그래밍을 처음 학습하는 이들에게.md",
+    "노코드를 시작하기 전에 알았으면 좋았을 것들.md",
+    "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
+    "스크립트/서버와 클라이언트, DB의 관계.md",
+    "나의 효능감.md",
+    "아이디어.md",
+    "노코드 엔지니어링/디지텍고 강의.md",
     "attachments/desktop-todolist.jpg",
     "버블 튜토리얼/타입과 연산.md",
-    "노코드 엔지니어링/디지텍고 강의.md",
     "아무거나자랑-바탕화면 할일정리.md",
     "시간이 가속되는 구간.md",
     "9월4일 업데이트 공지.md",
@@ -157,13 +164,7 @@
     "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
     "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
     "타인은 나를 비추는 거울.md",
-    "수돌님 230709.md",
-    "오수영.md",
-    "이재원.md",
-    "m00nlygreat의 경우.md",
     "journal",
-    "journal/2023-07-09.md",
-    "히로스에 료코 불륜으로 본 일본의 성문화.md",
     "스크립트"
   ]
 }
