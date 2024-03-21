@@ -4,125 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c3d3aa1ffe4d3d67",
+        "id": "b49cd0dc243c7a0f",
         "type": "tabs",
         "children": [
           {
-            "id": "87da4fadd9f52356",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d3e6cb03e2be1d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "신금일주 정리.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e55fa2326919812b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "스크롤 바 자리 차지하지 않게 하기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0f6bce87f4ae9401",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "양손 스와이프 키보드.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2d472dd541d130b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "아이디어.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "65f609e77b838e13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로그래밍을 처음 학습하는 이들에게.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "13c74115d351e70f",
+            "id": "608a6318bc059d5a",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
-          },
-          {
-            "id": "902681b5166d29da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "노코드 엔지니어링/노코드 최강자 버블.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "369f76b1a4c5e075",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "currentVersion": "1.5.11"
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +83,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -221,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,19 +161,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "369f76b1a4c5e075",
+  "active": "608a6318bc059d5a",
   "lastOpenFiles": [
+    "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
+    "신금일주 정리.md",
+    "스크롤 바 자리 차지하지 않게 하기.md",
+    "양손 스와이프 키보드.md",
+    "아이디어.md",
+    "프로그래밍을 처음 학습하는 이들에게.md",
     "노코드 엔지니어링/노코드 최강자 버블.md",
     "conflict-files-obsidian-git.md",
     "노코드 엔지니어링/노코드 엔지니어링.md",
     "노코드 엔지니어링/버블.md",
-    "아이디어.md",
     "버블의 불편함을 해소하는 팁 3가지.md",
-    "양손 스와이프 키보드.md",
     "링크 래퍼.md",
-    "스크롤 바 자리 차지하지 않게 하기.md",
-    "신금일주 정리.md",
-    "프로그래밍을 처음 학습하는 이들에게.md",
     "맥시멀리스트.md",
     "노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "노코드 엔지니어링/피그마로 UI 디자인하기.md",
@@ -308,7 +200,6 @@
     "8월 4주 Recap.md",
     "9월4일 업데이트 공지.md",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
-    "노코드 엔지니어링/디지텍고 강의.md",
     "노코드 엔지니어링/attachments",
     "attachments/HTTP의 Stateless, 비연결성",
     "스크립트",
