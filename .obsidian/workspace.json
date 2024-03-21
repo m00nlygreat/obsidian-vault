@@ -65,8 +65,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "fe63657c78a39fa9",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,6 +179,8 @@
   },
   "active": "f294135ea7e884cf",
   "lastOpenFiles": [
+    "Spaces/Home",
+    "Spaces",
     "버블 튜토리얼/유저.md",
     "강의/생성형AI/sections/sections.md",
     "conflict-files-obsidian-git.md",
@@ -198,7 +209,6 @@
     "아이디어/나 살아있소.md",
     "아이디어",
     "명리/일간별 화낼 때 특징.md",
-    "명리/십간의 성격.md",
     "명리",
     "메모",
     "글",
@@ -211,7 +221,6 @@
     "강의/생성형AI/sections",
     "강의/생성형AI/attachments",
     "강의/노코드 엔지니어링/피그마",
-    "강의/노코드 엔지니어링/노션",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=790&height=790&face=0_0_790_790,httpsscrap.kakaocdn.netdnBdVLLhyRlBogm87y9RdkpiXBxqI9z1dDgQDF1img.jpgwidth=790&height=790&face=0_0_790_790,http.jpg",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=771&height=771&face=0_0_771_771,httpsscrap.kakaocdn.netdn7CdrPhyQRVMxFdimHxICloXMYBNkQLkQoR1aKimg.jpgwidth=771&height=771&face=0_0_771_771,http.jpg",
     "attachments/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트/width=771&height=771&face=0_0_771_771,httpsscrap.kakaocdn.jpg",
