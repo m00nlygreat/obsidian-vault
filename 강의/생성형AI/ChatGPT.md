@@ -182,13 +182,32 @@
 - "이 결과가 맘에 들어. 다음에 다른 텍스트로도 동일한 결과를 낼 수 있도록 너에게 보낼 프롬프트를 작성해줘"
 - [프롬프트 엔지니어 회의론 증가](https://www.aitimes.com/news/articleView.html?idxno=158070)
 
-![ChatGPT예제_기자](sections/ChatGPT예제_기자.md)
-
 # ChatGPT 고급 기능 소개
 
-## GPT-4 Vision
+## GPT-4
+
+- 멀티모달
+- ChatGPT Plus 구독 시 사용 가능
+
+### Vision
 
 - 사진을 보고 해석하는 능력
-- ChatGPT Plus 에서 사용 가능
+- 풍경 사진, 이미지에서 도표, 이미지로 된 텍스트까지
+
+### Browsing
+
+- 실시간으로 인터넷을 검색하고, 검색한 내용을 기반으로 추론, 분석하는 것
+- 기존 ChatGPT의 데이터 학습 시점
+	- GPT-3.5: 2022년 1월 까지의 데이터 학습
+	- GPT-4: 2023년 12월 까지의 데이터 학습
+
+### Data Analysis
+
+- 파이썬 백엔드를 실행하여 데이터 분석 등을 
+
+
+![ChatGPT예제_기자](sections/ChatGPT예제_기자.md)
+
+
 
 # 감사합니다
