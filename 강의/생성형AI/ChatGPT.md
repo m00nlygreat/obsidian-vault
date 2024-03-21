@@ -97,7 +97,7 @@
 	- 스스로를 업데이트하는 인공지능
 - AI와 인간의 가치
 	- 로마시대 콜로세움
-	- Genuine한 인간
+	- Genuine, authentic한 인간
 
 ![AI이모저모](sections/AI이모저모.md)
 
@@ -204,6 +204,8 @@
 - 기존 ChatGPT의 데이터 학습 시점
 	- GPT-3.5: 2022년 1월 까지의 데이터 학습
 	- GPT-4: 2023년 12월 까지의 데이터 학습
+
+---
 
 ### Data Analysis
 
