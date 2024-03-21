@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "오늘의 나는 누가 뭐래도 멋있었다.md",
+                "file": "명리/신금일주 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "오늘의 나는 누가 뭐래도 멋있었다.md",
+            "file": "명리/신금일주 정리.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "오늘의 나는 누가 뭐래도 멋있었다.md",
+            "file": "명리/신금일주 정리.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "오늘의 나는 누가 뭐래도 멋있었다.md"
+            "file": "명리/신금일주 정리.md"
           }
         }
       }
@@ -131,40 +131,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2622e13e25571957",
+  "active": "e21e2ef5a6076995",
   "lastOpenFiles": [
-    "노코드 엔지니어링/피그마로 UI 디자인하기.md",
-    "프로그래밍을 처음 학습하는 이들에게.md",
-    "노코드를 시작하기 전에 알았으면 좋았을 것들.md",
-    "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
-    "스크립트/서버와 클라이언트, DB의 관계.md",
-    "나의 효능감.md",
-    "아이디어.md",
-    "노코드 엔지니어링/디지텍고 강의.md",
-    "attachments/desktop-todolist.jpg",
-    "버블 튜토리얼/타입과 연산.md",
-    "아무거나자랑-바탕화면 할일정리.md",
-    "시간이 가속되는 구간.md",
+    "m00nlygreat의 경우.md",
+    "맥시멀리스트.md",
     "9월4일 업데이트 공지.md",
-    "9월 1주 Recap 공지.md",
-    "journal/2023-09-04.md",
+    "프로퍼티.md",
+    "Vault.md",
+    "글/바탕화면 할일정리.md",
+    "메모/이재원.md",
+    "명리/병신합.md",
+    "글/모하고 지내.md",
+    "아이디어/아이디어.md",
+    "명리/십간의 성격.md",
+    "웹클립/그 애.md",
+    "메모/오수영.md",
+    "명리/신금일주 정리.md",
+    "아이디어/링크 래퍼.md",
+    "메모/어포던스.md",
+    "명리/일간별 화낼 때 특징.md",
+    "메모/정규식 문법 정리.md",
+    "명리/(천간완벽정리) 신금론.md",
+    "아이디어/맥시멀리스트.md",
+    "아이디어/나 살아있소.md",
+    "웹클립/베라모드의 독백.md",
+    "글/외할머니가 돌아가셨다.md",
+    "글/타인은 나를 비추는 거울.md",
+    "글/시간이 가속되는 구간.md",
+    "메모/디스코드 스터디 봇.md",
+    "강의/버블 튜토리얼",
+    "코드",
+    "메모",
+    "아이디어",
+    "강의/노코드 엔지니어링/피그마",
+    "명리",
+    "웹클립",
+    "글",
+    "attachments/desktop-todolist.jpg",
     "attachments/KakaoTalk_20230904_150927114.jpg",
-    "journal/2023-09-03.md",
-    "8월 4주 Recap.md",
-    "journal/2023-09-02.md",
     "attachments/rapture_20230904144532.png",
-    "버블 튜토리얼/유저.md",
-    "유저.md",
-    "VHD 이식하기.md",
-    "버블 튜토리얼/프로퍼티.md",
     "버블 튜토리얼",
-    "노코드 엔지니어링",
-    "노코드 엔지니어링/노코드 엔지니어링.md",
-    "버블 튜토리얼.md",
-    "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
-    "구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
-    "타인은 나를 비추는 거울.md",
-    "journal",
-    "스크립트"
+    "노코드 엔지니어링"
   ]
 }
