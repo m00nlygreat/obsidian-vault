@@ -15,7 +15,7 @@
 - '23 한양대학교 강의
 - '23 서울 디지텍고 강의
 
-![](../../attachments/프로필.jpg)
+![](D:/vault/강의/attachments/프로필.jpg)
 
 ## ChatGPT
 
