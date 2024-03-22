@@ -11,15 +11,15 @@
 - 완성된 그림, 음악, 글 등을 작은 조각으로 나누어서 가지고 있는 거대한 레고블럭 박스
 	- 조각들은 텍스트로 설명되어 있다(?)
 
+![](attachments/file-mqBlhyrMG4ynB1uCWsFq5m3r.png)
+
+---
+
 ### 대규모 언어모델 (Large Language Models, LLM)
 
 - 인터넷 등에 쓰여진 대량의 텍스트를 학습하여 
 - 주어진 글의 다음에 올 확률이 높은 단어를 배치하는 인공지능 모델
 - 개발자들도 원리를 잘 모른다!
-
-![](attachments/file-mqBlhyrMG4ynB1uCWsFq5m3r.png)
-
----
 
 ![](attachments/1678583134640d255e2f927.png)
 
