@@ -79,6 +79,8 @@ author:
 	- 딥마인드와 알파고의 등장
 	- OpenAI와 ChatGPT의 등장
 
+![](attachments/20231103502402.jpg)
+
 ## LLM의 종류
 
 - OpenAI ChatGPT (GPT-3.5/4)
