@@ -96,8 +96,9 @@ author:
 - Google Gemini (Nano/Pro/Ultra)
 - x.ai Grok
 - Naver HyperCLOVA X
-- Groq
 - Llama
+
+![](attachments/image2.png)
 
 ## 오픈 AI와 일론 머스크
 
