@@ -5,6 +5,7 @@
 ## ChatGPT
 
 - OpenAI 가 발표한 Generative Pre-trained Transformer 모델의 생성형 AI
+- 대규모 언어모델
 
 ### 생성형 AI (Generative AI)
 
