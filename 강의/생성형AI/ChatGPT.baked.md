@@ -1,4 +1,8 @@
-% ChatGPT의 이해
+---
+title: ChatGPT의 이해와 활용
+author:
+	- 배문형
+---
 
 # 인트로
 
