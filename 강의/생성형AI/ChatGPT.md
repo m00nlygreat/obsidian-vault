@@ -138,6 +138,8 @@ author:
 		- GPT-4, My GPTs 사용가능
 		- 3시간당 40 메시지
 
+![](attachments/Pasted%20image%2020240323014225.png)
+
 ## 질문해보기
 
 - 간단한 사실 물어보기
