@@ -9,7 +9,6 @@
 ### 생성형 AI (Generative AI)
 
 - 완성된 그림, 음악, 글 등을 작은 조각으로 나누어서 가지고 있는 거대한 레고블럭 박스
-	- 조각들은 텍스트로 설명되어 있다(?)
 
 ![](attachments/file-mqBlhyrMG4ynB1uCWsFq5m3r.png)
 
