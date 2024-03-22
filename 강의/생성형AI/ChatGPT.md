@@ -144,7 +144,7 @@ author:
 
 ### 간단한 사실 물어보기
 
-
+![](attachments/image3.png)
 
 ---
 
