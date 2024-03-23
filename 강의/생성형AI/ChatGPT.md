@@ -255,12 +255,20 @@ author:
 
 ---
 
-### few-shot 과 chain-of-thought
+### few-shot
 
-- few-shot: 정답을 제시하고 학습을 하는 방법
+- 정답을 제시하고 학습을 하는 방법
 	- 예시를 제공하여 맥락을 구체적으로 밝히기
-- chain-of-thought
-	- 연쇄적 사고. 단계를 풀어헤쳐 자연스럽게 답을 유도하기 
+
+---
+
+### chain-of-thought
+
+- 연쇄적 사고. 단계를 풀어헤쳐 자연스럽게 답을 유도하기 
+
+![](attachments/Pasted%20image%2020240324023859.png)
+
+---
 
 ### GPT에게 맡기기
 
