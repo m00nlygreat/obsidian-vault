@@ -240,6 +240,8 @@ author:
 
 ![](attachments/Pasted%20image%2020240323150341.png)
 
+---
+
 ### '가스라이팅'
 
 - 협박하기
