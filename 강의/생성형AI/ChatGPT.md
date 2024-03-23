@@ -205,6 +205,8 @@ author:
 - **Format** 어떤 형태로 작성해야 하는지
 - **Tone** 어떤 어조를 사용할 것인지
 
+![](attachments/Pasted%20image%2020240323145356.png)
+
 ---
 
 :::::::::::::: {.columns}
