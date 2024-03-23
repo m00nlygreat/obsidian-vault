@@ -248,6 +248,8 @@ author:
 - "이 결과가 맘에 들어. 다음에 다른 텍스트로도 동일한 결과를 낼 수 있도록 너에게 보낼 프롬프트를 작성해줘"
 - [프롬프트 엔지니어 회의론 증가](https://www.aitimes.com/news/articleView.html?idxno=158070)
 
+## 하이퍼 파라미터(Hyperparameters)
+
 # ChatGPT 고급 기능 소개
 
 ## GPT-4
