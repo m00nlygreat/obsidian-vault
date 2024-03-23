@@ -113,7 +113,7 @@ author:
 	- 오픈AI, CEO 샘 올트먼 해임 및 복직
 	- 머스크 x.ai 설립
 
-![](attachments/Pasted%20image%2020240323012443.png)
+![](attachments/image5.png)
 
 ## AI의 미래
 
