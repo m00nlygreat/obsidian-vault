@@ -175,7 +175,8 @@ author:
 
 ### 답변 재생성하기 
 
-- ChatGPT는 일종의 창의성 (Creativeness)을 가지고 있는데, 
+- ChatGPT는 일종의 창의성(Creativeness)을 가지고 있는데, Top-P, Temperature, Beam Width 와 같은 하이퍼 파라미터(Hyper Parameter)에 의한 것.
+- 따라서 같은 프롬프트에도 다양한 답변이 나오고, 
 
 ## 프롬프트 잘 쓰기
 
