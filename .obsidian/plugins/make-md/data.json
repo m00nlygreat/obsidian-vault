@@ -55,7 +55,10 @@
     "//강의/강의/attachments",
     "//attachments",
     "//강의/강의/생성형AI/강의/생성형AI/attachments/강의/생성형AI/attachments/attachments",
-    "//강의/강의/생성형AI/강의/생성형AI/attachments/강의/생성형AI/attachments/attachments"
+    "//강의/강의/생성형AI/강의/생성형AI/attachments/강의/생성형AI/attachments/attachments",
+    "//강의/강의/생성형AI/강의/생성형AI/attachments",
+    "//강의/강의/생성형AI/강의/생성형AI/attachments",
+    "//강의/강의/생성형AI/강의/생성형AI/sections"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
