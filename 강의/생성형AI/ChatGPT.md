@@ -259,6 +259,8 @@ author:
 
 - 예시를 밝혀 답변의 구조 또는 여러 측면을 제한하는 방법
 
+![](attachments/image4.png)
+
 ---
 
 ### chain-of-thought
