@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "7d44577cec24432b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/생성형AI/ChatGPT.baked.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "26fd195569f9ed74",
             "type": "leaf",
             "state": {
@@ -105,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "강의/생성형AI/ChatGPT.baked.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "강의/생성형AI/ChatGPT.baked.md"
+              }
             }
           },
           {
@@ -135,6 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "강의/생성형AI/ChatGPT.baked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +217,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26fd195569f9ed74",
+  "active": "7d44577cec24432b",
   "lastOpenFiles": [
     "강의/생성형AI/_ChatGPT.baked.md",
     "강의/생성형AI/ChatGPT.md",
