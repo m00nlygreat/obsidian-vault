@@ -265,7 +265,8 @@ author:
 
 ### chain-of-thought
 
-- 연쇄적 사고. 단계를 풀어헤쳐 자연스럽게 답을 유도하기 
+- 연쇄적 사고. 단계를 풀어헤쳐 자연스럽게 답을 유도하기
+	- step by step
 
 ![](attachments/Pasted%20image%2020240324023859.png)
 
