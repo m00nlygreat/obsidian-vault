@@ -147,4 +147,6 @@
 ### 패턴 파악해서 채우기
 
 - Before와 After의 결과값 예시를 주고 다량의 Before 값을 After 형식으로 변환하기
-- GPT_FILL("프롬프트", )
+- `GPT_FILL(패턴 범위, 입력 범위, [온도])` 함수 사용하기
+
+![](attachments/image30.png)
