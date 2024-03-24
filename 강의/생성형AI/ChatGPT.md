@@ -287,8 +287,10 @@ author:
 
 ## GPT-4
 
-- 멀티모달
+### 멀티모달
+
 - ChatGPT Plus 구독 시 사용 가능
+- GPT-4의 모든 고급 기능들은 프롬프트를 통해서 실행
 
 ### Vision & DALL-E
 
