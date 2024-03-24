@@ -263,6 +263,8 @@ author:
 ### few-shot
 
 - 예시를 밝혀 답변의 구조 또는 여러 측면을 제한하는 방법
+- [일정 묻기](https://chat.openai.com/share/a74f8ea7-9f7a-43f0-8bdc-4dbfb86cd3ba)
+
 
 ![](attachments/image4.png)
 
