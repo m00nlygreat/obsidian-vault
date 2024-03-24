@@ -78,6 +78,7 @@
 ## GPTs
 
 - PDF로 된 신입사원 매뉴얼을 학습하고, 신입사원의 질문에 답하는 GPT 만들기
+	- [친절한 김대리](https://chat.openai.com/g/g-bEYIII6S6-cinjeolhan-gimdaeri)
 
 ## 파워포인트 슬라이드 만들기
 
