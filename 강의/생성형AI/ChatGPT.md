@@ -166,14 +166,12 @@ author:
 
 - 만약 답변이 길어져 ChatGPT의 허용량을 넘고, 중단되었다면 Continue Generating 버튼을 눌러 계속 답변을 생성할 수 있다.
 
-![](attachments/Pasted%20image%2020240323133233.png)
-
----
-
 ### 답변 재생성하기 
 
 - ChatGPT는 일종의 창의성(Creativeness)을 가지고 있는데, **Top-P**, **Temperature**, **Beam Width** 와 같은 하이퍼 파라미터(Hyper Parameter)에 의한 것.
 - 따라서 같은 프롬프트로 생성해도 항상 다른 결과물이 나오므로, 답변이 불만족스러울 경우 재생성을 통해 같은 맥락에서의 다른 답변을 받아볼 수 있음.
+
+![](attachments/Pasted%20image%2020240323133233.png)
 
 # 프롬프트 엔지니어링
 
