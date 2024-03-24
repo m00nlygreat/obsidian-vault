@@ -131,14 +131,7 @@ author:
 
 ## 소개
 
-- 인터페이스
-	- 일반적인 채팅의 인터페이스
-- 기능 및 요금제 소개
-	- ChatGPT Plus
-		- GPT-4, My GPTs 사용가능
-		- 3시간당 40 메시지
-
-![](attachments/Pasted%20image%2020240323014225.png)
+![](attachments/image6.png)
 
 ## 질문해보기
 
