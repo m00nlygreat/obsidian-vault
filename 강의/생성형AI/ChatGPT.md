@@ -321,9 +321,11 @@ author:
 - 기본적으로 파이썬으로 수행가능한 데이터 분석, 파일 관련, 수학 등의 요청을 받아들이나, API콜, 크롤링 등 시스템에 영향을 주거나 부담스러운 작업은 거절
 	- [ChatGPT로 동영상 만들기](https://www.clien.net/service/board/lecture/18553432)
 
+![](attachments/image14.png)
+
 ## My GPTs
 
-- 자주 사용하는 GPT 파인튜닝 설정을 별도의 GPT로 만들어서 편리하게 독립된 채널에서 대화하기
+- 자주 사용하는 GPT 프롬프트 설정을 별도의 GPT로 만들어서 편리하게 독립된 채널에서 대화하기
 - GPT-4의 모든 기능 사용 가능: Vision, Browsing, Data Analysis
 - 액션
 	- 요청 받은 텍스트의 내용에 따라, 외부 API를 사용해서 전용 기능을 실행하고 그 응답결과를 답변 처리에 사용가능
