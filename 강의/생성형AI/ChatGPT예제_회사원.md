@@ -87,4 +87,5 @@
 ## 텍스트를 파워포인트 슬라이드로 만들기
 
 - 줄글을 알맞게 슬라이드로 구분하기
-- [슬라이드 만들기](https://chat.openai.com/share/4bf72cef-aa1c-4d53-9368-f2f3e3368607)
+	- 
+- [슬라이드 만들기](https://chat.openai.com/share/32212d7c-c30a-45ff-bf3e-fe0b39b0c2ff)
