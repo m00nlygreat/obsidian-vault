@@ -391,7 +391,7 @@ author:
 ## 이력서를 주고 물어보기
 
 - PDF, PPT, XLS, DOC, TXT, MD 등 다양한 포맷의 파일을 제공하고 내용에 대해 질문하거나, 내용을 기반으로 추론하거나, 데이터 분석 등을 의뢰
-- 이력서를 제공하고 아래와 같은 것들 [물어보기](https://chat.openai.com/share/73b5a668-452b-4645-a351-f76d5a22effb)
+- [이력서를 제공하고 아래와 같은 것들 물어보기](https://chat.openai.com/share/73b5a668-452b-4645-a351-f76d5a22effb)
 	- 현재 회사 내에 문제들을 해결하는 데에 도움을 줄 수 있는 사람일지?
 	- 우리 팀에 들어왔을 때 문제가 될 수 있을만한 가능성?
 - [채용 후보 관리 엑셀 파일을 작성](https://chat.openai.com/share/3ece436c-e7d3-4123-8974-5a2bd4af6caf)하고, 후보자를 추가시키기
@@ -408,6 +408,7 @@ author:
 
 ![](attachments/image18.png)
 
+
 ## 아보카도 가격 분석
 
 - [캐글 - 아보카도 가격 분석](https://www.kaggle.com/datasets/neuromusic/avocado-prices)
@@ -420,7 +421,33 @@ author:
 ## 스포티파이 곡 재생 데이터 분석
 
 - [캐글 - Most streamed spotify songs 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
-- 2023년의 스포티파이 곡 재생 데이터를 주고 [물어보기](https://chat.openai.com/share/38c1cee9-a476-4381-897f-ba107ee8b791)
+- [2023년의 스포티파이 곡 재생 데이터를 주고 물어보기](https://chat.openai.com/share/38c1cee9-a476-4381-897f-ba107ee8b791)
+	- 얼마나 많은 K-Pop 곡들이 순위에 올라왔나?
+	- 2023년의 전체적인 무드는?
+	- 스포티파이에 진출한 K팝 아티스트들의 비중을 파이차트로 그리기
+
+![](attachments/image20.png)
+
+## 2024년 디자인 업계 트렌드 알아보기
+
+- GPT-4 Browsing 기능 활용하여 최신 정보 탐색하기
+	- GPT-4 Browsing이 웹을 검색하는 것을, 많은 뉴스 웹사이트에서는 막아놓았을 수 있음.
+- 2024년 디자인 업계 트렌드에 대해 알아보기
+	- 내용을 출처를 포함한 블로그 글 형태로 정리
+
+## 아보카도 가격 분석
+
+- [캐글 - 아보카도 가격 분석](https://www.kaggle.com/datasets/neuromusic/avocado-prices)
+- 미국의 일별 / 지역별로 기록된 아보카도 평균 가격과 판매량 데이터를 주고 [물어보기](https://chat.openai.com/share/f2bf4f19-2995-4cbf-9415-0e83df2287c4)
+	- 같은 기간 동안 가장 많이 오른 지역은?
+	- 아보카도 가격에 가장 많이 영향을 주는 요소는?
+
+![](attachments/image19.png)
+
+## 스포티파이 곡 재생 데이터 분석
+
+- [캐글 - Most streamed spotify songs 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
+- [2023년의 스포티파이 곡 재생 데이터를 주고 물어보기](https://chat.openai.com/share/38c1cee9-a476-4381-897f-ba107ee8b791)
 	- 얼마나 많은 K-Pop 곡들이 순위에 올라왔나?
 	- 2023년의 전체적인 무드는?
 	- 스포티파이에 진출한 K팝 아티스트들의 비중을 파이차트로 그리기
@@ -441,10 +468,6 @@ author:
 - PDF로 된 신입사원 매뉴얼을 학습하고, 신입사원의 질문에 답하는 GPT 만들기
 	- [친절한 김대리](https://chat.openai.com/g/g-bEYIII6S6-cinjeolhan-gimdaeri)
 
-![](attachments/image22.png)
-
 ## 파워포인트 슬라이드 만들기
 
 - [슬라이드 만들기](https://chat.openai.com/share/4bf72cef-aa1c-4d53-9368-f2f3e3368607)
-
-# 감사합니다
