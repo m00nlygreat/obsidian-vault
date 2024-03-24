@@ -9,3 +9,5 @@
 	- 비용의 측면
 - OpenAI, 동영상 생성 AI Sora 발표
 - 애플, 구글과 제미나이 사용 협약 중?
+
+![](attachments/Pasted%20image%2020240324220603.png)
