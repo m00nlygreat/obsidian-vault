@@ -323,7 +323,7 @@ author:
 
 ![](attachments/image14.png)
 
-## My GPTs
+## GPTs
 
 - 자주 사용하는 GPT 프롬프트 설정을 별도의 GPT로 만들어서 편리하게 독립된 채널에서 대화하기
 - GPT-4의 모든 기능 사용 가능: Vision, Browsing, Data Analysis
