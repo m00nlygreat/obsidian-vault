@@ -298,6 +298,8 @@ author:
 - DALL-E 3: 프롬프트 기반으로 이미지를 생성하는 능력 (Midjourney와 같은)
 - 풍경 사진, 이미지에서 도표, 이미지로 된 텍스트까지
 
+![](attachments/image10.png)
+
 ---
 
 ### Browsing
