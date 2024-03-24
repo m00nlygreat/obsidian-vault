@@ -87,13 +87,6 @@ author:
 
 ## LLM의 종류
 
-- OpenAI ChatGPT (GPT-3.5/4)
-- Anthropic Claude (Haiku, Sonnet, Opus)
-- Google Gemini (Nano/Pro/Ultra)
-- x.ai Grok
-- Naver HyperCLOVA X
-- Llama
-
 ![](attachments/image2.png)
 
 ## 오픈 AI와 일론 머스크
