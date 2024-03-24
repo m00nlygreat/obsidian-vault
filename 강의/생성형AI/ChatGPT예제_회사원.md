@@ -55,7 +55,7 @@
 ## 스포티파이 곡 재생 데이터 분석
 
 - [캐글 - Most streamed spotify songs 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
-- 2023년의 스포티파이 곡 재생 데이터를 주고 물어보기
+- [2023년의 스포티파이 곡 재생 데이터를 주고 물어보기](https://chat.openai.com/share/38c1cee9-a476-4381-897f-ba107ee8b791)
 	- 얼마나 많은 K-Pop 곡들이 순위에 올라왔나?
 	- 2023년의 전체적인 무드는?
 	- 스포티파이에 진출한 K팝 아티스트들의 비중을 파이차트로 그리기
