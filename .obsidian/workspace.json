@@ -96,7 +96,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.md"
+                "file": "강의/생성형AI/ChatGPT.baked.md"
               }
             }
           },
@@ -129,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,12 +193,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3ac4b309592fddf",
+  "active": "4ca6928a5c932162",
   "lastOpenFiles": [
+    "강의/생성형AI/_ChatGPT.baked.md",
+    "강의/생성형AI/ChatGPT.md",
     "강의/생성형AI/ChatGPT.baked.md",
     "강의/생성형AI/AI이모저모.md",
-    "강의/생성형AI/ChatGPT.md",
-    "강의/생성형AI/_ChatGPT.baked.md",
     "강의/생성형AI/attachments/image13.png",
     "강의/생성형AI/attachments/image12.png",
     "강의/생성형AI/attachments/Pasted image 20240324220603.png",
