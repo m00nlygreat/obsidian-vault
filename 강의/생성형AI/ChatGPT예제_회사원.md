@@ -90,10 +90,20 @@
 - 테마 적용해서 디자인 완성하기
 - [슬라이드 만들기](https://chat.openai.com/share/32212d7c-c30a-45ff-bf3e-fe0b39b0c2ff)
 
+![](attachments/image23.png)
+
 ## 엑셀에서 ChatGPT 활용하기
 
 ### 샘플 데이터 만들어주기
 
 - 엑셀에서 사용하기 위한 샘플 데이터를 생성
-- 테이블 형태로 반환된 데이터는 엑셀, 구글 시트 등에 붙여넣어서 사용
+- 테이블 형태로 반환된 [데이터](https://chat.openai.com/share/cca1a314-d09f-4ec5-8aac-aca52131b16a)는 엑셀, 구글 시트 등에 붙여넣어서 사용
 
+![](attachments/image24.png)
+
+---
+
+### 함수 대신 만들어주기
+
+- 함수를 텍스트로 설명하면 대신 생성
+- 
