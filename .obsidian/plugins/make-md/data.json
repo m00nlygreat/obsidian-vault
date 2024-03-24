@@ -54,11 +54,13 @@
     "//sections",
     "//sections",
     "//강의/강의/생성형AI/강의/생성형AI/sections/강의/생성형AI/sections/attachments",
-    "//강의/강의/생성형AI",
     "//강의",
     "//강의/강의/생성형AI/강의/생성형AI/sections",
     "//강의/강의/생성형AI/강의/생성형AI/sections/강의/생성형AI/sections/attachments",
-    "//강의/강의/생성형AI/강의/생성형AI/attachments"
+    "//강의/강의/생성형AI/강의/생성형AI/attachments",
+    "//웹클립",
+    "//강의/강의/노코드 엔지니어링",
+    "//강의/강의/버블 튜토리얼"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
