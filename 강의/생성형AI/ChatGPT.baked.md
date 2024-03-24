@@ -322,7 +322,7 @@ author:
 - ChatGPT Plus 구독 시 사용 가능
 - GPT-4의 모든 고급 기능들은 프롬프트를 통해서 실행
 
-- [ ] ### Vision & DALL-E
+### Vision & DALL-E
 
 - GPT-4 Vision: 사진을 보고 해석하는 능력
 - DALL-E 3: 프롬프트 기반으로 이미지를 생성하는 능력 (Midjourney와 같은)
@@ -338,6 +338,8 @@ author:
 - 기존 ChatGPT의 데이터 학습 시점
 	- GPT-3.5: 2022년 1월 까지의 데이터 학습
 	- GPT-4: 2023년 12월 까지의 데이터 학습
+
+![](attachments/image13.png)
 
 ---
 
