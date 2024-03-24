@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f4d17ac4c1d0ca44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/생성형AI/ChatGPT.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "f3ac4b309592fddf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.baked.md",
+                "file": "강의/생성형AI/ChatGPT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -208,16 +195,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4d17ac4c1d0ca44",
+  "active": "f3ac4b309592fddf",
   "lastOpenFiles": [
     "강의/생성형AI/ChatGPT.baked.md",
-    "강의/생성형AI/_ChatGPT.baked.md",
+    "강의/생성형AI/AI이모저모.md",
     "강의/생성형AI/ChatGPT.md",
+    "강의/생성형AI/_ChatGPT.baked.md",
     "강의/생성형AI/attachments/image13.png",
     "강의/생성형AI/attachments/image12.png",
     "강의/생성형AI/attachments/Pasted image 20240324220603.png",
     "강의/생성형AI/하이퍼 파라미터(Hyperparameters).md",
-    "강의/생성형AI/AI이모저모.md",
     "강의/생성형AI/attachments/image10.png",
     "강의/생성형AI/attachments/Pasted image 20240323133233.png",
     "강의/생성형AI/attachments/image11.png",
