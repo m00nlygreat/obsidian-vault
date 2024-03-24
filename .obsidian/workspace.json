@@ -19,19 +19,6 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ad854546f02f2a74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/생성형AI/ChatGPT.baked.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
         ],
         "stacked": true
@@ -210,6 +197,7 @@
   },
   "active": "f4d17ac4c1d0ca44",
   "lastOpenFiles": [
+    "강의/생성형AI/attachments/image8.png",
     "강의/생성형AI/ChatGPT.baked.md",
     "강의/생성형AI/_ChatGPT.baked.md",
     "강의/생성형AI/ChatGPT.md",
