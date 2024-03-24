@@ -109,3 +109,14 @@
 - 파라미터로 제공되어야 하는 데이터의 위치와 형식을 설명할 필요 있음
  
 ![](attachments/image25.png)
+
+## GPT를 엑셀 안에서 사용하기
+
+- ChatGPT API를 사용하여 엑셀 안에서 함수를 통해 GPT를 사용하게끔 도와주는 추가기능
+- [gptforwork.com](https://gptforwork.com)
+
+![](attachments/image26.png)
+
+---
+
+### 데이터 분류하기
