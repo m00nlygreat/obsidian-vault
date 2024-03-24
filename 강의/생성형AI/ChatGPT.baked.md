@@ -473,7 +473,8 @@ author:
 
 ## GPT를 엑셀 안에서 사용하기
 
-
+- ChatGPT API를 사용하여 엑셀 안에서 함수를 통해 GPT를 사용하게끔 도와주는 추가기능
+- [gptforwork.com](https://gptforwork.com)
 
 
 # 감사합니다
