@@ -11,16 +11,6 @@
             "id": "048462e65e8c669e",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "강의/attachments"
-              }
-            }
-          },
-          {
-            "id": "6161b3ab3c7aa58c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "강의/생성형AI/ChatGPT예제_회사원.md",
@@ -106,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "강의/생성형AI/ChatGPT예제_회사원.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "강의/생성형AI/ChatGPT예제_회사원.md"
+              }
             }
           },
           {
@@ -136,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "강의/생성형AI/ChatGPT예제_회사원.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
