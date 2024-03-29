@@ -12,7 +12,7 @@
 - 단점
 	- 제한이 없는 만큼 위험하거나 운동이 고됨
 	- 조심해서 쓰지 않으면 다칠 수 있음
-- [AB슬라이드:근력으로 단련](https://chat.openai.com/share/cdd255b5-7c0a-47a9-8cfa-c350cad1106e)
+- [AB슬라이드:근력으로 단련](https://chat.openai.com/share/e4006de0-8f0c-42ac-ae23-95b3bcf67f33)
 
 ![](attachments/Pasted%20image%2020240325024235.png)
 

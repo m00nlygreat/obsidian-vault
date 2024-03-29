@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b7d916cb88f15c52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/AI이모저모.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/AI이모저모.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -128,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/AI이모저모.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,11 +191,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f294135ea7e884cf",
+  "active": "b7d916cb88f15c52",
   "lastOpenFiles": [
-    "강의/생성형AI/ChatGPT.md",
     "강의/생성형AI/AI이모저모.md",
     "conflict-files-obsidian-git.md",
+    "강의/생성형AI/ChatGPT.md",
     "웹클립/Data is beautiful 10 of the best data visualization examples.md",
     "강의/생성형AI/하이퍼 파라미터(Hyperparameters).md",
     "강의/생성형AI/attachments/프로필.jpg",
