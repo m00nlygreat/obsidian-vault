@@ -1,41 +1,37 @@
 {
   "main": {
-    "id": "9ac72e3f2a1da44a",
+    "id": "8b8070ed4a495cc7",
     "type": "split",
     "children": [
       {
-        "id": "747e678784675a45",
+        "id": "fa7d4f46a9da14ab",
         "type": "tabs",
         "children": [
           {
-            "id": "048462e65e8c669e",
+            "id": "8465458d1c6ba9d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "currentVersion": "1.5.11"
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fb508bf35a5cba5b",
+    "id": "ab59f03934a02adc",
     "type": "split",
     "children": [
       {
-        "id": "175ca76bbb9f696c",
+        "id": "45bfd629ba921775",
         "type": "tabs",
         "children": [
           {
-            "id": "0ef2b4b022d7ac86",
+            "id": "d882dff4f3e14dff",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,7 +41,7 @@
             }
           },
           {
-            "id": "7dabb426e7a09645",
+            "id": "ed03e785266d9f8d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +56,7 @@
             }
           },
           {
-            "id": "f79b2e9a1d8c16a0",
+            "id": "fa98336cee83e93c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,7 +64,7 @@
             }
           },
           {
-            "id": "4ca6928a5c932162",
+            "id": "0f339dce339e73b0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -83,53 +79,19 @@
     "width": 300
   },
   "right": {
-    "id": "347bc8c266adcad6",
+    "id": "754bb3f6bae70b57",
     "type": "split",
     "children": [
       {
-        "id": "3cc01ac830c0bcc0",
+        "id": "da6c46f756e0c96b",
         "type": "tabs",
         "children": [
           {
-            "id": "26c325dbdf70b192",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "강의/생성형AI/ChatGPT.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "cbedafcca3f5d3ed",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "add325b5f570d310",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "강의/생성형AI/ChatGPT.md"
-              }
-            }
-          },
-          {
-            "id": "1d7ec01d5e58e51a",
+            "id": "39f604558297c46b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,15 +103,29 @@
             }
           },
           {
-            "id": "9e1d77b4f8def889",
+            "id": "3514e5e61fe0258c",
             "type": "leaf",
             "state": {
-              "type": "QUICKSHARE_SIDE_VIEW",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
           {
-            "id": "4726ab15cd8907af",
+            "id": "69148f6cdd2b30f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "58523e14831dd00b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -161,89 +137,42 @@
             }
           },
           {
-            "id": "1dc2e97cbc17f5df",
+            "id": "6a669d610a895d4e",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "outline",
               "state": {}
             }
           },
           {
-            "id": "2def48e51e09341e",
+            "id": "ff80d084dd65b291",
             "type": "leaf",
             "state": {
-              "type": "make-context-view",
+              "type": "QUICKSHARE_SIDE_VIEW",
               "state": {}
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "048462e65e8c669e",
+  "active": "8465458d1c6ba9d1",
   "lastOpenFiles": [
-    "강의/생성형AI/ChatGPT.baked.md",
-    "강의/생성형AI/_ChatGPT.baked.md",
-    "강의/생성형AI/ChatGPT.md",
-    "강의/생성형AI/AI이모저모.md",
-    "버블 튜토리얼/타입과 연산.md",
-    "버블 튜토리얼/유저.md",
-    "강의/생성형AI/ChatGPT예제_회사원.md",
-    "강의/생성형AI/하이퍼 파라미터(Hyperparameters).md",
-    "강의/생성형AI/ChatGPT_logo 1.png",
-    "강의/생성형AI/ChatGPT예제_기자.md",
-    "강의/생성형AI/attachments/image30.png",
-    "강의/생성형AI/attachments/attachments/image30.png",
-    "강의/생성형AI/attachments/attachments/image29.png",
-    "강의/생성형AI/attachments/attachments",
-    "강의/생성형AI/attachments/image29.png",
-    "강의/생성형AI/attachments/image28.png",
-    "강의/생성형AI/attachments/image27.png",
-    "강의/생성형AI/attachments/image26.png",
-    "강의/생성형AI/attachments/attachments/image26.png",
-    "강의/생성형AI/attachments/attachments/image25.png",
-    "강의/버블 튜토리얼/타입과 연산.md",
-    "강의/버블 튜토리얼/프로퍼티.md",
-    "강의/노코드 엔지니어링/노코드 개론.md",
-    "강의/노코드 엔지니어링/피그마로 UI 디자인하기.md",
-    "강의/노코드 엔지니어링/버블.md",
-    "강의/노코드 엔지니어링/디지텍고 강의.md",
-    "강의/노코드 엔지니어링/노코드 최강자 버블.md",
-    "강의/노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
-    "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
-    "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md",
-    "강의/노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
-    "웹클립/그 애.md",
-    "웹클립/VHD 이식하기.md",
-    "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
-    "웹클립/Lenovo Legion Y700 ZUI 14에 구글 플레이 결제 연동하기.  클리앙.md",
-    "웹클립/HTTP의 Stateless, 비연결성.md",
-    "웹클립/Data is beautiful 10 of the best data visualization examples.md",
-    "attachments/사주보는법 자평진전의 변격과 겸격에 대한 이해  네이버 블로그",
-    "attachments/Data is beautiful 10 of the best data visualization examples",
-    "강의/생성형AI/sections/attachments",
-    "강의/attachments",
-    "sections",
-    "강의/새 폴더",
-    "강의/생성형AI/sections",
-    "강의/~$샘플 강의.pptx",
-    "강의/샘플 강의.pptx",
-    "Untitled.canvas",
-    "무제 파일.canvas"
+    "conflict-files-obsidian-git.md"
   ]
 }
