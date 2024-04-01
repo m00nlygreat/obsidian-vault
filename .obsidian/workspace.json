@@ -16,8 +16,17 @@
                 "currentVersion": "1.5.11"
               }
             }
+          },
+          {
+            "id": "817b6ff0a1bead7a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8465458d1c6ba9d1",
+  "active": "817b6ff0a1bead7a",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md"
   ]
