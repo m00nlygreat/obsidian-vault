@@ -49,6 +49,12 @@ author:
 
 - 세종대왕 맥북 던짐 사건
 
+## ChatGPT와 생성형 AI에 대한 오해
+
+- 전능하지 않음.
+- 난리 안 남.
+- 
+
 ![](attachments/Fpdln-jaMAA-Gw1.jpg) 
 
 # AI 이모저모

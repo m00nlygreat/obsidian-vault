@@ -11,9 +11,12 @@
             "id": "8465458d1c6ba9d1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "강의/생성형AI/ChatGPT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           },
@@ -29,19 +32,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "adf665705a9f4c4e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/UX 이론.md",
+                "file": "강의/생성형AI/ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/UX 이론.md",
+                "file": "강의/생성형AI/ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/UX 이론.md"
+                "file": "강의/생성형AI/ChatGPT.md"
               }
             }
           },
@@ -199,8 +191,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adf665705a9f4c4e",
+  "active": "8465458d1c6ba9d1",
   "lastOpenFiles": [
+    "강의/UX 이론.md",
     "conflict-files-obsidian-git.md"
   ]
 }
