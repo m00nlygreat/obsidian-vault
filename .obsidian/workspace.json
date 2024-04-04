@@ -21,12 +21,27 @@
             "id": "817b6ff0a1bead7a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "강의/UX 이론.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "adf665705a9f4c4e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "강의/UX 이론.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "강의/UX 이론.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "강의/UX 이론.md"
+              }
             }
           },
           {
@@ -180,7 +199,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "817b6ff0a1bead7a",
+  "active": "adf665705a9f4c4e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md"
   ]
