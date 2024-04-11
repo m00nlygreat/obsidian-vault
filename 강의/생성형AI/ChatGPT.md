@@ -53,7 +53,7 @@ author:
 
 - 쉽지 않음.
 - 난리 안 남.
-- 다 할 수 없음.
+- 
 - 
 
 ![](attachments/Fpdln-jaMAA-Gw1.jpg) 
