@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "9cf3bd45d53c46a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/생성형AI/ChatGPT.baked.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "817b6ff0a1bead7a",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.md",
+                "file": "강의/생성형AI/ChatGPT.baked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.md",
+                "file": "강의/생성형AI/ChatGPT.baked.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.md"
+                "file": "강의/생성형AI/ChatGPT.baked.md"
               }
             }
           },
@@ -191,13 +205,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8465458d1c6ba9d1",
+  "active": "9cf3bd45d53c46a8",
   "lastOpenFiles": [
     "강의/생성형AI/_ChatGPT.baked.md",
-    "강의/생성형AI/ChatGPT.baked.md",
     "강의/생성형AI/ChatGPT.md",
-    "강의/생성형AI/강사 소개.md",
     "강의/생성형AI/AI이모저모.md",
+    "강의/생성형AI/ChatGPT.baked.md",
+    "강의/생성형AI/강사 소개.md",
     "강의/생성형AI/ChatGPT예제_기자.md",
     "강의/생성형AI/ChatGPT예제_회사원.md",
     "강의/생성형AI/하이퍼 파라미터(Hyperparameters).md",
