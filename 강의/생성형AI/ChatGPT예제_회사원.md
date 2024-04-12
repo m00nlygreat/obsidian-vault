@@ -143,6 +143,7 @@
 
 ![](attachments/image29.png)
 
+---
 
 ### 패턴 파악해서 채우기
 
