@@ -56,6 +56,11 @@ author:
 
 - 세종대왕 맥북 던짐 사건
 
+## 어떻게 공부할까
+
+- 암묵지와 형식지
+- 
+
 ![](attachments/Fpdln-jaMAA-Gw1.jpg) 
 
 # AI 이모저모
