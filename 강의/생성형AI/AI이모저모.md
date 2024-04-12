@@ -80,6 +80,8 @@
 - 로마시대 콜로세움의 이야기
 - Genuine, authentic한 인간에의 선호
 
+![](attachments/Pasted%20image%2020240412173525.png)
+
 ## AI 이모저모
 
 - 하드웨어 vs 소프트웨어?
