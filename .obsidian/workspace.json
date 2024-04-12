@@ -21,38 +21,12 @@
             }
           },
           {
-            "id": "9cf3bd45d53c46a8",
+            "id": "38bf1e3f3b202bf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "22a7d2b77f281131",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/생성형AI/ChatGPT.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5356ba8ac037d875",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/생성형AI/ChatGPT.md",
+                "file": "강의/생성형AI/AI이모저모.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -65,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.baked.md",
+                "file": "강의/생성형AI/AI이모저모.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.baked.md",
+                "file": "강의/생성형AI/AI이모저모.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.baked.md",
+                "file": "강의/생성형AI/AI이모저모.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.baked.md"
+                "file": "강의/생성형AI/AI이모저모.md"
               }
             }
           },
@@ -244,13 +218,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4f881824db97bba",
+  "active": "38bf1e3f3b202bf3",
   "lastOpenFiles": [
+    "강의/생성형AI/ChatGPT.baked.md",
     "강의/생성형AI/_ChatGPT.baked.md",
     "강의/생성형AI/ChatGPT.md",
-    "강의/생성형AI/ChatGPT.baked.md",
-    "강의/생성형AI/사용자 피드백 보고서 작성하기.md",
     "강의/생성형AI/AI이모저모.md",
+    "강의/생성형AI/사용자 피드백 보고서 작성하기.md",
     "강의/생성형AI/강사 소개.md",
     "강의/생성형AI/ChatGPT예제_기자.md",
     "강의/생성형AI/ChatGPT예제_회사원.md",
