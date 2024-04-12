@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.baked.md",
+                "file": "강의/생성형AI/AI이모저모.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.baked.md",
+                "file": "강의/생성형AI/AI이모저모.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.baked.md",
+                "file": "강의/생성형AI/AI이모저모.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/ChatGPT.baked.md"
+                "file": "강의/생성형AI/AI이모저모.md"
               }
             }
           },
@@ -207,10 +207,10 @@
   },
   "active": "9cf3bd45d53c46a8",
   "lastOpenFiles": [
+    "강의/생성형AI/ChatGPT.baked.md",
     "강의/생성형AI/_ChatGPT.baked.md",
     "강의/생성형AI/ChatGPT.md",
     "강의/생성형AI/AI이모저모.md",
-    "강의/생성형AI/ChatGPT.baked.md",
     "강의/생성형AI/강사 소개.md",
     "강의/생성형AI/ChatGPT예제_기자.md",
     "강의/생성형AI/ChatGPT예제_회사원.md",
