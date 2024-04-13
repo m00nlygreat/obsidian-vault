@@ -21,25 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "496f1dcc3e212dd7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "95e58afdc8ecd4ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/노코드 엔지니어링/노션/노션 야무지게 써보기.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
