@@ -1,0 +1,6 @@
+- [시험 참가자 정답 맞추기](https://chat.openai.com/share/af979c94-5e34-4d0a-b4a2-d3ae97d44d26)
+- [용돈 기입장 데이터 생성하기](https://chat.openai.com/share/c8eaff15-5ec3-431d-95e9-d1e0dd0407fc)
+- [아보카도 가격 분석](https://chat.openai.com/share/88e59d4c-981e-476e-a424-e835df6b537e)
+	- [본 대화창](https://chat.openai.com/c/3450fb09-5d3a-4bab-ad61-8aa310d931b0) by moonlygreat
+- [회사 재무제표 분석](https://chat.openai.com/share/ba2ce170-c640-49a2-884d-fa3c3669ca20)
+- 

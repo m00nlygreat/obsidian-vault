@@ -4,32 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "e6360905a5fd48e3",
+        "id": "00d6228f93d1bc9a",
         "type": "tabs",
         "children": [
           {
-            "id": "0dbccd7ec043f607",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "강의/노코드 엔지니어링/attachments/figma03.png"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "180d846ea4e9affb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cca254ec52289058",
+            "id": "bcce82c4619852ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/피그마 그래픽스.md",
+                "file": "강의/노코드 엔지니어링/노션 야무지게 써보기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ae2a6774872942f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/생성형AI/AI이모저모.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -95,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 255.5
   },
   "right": {
     "id": "754bb3f6bae70b57",
@@ -112,15 +109,83 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "ac2a8cc2bb5f70a5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e7be19b029eca7b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "강의/노코드 엔지니어링/노션 야무지게 써보기.md"
+              }
+            }
+          },
+          {
+            "id": "2811e36b9ad8fd83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "강의/노코드 엔지니어링/노션 야무지게 써보기.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e582ed13c41f520f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "강의/노코드 엔지니어링/노션 야무지게 써보기.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23acbe2ef3681bb9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "491b93e5c11905b3",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -133,43 +198,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69148f6cdd2b30f3",
+  "active": "bcce82c4619852ca",
   "lastOpenFiles": [
-    "강의/노코드 엔지니어링/attachments/figma03.png",
-    "강의/노코드 엔지니어링/피그마 그래픽스.md",
-    "강의/노코드 엔지니어링/attachments/웹은_사각형으로.png.png",
-    "강의/노코드 엔지니어링/_피그마 그래픽스.md",
-    "강의/노코드 엔지니어링/attachments/figma01.png",
-    "강의/노코드 엔지니어링/attachments/figma02.png",
-    "강의/노코드 엔지니어링/attachments/figma04.png",
-    "강의/노코드 엔지니어링/attachments/Pasted image 20240414055355.png",
-    "강의/노코드 엔지니어링/_피그마로 UI 디자인하기.md",
-    "강의/노코드 엔지니어링/피그마/피그마로 UI 디자인하기.md",
-    "강의/노코드 엔지니어링/노션/노션 야무지게 써보기.md",
-    "강의/노코드 엔지니어링/노션/_노션 야무지게 써보기.md",
-    "강의/노코드 엔지니어링/노션/attachments/Pasted image 20240414052241.png",
-    "강의/노코드 엔지니어링/노션/attachments/Pasted image 20240414051722.png",
-    "강의/노코드 엔지니어링/노션/attachments/Pasted image 20240414051631.png",
-    "강의/노코드 엔지니어링/노션/attachments/Pasted image 20240414051530.png",
-    "강의/노코드 엔지니어링/노션/_노션을 활용한 업무 효율화.md",
-    "강의/생성형AI/ChatGPT.md",
-    "아이디어/Human Readable Device ID.md",
-    "글/오늘의 나는 누가 뭐래도 멋있었다.md",
-    "강의/생성형AI/ChatGPT예제_기자.md",
-    "강의/생성형AI/하이퍼 파라미터(Hyperparameters).md",
-    "강의/생성형AI/사용자 피드백 보고서 작성하기.md",
-    "강의/생성형AI/강사 소개.md",
-    "강의/생성형AI/ChatGPT예제_회사원.md",
-    "강의/생성형AI/ChatGPT.baked.md",
-    "글/시간이 가속되는 구간.md",
-    "글/버블의 불편함을 해소하는 팁 3가지.md",
-    "글/외할머니가 돌아가셨다.md",
+    "강의/노코드 엔지니어링/노코드 개론.md",
+    "강의/노코드 엔지니어링/노션 야무지게 써보기.md",
+    "명리/신사(辛巳) 일주.md",
+    "명리/병신합.md",
+    "명리/(천간완벽정리) 신금론.md",
+    "글/바탕화면 할일정리.md",
     "글/타인은 나를 비추는 거울.md",
+    "강의/강사 소개.md",
+    "강의/노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
+    "명리/배우자 운 좋고 자수성가하는 辛巳일생.md",
+    "명리/신금일주 정리.md",
+    "명리/대운-세운 관계.md",
+    "글/모하고 지내.md",
     "글/220228 0508.md",
-    "강의/생성형AI/AI이모저모.md",
-    "강의/UX 이론.md",
-    "글/플랫폼 이론.md",
-    "강의/노코드 엔지니어링/노션/_노션으로 랜딩페이지 만들기.md",
-    "강의/노코드 엔지니어링/노션/attachments"
+    "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
+    "스크립트/서버와 클라이언트, DB의 관계.md",
+    "웹클립/히로스에 료코 불륜으로 본 일본의 성문화.md",
+    "웹클립/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트.md",
+    "웹클립/보수와 진보는 뇌의 두께가 다르더라.md",
+    "웹클립/그 애.md",
+    "웹클립/베라모드의 독백.md",
+    "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
+    "웹클립/HTTP의 Stateless, 비연결성.md",
+    "강의/버블 튜토리얼/유저.md",
+    "강의/버블 튜토리얼/타입과 연산.md",
+    "강의/버블 튜토리얼/프로퍼티.md",
+    "강의/생성형AI/attachments/image33.png",
+    "강의/생성형AI/ChatGPT_logo 1.png",
+    "강의/생성형AI/attachments/image18.png",
+    "강의/생성형AI/attachments/image31.png",
+    "강의/생성형AI/attachments/image29.png",
+    "강의/생성형AI/attachments/Frame 51.png",
+    "강의/생성형AI/생성형AI/attachments/image33.png",
+    "강의/생성형AI/생성형AI/attachments/image32.png",
+    "강의/생성형AI/생성형AI/attachments/image31.png",
+    "강의/생성형AI/생성형AI/attachments/image9.png",
+    "강의/생성형AI/생성형AI/attachments",
+    "강의/생성형AI/생성형AI",
+    "강의/~$사전 평가 질문지.pptx",
+    "강의/~$ 평가 질문지.docx",
+    "강의/사전 평가 질문지.pptx",
+    "강의/사전 평가 질문지.docx",
+    "강의/노코드 엔지니어링/attachments 1"
   ]
 }

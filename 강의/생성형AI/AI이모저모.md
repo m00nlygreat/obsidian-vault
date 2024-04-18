@@ -73,14 +73,14 @@
 
 - 약 인공지능 (Weak AI)
 	- 특정한 분야의 일을 인간의 지시에 따라 수행하는 인공지능
-- 스스로를 업데이트하는 인공지능
+- 스스로를 업데이트하는 인공지능 (AGI, 일반 인공지능)
 
 ### AI와 인간의 가치
 
 - 로마시대 콜로세움의 이야기
 - Genuine, authentic한 인간에의 선호
 
-![](attachments/Pasted%20image%2020240412173525.png)
+![](attachments/image32.png)
 
 ## AI 이모저모
 
@@ -93,5 +93,7 @@
 	- 비용의 측면
 - OpenAI, 동영상 생성 AI Sora 발표
 - 애플, 구글과 Gemini 사용 협약 중?
+- AI 에이전트
+- 음악 만드는 Suno, Udio
 
 ![](attachments/Pasted%20image%2020240324220603.png)
