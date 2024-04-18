@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/교안 개선사항.md",
+                "file": "아이디어/마인크래프트 성장형 RPG 시스템.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노코드 엔지니어링/교안 개선사항.md"
+                "file": "아이디어/마인크래프트 성장형 RPG 시스템.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/노코드 엔지니어링/교안 개선사항.md",
+                "file": "아이디어/마인크래프트 성장형 RPG 시스템.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/노코드 엔지니어링/교안 개선사항.md",
+                "file": "아이디어/마인크래프트 성장형 RPG 시스템.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,10 +201,17 @@
   },
   "active": "ae2a6774872942f3",
   "lastOpenFiles": [
+    "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
+    "스크립트/서버와 클라이언트, DB의 관계.md",
+    "강의/버블 튜토리얼/프로퍼티.md",
+    "강의/버블 튜토리얼/타입과 연산.md",
+    "강의/attachments/프로필.jpg",
+    "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+    "강의/노코드 엔지니어링/노션 야무지게 써보기.md",
+    "강의/노코드 엔지니어링/교안 개선사항.md",
     "강의/노코드 엔지니어링/필살기 프레이머.md",
     "강의/생성형AI/AI이모저모.md",
-    "강의/노코드 엔지니어링/교안 개선사항.md",
-    "강의/노코드 엔지니어링/노션 야무지게 써보기.md",
     "강의/노코드 엔지니어링/노코드 개론.md",
     "명리/신사(辛巳) 일주.md",
     "명리/병신합.md",
@@ -218,15 +225,9 @@
     "명리/대운-세운 관계.md",
     "글/모하고 지내.md",
     "글/220228 0508.md",
-    "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
-    "스크립트/서버와 클라이언트, DB의 관계.md",
     "웹클립/히로스에 료코 불륜으로 본 일본의 성문화.md",
     "웹클립/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트.md",
     "웹클립/보수와 진보는 뇌의 두께가 다르더라.md",
-    "웹클립/그 애.md",
-    "웹클립/베라모드의 독백.md",
-    "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
-    "웹클립/HTTP의 Stateless, 비연결성.md",
     "강의/생성형AI/attachments/image33.png",
     "강의/생성형AI/ChatGPT_logo 1.png",
     "강의/생성형AI/attachments/image18.png",
@@ -236,7 +237,6 @@
     "강의/생성형AI/생성형AI/attachments/image33.png",
     "강의/생성형AI/생성형AI/attachments/image32.png",
     "강의/생성형AI/생성형AI/attachments/image31.png",
-    "강의/생성형AI/생성형AI/attachments/image9.png",
     "강의/생성형AI/생성형AI/attachments",
     "강의/생성형AI/생성형AI",
     "강의/~$사전 평가 질문지.pptx",
