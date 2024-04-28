@@ -50,7 +50,7 @@ author:
 
 ### RAG (Retrieval-Augmented Generation)
 
-범용으로 제작된 LLM에 
+- 범용으로 제작된 LLM에 특정 목적의 데이터를 첨부하여 Fine-tune 하거나 프롬프팅하는 것 
 
 ![](attachments/Fpdln-jaMAA-Gw1.jpg)
 
