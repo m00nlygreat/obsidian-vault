@@ -48,6 +48,10 @@ author:
 
 - 세종대왕 맥북 던짐 사건
 
+### RAG (Retrieval-Augmented Generation)
+
+범용으로 제작된 LLM에 
+
 ![](attachments/Fpdln-jaMAA-Gw1.jpg)
 
 ## ChatGPT와 생성형 AI에 대한 오해
