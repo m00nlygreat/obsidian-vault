@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/AI이모저모.md",
+                "file": "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/AI이모저모.md",
+                "file": "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/AI이모저모.md"
+                "file": "강의/생성형AI/ChatGPT 채팅 공유 링크.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/AI이모저모.md",
+                "file": "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,15 +179,28 @@
   },
   "active": "f294135ea7e884cf",
   "lastOpenFiles": [
-    "강의/생성형AI/attachments/Pasted image 20240324220603.png",
+    "아이디어/링크 래퍼.md",
+    "아이디어/마인크래프트 성장형 RPG 시스템.md",
+    "글/시간이 가속되는 구간.md",
+    "강의/UX 이론.md",
+    "글/오늘의 나는 누가 뭐래도 멋있었다.md",
+    "글/버블의 불편함을 해소하는 팁 3가지.md",
+    "글/바탕화면 할일정리.md",
+    "글/모하고 지내.md",
+    "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
+    "스크립트/서버와 클라이언트, DB의 관계.md",
     "강의/생성형AI/AI이모저모.md",
+    "강의/생성형AI/사용자 피드백 보고서 작성하기.md",
+    "강의/생성형AI/하이퍼 파라미터(Hyperparameters).md",
+    "강의/생성형AI/강사 소개.md",
+    "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+    "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
+    "강의/생성형AI/attachments/Pasted image 20240324220603.png",
     "conflict-files-obsidian-git.md",
     "아이디어/Human Readable Device ID.md",
     "글/플랫폼 이론.md",
     "글/220228 0508.md",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
-    "강의/생성형AI/사용자 피드백 보고서 작성하기.md",
-    "강의/생성형AI/강사 소개.md",
     "강의/생성형AI/attachments/rapture_20240429064843.png",
     "강의/생성형AI/attachments/rapture_20240429064828.png",
     "강의/생성형AI/attachments/rapture_20240429064759.png",
@@ -197,29 +210,16 @@
     "강의/생성형AI/attachments/rapture_20240429064717.png",
     "강의/생성형AI/attachments/image33.png",
     "강의/생성형AI/attachments/image32.png",
-    "강의/생성형AI/attachments/image31.png",
-    "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
-    "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
     "강의/사전 평가 질문지.md",
     "강의/노코드 엔지니어링/필살기 프레이머.md",
     "강의/노코드 엔지니어링/피그마 그래픽스.md",
     "강의/노코드 엔지니어링/노코드 유즈케이스.md",
     "강의/노코드 엔지니어링/노션 야무지게 써보기.md",
-    "강의/노코드 엔지니어링/교안 개선사항.md",
-    "강의/생성형AI/ChatGPT.md",
-    "웹클립/Data is beautiful 10 of the best data visualization examples.md",
-    "강의/생성형AI/하이퍼 파라미터(Hyperparameters).md",
-    "강의/생성형AI/ChatGPT예제_회사원.md",
-    "강의/생성형AI/ChatGPT예제_기자.md",
-    "강의/생성형AI/ChatGPT.baked.md",
     "강의/attachments",
     "attachments/사주보는법 자평진전의 변격과 겸격에 대한 이해  네이버 블로그",
     "attachments/Data is beautiful 10 of the best data visualization examples",
-    "강의/생성형AI/sections/ChatGPT예제_기자.md",
-    "강의/생성형AI/sections/ChatGPT예제_회사원.md",
     "Spaces/Home",
     "Spaces",
-    "버블 튜토리얼/유저.md",
     "코드",
     "웹클립",
     "아이디어",
