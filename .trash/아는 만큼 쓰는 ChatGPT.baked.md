@@ -1,12 +1,10 @@
 ---
-title: ChatGPT를 사용한 업무효율화
+title: 아는 만큼 쓰는 ChatGPT
 author:
 	- 배문형
 ---
 
 # 들어가며
-
-![강사 소개](../강사%20소개.md)
 
 ## ChatGPT
 
@@ -25,6 +23,7 @@ author:
 - 인터넷 등에 쓰여진 대량의 텍스트를 학습하여 
 - 주어진 글의 다음에 올 확률이 높은 단어를 배치하는 인공지능 모델
 - 개발자들도 원리를 잘 모른다!
+	- ChatGPT 자신도 스스로 무슨 말을 하는지 모름!
 
 ![](attachments/image7.png)
 
@@ -45,22 +44,124 @@ author:
 
 ---
 
-### 환각 (Hallucination)
+## 환각 (Hallucination)
 
 - 세종대왕 맥북 던짐 사건
+
+![](attachments/Fpdln-jaMAA-Gw1.jpg)
 
 ## ChatGPT와 생성형 AI에 대한 오해
 
 - 쉽지 않음.
 - 난리 안 남.
-- 다 할 수 없음.
-- 
+- 90% 이상의 생성형 AI 관련 지식들은 유튜브를 통해 유통되고, 전파됨
+	- 공부의 시대는 갔다.
 
-![](attachments/Fpdln-jaMAA-Gw1.jpg) 
+### 그럼 어떻게 공부할까
+
+- 암묵지와 형식지
+	- 암묵지는 오로지 직접적인 경험으로부터 얻을 수 있음.
+	- 형식지가 보조하고, 암묵지를 주로 '훈련'하는 형태로
 
 # AI 이모저모
 
-![AI이모저모](AI이모저모.md)
+## AI의 역사
+
+### 인공지능 (Artificial Inteligence)의 두 갈래
+
+- 알고리즘 기반 (Rule-based Systems)
+	- 사람이 모든 규칙과 조건을 제시하여 그대로 수행하는 인공지능
+	- 사람이 지시한 것 이외에는 할 수 없음
+- 인공신경망 기반 (Machine Learning)
+	- 뉴런을 모방하여 인간 두뇌와 비슷하게 작동하는 인공 신경망 (Neural network)
+	- 막대한 연산량 필요
+
+---
+
+![](attachments/Neuron.png)
+
+---
+
+![](attachments/nnet2.png)
+
+---
+
+::: notes
+
+### 알고리즘과 신경망의 대결
+
+- 1950년대, 인공지능에 대한 구상 중 인공 신경망 개념 등장
+	- 도형을 인식하는 퍼셉트론 (Perceptron)
+- 2010년초 제프리 힌턴에 의해 재발견됨.
+	- 심층 인공신경망(Deep Neural network)과 딥 러닝의 발견
+	- 이미지 인식 경연대회에서 놀라운 성과
+	- 딥마인드와 알파고의 등장
+	- OpenAI와 ChatGPT의 등장
+:::
+
+![](attachments/image9.png)
+
+## LLM의 종류
+
+![](attachments/image2.png)
+
+## 오픈 AI와 일론 머스크
+
+![](attachments/image31.png)
+
+::: notes
+- AI에 대해 상반된 두 가지 입장
+	- AI는 위험하며 투명하게 공개되고 통제되어야 함 (허사비스, 머스크)
+	- AI는 인류의 발전을 가져올 중요한 파트너 (페이지)
+- 일론 머스크, AI 발전을 감시하기 위해 딥마인드 지분 구입
+
+### 딥마인드 구글에 인수
+
+- 머스크 반발
+:::
+
+---
+
+### 머스크 오픈AI 설립
+
+- 오픈AI와 테슬라 병합 시도
+- 실패 후 마이크로소프트에 지분 전량 매도
+
+### 오픈AI의 대성공
+
+- 오픈AI, CEO 샘 올트먼 해임 및 복직
+- 머스크 x.ai 설립
+
+![](attachments/image5.png)
+
+## AI의 미래
+
+### 강 인공지능 (Strong AI)
+
+- 약 인공지능 (Weak AI)
+	- 특정한 분야의 일을 인간의 지시에 따라 수행하는 인공지능
+- 스스로를 업데이트하는 인공지능
+
+### AI와 인간의 가치
+
+- 로마시대 콜로세움의 이야기
+- Genuine, authentic한 인간에의 선호
+
+![](attachments/Pasted%20image%2020240412173525.png)
+
+## AI 이모저모
+
+- 하드웨어 vs 소프트웨어?
+	- H100, H200, B200 .. 
+	- NVIDIA의 승리는 어디까지인가
+- 온디바이스 AI
+	- 갤럭시?
+	- 개인화의 측면
+	- 비용의 측면
+- OpenAI, 동영상 생성 AI Sora 발표
+- 애플, 구글과 Gemini 사용 협약 중?
+
+![](attachments/Pasted%20image%2020240324220603.png)
 
 # ChatGPT 사용해보기
 
@@ -159,6 +260,7 @@ author:
 
 - 대화 중심으로 프롬프팅을 완성해가는 방법
 - 맥락을 바꿔버리거나 너무 일관성 없는 대화를 하나의 스레드에서 다루지 않도록 주의
+- 잘못된 답변 역시 입력으로 다시 들어가기에, 잘못된 답변을 놔두고 계속 맥락을 이어가면 안 됨.
 - [티켓의 가치](https://chat.openai.com/share/cde241e6-3087-40d0-b31b-6deb3e53891f)
 
 - 사내 의사결정을 위한 보고서 작성
@@ -219,11 +321,13 @@ author:
 
 ## Vision & DALL-E
 
+::: notes
 - GPT-4 Vision: 사진을 보고 해석하는 능력
 	- 프롬프트에 사진 파일을 첨부
 - DALL-E 3: 프롬프트 기반으로 이미지를 생성하는 능력 (Midjourney와 같은)
 	- '그림을 그려줘.', '이미지를 생성해줘.' 등의 표현 사용
 - 풍경 사진, 이미지에서 도표, 이미지로 된 텍스트까지
+:::
 
 ![](attachments/image10.png)
 
@@ -255,12 +359,163 @@ author:
 
 - 자주 사용하는 GPT 프롬프트 설정을 별도의 GPT로 만들어서 편리하게 독립된 채널에서 대화하기
 - GPT-4의 모든 기능 사용 가능: Vision, Browsing, Data Analysis
-- 액션
-	- 요청 받은 텍스트의 내용에 따라, 외부 API를 사용해서 전용 기능을 실행하고 그 응답결과를 답변 처리에 사용가능
+- 액션: 요청 받은 텍스트의 내용에 따라, 외부 API를 사용해서 전용 기능을 실행하고 그 응답결과를 답변 처리에 사용가능
 - 만든 GPT는 스토어에 올려 누구나 쓸 수 있게 만들거나, 유료화할 수도 있음
 
 ![](attachments/image15.png)
 
-![ChatGPT예제_회사원](ChatGPT예제_회사원.md)
+# 실전 ChatGPT
+
+## 제품 소개하기
+
+- [마이 파워 AB 슬라이드](https://www.funshop.co.kr/goods/detail/261563?t=m&t=m&utm_source=pm&utm_medium=md8&utm_campaign=pm_261563)
+	- 제품 소개글을 작성
+	- 단점을 숨기고 장점을 부각하는 형태의 제품 소개
+	- 친구가 소개하듯 친근한 말투
+- 장점
+	- 스프링이 없어 제한없이 운동 가능
+	- 운동효과 올라감
+- 단점
+	- 제한이 없는 만큼 위험하거나 운동이 고됨
+	- 조심해서 쓰지 않으면 다칠 수 있음
+- [AB슬라이드:근력으로 단련](https://chat.openai.com/share/e4006de0-8f0c-42ac-ae23-95b3bcf67f33)
+
+![](attachments/Pasted%20image%2020240325024235.png)
+
+## 경위서 쓰기
+
+- [제가 왜 늦었냐면요 - 티키틱](https://www.youtube.com/watch?v=aODhSiEI9qM)
+- [제가 왜 늦었냐면요](https://chat.openai.com/share/cdd255b5-7c0a-47a9-8cfa-c350cad1106e)
+	- 지각에 대해 사죄하는 경위서
+	- 공손하고 정중하게 상황을 설명
+	- 다음부터 늦지 않을 것임을 강조
+- 경위서를 워드(docx)파일로 내보내기
+
+![](attachments/image16.png)
+
+## 이력서를 주고 물어보기
+
+- PDF, PPT, XLS, DOC, TXT, MD 등 다양한 포맷의 파일을 제공하고 내용에 대해 질문하거나, 내용을 기반으로 추론하거나, 데이터 분석 등을 의뢰
+- 이력서를 제공하고 아래와 같은 것들 [물어보기](https://chat.openai.com/share/73b5a668-452b-4645-a351-f76d5a22effb)
+	- 현재 회사 내에 문제들을 해결하는 데에 도움을 줄 수 있는 사람일지?
+	- 우리 팀에 들어왔을 때 문제가 될 수 있을만한 가능성?
+- [채용 후보 관리 엑셀 파일을 작성](https://chat.openai.com/share/3ece436c-e7d3-4123-8974-5a2bd4af6caf)하고, 후보자를 추가시키기
+
+![](attachments/image17.png)
+
+## 회사의 재무제표 분석
+
+- 재무제표 데이터를 주고, [이것저것 물어보기](https://chat.openai.com/share/1439534a-edf4-46ff-adf1-195e31b81ba2)
+	- 이 회사의 성과가 증가한 이유?
+	- 앞으로 어떤 점을 중점으로 운영해나가면 좋겠는지?
+	- 한국의 현 상황과 관련하여 투자의견 제안
+- 재무제표 분석 결과, 투자 관련 의견을 작성하여 보고하기
+
+![](attachments/image18.png)
+
+## 아보카도 가격 분석
+
+- [캐글 - 아보카도 가격 분석](https://www.kaggle.com/datasets/neuromusic/avocado-prices)
+- 미국의 일별 / 지역별로 기록된 아보카도 평균 가격과 판매량 데이터를 주고 [물어보기](https://chat.openai.com/share/f2bf4f19-2995-4cbf-9415-0e83df2287c4)
+	- 같은 기간 동안 가장 많이 오른 지역은?
+	- 아보카도 가격에 가장 많이 영향을 주는 요소는?
+
+![](attachments/image19.png)
+
+## 스포티파이 곡 재생 데이터 분석
+
+- [캐글 - Most streamed spotify songs 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
+- 2023년의 스포티파이 곡 재생 데이터를 주고 [물어보기](https://chat.openai.com/share/38c1cee9-a476-4381-897f-ba107ee8b791)
+	- 얼마나 많은 K-Pop 곡들이 순위에 올라왔나?
+	- 2023년의 전체적인 무드는?
+	- 스포티파이에 진출한 K팝 아티스트들의 비중을 파이차트로 그리기
+
+![](attachments/image20.png)
+
+## 2024년 디자인 업계 트렌드 알아보기
+
+- GPT-4 Browsing 기능 활용하여 최신 정보 탐색하기
+	- GPT-4 Browsing이 웹을 검색하는 것을, 많은 뉴스 웹사이트에서는 막아놓았을 수 있음.
+- 2024년 디자인 업계 트렌드에 대해 알아보기
+	- 내용을 출처를 포함한 블로그 글 형태로 정리
+
+![](attachments/image21.png)
+
+## GPTs
+
+- PDF로 된 신입사원 매뉴얼을 학습하고, 신입사원의 질문에 답하는 GPT 만들기
+	- 친절한 말투를 사용하고 긍정적인 답변을 해야함 (Tone, Attitude)
+	- 신입사원 매뉴얼에 없는 내용, 곤란한 내용은 인사팀장에게 안내
+	- [친절한 김대리](https://chat.openai.com/g/g-bEYIII6S6-cinjeolhan-gimdaeri)
+
+![](attachments/image22.png)
+
+## 텍스트를 파워포인트 슬라이드로 만들기
+
+- 줄글을 알맞게 슬라이드로 구분하기
+- 테마 적용해서 디자인 완성하기
+- [슬라이드 만들기](https://chat.openai.com/share/32212d7c-c30a-45ff-bf3e-fe0b39b0c2ff)
+
+![](attachments/image23.png)
+
+## 엑셀에서 ChatGPT 활용하기
+
+### 샘플 데이터 만들어주기
+
+- 엑셀에서 사용하기 위한 샘플 데이터를 생성
+- 테이블 형태로 반환된 [데이터](https://chat.openai.com/share/cca1a314-d09f-4ec5-8aac-aca52131b16a)는 엑셀, 구글 시트 등에 붙여넣어서 사용
+
+![](attachments/image24.png)
+
+---
+
+### 함수 대신 만들어주기
+
+- 함수를 텍스트로 설명하면 대신 생성
+- 파라미터로 제공되어야 하는 데이터의 위치와 형식을 설명할 필요 있음
+ 
+![](attachments/image25.png)
+
+## GPT를 엑셀 안에서 사용하기
+
+- ChatGPT API를 사용하여 엑셀 안에서 함수를 통해 GPT를 사용하게끔 도와주는 추가기능
+- [gptforwork.com](https://gptforwork.com)
+
+![](attachments/image26.png)
+
+---
+
+### 기존 데이터와 연관된 데이터 생성하기
+
+- 회원의 이름, 나이, 직업을 고려하여 선물 제안하기
+- `GPT(프롬프트, [참조값], [온도])` 함수 사용하기
+ 
+![](attachments/image27.png)
+
+---
+
+### 알맞은 해시태그 달기
+
+- 여행코스에서 여행지와 체험하는 문화를 꺼내어서 해시태그 형태로 표현.
+
+![](attachments/image28.png)
+
+---
+
+### 내용 분류하기
+
+- 정성적인 평가를 긍정과 부정의 뉘앙스, 그리고 긍정 부정의 정도를 평가하기.
+- `GPT_LIST("프롬프트", [참조값], [온도])` 함수 사용하기
+
+![](attachments/image29.png)
+
+---
+
+### 패턴 파악해서 채우기
+
+- Before와 After의 결과값 예시를 주고 다량의 Before 값을 After 형식으로 변환하기
+- `GPT_FILL(패턴 범위, 입력 범위, [온도])` 함수 사용하기
+
+![](attachments/image30.png)
 
 # 감사합니다
