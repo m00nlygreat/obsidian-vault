@@ -24,38 +24,14 @@
             "id": "ae2a6774872942f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "강의/생성형AI/attachments/image33.png"
               }
-            },
-            "group": "0847cd7f30b9bfa0"
+            }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "3291ac746ff38a8f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5b4c4053b1171cc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            },
-            "group": "0847cd7f30b9bfa0"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/ChatGPT로 코딩하기 (부록).md"
+                "file": "강의/생성형AI/attachments/image33.png"
               }
             }
           },
@@ -159,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
+                "file": "강의/생성형AI/attachments/image33.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
+                "file": "강의/생성형AI/attachments/image33.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,8 +198,9 @@
   },
   "active": "ae2a6774872942f3",
   "lastOpenFiles": [
-    "강의/생성형AI/attachments/rapture_20240429064828.png",
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
+    "강의/생성형AI/attachments/rapture_20240429064828.png",
     "강의/생성형AI/attachments/rapture_20240429062808.png",
     "강의/생성형AI/attachments/rapture_20240429064739.png",
     "강의/생성형AI/attachments/rapture_20240429064743.png",
@@ -231,7 +208,6 @@
     "강의/생성형AI/attachments/rapture_20240429064759.png",
     "강의/생성형AI/attachments/rapture_20240429064843.png",
     "강의/생성형AI/attachments/rapture_20240429064717.png",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/하이퍼 파라미터(Hyperparameters).md",
     "강의/생성형AI/AI이모저모.md",
     "강의/노코드 엔지니어링/교안 개선사항.md",
