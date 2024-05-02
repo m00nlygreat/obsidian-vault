@@ -26,20 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/교안 개선사항.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d67fd2828693a7d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "강의/노코드 엔지니어링/디지텍고 강의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "강의/노코드 엔지니어링/디지텍고 강의.md"
               }
             }
           },
@@ -151,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "강의/노코드 엔지니어링/디지텍고 강의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "강의/노코드 엔지니어링/디지텍고 강의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,8 +199,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d67fd2828693a7d1",
+  "active": "ae2a6774872942f3",
   "lastOpenFiles": [
+    "강의/노코드 엔지니어링/버블.md",
+    "강의/노코드 엔지니어링/노코드 최강자 버블.md",
+    "강의/노코드 엔지니어링/노코드 유즈케이스.md",
+    "강의/노코드 엔지니어링/노코드 개론.md",
+    "강의/노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
+    "강의/노코드 엔지니어링/노션 야무지게 써보기.md",
     "강의/노코드 엔지니어링/교안 개선사항.md",
     "conflict-files-obsidian-git.md",
     "강의/생성형AI/attachments/image33.png",
@@ -230,7 +223,6 @@
     "강의/생성형AI/하이퍼 파라미터(Hyperparameters).md",
     "강의/생성형AI/AI이모저모.md",
     "강의/노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
-    "강의/노코드 엔지니어링/노션 야무지게 써보기.md",
     "메모/9월4일 업데이트 공지.md",
     "메모/8월 4주 Recap.md",
     "아이디어/나 살아있소.md",
@@ -244,12 +236,7 @@
     "강의/attachments/프로필.jpg",
     "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
     "강의/노코드 엔지니어링/필살기 프레이머.md",
-    "강의/노코드 엔지니어링/노코드 개론.md",
     "명리/신사(辛巳) 일주.md",
-    "명리/병신합.md",
-    "명리/(천간완벽정리) 신금론.md",
-    "글/바탕화면 할일정리.md",
-    "글/타인은 나를 비추는 거울.md",
     "강의/생성형AI/생성형AI/attachments",
     "강의/생성형AI/생성형AI",
     "강의/~$사전 평가 질문지.pptx",
