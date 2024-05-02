@@ -6,6 +6,10 @@ author:
 
 # 들어가며
 
+## 대표님 저 ChatGPT 강의는 이제 하기 싫은데요...
+
+- 
+
 ## ChatGPT
 
 - OpenAI 가 발표한 Generative Pre-trained Transformer 모델의 생성형 AI

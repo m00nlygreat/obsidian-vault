@@ -24,9 +24,12 @@
             "id": "ae2a6774872942f3",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "강의/버블 튜토리얼"
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -124,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
+              }
             }
           },
           {
@@ -133,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +199,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f339dce339e73b0",
+  "active": "ae2a6774872942f3",
   "lastOpenFiles": [
     "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
     "강의/생성형AI/사용자 피드백 보고서 작성하기.md",
