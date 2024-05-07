@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "글/Maybe love is hate.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
+                "file": "글/Maybe love is hate.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "글/Maybe love is hate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "글/Maybe love is hate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,11 +201,12 @@
   },
   "active": "ae2a6774872942f3",
   "lastOpenFiles": [
+    "글/Maybe love is hate.md",
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
     "강의/노코드 엔지니어링/버블.md",
     "강의/노코드 엔지니어링/노코드 유즈케이스.md",
     "글/눈물의 여왕.md",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
     "강의/생성형AI/사용자 피드백 보고서 작성하기.md",
     "강의/생성형AI/ChatGPT_logo 1.png",
@@ -236,7 +237,6 @@
     "아이디어/Human Readable Device ID.md",
     "아이디어/블록코딩 앱.md",
     "아이디어/마인크래프트 성장형 RPG 시스템.md",
-    "스크립트/왜 한글 입력에는 언제나 문제가 생기는 걸까.md",
     "강의/생성형AI/생성형AI/attachments",
     "강의/생성형AI/생성형AI",
     "강의/~$사전 평가 질문지.pptx",
