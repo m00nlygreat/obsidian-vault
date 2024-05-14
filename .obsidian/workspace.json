@@ -19,19 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "242300357583a2f5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +185,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "242300357583a2f5",
+  "active": "bcce82c4619852ca",
   "lastOpenFiles": [
     "글/Maybe love is hate.md",
     "강의/노코드 엔지니어링/교안 개선사항.md",
