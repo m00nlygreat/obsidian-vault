@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "글/눈물의 여왕.md",
+                "file": "글/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "글/눈물의 여왕.md"
+                "file": "글/Untitled.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "글/눈물의 여왕.md",
+                "file": "글/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "글/눈물의 여왕.md",
+                "file": "글/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,48 +187,51 @@
   },
   "active": "bcce82c4619852ca",
   "lastOpenFiles": [
+    "글/Untitled.md",
+    "글/모하고 지내.md",
     "글/Maybe love is hate.md",
+    "글/눈물의 여왕.md",
+    "노코드 엔지니어링/attachments/컴퓨터_프로그래밍_언어.jpg",
+    "노코드 엔지니어링/attachments/Outside.webp",
+    "노코드 엔지니어링/attachments/bubble-editor.png",
+    "노코드 엔지니어링/피그마로 UI 디자인하기.md",
+    "노코드 엔지니어링/프레이머로 블로그 만들기.md",
+    "노코드 엔지니어링/버블.md",
+    "노코드 엔지니어링/디지텍고 강의.md",
+    "노코드 엔지니어링/노코드 최강자 버블.md",
+    "노코드 엔지니어링/노코드 엔지니어링.md",
+    "노코드 엔지니어링/노코드 개론.md",
+    "노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
+    "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
+    "노코드 엔지니어링/attachments",
+    "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
+    "노코드 엔지니어링",
+    "강의/노코드 엔지니어링/피그마로 UI 디자인하기.md",
+    "강의/노코드 엔지니어링/피그마/피그마로 UI 디자인하기.md",
+    "강의/노코드 엔지니어링/피그마/피그마.md",
+    "강의/노코드 엔지니어링/피그마",
+    "강의/노코드 엔지니어링/프레이머로 블로그 만들기.md",
+    "강의/노코드 엔지니어링/노션/노션으로 랜딩페이지 만들기.md",
+    "강의/노코드 엔지니어링/노션/노션.md",
+    "강의/노코드 엔지니어링/노션/노션 강의 아웃라인.md",
+    "강의/노코드 엔지니어링/노션",
     "강의/노코드 엔지니어링/교안 개선사항.md",
     "글/플랫폼 이론.md",
     "글/외할머니가 돌아가셨다.md",
     "글/타인은 나를 비추는 거울.md",
     "글/프로덕트 기획에 ChatGPT 사용하기.md",
-    "글/현생인류가 사라지고.md",
-    "글/눈물의 여왕.md",
-    "글/오늘의 나는 누가 뭐래도 멋있었다.md",
-    "글/바탕화면 할일정리.md",
-    "글/시간이 가속되는 구간.md",
-    "글/인간도 동물일 뿐이다.md",
-    "강의/강사 소개.md",
-    "글/모하고 지내.md",
-    "글/220228 0508.md",
-    "글/버블의 불편함을 해소하는 팁 3가지.md",
-    "글/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
-    "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
-    "강의/노코드 엔지니어링/버블.md",
-    "강의/노코드 엔지니어링/노코드 유즈케이스.md",
-    "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
-    "강의/생성형AI/사용자 피드백 보고서 작성하기.md",
     "강의/생성형AI/ChatGPT_logo 1.png",
-    "강의/생성형AI/AI이모저모.md",
-    "강의/생성형AI/ChatGPT예제_회사원.md",
-    "강의/생성형AI/강사 소개.md",
     "강의/생성형AI/attachments/image33.png",
     "강의/생성형AI/attachments/rapture_20240429064828.png",
     "강의/생성형AI/attachments/rapture_20240429062808.png",
     "강의/생성형AI/attachments/rapture_20240429064739.png",
     "강의/생성형AI/attachments/rapture_20240429064743.png",
     "강의/생성형AI/attachments/rapture_20240429064756.png",
-    "강의/생성형AI/attachments/rapture_20240429064759.png",
-    "강의/생성형AI/attachments/rapture_20240429064843.png",
-    "강의/생성형AI/attachments/rapture_20240429064717.png",
     "강의/생성형AI/생성형AI/attachments",
     "강의/생성형AI/생성형AI",
     "강의/~$사전 평가 질문지.pptx",
     "강의/~$ 평가 질문지.docx",
     "강의/사전 평가 질문지.pptx",
-    "강의/사전 평가 질문지.docx",
-    "강의/노코드 엔지니어링/attachments 1"
+    "강의/사전 평가 질문지.docx"
   ]
 }
