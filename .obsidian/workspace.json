@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "글/Maybe love is hate.md",
+                "file": "글/220228 0508.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "글/Maybe love is hate.md"
+                "file": "글/220228 0508.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "글/Maybe love is hate.md",
+                "file": "글/220228 0508.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "글/Maybe love is hate.md",
+                "file": "글/220228 0508.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,6 +187,7 @@
   },
   "active": "bcce82c4619852ca",
   "lastOpenFiles": [
+    "글/Maybe love is hate.md",
     "글/글은 비장한 마음으로 쓴다.md",
     "글/외할머니가 돌아가셨다.md",
     "글/타인은 나를 비추는 거울.md",
@@ -198,7 +199,6 @@
     "글/버블의 불편함을 해소하는 팁 3가지.md",
     "글/모하고 지내.md",
     "글/눈물의 여왕.md",
-    "글/Maybe love is hate.md",
     "노코드 엔지니어링/attachments/컴퓨터_프로그래밍_언어.jpg",
     "노코드 엔지니어링/attachments/Outside.webp",
     "노코드 엔지니어링/attachments/bubble-editor.png",
