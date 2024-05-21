@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/면접 멘토링.md",
+                "file": "글/20-30대 한국 남자를 이해하기 위한 문화적 배경.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/면접 멘토링.md"
+                "file": "글/20-30대 한국 남자를 이해하기 위한 문화적 배경.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/면접 멘토링.md",
+                "file": "글/20-30대 한국 남자를 이해하기 위한 문화적 배경.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/면접 멘토링.md",
+                "file": "글/20-30대 한국 남자를 이해하기 위한 문화적 배경.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,6 +187,7 @@
   },
   "active": "bcce82c4619852ca",
   "lastOpenFiles": [
+    "글/20-30대 한국 남자를 이해하기 위한 문화적 배경.md",
     "강의/면접 멘토링.md",
     "글/모하고 지내.md",
     "글/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
@@ -216,7 +217,6 @@
     "노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
     "노코드 엔지니어링/attachments",
-    "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "노코드 엔지니어링",
     "강의/노코드 엔지니어링/피그마",
     "강의/노코드 엔지니어링/노션",
