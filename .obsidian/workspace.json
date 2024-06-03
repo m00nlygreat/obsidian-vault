@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/포트폴리오.md",
+                "file": "강의/면접 멘토링.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "right": {
     "id": "754bb3f6bae70b57",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/포트폴리오.md"
+                "file": "강의/면접 멘토링.md"
               }
             }
           },
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/포트폴리오.md",
+                "file": "강의/면접 멘토링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/포트폴리오.md",
+                "file": "강의/면접 멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +187,8 @@
   },
   "active": "bcce82c4619852ca",
   "lastOpenFiles": [
-    "강의/면접 멘토링.md",
     "강의/포트폴리오.md",
+    "강의/면접 멘토링.md",
     "글/국뽕.md",
     "글/20-30대 한국 남자를 이해하기 위한 문화적 배경.md",
     "글/Maybe love is hate.md",
