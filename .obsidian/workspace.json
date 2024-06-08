@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/면접 멘토링.md",
-                "mode": "preview",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "7c4358f549d892e1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/면접 멘토링.md"
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
               }
             }
           },
@@ -124,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/면접 멘토링.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/면접 멘토링.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,10 +196,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcce82c4619852ca",
+  "active": "7c4358f549d892e1",
   "lastOpenFiles": [
-    "강의/포트폴리오.md",
     "강의/면접 멘토링.md",
+    "강의/포트폴리오.md",
     "글/국뽕.md",
     "글/20-30대 한국 남자를 이해하기 위한 문화적 배경.md",
     "글/Maybe love is hate.md",
