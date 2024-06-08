@@ -18,20 +18,30 @@
                 "backlinks": true,
                 "source": true
               }
-            }
-          },
+            },
+            "group": "dc8366b55b7fd82c"
+          }
+        ]
+      },
+      {
+        "id": "611cda2a5aada964",
+        "type": "tabs",
+        "children": [
           {
-            "id": "7c4358f549d892e1",
+            "id": "d4db7022d80e943d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.2"
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
-            }
+            },
+            "group": "dc8366b55b7fd82c"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +206,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c4358f549d892e1",
+  "active": "d4db7022d80e943d",
   "lastOpenFiles": [
     "강의/면접 멘토링.md",
     "강의/포트폴리오.md",
