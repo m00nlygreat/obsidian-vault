@@ -278,7 +278,8 @@ author:
 
 ## ChatGPT App
 
-- 아이폰용 ChatGPT 앱,
+- 아이폰용 ChatGPT 앱
+- ChatGPT와 음성대화 가능!
 - 백그라운드 대화 
 
 ![[ChatGPT예제_회사원.md]]
