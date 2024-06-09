@@ -20,8 +20,19 @@
               }
             },
             "group": "dc8366b55b7fd82c"
+          },
+          {
+            "id": "ea4c739c0d4e1b78",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "611cda2a5aada964",
@@ -206,7 +217,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcce82c4619852ca",
+  "active": "ea4c739c0d4e1b78",
   "lastOpenFiles": [
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/ChatGPT 강의는 이제 안 하고 싶은데요.md",
