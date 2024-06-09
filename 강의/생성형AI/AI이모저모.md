@@ -99,8 +99,8 @@
 	- 개인화의 측면
 	- 비용의 측면
 - OpenAI, 동영상 생성 AI Sora 발표
-	- 중국판 Sora, Kling
+	- 중국판 Sora, Vidu와 Kling
 - AI 에이전트: 시스템과의 Integration
 	- 애플 2024 WWDC, Siri와 ChatGPT의 통합
 
-![](attachments/Pasted%20image%2020240324220603.png)
+![](attachments/Pasted%20image%2020240609231252.png)
