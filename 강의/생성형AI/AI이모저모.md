@@ -100,7 +100,7 @@
 	- 비용의 측면
 - OpenAI, 동영상 생성 AI Sora 발표
 	- 중국판 Sora, Kling
-- AI 에이전트: 시스템과의 
-- 음악 만드는 Suno, Udio
+- AI 에이전트: 시스템과의 Integration
+	- 애플 2024 WWDC, Siri와 ChatGPT의 통합
 
 ![](attachments/Pasted%20image%2020240324220603.png)
