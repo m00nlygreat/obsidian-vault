@@ -215,8 +215,9 @@ author:
 
 ![](attachments/image12.png)
 
-# ChatGPT 고급 기능 소개
+![[마크다운]]
 
+# ChatGPT 고급 기능 소개
 
 ## Custom Instruction
 
@@ -274,8 +275,6 @@ author:
 - [원본](https://getgpt.app/play/1drEpYwXhT?list=d9926747-7a55-4b38-a80d-2982de281d5f)
 
 ![](attachments/Pasted%20image%2020240610015849.png)
-
-![[마크다운]]
 
 ![[ChatGPT예제_회사원.md]]
 
