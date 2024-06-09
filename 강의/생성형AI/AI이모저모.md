@@ -66,8 +66,10 @@
 
 - 오픈AI, CEO 샘 올트먼 해임 및 복직
 - 머스크 x.ai 설립
+- 샘 올트먼, 초정렬팀 해체
+	- 일리야 수츠케버 퇴사
 
-![](attachments/image5.png)
+ ![](attachments/image5.png)
 
 ## AI의 미래
 
