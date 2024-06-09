@@ -261,6 +261,8 @@ author:
 
 ![](attachments/image15.png)
 
+![[마크다운]]
+
 ![[ChatGPT예제_회사원.md]]
 
 # 감사합니다
