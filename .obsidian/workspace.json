@@ -33,9 +33,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "045e3aa1c8d44b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "611cda2a5aada964",
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md"
               }
             }
           },
@@ -159,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,13 +233,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0744bd32494bfa1",
+  "active": "0f339dce339e73b0",
   "lastOpenFiles": [
-    "강의/생성형AI/마크다운.md",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
-    "강의/생성형AI/ChatGPT 강의는 이제 안 하고 싶은데요.md",
     "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.baked.md",
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+    "강의/생성형AI/마크다운.md",
+    "강의/생성형AI/ChatGPT 강의는 이제 안 하고 싶은데요.md",
     "강의/생성형AI/attachments/image35.png",
     "강의/생성형AI/attachments/KakaoTalk_20240610_023222764_01.png",
     "글/눈물의 여왕.md",
