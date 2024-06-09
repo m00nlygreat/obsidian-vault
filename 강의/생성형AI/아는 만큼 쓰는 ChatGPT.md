@@ -276,6 +276,11 @@ author:
 
 ![](attachments/Pasted%20image%2020240610015849.png)
 
+## ChatGPT App
+
+- 아이폰용 ChatGPT 앱,
+- 백그라운드 대화 
+
 ![[ChatGPT예제_회사원.md]]
 
 # 감사합니다
