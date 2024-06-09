@@ -217,6 +217,13 @@ author:
 
 # ChatGPT 고급 기능 소개
 
+
+## Custom Instruction
+
+- ChatGPT가 좀 더 사용자 친화적으로 대답할 수 있도록 사용자의 정보나 답변에 있어서의 희망사항을 미리 알려주기
+
+![](attachments/Pasted%20image%2020240610020555.png)
+
 ## Vision & DALL-E
 
 ::: notes
