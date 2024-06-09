@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "글/눈물의 여왕.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "글/눈물의 여왕.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
+                "file": "글/눈물의 여왕.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "글/눈물의 여왕.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "글/눈물의 여왕.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +208,9 @@
   },
   "active": "bcce82c4619852ca",
   "lastOpenFiles": [
-    "강의/생성형AI/마크다운.md",
+    "글/글은 비장한 마음으로 쓴다.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+    "강의/생성형AI/마크다운.md",
     "강의/생성형AI/attachments/Pasted image 20240610005835.png",
     "강의/생성형AI/ChatGPT예제_회사원.md",
     "강의/생성형AI/하이퍼 파라미터(Hyperparameters).md",
@@ -223,7 +224,6 @@
     "글/국뽕.md",
     "글/20-30대 한국 남자를 이해하기 위한 문화적 배경.md",
     "글/Maybe love is hate.md",
-    "글/글은 비장한 마음으로 쓴다.md",
     "글/모하고 지내.md",
     "글/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
     "글/타인은 나를 비추는 거울.md",
