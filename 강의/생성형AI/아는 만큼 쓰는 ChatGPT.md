@@ -8,8 +8,6 @@ author:
 
 ![[ChatGPT 강의는 이제 안 하고 싶은데요]]
 
-![](attachments/image33.png)
-
 ## ChatGPT
 
 - OpenAI 가 발표한 Generative Pre-trained Transformer 모델의 생성형 AI
