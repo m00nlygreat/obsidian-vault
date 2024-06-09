@@ -222,7 +222,7 @@ author:
 
 - ChatGPT가 좀 더 사용자 친화적으로 대답할 수 있도록 사용자의 정보나 답변에 있어서의 희망사항을 미리 알려주기
 
-![](attachments/Pasted%20image%2020240610020555.png)
+![](attachments/image34.png)
 
 ## Vision & DALL-E
 
