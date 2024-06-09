@@ -59,6 +59,7 @@
 
 ### 머스크 오픈AI 설립
 
+- 일론, 샘 올트먼, 일리야 수츠케버 등
 - 오픈AI와 테슬라 병합 시도
 - 실패 후 마이크로소프트에 지분 전량 매도
 
@@ -93,14 +94,13 @@
 		- NVIDIA, AI Saas 
 	- NVIDIA의 승리는 어디까지인가
 		- 인텔, 메타, Groq 등 빅테크 들의 탈NVIDIA를 위한 노력
-		- 
 - 온디바이스 AI
 	- 갤럭시?
 	- 개인화의 측면
 	- 비용의 측면
 - OpenAI, 동영상 생성 AI Sora 발표
-- 애플, 구글과 Gemini 사용 협약 중?
-- AI 에이전트
+	- 중국판 Sora, Kling
+- AI 에이전트: 시스템과의 
 - 음악 만드는 Suno, Udio
 
 ![](attachments/Pasted%20image%2020240324220603.png)
