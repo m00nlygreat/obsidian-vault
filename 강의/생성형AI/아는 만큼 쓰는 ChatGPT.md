@@ -245,8 +245,9 @@ author:
 	- LK-99 등 최근 화제가 되었던 연속성 있는 이슈
 	- '검색해줘' 등의 직접적인 표현
 - 기존 ChatGPT의 데이터 학습 시점
-	- GPT-3.5: 2022년 1월 까지의 데이터 학습
-	- GPT-4: 2023년 12월 까지의 데이터 학습
+	- GPT-3.5: 2022년 1월 까지
+	- GPT-4: 2023년 12월 까지
+	- GPT-4o: 2023년 9월 까지
 
 ![](attachments/image13.png)
 
@@ -274,6 +275,8 @@ author:
 ## 원영적사고 GPT 만들기
 
 - [원본](https://getgpt.app/play/1drEpYwXhT?list=d9926747-7a55-4b38-a80d-2982de281d5f)
+- 어떤 Instruction을 주었을까? 생각해보기
+- [까칠한 그녀]
 
 ![](attachments/Pasted%20image%2020240610015849.png)
 
