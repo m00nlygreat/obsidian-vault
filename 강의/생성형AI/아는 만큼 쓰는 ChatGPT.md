@@ -283,7 +283,7 @@ author:
 - ChatGPT와 음성대화 가능!
 - 백그라운드 대화
 
-
+![](attachments/image35.png)
 
 ![[ChatGPT예제_회사원.md]]
 
