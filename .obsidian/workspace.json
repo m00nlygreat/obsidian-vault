@@ -20,35 +20,8 @@
               }
             },
             "group": "dc8366b55b7fd82c"
-          },
-          {
-            "id": "e0744bd32494bfa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b2df957e4e4c4f91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "611cda2a5aada964",
@@ -162,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md"
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
               }
             }
           },
@@ -172,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,10 +206,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2df957e4e4c4f91",
+  "active": "d4db7022d80e943d",
   "lastOpenFiles": [
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.baked.md",
     "강의/생성형AI/마크다운.md",
     "강의/생성형AI/ChatGPT 강의는 이제 안 하고 싶은데요.md",
