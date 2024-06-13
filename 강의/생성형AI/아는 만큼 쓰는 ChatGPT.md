@@ -11,7 +11,7 @@ author:
 ## ChatGPT
 
 - OpenAI 가 발표한 Generative Pre-trained Transformer 모델의 생성형 AI
-- Transformer: 2017년 구글. 단어들 간의 유사도를 찾아내서 의미를 알아서 학습하는 모델. 
+- Transformer: 2017년 구글. 단어들 간의 유사도를 찾아내서 (셀프 어텐션) 의미를 알아서 학습하는 모델. 
 
 ### 생성형 AI (Generative AI)
 
@@ -74,7 +74,7 @@ author:
 
 - 검색엔진을 대신하는 GPT의 사용법
 - 질문해볼 만한 내용들
-	1. "아인슈타인의 상대성 이론에 대해 쉽게 설명해줘."
+	1. "아인슈타인의 상대성 이론에 대해 초등학생도 이해할 수 있도록 쉽게 설명해줘."
 	3. "네가 세계종말을 원하는 슈퍼 빌런이라면, 세계 멸망을 위해 무엇을 하겠어?"
 
 ![](attachments/image3.png)
