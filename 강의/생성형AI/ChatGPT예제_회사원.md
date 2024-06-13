@@ -59,6 +59,14 @@
 
 ![](attachments/image22.png)
 
+## 원영적사고 GPT 만들기
+
+- [원본](https://getgpt.app/play/1drEpYwXhT?list=d9926747-7a55-4b38-a80d-2982de281d5f)
+- 어떤 Instruction을 주었을까? 생각해보기
+- [까칠한 그녀 GPT](https://chatgpt.com/g/g-wIpN0ihcQ-ggacilhan-geunyeo)
+
+![](attachments/Pasted%20image%2020240610015849.png)
+
 ## 텍스트를 파워포인트 슬라이드로 만들기
 
 - 줄글을 알맞게 슬라이드로 구분하기
