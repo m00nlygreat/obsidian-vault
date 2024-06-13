@@ -282,9 +282,9 @@ author:
 
 ![](attachments/Pasted%20image%2020240610015849.png)
 
-## ChatGPT App
+## ChatGPT App Mobile/Mac
 
-- 아이폰용 ChatGPT 앱
+- 설치형ChatGPT 앱
 - ChatGPT와 음성대화 가능!
 - 백그라운드 대화
 
