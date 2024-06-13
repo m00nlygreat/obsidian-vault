@@ -11,7 +11,7 @@ author:
 ## ChatGPT
 
 - OpenAI 가 발표한 Generative Pre-trained Transformer 모델의 생성형 AI
-- Transformer: 단어들 간의 유사함을 알아서 학습하는 모델
+- Transformer: 2017년 구글. 단어들 간의 유사도를 찾아내서 의미를 알아서 학습하는 모델. 
 
 ### 생성형 AI (Generative AI)
 
