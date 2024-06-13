@@ -17,8 +17,8 @@
 
 ### 그럼 어떻게 공부할까
 
-- 암묵지와 형식지
+- 형식지와 암묵지, explicit and tacit knowledge
 - 흥미본위의 유튜브 탐색과 당장의 업무 활용으로
-- 폭넓게 바라보고 
+- 폭넓게 바라보고 여러 맥락 안에서 AI를 이해하기
 
 ![](attachments/image33.png)
