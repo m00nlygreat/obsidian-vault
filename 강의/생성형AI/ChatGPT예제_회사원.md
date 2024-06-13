@@ -1,21 +1,5 @@
 # 실전 ChatGPT
 
-## 제품 소개하기
-
-- [마이 파워 AB 슬라이드](https://www.funshop.co.kr/goods/detail/261563?t=m&t=m&utm_source=pm&utm_medium=md8&utm_campaign=pm_261563)
-	- 제품 소개글을 작성
-	- 단점을 숨기고 장점을 부각하는 형태의 제품 소개
-	- 친구가 소개하듯 친근한 말투
-- 장점
-	- 스프링이 없어 제한없이 운동 가능
-	- 운동효과 올라감
-- 단점
-	- 제한이 없는 만큼 위험하거나 운동이 고됨
-	- 조심해서 쓰지 않으면 다칠 수 있음
-- [AB슬라이드:근력으로 단련](https://chat.openai.com/share/e4006de0-8f0c-42ac-ae23-95b3bcf67f33)
-
-![](attachments/Pasted%20image%2020240325024235.png)
-
 ## 경위서 쓰기
 
 - [제가 왜 늦었냐면요 - 티키틱](https://www.youtube.com/watch?v=aODhSiEI9qM)
