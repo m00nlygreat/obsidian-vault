@@ -110,6 +110,17 @@
 - OpenAI, 동영상 생성 AI Sora 발표
 	- 중국판 Sora, Vidu와 Kling
 
+### GPT-4o
+
+- GPT-4 Omni
+	- 진정한 멀티 모달
+	- `im-a-good-gpt2-chatbot`과 `also-a-good-gpt2-chatbot`
+- 적은
+- [Be My Eyes Accessibility](https://www.youtube.com/watch?v=KwNUJ69RbwY)
+- [Say Hello to GPT-4o](https://www.youtube.com/watch?v=vgYi3Wr7v_g)
+
+
+
 ### 2024 애플 WWDC
 
 - 애플 인텔리전스
