@@ -97,7 +97,13 @@
 	- NVIDIA의 승리는 어디까지인가
 		- 인텔, 메타, Groq 등 빅테크 들의 탈NVIDIA를 위한 노력
 	- Sora와 대항마들
-		- ㅇ
+		- Sora
+		- Vidu, Kling
+		- Luma Dream Machine
+- Data 보유
+	- 빠르면 2025년 학습시킬 데이터 고갈
+	- AGI 달성을 위한 키
+
 - 온디바이스 AI
 	- 갤럭시?
 	- 개인화의 측면
