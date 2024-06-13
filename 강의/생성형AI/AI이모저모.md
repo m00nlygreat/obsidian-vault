@@ -100,6 +100,9 @@
 		- Sora
 		- Vidu, Kling
 		- Luma Dream Machine
+
+---
+
 - Data 보유
 	- 빠르면 2025년 학습시킬 데이터 고갈
 	- AGI 달성을 위한 키
@@ -110,16 +113,22 @@
 - OpenAI, 동영상 생성 AI Sora 발표
 	- 중국판 Sora, Vidu와 Kling
 
+---
+
 ### GPT-4o
 
 - GPT-4 Omni
 	- 진정한 멀티 모달
 	- `im-a-good-gpt2-chatbot`과 `also-a-good-gpt2-chatbot`
-- 적은
+- 1/2 정도의 토큰을 쓰고도 같은 성능
+	- 무료 사용자에게도 제공
+	- GPTs 무료화
 - [Be My Eyes Accessibility](https://www.youtube.com/watch?v=KwNUJ69RbwY)
 - [Say Hello to GPT-4o](https://www.youtube.com/watch?v=vgYi3Wr7v_g)
 
+![](attachments/Pasted%20image%2020240614023735.png)
 
+---
 
 ### 2024 애플 WWDC
 
