@@ -110,6 +110,10 @@
 	- 비용의 측면
 - OpenAI, 동영상 생성 AI Sora 발표
 	- 중국판 Sora, Vidu와 Kling
+
+### 2024 애플 WWDC
+
+- 애플 인텔리전스
 - AI 에이전트: 시스템과의 Integration
 	- 애플 2024 WWDC, Siri와 ChatGPT의 통합
 
