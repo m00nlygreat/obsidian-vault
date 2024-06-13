@@ -6,7 +6,8 @@
   "translucency": false,
   "cssTheme": "",
   "enabledCssSnippets": [
-    "monospace"
+    "monospace",
+    "preview"
   ],
   "textFontFamily": "Input Mono",
   "monospaceFontFamily": "Input Mono",

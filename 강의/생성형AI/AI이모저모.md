@@ -43,6 +43,7 @@
 ![](attachments/image31.png)
 
 ::: notes
+
 - AI에 대해 상반된 두 가지 입장
 	- AI는 위험하며 투명하게 공개되고 통제되어야 함 (허사비스, 머스크)
 	- AI는 인류의 발전을 가져올 중요한 파트너 (페이지)
@@ -51,12 +52,14 @@
 ### 딥마인드 구글에 인수
 
 - 머스크 반발
+
 :::
 
 ---
 
 ### 머스크 오픈AI 설립
 
+- 일론, 샘 올트먼, 일리야 수츠케버 등
 - 오픈AI와 테슬라 병합 시도
 - 실패 후 마이크로소프트에 지분 전량 매도
 
@@ -64,8 +67,10 @@
 
 - 오픈AI, CEO 샘 올트먼 해임 및 복직
 - 머스크 x.ai 설립
+- 샘 올트먼, 초정렬팀 해체
+	- 일리야 수츠케버 퇴사
 
-![](attachments/image5.png)
+ ![](attachments/image5.png)
 
 ## AI의 미래
 
@@ -84,19 +89,31 @@
 
 ## AI 이모저모
 
+### 승리의 키
+
 - 하드웨어 vs 소프트웨어?
 	- H100, H200, B200 .. 
 		- NVIDIA, AI Saas 
 	- NVIDIA의 승리는 어디까지인가
 		- 인텔, 메타, Groq 등 빅테크 들의 탈NVIDIA를 위한 노력
-		- 
+	- Sora와 대항마들
+		- Sora
+		- Vidu, Kling
+		- Luma Dream Machine
+- Data 보유
+	- 빠르면 2025년 학습시킬 데이터 고갈
+	- AGI 달성을 위한 키
+
 - 온디바이스 AI
 	- 갤럭시?
-	- 개인화의 측면
-	- 비용의 측면
+	- 개인화의 측면, 비용의 측면
 - OpenAI, 동영상 생성 AI Sora 발표
-- 애플, 구글과 Gemini 사용 협약 중?
-- AI 에이전트
-- 음악 만드는 Suno, Udio
+	- 중국판 Sora, Vidu와 Kling
 
-![](attachments/Pasted%20image%2020240324220603.png)
+### 2024 애플 WWDC
+
+- 애플 인텔리전스
+- AI 에이전트: 시스템과의 Integration
+	- 애플 2024 WWDC, Siri와 ChatGPT의 통합
+
+![](attachments/Pasted%20image%2020240609231252.png)

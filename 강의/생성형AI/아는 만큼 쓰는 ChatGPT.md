@@ -6,9 +6,12 @@ author:
 
 # 들어가며
 
+![[ChatGPT 강의는 이제 안 하고 싶은데요]]
+
 ## ChatGPT
 
 - OpenAI 가 발표한 Generative Pre-trained Transformer 모델의 생성형 AI
+- Transformer: 2017년 구글. 단어들 간의 유사도를 찾아내서 (셀프 어텐션) 의미를 알아서 학습하는 모델. 
 
 ### 생성형 AI (Generative AI)
 
@@ -24,6 +27,7 @@ author:
 - 주어진 글의 다음에 올 확률이 높은 단어를 배치하는 인공지능 모델
 - 개발자들도 원리를 잘 모른다!
 	- ChatGPT 자신도 스스로 무슨 말을 하는지 모름!
+	- [앤스로픽, AI블랙박스 작동원리 밝혀냈다...“칭찬하면 오만해져”](https://www.mk.co.kr/news/it/11021534)
 
 ![](attachments/image7.png)
 
@@ -37,8 +41,8 @@ author:
 
 - 텍스트만이 아니라, 이미지, 비디오, 음악 등을 입력받아 동시에 처리하는 AI
 - GPT-3.5 는 불가하고, GPT-4는 가능한 것
-	- GPT-5는 오디오와 비디오를 모두 지원하는 멀티 모달이 될 것이라는 예측 있음
 - 구글 Gemini는 바닥부터 멀티 모달을 기반으로 만들어짐
+- GPT-4o 의 멀티모달
 
 ![](attachments/image1.png)
 
@@ -50,24 +54,9 @@ author:
 
 ### RAG (Retrieval-Augmented Generation)
 
-- 범용으로 제작된 LLM에 특정 목적의 데이터를 첨부하여 Fine-tune 하거나 프롬프팅하는 것 
+- 범용으로 제작된 LLM에 특정 목적의 데이터를 첨부하여 정확하고 전문성 있는 답변을 생성하는 기술
 
 ![](attachments/Fpdln-jaMAA-Gw1.jpg)
-
-## ChatGPT와 생성형 AI에 대한 오해
-
-- “대박 쉬운 ChatGPT로 코딩하기” -> 쉽지 않음.
-- "해외에서 난리난 ChatGPT 신기능” -> 난리 안 남.
-- 90% 이상의 생성형 AI 관련 지식들은 유튜브를 통해 유통되고, 전파됨
-	- 공부의 시대는 갔다.
-
-### 그럼 어떻게 공부할까
-
-- 암묵지와 형식지
-	- 암묵지는 오로지 직접적인 경험으로부터 얻을 수 있음.
-	- 형식지가 보조하고, 암묵지를 주로 '훈련'하는 형태로
-
-![](attachments/image33.png)
 
 # AI 이모저모
 
@@ -81,12 +70,11 @@ author:
 
 ## 질문해보기
 
-### 간단한 사실 물어보기
+### 간단한 의견 물어보기
 
 - 검색엔진을 대신하는 GPT의 사용법
-	- 이런 용도라면 [MS Copilot](https://copilot.microsoft.com/)을 사용하면 좋음!
 - 질문해볼 만한 내용들
-	1. "아인슈타인의 상대성 이론에 대해 쉽게 설명해줘."
+	1. "아인슈타인의 상대성 이론에 대해 초등학생도 이해할 수 있도록 쉽게 설명해줘."
 	3. "네가 세계종말을 원하는 슈퍼 빌런이라면, 세계 멸망을 위해 무엇을 하겠어?"
 
 ![](attachments/image3.png)
@@ -96,9 +84,11 @@ author:
 ### 맥락을 유지한 채 계속 질문하기
 
 - 하나의 스레드(Thread)에서 계속 질문하면, 이전 대화의 맥락을 모두 가진 채 대답을 계속함
+	- 이 하나의 스레드는 일종의 샌드박스라고 볼 수 있다
 - 계속해서 질문
 	1. "그게 당시의 과학계에 어떻게 받아들여졌고 어떤 시사점을 가져왔어?"
 	2. "너의 슈퍼빌런 특성은 모든 대사에 블랙유머를 넣어 말하는 거야. 네가 말하는 모든 것들은 세계를 구하기 위해서라고 하지만 실제로는 세상을 멸망시키는 것이거든. 네가 할 법한 대사를 말해볼래?"
+- 회신하기(Reply)
 
 ![](attachments/Pasted%20image%2020240323133617.png)
 
@@ -228,7 +218,15 @@ author:
 
 ![](attachments/image12.png)
 
+![[마크다운]]
+
 # ChatGPT 고급 기능 소개
+
+## Custom Instruction
+
+- ChatGPT가 좀 더 사용자 친화적으로 대답할 수 있도록 사용자의 정보나 답변에 있어서의 희망사항을 미리 알려주기
+
+![](attachments/image34.png)
 
 ## Vision & DALL-E
 
@@ -249,8 +247,9 @@ author:
 	- LK-99 등 최근 화제가 되었던 연속성 있는 이슈
 	- '검색해줘' 등의 직접적인 표현
 - 기존 ChatGPT의 데이터 학습 시점
-	- GPT-3.5: 2022년 1월 까지의 데이터 학습
-	- GPT-4: 2023년 12월 까지의 데이터 학습
+	- GPT-3.5: 2022년 1월 까지
+	- GPT-4: 2023년 12월 까지
+	- GPT-4o: 2023년 9월 까지
 
 ![](attachments/image13.png)
 
@@ -274,6 +273,22 @@ author:
 - 만든 GPT는 스토어에 올려 누구나 쓸 수 있게 만들거나, 유료화할 수도 있음
 
 ![](attachments/image15.png)
+
+## 원영적사고 GPT 만들기
+
+- [원본](https://getgpt.app/play/1drEpYwXhT?list=d9926747-7a55-4b38-a80d-2982de281d5f)
+- 어떤 Instruction을 주었을까? 생각해보기
+- [까칠한 그녀 GPT](https://chatgpt.com/g/g-wIpN0ihcQ-ggacilhan-geunyeo)
+
+![](attachments/Pasted%20image%2020240610015849.png)
+
+## ChatGPT App
+
+- 아이폰용 ChatGPT 앱
+- ChatGPT와 음성대화 가능!
+- 백그라운드 대화
+
+![](attachments/image35.png)
 
 ![[ChatGPT예제_회사원.md]]
 
