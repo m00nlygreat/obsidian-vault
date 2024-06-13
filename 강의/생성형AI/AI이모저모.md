@@ -123,8 +123,8 @@
 - 1/2 정도의 토큰을 쓰고도 같은 성능
 	- 무료 사용자에게도 제공
 	- GPTs 무료화
-- [Be My Eyes Accessibility](https://www.youtube.com/watch?v=KwNUJ69RbwY)
 - [Say Hello to GPT-4o](https://www.youtube.com/watch?v=vgYi3Wr7v_g)
+- [Be My Eyes Accessibility](https://www.youtube.com/watch?v=KwNUJ69RbwY)
 
 ![](attachments/Pasted%20image%2020240614023735.png)
 
