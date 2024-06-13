@@ -19,6 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "481fe1f980cc92d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -160,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -181,6 +194,7 @@
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
+    "강의/생성형AI/attachments/Pasted image 20240614023735.png",
     "노코드 엔지니어링/attachments/컴퓨터_프로그래밍_언어.jpg",
     "노코드 엔지니어링/attachments/bubble-editor.png",
     "노코드 엔지니어링/attachments/Outside.webp",
@@ -211,12 +225,10 @@
     "강의/생성형AI/attachments/Pasted image 20240610015849.png",
     "강의/생성형AI/attachments/Pasted image 20240610015522.png",
     "강의/생성형AI/attachments/Pasted image 20240610005835.png",
-    "강의/생성형AI/attachments/Pasted image 20240609231252.png",
     "강의/생성형AI/ChatGPT 강의는 이제 안 하고 싶은데요.md",
     "강의/면접 멘토링.md",
     "강의/노코드 엔지니어링/피그마로 UI 디자인하기.md",
     "강의/노코드 엔지니어링/피그마/피그마로 UI 디자인하기.md",
-    "강의/노코드 엔지니어링/피그마/피그마.md",
     "강의/노코드 엔지니어링/피그마",
     "강의/노코드 엔지니어링/노션",
     "강의/attachments",

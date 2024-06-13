@@ -25,14 +25,16 @@ author:
 
 ### 그럼 어떻게 공부할까
 
-- 암묵지와 형식지
-- 흥미본위의 유튜브 탐색으로
+- 형식지와 암묵지, explicit and tacit knowledge
+- 흥미본위의 유튜브 탐색과 당장의 업무 활용으로
+- 폭넓게 바라보고 여러 맥락 안에서 AI를 이해하기
 
 ![](attachments/image33.png)
 
 ## ChatGPT
 
 - OpenAI 가 발표한 Generative Pre-trained Transformer 모델의 생성형 AI
+- Transformer: 2017년 구글. 단어들 간의 유사도를 찾아내서 (셀프 어텐션) 의미를 알아서 학습하는 모델. 
 
 ### 생성형 AI (Generative AI)
 
@@ -45,7 +47,7 @@ author:
 ### 대규모 언어모델 (Large Language Models, LLM)
 
 - 인터넷 등에 쓰여진 대량의 텍스트를 학습하여 
-- 주어진 글의 다음에 올 확률이 *높*은 단어를 배치하는 인공지능 모델
+- 주어진 글의 다음에 올 확률이 높은 단어를 배치하는 인공지능 모델
 - 개발자들도 원리를 잘 모른다!
 	- ChatGPT 자신도 스스로 무슨 말을 하는지 모름!
 	- [앤스로픽, AI블랙박스 작동원리 밝혀냈다...“칭찬하면 오만해져”](https://www.mk.co.kr/news/it/11021534)
@@ -172,17 +174,51 @@ author:
 
 ## AI 이모저모
 
+### 승리의 키
+
 - 하드웨어 vs 소프트웨어?
 	- H100, H200, B200 .. 
 		- NVIDIA, AI Saas 
 	- NVIDIA의 승리는 어디까지인가
 		- 인텔, 메타, Groq 등 빅테크 들의 탈NVIDIA를 위한 노력
+	- Sora와 대항마들
+		- Sora
+		- Vidu, Kling
+		- Luma Dream Machine
+
+---
+
+- Data 보유
+	- 빠르면 2025년 학습시킬 데이터 고갈
+	- AGI 달성을 위한 키
+
 - 온디바이스 AI
 	- 갤럭시?
-	- 개인화의 측면
-	- 비용의 측면
+	- 개인화의 측면, 비용의 측면
 - OpenAI, 동영상 생성 AI Sora 발표
 	- 중국판 Sora, Vidu와 Kling
+
+---
+
+### GPT-4o
+
+- GPT-4 Omni
+	- 진정한 멀티 모달
+	- `im-a-good-gpt2-chatbot`과 `also-a-good-gpt2-chatbot`
+- 1/2 정도의 토큰을 쓰고도 같은 성능
+	- 무료 사용자에게도 제공
+	- GPTs 무료화
+- [Be My Eyes Accessibility](https://www.youtube.com/watch?v=KwNUJ69RbwY)
+- [Say Hello to GPT-4o](https://www.youtube.com/watch?v=vgYi3Wr7v_g)
+
+![](attachments/Pasted%20image%2020240614023735.png)
+
+---
+
+### 2024 애플 WWDC
+
+- 애플 인텔리전스
+	- 10 TOPS, 1.5GB 의 성능으로 온디바이스로 작동
 - AI 에이전트: 시스템과의 Integration
 	- 애플 2024 WWDC, Siri와 ChatGPT의 통합
 
@@ -196,11 +232,11 @@ author:
 
 ## 질문해보기
 
-### 간단한 사실 물어보기
+### 간단한 의견 물어보기
 
 - 검색엔진을 대신하는 GPT의 사용법
 - 질문해볼 만한 내용들
-	1. "아인슈타인의 상대성 이론에 대해 쉽게 설명해줘."
+	1. "아인슈타인의 상대성 이론에 대해 초등학생도 이해할 수 있도록 쉽게 설명해줘."
 	3. "네가 세계종말을 원하는 슈퍼 빌런이라면, 세계 멸망을 위해 무엇을 하겠어?"
 
 ![](attachments/image3.png)
@@ -214,6 +250,7 @@ author:
 - 계속해서 질문
 	1. "그게 당시의 과학계에 어떻게 받아들여졌고 어떤 시사점을 가져왔어?"
 	2. "너의 슈퍼빌런 특성은 모든 대사에 블랙유머를 넣어 말하는 거야. 네가 말하는 모든 것들은 세계를 구하기 위해서라고 하지만 실제로는 세상을 멸망시키는 것이거든. 네가 할 법한 대사를 말해볼래?"
+- 회신하기(Reply)
 
 ![](attachments/Pasted%20image%2020240323133617.png)
 
@@ -449,39 +486,15 @@ author:
 
 ![](attachments/image15.png)
 
-## 원영적사고 GPT 만들기
+## ChatGPT App Mobile/Mac
 
-- [원본](https://getgpt.app/play/1drEpYwXhT?list=d9926747-7a55-4b38-a80d-2982de281d5f)
-- 어떤 Instruction을 주었을까? 생각해보기
-- [까칠한 그녀 GPT](https://chatgpt.com/g/g-wIpN0ihcQ-ggacilhan-geunyeo)
-
-![](attachments/Pasted%20image%2020240610015849.png)
-
-## ChatGPT App
-
-- 아이폰용 ChatGPT 앱
+- 설치형ChatGPT 앱
 - ChatGPT와 음성대화 가능!
 - 백그라운드 대화
 
 ![](attachments/image35.png)
 
 # 실전 ChatGPT
-
-## 제품 소개하기
-
-- [마이 파워 AB 슬라이드](https://www.funshop.co.kr/goods/detail/261563?t=m&t=m&utm_source=pm&utm_medium=md8&utm_campaign=pm_261563)
-	- 제품 소개글을 작성
-	- 단점을 숨기고 장점을 부각하는 형태의 제품 소개
-	- 친구가 소개하듯 친근한 말투
-- 장점
-	- 스프링이 없어 제한없이 운동 가능
-	- 운동효과 올라감
-- 단점
-	- 제한이 없는 만큼 위험하거나 운동이 고됨
-	- 조심해서 쓰지 않으면 다칠 수 있음
-- [AB슬라이드:근력으로 단련](https://chat.openai.com/share/e4006de0-8f0c-42ac-ae23-95b3bcf67f33)
-
-![](attachments/Pasted%20image%2020240325024235.png)
 
 ## 경위서 쓰기
 
@@ -533,15 +546,6 @@ author:
 
 ![](attachments/image20.png)
 
-## 2024년 디자인 업계 트렌드 알아보기
-
-- GPT-4 Browsing 기능 활용하여 최신 정보 탐색하기
-	- GPT-4 Browsing이 웹을 검색하는 것을, 많은 뉴스 웹사이트에서는 막아놓았을 수 있음.
-- 2024년 디자인 업계 트렌드에 대해 알아보기
-	- 내용을 출처를 포함한 블로그 글 형태로 정리
-
-![](attachments/image21.png)
-
 ## GPTs
 
 - PDF로 된 신입사원 매뉴얼을 학습하고, 신입사원의 질문에 답하는 GPT 만들기
@@ -550,6 +554,14 @@ author:
 	- [친절한 김대리](https://chat.openai.com/g/g-bEYIII6S6-cinjeolhan-gimdaeri)
 
 ![](attachments/image22.png)
+
+## 원영적사고 GPT 만들기
+
+- [원본](https://getgpt.app/play/1drEpYwXhT?list=d9926747-7a55-4b38-a80d-2982de281d5f)
+- 어떤 Instruction을 주었을까? 생각해보기
+- [까칠한 그녀 GPT](https://chatgpt.com/g/g-wIpN0ihcQ-ggacilhan-geunyeo)
+
+![](attachments/Pasted%20image%2020240610015849.png)
 
 ## 텍스트를 파워포인트 슬라이드로 만들기
 

@@ -274,17 +274,9 @@ author:
 
 ![](attachments/image15.png)
 
-## 원영적사고 GPT 만들기
+## ChatGPT App Mobile/Mac
 
-- [원본](https://getgpt.app/play/1drEpYwXhT?list=d9926747-7a55-4b38-a80d-2982de281d5f)
-- 어떤 Instruction을 주었을까? 생각해보기
-- [까칠한 그녀 GPT](https://chatgpt.com/g/g-wIpN0ihcQ-ggacilhan-geunyeo)
-
-![](attachments/Pasted%20image%2020240610015849.png)
-
-## ChatGPT App
-
-- 아이폰용 ChatGPT 앱
+- 설치형ChatGPT 앱
 - ChatGPT와 음성대화 가능!
 - 백그라운드 대화
 

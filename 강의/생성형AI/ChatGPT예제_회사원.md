@@ -1,21 +1,5 @@
 # 실전 ChatGPT
 
-## 제품 소개하기
-
-- [마이 파워 AB 슬라이드](https://www.funshop.co.kr/goods/detail/261563?t=m&t=m&utm_source=pm&utm_medium=md8&utm_campaign=pm_261563)
-	- 제품 소개글을 작성
-	- 단점을 숨기고 장점을 부각하는 형태의 제품 소개
-	- 친구가 소개하듯 친근한 말투
-- 장점
-	- 스프링이 없어 제한없이 운동 가능
-	- 운동효과 올라감
-- 단점
-	- 제한이 없는 만큼 위험하거나 운동이 고됨
-	- 조심해서 쓰지 않으면 다칠 수 있음
-- [AB슬라이드:근력으로 단련](https://chat.openai.com/share/e4006de0-8f0c-42ac-ae23-95b3bcf67f33)
-
-![](attachments/Pasted%20image%2020240325024235.png)
-
 ## 경위서 쓰기
 
 - [제가 왜 늦었냐면요 - 티키틱](https://www.youtube.com/watch?v=aODhSiEI9qM)
@@ -66,15 +50,6 @@
 
 ![](attachments/image20.png)
 
-## 2024년 디자인 업계 트렌드 알아보기
-
-- GPT-4 Browsing 기능 활용하여 최신 정보 탐색하기
-	- GPT-4 Browsing이 웹을 검색하는 것을, 많은 뉴스 웹사이트에서는 막아놓았을 수 있음.
-- 2024년 디자인 업계 트렌드에 대해 알아보기
-	- 내용을 출처를 포함한 블로그 글 형태로 정리
-
-![](attachments/image21.png)
-
 ## GPTs
 
 - PDF로 된 신입사원 매뉴얼을 학습하고, 신입사원의 질문에 답하는 GPT 만들기
@@ -83,6 +58,14 @@
 	- [친절한 김대리](https://chat.openai.com/g/g-bEYIII6S6-cinjeolhan-gimdaeri)
 
 ![](attachments/image22.png)
+
+## 원영적사고 GPT 만들기
+
+- [원본](https://getgpt.app/play/1drEpYwXhT?list=d9926747-7a55-4b38-a80d-2982de281d5f)
+- 어떤 Instruction을 주었을까? 생각해보기
+- [까칠한 그녀 GPT](https://chatgpt.com/g/g-wIpN0ihcQ-ggacilhan-geunyeo)
+
+![](attachments/Pasted%20image%2020240610015849.png)
 
 ## 텍스트를 파워포인트 슬라이드로 만들기
 
