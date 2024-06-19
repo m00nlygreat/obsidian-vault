@@ -30,9 +30,19 @@
                 "path": "메모"
               }
             }
+          },
+          {
+            "id": "621f80213ca8fc50",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "611cda2a5aada964",
@@ -145,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
+              }
             }
           },
           {
@@ -154,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +227,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f339dce339e73b0",
+  "active": "621f80213ca8fc50",
   "lastOpenFiles": [
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
