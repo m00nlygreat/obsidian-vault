@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/AI이모저모.md",
+                "file": "강의/HTML-CSS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/AI이모저모.md",
+                "file": "강의/HTML-CSS.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/AI이모저모.md"
+                "file": "강의/HTML-CSS.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/AI이모저모.md",
+                "file": "강의/HTML-CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/AI이모저모.md",
+                "file": "강의/HTML-CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,9 +218,10 @@
   },
   "active": "bcce82c4619852ca",
   "lastOpenFiles": [
+    "강의/생성형AI/AI이모저모.md",
+    "강의/HTML-CSS.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
-    "강의/생성형AI/AI이모저모.md",
     "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.baked.md",
     "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
     "강의/생성형AI/사용자 피드백 보고서 작성하기.md",
@@ -255,7 +256,6 @@
     "글/타인은 나를 비추는 거울.md",
     "글/인간도 동물일 뿐이다.md",
     "글/외할머니가 돌아가셨다.md",
-    "글/오늘의 나는 누가 뭐래도 멋있었다.md",
     "노코드 엔지니어링/attachments",
     "노코드 엔지니어링",
     "강의/노코드 엔지니어링/피그마",
