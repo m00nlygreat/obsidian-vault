@@ -217,4 +217,14 @@ Uniform Resource Locator. 어떠한 정보 또는 자원의 위치를 표현하�
 
 ### 시맨틱 태그 (Semantic Tags)
 
-- 
+레이아웃에서 어떤 역할인지 밝히는 컨테이너 요소
+
+- `<header>`, `<section>`, `<article>`, `<nav>`, `<aside>`, `<footer>`
+
+![](attachments/Pasted%20image%2020240624163557.png)
+
+# CSS
+
+## Cascading Style Sheet
+
+HTML을 꾸미는 
