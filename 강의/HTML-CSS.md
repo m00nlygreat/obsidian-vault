@@ -73,6 +73,6 @@ HTML 문서의 루트
 
 - `<p>` 태그: Paragraph
 - `<a>` 태그: 하이퍼 링크
-- `<ul>`, `<ol>` 태그
+- `<ul>`, `<ol>` Unordered, Ordered List 태그
 	- `<li>` 태그
 - 
