@@ -18,28 +18,7 @@
                 "backlinks": true,
                 "source": true
               }
-            },
-            "group": "dc8366b55b7fd82c"
-          }
-        ]
-      },
-      {
-        "id": "611cda2a5aada964",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d4db7022d80e943d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/HTML-CSS.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            },
-            "group": "dc8366b55b7fd82c"
+            }
           }
         ]
       }

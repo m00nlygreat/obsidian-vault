@@ -187,7 +187,15 @@ HTML의 예약어로 사용되는 문자를 표시하는 방법
 - `method`: `GET` 또는 `POST`
 - `action`: 폼을 전송할 서버의 script 파일 지정 = URL
 - `name`: 스크립트에서 다루기 위한 이름, 식별자.
-- 
+
+## `<input>` 태그
+
+사용자의 입력을 받기위한 UI 엘리먼트
+
+### attributes
+
+- type : 인풋 요소의 형태를 결정
+	- 
 
 ## URL
 
