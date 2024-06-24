@@ -198,12 +198,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,7 +216,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcce82c4619852ca",
+  "active": "ac2a8cc2bb5f70a5",
   "lastOpenFiles": [
     "글/프로덕트 기획에 ChatGPT 사용하기.md",
     "강의/HTML-CSS.md",

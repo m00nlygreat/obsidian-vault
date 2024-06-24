@@ -78,3 +78,15 @@ HTML 문서의 루트
 - `<ul>`, `<ol>` Unordered, Ordered List 태그
 	- `<li>` 태그
 - `<pre>`: preformat
+
+---
+
+### 특수문자
+
+
+| 특수문자 | 설명                     |
+| -------- | ------------------------ |
+| `&nbsp;` | non-breaking space, 공백 |
+| `&lt;`   | less than >              |
+| `&gt;`   | greater than <           |
+| &quot;         |                          |
