@@ -186,11 +186,12 @@ HTML의 예약어로 사용되는 문자를 표시하는 방법
 
 - `method`: `GET` 또는 `POST`
 - `action`: 폼을 전송할 서버의 script 파일 지정 = URL
+- `name`: 스크립트에서 다루기 위한 이름, 식별자.
 - 
 
 ## URL
 
-Uniform Resource Locator
+Uniform Resource Locator. 어떠한 정보 또는 자원의 위치를 표현하기 위한 규격
 
 ```
 프로토콜://사용자정보@호스트:포트/경로?쿼리#프래그먼트
