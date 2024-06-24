@@ -198,8 +198,6 @@ HTML의 예약어로 사용되는 문자를 표시하는 방법
 - `type` : 인풋 요소의 형태를 결정
 	- `text`, `tel`, `url`, `email`, `password`, `number`, `search`, `range`, `color`, `checkbox`, `radio`, `datetime`, `datetime-local`, `date`, `month`, `week`, `time`, `button`, `file`, `submit`, `image`, `reset`
 
-
-
 ## URL
 
 Uniform Resource Locator. 어떠한 정보 또는 자원의 위치를 표현하기 위한 규격
@@ -209,4 +207,6 @@ Uniform Resource Locator. 어떠한 정보 또는 자원의 위치를 표현하�
 ```
 
 ## 시맨틱 태그
+
+
 
