@@ -1,7 +1,9 @@
 ## 태그의 구조
 
-Opening Tag
-
+- Opening Tag
+- Tag name
+- Attiributes
+- 
 
 
 
@@ -48,3 +50,4 @@ HTML 문서의 루트
 
 ### `<style>`
 
+문서 한정의 CSS 스타일을 정의할 수 있는 
