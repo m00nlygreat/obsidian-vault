@@ -340,4 +340,7 @@ HTML 요소들을 꾸미는 방법을 정의하는 규칙
 
 - Margin: 박스의 바깥 여백
 - Border: 외곽선의 굵기
-- Padding: 박스의 안쪽 여백 
+- Padding: 박스의 안쪽 여백
+
+![](attachments/Pasted%20image%2020240624180948.png)
+
