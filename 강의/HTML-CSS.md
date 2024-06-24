@@ -1,6 +1,7 @@
 ## 태그의 구조
 
-Open Tag
+Opening Tag
+
 
 
 
