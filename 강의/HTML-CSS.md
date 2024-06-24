@@ -14,3 +14,20 @@ HTML 문서의 루트
 
 ## `<head>`
 
+### `<meta>`
+
+메타 데이터를 표현하는 태그
+
+#### 오픈 그래프(Open Graph)
+
+```
+<head>
+  <meta property="og:title" content="웹페이지 제목" />
+  <meta property="og:description" content="웹페이지 설명" />
+  <meta property="og:image" content="웹페이지 이미지 URL" />
+  <meta property="og:url" content="웹페이지 URL" />
+</head>
+```
+
+웹사이트의 정보를 요약하고 대표하는 이미지를 표현하는 메타 태그
+
