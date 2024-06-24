@@ -6,7 +6,7 @@
 - Content (내용)
 - Closing Tag 
 
-
+Closing Tag가 없고 Opening Tag만 있는 경우, 끝에 슬래시(`/`)를 붙여 표시해주기도 한다.
 
 
 ## HTML의 구조
