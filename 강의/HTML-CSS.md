@@ -80,7 +80,7 @@ HTML 문서의 루트
 - `<a>` 태그: 하이퍼 링크
 - `<ul>`, `<ol>` Unordered, Ordered List 태그
 	- `<li>` 태그
-- `<pre>`: preformat
+- `<pre>`: pre-format
 
 ---
 
