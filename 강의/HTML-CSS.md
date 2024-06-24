@@ -114,4 +114,17 @@ HTML의 예약어로 사용되는 문자를 표시하는 방법
 
 ### 테이블 태그
 
-- 
+```
+<table>
+	<thead>
+		<th>열 제목</th>
+		<th>열2 제목</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>내용 셀</td>
+			<td>내용 셀2</td>
+		</tr>
+	</tbody>
+</table>
+```
