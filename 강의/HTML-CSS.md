@@ -227,4 +227,7 @@ Uniform Resource Locator. 어떠한 정보 또는 자원의 위치를 표현하�
 
 ## Cascading Style Sheet
 
-HTML을 꾸미는 
+HTML 요소들을 꾸미는 방법을 정의하는 규칙
+
+### Cascading (캐스케이딩, 계단식)
+
