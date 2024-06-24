@@ -374,5 +374,8 @@ div {
 
 - 모든 HTML 요소는 기본적으로 block 또는 in-line의 속성을 가지고 있다.
 - Block: 문서의 가로폭을 모두 차지하고 줄바꿈을 일으키는 요소
+	- `<a>`, `<b>`, `<input>`, `<span>`
 - In-line: 정해진 만큼만 가로폭을 차지하고 줄바꿈을 일으키지 않는 요소
-- 
+	- `<p>`, `<h1>`, `<ul>`, `<li>`, `<div>`, `<audio>`
+- CSS의 `display` 속성을 통해 이를 변경할 수 있다.
+	- block, inline
