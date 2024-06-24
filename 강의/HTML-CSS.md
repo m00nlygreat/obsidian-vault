@@ -268,5 +268,6 @@ HTML 요소들을 꾸미는 방법을 정의하는 규칙
 
 - 타입 셀렉터: `h1`, `img` 등의 HTML 요소의 종류를 전부 선택
 - 클래스 셀렉터: HTML 요소에 `class` attribute를 사용해 부여한 클래스 이름을 가진 모든 요소를 선택
-- ID 셀렉터: HTML 요소에 `id` attribute를 사용해 부여한 ID를 가진 요소를 선택
+- ID 셀렉터: HTML 요소에 `id` attribute를 사용해 부여한 ID를 가진 요소를 선택 (문서 내 1개)
+- 속성 셀렉터: 특정 attribute를 가지고 있거나 특정 attribute의 값이 특정되는 HTML 요소를 모두 선택
 - 
