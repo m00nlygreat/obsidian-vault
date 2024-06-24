@@ -442,8 +442,14 @@ div {
 ## flexbox
 
 - 1차원 레이아웃을 다루기 위한 속성
-- `display: flex;`
 
-- flex-direction: 
+### 컨테이너 속성
+
+- `display: flex;`
+- `flex-flow: row wrap;`
+	- `flex-direction: row | row-reverse | column | column-reverse;`
+	- `flex-wrap: nowrap | wrap | wrap-reverse`
+- `justify-content: flex-start | flex-end | center | space-around | space-evenly | space-between`
+- 
 
 ![](attachments/Pasted%20image%2020240624184631.png)
