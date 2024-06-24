@@ -307,6 +307,11 @@ HTML 요소들을 꾸미는 방법을 정의하는 규칙
 
 ## 가상 클래스(pseudo-class) 셀렉터
 
-- 콜론(`:`)을 사용해 정의
+- 콜론(`:`)을 사용해 정의. 
+- 특정 요소를 기준으로 요소를 찾거나, 특정 상태에 있는 요소를 선택
 - `:hover`, `:active`, `:focus`, `:link`, `:visited`
-- `:nth-child(n)`, `:first-child`, 
+- `:nth-child(n)`, `:first-child`, `:first-of-type`, 
+
+## 가상 요소 (pseudo-element)
+
+- 특정 선택자에 의해 선택된 요소를 기준으로 콘텐츠를 생성하거나 
