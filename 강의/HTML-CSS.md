@@ -308,4 +308,5 @@ HTML 요소들을 꾸미는 방법을 정의하는 규칙
 ## 가상 클래스(pseudo-class) 셀렉터
 
 - 콜론(`:`)을 사용해 정의
-- :hover
+- `:hover`, `:active`, `:focus`, `:link`, `:visited`
+- `:nth-child(n)`, `:first-child`, 
