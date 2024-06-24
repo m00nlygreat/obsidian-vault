@@ -467,3 +467,9 @@ div {
 ---
 
 ![](attachments/0_YeaUsQyhXSL1TCTH.png)
+
+## CSS 전처리기
+
+- CSS의 확장 문법을 사용하여 더욱 간편하고 강력한 스타일링을 할 수 있는 도구
+- 브라우저가 자체적으로 해석할 수 없으나 컴파일을 통해 css로 변환된다.
+- Sass, SCSS, Less
