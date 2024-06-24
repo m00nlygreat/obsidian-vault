@@ -450,6 +450,16 @@ div {
 	- `flex-direction: row | row-reverse | column | column-reverse;`
 	- `flex-wrap: nowrap | wrap | wrap-reverse`
 - `justify-content: flex-start | flex-end | center | space-around | space-evenly | space-between`
-- 
+- `align-item: center | baseline`
+- `align-content`
+
+---
+
+### 아이템 속성
+
+- `order`: 디폴트 `0`, HTML 상의 순서를 임의로 덮어씌울 수 있다.
+- `flow-grow`: 늘어날 때 늘어나는 공간을 차지하는 비율
+- `flow-shrink`: 줄어들 때 줄어드는 공간 만큼 스스로를 줄일 비율
+- `align-self`
 
 ![](attachments/Pasted%20image%2020240624184631.png)
