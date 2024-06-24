@@ -420,4 +420,6 @@ div {
 ## position
 
 - `static`: 기본값 (브라우저가 배치하는 방식, inline, block을 따름)
-- `relative`:  
+- `relative`: 본연의 위치에서 `top`, `left` 적용
+- `absolute`: 본연의 위치를 벗어나서 문서 내에 절대적 위치
+- `fixed`: 
