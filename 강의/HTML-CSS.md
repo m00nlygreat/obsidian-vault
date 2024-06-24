@@ -184,6 +184,7 @@ HTML의 예약어로 사용되는 문자를 표시하는 방법
 
 ### attributes
 
+- `method`: `GET` 또는 `POST`
 - `action`: 폼을 전송할 서버의 script 파일 지정 = URL
 - 
 
