@@ -331,4 +331,13 @@ HTML 요소들을 꾸미는 방법을 정의하는 규칙
 - `%` 부모 크기에 대한 상대적 크기
 	- 부모가 크기가 없으면 자식도 없게 된다.
 - `vw`, `vh`: Viewport width, height. 디바이스의 한 화면에 보이는 크기
-- `em`, `rem`: 부모 또는 `html` 요소dㅇ
+- `em`, `rem`: 부모 또는 `html` 요소의 `font-size`에 비례한 단위
+- `lh`, `rlh`: 엘리먼트의 line-height 속성을 따라가는 `lh`, `html` 요소의 line-height를 따라가는 `rlh`
+
+## 박스모델
+
+모든 HTML 요소는 박스로 되어 있으며, 각각 패딩과 마진을 가지고 레이아웃을 차지하게 된다는 CSS의 원리
+
+- Margin: 박스의 바깥 여백
+- Border: 외곽선의 굵기
+- Padding: 박스의 안쪽 여백 
