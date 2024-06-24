@@ -6,6 +6,7 @@
 	- Tag name
 	- Attiributes
 		- key / value
+		- 값이 없는 attribute도 있음.
 - Content (내용)
 - Closing Tag 
 
@@ -95,7 +96,7 @@ HTML의 예약어로 사용되는 문자를 표시하는 방법
 | `&quot;` | quotation mark "         |
 | `&amp;`  | ampersand &              |
 
-### 텍스트 서식
+## 텍스트 서식
 
 텍스트 안에서 사용되는 강조 등의 서식
 
@@ -114,9 +115,7 @@ HTML의 예약어로 사용되는 문자를 표시하는 방법
 - `<ins>`, `<del>`: 문서에서 추가되거나 삭제된 등의 버전 관리를 하기 위해 표시
 - `<em>`: emphasize 강조할 부분을 가리킴. 
 
----
-
-### 테이블 태그
+## 테이블 태그
 - 테이블 관련 태그는 표 형식의 데이터를 표시할 때만 쓴다.
 - `rowspan`, `colspan` attribute를 사용해 셀 병합
 
@@ -134,4 +133,7 @@ HTML의 예약어로 사용되는 문자를 표시하는 방법
 	</tbody>
 </table>
 ```
+
+### 시맨틱 태그
+
 
