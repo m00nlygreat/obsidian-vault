@@ -439,5 +439,11 @@ div {
 - 설정되지 않으면 HTML 상에서 나중에 나오는 요소가 전에 나온 요소를 덮음
 - `z-index`가 높은 속성이 위로 올라가게 됨
 
-## flex
+## flexbox
 
+- 1차원 레이아웃을 다루기 위한 속성
+- `display: flex;`
+
+- flex-direction: 
+
+![](attachments/Pasted%20image%2020240624184631.png)
