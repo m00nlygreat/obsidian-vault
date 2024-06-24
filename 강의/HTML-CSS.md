@@ -410,4 +410,14 @@ div {
 
 ### 박스 그림자
 
-`box-shadow`: 
+- `box-shadow: 10px 10px 20px gray;`
+	- 각각 h-offset, v-offset, blur, spread, color를 의미
+
+### 텍스트 그림자
+
+- `text-shadow: 상동;`
+
+## position
+
+- `static`: 기본값 (브라우저가 배치하는 방식, inline, block을 따름)
+- `relative`:  
