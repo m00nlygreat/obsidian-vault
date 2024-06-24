@@ -378,4 +378,20 @@ div {
 - In-line: 정해진 만큼만 가로폭을 차지하고 줄바꿈을 일으키지 않는 요소
 	- `<p>`, `<h1>`, `<ul>`, `<li>`, `<div>`, `<audio>`
 - CSS의 `display` 속성을 통해 이를 변경할 수 있다.
-	- block, inline
+	- `block`, `inline`, `inline-block`, `none`
+
+## Visibiliy, Overflow
+
+### visibility
+
+- `visibility: visible`
+	- 보임
+- `visibility: hidden`
+	- 안보이지만 자리는 차지함
+
+
+### 넘치는 경우
+
+- `overflow: hidden;`
+	- 넘칠 시 자르고 감춤
+- `overflow: scroll`
