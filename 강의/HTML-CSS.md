@@ -3,6 +3,7 @@
 - Opening Tag (여는 태그)
 	- Tag name
 	- Attiributes
+		- key / value
 - Content (내용)
 - Closing Tag 
 
