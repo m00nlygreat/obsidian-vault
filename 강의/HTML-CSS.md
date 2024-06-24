@@ -360,4 +360,19 @@ div {
 
 ## Border
 
+- Border의 굵기만큼 Box의 영역을 차지함
+
+```
+div {
+	border: 10px solid blue;
+}
+```
+
+- `border-with`, `border-style`, `border-color`의 형태로 분리해서 작성 가능
+
+## Block & In-line level
+
+- 모든 HTML 요소는 기본적으로 block 또는 in-line의 속성을 가지고 있다.
+- Block: 문서의 가로폭을 모두 차지하고 줄바꿈을 일으키는 요소
+- In-line: 정해진 만큼만 가로폭을 차지하고 줄바꿈을 일으키지 않는 요소
 - 
