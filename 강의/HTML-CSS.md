@@ -72,7 +72,9 @@ HTML 문서의 루트
 ### 본문
 
 - `<p>` 태그: Paragraph
+- `<br/>` 태그: line-break
+- `<hr/>` 태그: horizontal line
 - `<a>` 태그: 하이퍼 링크
 - `<ul>`, `<ol>` Unordered, Ordered List 태그
 	- `<li>` 태그
-- 
+- `<pre>`: preformat
