@@ -1,9 +1,11 @@
 ## 태그의 구조
 
-- Opening Tag
-- Tag name
-- Attiributes
-- 
+- Opening Tag (여는 태그)
+	- Tag name
+	- Attiributes
+- Content (내용)
+- Closing Tag 
+
 
 
 
