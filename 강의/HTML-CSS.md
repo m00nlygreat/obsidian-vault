@@ -342,6 +342,11 @@ HTML 요소들을 꾸미는 방법을 정의하는 규칙
 - Border: 외곽선의 굵기
 - Padding: 박스의 안쪽 여백
 
+### box-sizing
+
+- `box-sizing: border-box`: width의 기준을 border 굵기 포함하여 계산
+- `box-sizing: content-box`: width의 기준을 content에 한정
+
 ![](attachments/Pasted%20image%2020240624180948.png)
 
 ## Margin, Padding
@@ -394,4 +399,15 @@ div {
 
 - `overflow: hidden;`
 	- 넘칠 시 자르고 감춤
-- `overflow: scroll`
+- `overflow: scroll;`
+	- 넘칠 시 스크롤 바
+- `overflow: visible;`
+	- 넘칠 시 그냥 보여줌
+- `overflow: auto`
+	- 넘칠 시 알아서 스크롤 바 보여줌 
+
+## 그림자
+
+### 박스 그림자
+
+`box-shadow`: 
