@@ -135,5 +135,12 @@ HTML의 예약어로 사용되는 문자를 표시하는 방법
 ```
 
 
+## `<a>` 태그
 
+- 자식 요소 또는 텍스트에 링크를 걸 때 사용 (anchor)
 
+### attributes
+
+- `href="{url}"`
+- `target="_blank"`
+- `download="{filename}"`
