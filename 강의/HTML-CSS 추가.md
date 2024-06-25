@@ -4,4 +4,4 @@
 
 - emmet
 - feather icons
-- 
+- 모든 css 속성ㄱ
