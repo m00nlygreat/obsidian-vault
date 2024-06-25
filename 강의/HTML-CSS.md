@@ -468,6 +468,10 @@ div {
 
 ![](attachments/0_YeaUsQyhXSL1TCTH.png)
 
+## 미디어쿼리
+
+
+
 ## CSS 전처리기
 
 - CSS의 확장 문법을 사용하여 더욱 간편하고 강력한 스타일링을 할 수 있는 도구
