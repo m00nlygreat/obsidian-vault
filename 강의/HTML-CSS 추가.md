@@ -3,5 +3,5 @@
 - 마진 겹침
 
 - emmet
-- font awesome
+- feather icons
 - 
