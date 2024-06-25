@@ -124,9 +124,11 @@ HTML의 예약어로 사용되는 문자를 표시하는 방법
 
 ```
 <table>
-	<thead>
-		<th>열 제목</th>
-		<th>열2 제목</th>
+	<thead> 
+		<tr>
+			<th>열 제목</th>
+			<th>열2 제목</th>
+		</tr>
 	</thead>
 	<tbody>
 		<tr> <!-- 행 태그 -->
