@@ -11,3 +11,5 @@
 
 - 형광펜 효과
 https://66651.tistory.com/274
+
+css variable
