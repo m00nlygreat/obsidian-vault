@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "글/누군가의 인생을 망가뜨릴 용기.md",
+                "file": "글/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "글/누군가의 인생을 망가뜨릴 용기.md"
+                "file": "글/Untitled.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "글/누군가의 인생을 망가뜨릴 용기.md",
+                "file": "글/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "글/누군가의 인생을 망가뜨릴 용기.md",
+                "file": "글/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,8 +187,9 @@
   },
   "active": "bcce82c4619852ca",
   "lastOpenFiles": [
-    "강의/HTML-CSS 추가.md",
     "글/누군가의 인생을 망가뜨릴 용기.md",
+    "글/Untitled.md",
+    "강의/HTML-CSS 추가.md",
     "강의/HTML-CSS.md",
     "강의/_HTML-CSS.md",
     "강의/attachments/Pasted image 20240624190139.png",
@@ -224,7 +225,6 @@
     "글/국뽕.md",
     "글/20-30대 한국 남자를 이해하기 위한 문화적 배경.md",
     "글/Maybe love is hate.md",
-    "글/모하고 지내.md",
     "노코드 엔지니어링/attachments",
     "노코드 엔지니어링",
     "강의/노코드 엔지니어링/피그마",
