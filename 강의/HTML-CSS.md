@@ -323,6 +323,14 @@ HTML 요소들을 꾸미는 방법을 정의하는 규칙
 - `::after`, `::before`
 - [예시](https://developer.mozilla.org/en-US/docs/Web/CSS/::after)
 
+##  Emmet
+
+- 여러 HTML 태그 구조를 입력하는 단축 표현 확장
+- 본래 Extension이었으나 현재는 VS Code에 통합됨
+- `html:5`
+- `html>body>ul>li*5`
+- `div.classname>span.lable+input[type="submit"]`
+
 # CSS 선언부(declaration)
 
 ## 단위 (Units)
