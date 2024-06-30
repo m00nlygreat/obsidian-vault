@@ -344,6 +344,10 @@ HTML 요소들을 꾸미는 방법을 정의하는 규칙
 - `em`, `rem`: 부모 또는 `html` 요소의 `font-size`에 비례한 단위
 - `lh`, `rlh`: 엘리먼트의 line-height 속성을 따라가는 `lh`, `html` 요소의 line-height를 따라가는 `rlh`
 
+## 타입 (Types)
+
+
+
 ## 박스모델
 
 모든 HTML 요소는 박스로 되어 있으며, 각각 패딩과 마진을 가지고 레이아웃을 차지하게 된다는 CSS의 원리
