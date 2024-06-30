@@ -333,9 +333,15 @@ HTML 요소들을 꾸미는 방법을 정의하는 규칙
 
 # CSS 선언부(declaration)
 
+## 타입 (Types)
+
+- 텍스트, 숫자, 컬러
+- url()
+- [CSS Data types](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Types)
+
 ## 단위 (Units)
 
-1차원 크기를 결정짓는 여러가지 단위가 있으며, 단위의 이해도에 따른 결과물의 차이가 크다.
+1차원 크기(distant)를 결정짓는 여러가지 단위가 있으며, 단위의 이해도에 따른 결과물의 차이가 크다.
 
 - `px` 픽셀.
 - `%` 부모 크기에 대한 상대적 크기
@@ -343,12 +349,6 @@ HTML 요소들을 꾸미는 방법을 정의하는 규칙
 - `vw`, `vh`: Viewport width, height. 디바이스의 한 화면에 보이는 크기
 - `em`, `rem`: 부모 또는 `html` 요소의 `font-size`에 비례한 단위
 - `lh`, `rlh`: 엘리먼트의 line-height 속성을 따라가는 `lh`, `html` 요소의 line-height를 따라가는 `rlh`
-
-## 타입 (Types)
-
-- 텍스트, 숫자, 컬러
-- url()
-- [CSS Data types](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Types)
 
 ### CSS-wide keywords
 
