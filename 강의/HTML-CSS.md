@@ -365,9 +365,12 @@ div {
 - `top`, `right`, `bottom`, `left`의 순서
 - `margin-top`, `padding-bottom` 의 형태로 따로 작성하는 것도 가능
 
-## 마진 상쇄 (Margin Collapse)
+## 마진 상쇄, 마진 겹침 (Margin Collapse)
 
-- HTML이 문서도구인 시절의 
+- HTML이 문서도구였던 시절의 유산
+- 두 블록 요소의 위 아래 마진이 겹치는 경우, 더 큰 쪽의 마진으로 통합하는 규칙
+
+![](attachments/Pasted%20image%2020240701003959.png)
 
 ## Border
 

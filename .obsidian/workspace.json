@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,6 +194,7 @@
   },
   "active": "6d4a9f5e21a1d040",
   "lastOpenFiles": [
+    "강의/attachments/Pasted image 20240701003959.png",
     "강의/HTML-CSS 추가.md",
     "강의/HTML-CSS.md",
     "강의/attachments/Pasted image 20240701002217.png",
