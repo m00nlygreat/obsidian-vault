@@ -520,7 +520,7 @@ div {
 ![](attachments/Pasted%20image%2020240624190139.png)
 
 
-## CSS Reset
+## Reset CSS
 
 - 브라우저가 지정한 스타일들을 초기화하는 CSS
 - 그 외 `box-sizing: border-box;` 등 적용
