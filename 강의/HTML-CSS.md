@@ -365,6 +365,8 @@ div {
 - `top`, `right`, `bottom`, `left`의 순서
 - `margin-top`, `padding-bottom` 의 형태로 따로 작성하는 것도 가능
 
+## 마진 상쇄 (Margin Collapse)
+
 ## Border
 
 - Border의 굵기만큼 Box의 영역을 차지함
