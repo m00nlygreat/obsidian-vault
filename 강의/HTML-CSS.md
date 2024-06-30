@@ -508,7 +508,8 @@ div {
 ## Feather Icons
 
 - 공짜로 간편하게 쓸 수 있는 여러 아이콘들
-- 
+- CSS로 스타일링 가능
+- [Feather Icons](https://feathericons.com/)
 
 ## CSS 전처리기
 
