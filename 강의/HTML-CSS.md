@@ -367,6 +367,8 @@ div {
 
 ## 마진 상쇄 (Margin Collapse)
 
+- HTML이 문서도구인 시절의 
+
 ## Border
 
 - Border의 굵기만큼 Box의 영역을 차지함
