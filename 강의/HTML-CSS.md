@@ -348,7 +348,7 @@ HTML 요소들을 꾸미는 방법을 정의하는 규칙
 
 - 텍스트, 숫자, 컬러
 - url()
-- 
+- [CSS Data types](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Types)
 
 ### CSS-wide keywords
 
