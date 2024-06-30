@@ -474,8 +474,9 @@ div {
 
 - 더 이상 HTML/CSS는 웹 문서만을 위한 것이 아니며, 다양한 문서 형태와 플랫폼을 위한 것
 - 각각의 미디어에서 어떻게 보일지를 조건과 CSS Rule을 사용해 정의함
-
 - `@media screen and (min-width: 800px)`
+
+![](attachments/Pasted%20image%2020240701002217.png)
 
 ## CSS 전처리기
 
