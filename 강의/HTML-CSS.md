@@ -519,4 +519,9 @@ div {
 
 ![](attachments/Pasted%20image%2020240624190139.png)
 
+
+## CSS Reset
+
+- 
+
 # 감사합니다
