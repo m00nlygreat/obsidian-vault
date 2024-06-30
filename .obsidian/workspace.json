@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
+                "file": "글/인간도 동물일 뿐이다.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -21,7 +21,20 @@
             }
           },
           {
-            "id": "481fe1f980cc92d0",
+            "id": "6d4a9f5e21a1d040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "글/우리가족은 반려동물과는 연이 없다.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "61985da493918ce5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/ChatGPT 채팅 공유 링크.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -141,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,9 +204,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f294135ea7e884cf",
+  "active": "61985da493918ce5",
   "lastOpenFiles": [
+    "글/우리가족은 반려동물과는 연이 없다.md",
     "conflict-files-obsidian-git.md",
+    "글/인간도 동물일 뿐이다.md",
+    "글/누군가의 인생을 망가뜨릴 용기.md",
+    "글/Untitled.md",
+    "강의/attachments/Pasted image 20240624190139.png",
+    "강의/attachments/Pasted image 20240624184631.png",
+    "강의/attachments/Pasted image 20240624180948.png",
+    "강의/attachments/Pasted image 20240624163557.png",
+    "강의/attachments/0_YeaUsQyhXSL1TCTH.png",
+    "강의/HTML-CSS.md",
+    "강의/HTML-CSS 추가.md",
+    "글/외할머니가 돌아가셨다.md",
+    "글/오늘의 나는 누가 뭐래도 멋있었다.md",
+    "글/프로덕트 기획에 ChatGPT 사용하기.md",
     "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
     "강의/생성형AI/attachments/Pasted image 20240614023735.png",
     "노코드 엔지니어링/attachments/컴퓨터_프로그래밍_언어.jpg",
@@ -210,25 +238,12 @@
     "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "노코드 엔지니어링/attachments",
     "노코드 엔지니어링",
-    "글/인간도 동물일 뿐이다.md",
     "글/눈물의 여왕.md",
     "글/글은 비장한 마음으로 쓴다.md",
     "글/국뽕.md",
     "글/Maybe love is hate.md",
     "글/20-30대 한국 남자를 이해하기 위한 문화적 배경.md",
-    "강의/포트폴리오.md",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
-    "강의/생성형AI/마크다운.md",
     "강의/생성형AI/attachments/image35.png",
-    "강의/생성형AI/attachments/image34.png",
-    "강의/생성형AI/attachments/Pasted image 20240610020555.png",
-    "강의/생성형AI/attachments/Pasted image 20240610015849.png",
-    "강의/생성형AI/attachments/Pasted image 20240610015522.png",
-    "강의/생성형AI/attachments/Pasted image 20240610005835.png",
-    "강의/생성형AI/ChatGPT 강의는 이제 안 하고 싶은데요.md",
-    "강의/면접 멘토링.md",
-    "강의/노코드 엔지니어링/피그마로 UI 디자인하기.md",
-    "강의/노코드 엔지니어링/피그마/피그마로 UI 디자인하기.md",
     "강의/노코드 엔지니어링/피그마",
     "강의/노코드 엔지니어링/노션",
     "강의/attachments",
