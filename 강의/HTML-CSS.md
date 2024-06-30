@@ -522,7 +522,8 @@ div {
 
 ## Reset CSS
 
-- 브라우저가 지정한 스타일들을 초기화하는 CSS
+- 브라우저가 지정해둔 스타일들로 인해 여러 플랫폼/브라우저에서 CSS 렌더링 결과가 상이할 경우, CSS 기본값들을 해제하여 동일한 조건에 놓고 스타일링을 시작하기도 함
 - 그 외 `box-sizing: border-box;` 등 적용
+- [Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
 
 # 감사합니다
