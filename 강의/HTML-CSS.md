@@ -495,6 +495,10 @@ div {
 
 ![](attachments/Pasted%20image%2020240701002217.png)
 
+## Feather Icons
+
+- 
+
 ## CSS 전처리기
 
 - CSS의 확장 문법을 사용하여 더욱 간편하고 강력한 스타일링을 할 수 있는 도구
