@@ -347,8 +347,12 @@ HTML 요소들을 꾸미는 방법을 정의하는 규칙
 ## 타입 (Types)
 
 - 텍스트, 숫자, 컬러
+- url()
+- 
 
-### C
+### CSS-wide keywords
+
+- inherit, unset, initial, revert
 
 ## 박스모델
 
