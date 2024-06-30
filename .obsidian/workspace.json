@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/HTML-CSS.md",
+                "file": "강의/HTML-CSS 추가.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/HTML-CSS.md",
+                "file": "강의/HTML-CSS 추가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/HTML-CSS.md"
+                "file": "강의/HTML-CSS 추가.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/HTML-CSS.md",
+                "file": "강의/HTML-CSS 추가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,8 +180,8 @@
   },
   "active": "6d4a9f5e21a1d040",
   "lastOpenFiles": [
-    "강의/HTML-CSS 추가.md",
     "강의/HTML-CSS.md",
+    "강의/HTML-CSS 추가.md",
     "글/인간도 동물일 뿐이다.md",
     "강의/attachments/Pasted image 20240701003959.png",
     "강의/attachments/Pasted image 20240701002217.png",
