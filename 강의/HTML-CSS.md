@@ -369,6 +369,7 @@ div {
 
 - HTML이 문서도구였던 시절의 유산
 - 두 블록 요소의 위 아래 마진이 겹치는 경우, 더 큰 쪽의 마진으로 통합하는 규칙
+- [마진 상쇄 완벽 정리](https://velog.io/@raram2/CSS-%EB%A7%88%EC%A7%84-%EC%83%81%EC%87%84Margin-collapsing-%EC%9B%90%EB%A6%AC-%EC%99%84%EB%B2%BD-%EC%9D%B4%ED%95%B4)
 
 ![](attachments/Pasted%20image%2020240701003959.png)
 
