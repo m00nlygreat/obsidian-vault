@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
+                "file": "강의/서비스 기획.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "24830431f3236ccb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
+                "file": "강의/서비스 기획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md"
+                "file": "강의/서비스 기획.md"
               }
             }
           },
@@ -128,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
+                "file": "강의/서비스 기획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,8 +188,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d4a9f5e21a1d040",
+  "active": "24830431f3236ccb",
   "lastOpenFiles": [
+    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
+    "강의/서비스 기획.md",
     "attachments/rapture_20230904144532.png",
     "강의/UX 이론.md",
     "강의/HTML-CSS.md",
@@ -201,7 +214,6 @@
     "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
     "강의/생성형AI/attachments/Pasted image 20240614023735.png",
     "노코드 엔지니어링/attachments/컴퓨터_프로그래밍_언어.jpg",
-    "노코드 엔지니어링/attachments/bubble-editor.png",
     "노코드 엔지니어링/피그마로 UI 디자인하기.md",
     "노코드 엔지니어링/프레이머로 블로그 만들기.md",
     "노코드 엔지니어링/버블.md",
@@ -216,7 +228,6 @@
     "노코드 엔지니어링",
     "글/눈물의 여왕.md",
     "글/글은 비장한 마음으로 쓴다.md",
-    "글/국뽕.md",
     "강의/노코드 엔지니어링/피그마",
     "강의/노코드 엔지니어링/노션",
     "강의/attachments",
