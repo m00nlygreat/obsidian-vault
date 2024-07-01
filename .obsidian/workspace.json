@@ -19,19 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "24830431f3236ccb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +177,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24830431f3236ccb",
+  "active": "6d4a9f5e21a1d040",
   "lastOpenFiles": [
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "강의/서비스 기획.md",
