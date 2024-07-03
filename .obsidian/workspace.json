@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스 기획.md",
-                "mode": "source",
+                "file": "명리/신사(辛巳) 일주.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/서비스 기획.md",
+                "file": "명리/신사(辛巳) 일주.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스 기획.md"
+                "file": "명리/신사(辛巳) 일주.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/서비스 기획.md",
+                "file": "명리/신사(辛巳) 일주.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,8 +179,11 @@
   },
   "active": "6d4a9f5e21a1d040",
   "lastOpenFiles": [
-    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
+    "글/모하고 지내.md",
+    "글/바탕화면 할일정리.md",
+    "글/글은 비장한 마음으로 쓴다.md",
     "강의/서비스 기획.md",
+    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "attachments/rapture_20230904144532.png",
     "강의/UX 이론.md",
     "강의/HTML-CSS.md",
@@ -212,11 +215,8 @@
     "노코드 엔지니어링/노코드 개론.md",
     "노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
-    "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "노코드 엔지니어링/attachments",
     "노코드 엔지니어링",
-    "글/눈물의 여왕.md",
-    "글/글은 비장한 마음으로 쓴다.md",
     "강의/노코드 엔지니어링/피그마",
     "강의/노코드 엔지니어링/노션",
     "강의/attachments",
