@@ -11,9 +11,12 @@
             "id": "6d4a9f5e21a1d040",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "웹클립"
+                "file": "별자리/별자리 이야기 - 물병자리의 성격 [1.20~2.18].md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -92,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "별자리/별자리 이야기 - 물병자리의 성격 [1.20~2.18].md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "별자리/별자리 이야기 - 물병자리의 성격 [1.20~2.18].md"
+              }
             }
           },
           {
@@ -122,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "별자리/별자리 이야기 - 물병자리의 성격 [1.20~2.18].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +179,20 @@
   },
   "active": "6d4a9f5e21a1d040",
   "lastOpenFiles": [
+    "별자리/별자리 이야기 - 황소자리의 성격 [4.21~5.20].md",
+    "별자리/별자리 이야기 - 처녀자리의 성격 [8.23~9.22].md",
+    "별자리/별자리 이야기 - 게자리의 성격 [6.22~7.22].md",
+    "별자리/별자리 이야기 - 물고기자리의 성격  [2.19~3.20].md",
+    "별자리/별자리 이야기 - 물병자리의 성격 [1.20~2.18].md",
+    "별자리/별자리 이야기 - 사수자리의 성격 [11.23~12.21].md",
+    "별자리/별자리 이야기 - 쌍둥이자리의 성격 [5.21~6.21].md",
+    "별자리/별자리 이야기 - 사자자리의 성격 [7.23~8.22].md",
+    "별자리/별자리 이야기 - 양자리의 성격 [3.21~4.20].md",
+    "별자리/별자리 이야기 - 전갈자리의 성격 [10.24~11.22].md",
+    "별자리/별자리 이야기 - 염소(산양)자리의 성격 [12.22~01.20].md",
+    "별자리/별자리 이야기 - 천칭자리의 성격 [9.23~10.23].md",
+    "별자리",
+    "untitled folder",
     "명리/신사(辛巳) 일주.md",
     "글/모하고 지내.md",
     "글/바탕화면 할일정리.md",
@@ -194,20 +215,8 @@
     "강의/attachments/Pasted image 20240624180948.png",
     "강의/attachments/Pasted image 20240624163557.png",
     "강의/attachments/0_YeaUsQyhXSL1TCTH.png",
-    "글/외할머니가 돌아가셨다.md",
-    "글/오늘의 나는 누가 뭐래도 멋있었다.md",
-    "글/프로덕트 기획에 ChatGPT 사용하기.md",
-    "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
     "강의/생성형AI/attachments/Pasted image 20240614023735.png",
     "노코드 엔지니어링/attachments/컴퓨터_프로그래밍_언어.jpg",
-    "노코드 엔지니어링/피그마로 UI 디자인하기.md",
-    "노코드 엔지니어링/프레이머로 블로그 만들기.md",
-    "노코드 엔지니어링/버블.md",
-    "노코드 엔지니어링/디지텍고 강의.md",
-    "노코드 엔지니어링/노코드 최강자 버블.md",
-    "노코드 엔지니어링/노코드 엔지니어링.md",
-    "노코드 엔지니어링/노코드 개론.md",
-    "노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
     "노코드 엔지니어링/attachments",
     "노코드 엔지니어링",
     "강의/노코드 엔지니어링/피그마",
@@ -216,8 +225,6 @@
     "attachments/사주보는법 자평진전의 변격과 겸격에 대한 이해  네이버 블로그",
     "attachments/Data is beautiful 10 of the best data visualization examples",
     "Spaces/Home",
-    "Spaces",
-    "코드",
     "무제 파일.canvas"
   ]
 }
