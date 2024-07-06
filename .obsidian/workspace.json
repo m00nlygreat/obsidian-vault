@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스 기획.md",
+                "file": "강의/사전 평가 질문지.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/서비스 기획.md",
+                "file": "강의/사전 평가 질문지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스 기획.md"
+                "file": "강의/사전 평가 질문지.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/서비스 기획.md",
+                "file": "강의/사전 평가 질문지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,8 +179,11 @@
   },
   "active": "6d4a9f5e21a1d040",
   "lastOpenFiles": [
-    "강의/강사 소개.md",
+    "강의/포트폴리오.md",
+    "강의/면접 멘토링.md",
+    "강의/사전 평가 질문지.md",
     "강의/서비스 기획.md",
+    "강의/강사 소개.md",
     "강의/UX 이론.md",
     "강의/attachments/Pasted image 20240706093452.png",
     "강의/HTML-CSS.md",
@@ -205,10 +208,7 @@
     "글/모하고 지내.md",
     "글/바탕화면 할일정리.md",
     "글/글은 비장한 마음으로 쓴다.md",
-    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "attachments/rapture_20230904144532.png",
-    "강의/HTML-CSS 추가.md",
-    "글/인간도 동물일 뿐이다.md",
     "강의/attachments/Pasted image 20240701003959.png",
     "강의/attachments/Pasted image 20240701002217.png",
     "강의/attachments/Pasted image 20240624190139.png",
