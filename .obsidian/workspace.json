@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "강의/서비스 기획.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -179,8 +179,9 @@
   },
   "active": "6d4a9f5e21a1d040",
   "lastOpenFiles": [
-    "강의/UX 이론.md",
+    "강의/강사 소개.md",
     "강의/서비스 기획.md",
+    "강의/UX 이론.md",
     "강의/attachments/Pasted image 20240706093452.png",
     "강의/HTML-CSS.md",
     "웹클립/HTTP의 Stateless, 비연결성.md",
