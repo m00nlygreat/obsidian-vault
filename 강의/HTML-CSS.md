@@ -323,11 +323,25 @@ HTML 요소들을 꾸미는 방법을 정의하는 규칙
 - `::after`, `::before`
 - [예시](https://developer.mozilla.org/en-US/docs/Web/CSS/::after)
 
+##  Emmet
+
+- 여러 HTML 태그 구조를 입력하는 단축 표현 확장
+- 본래 Extension이었으나 현재는 VS Code에 통합됨
+- `html:5`
+- `html>body>ul>li*5`
+- `div.classname>span.lable+input[type="submit"]`
+
 # CSS 선언부(declaration)
+
+## 타입 (Types)
+
+- 텍스트, 숫자, 컬러
+- url()
+- [CSS Data types](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Types)
 
 ## 단위 (Units)
 
-1차원 크기를 결정짓는 여러가지 단위가 있으며, 단위의 이해도에 따른 결과물의 차이가 크다.
+1차원 크기(distant)를 결정짓는 여러가지 단위가 있으며, 단위의 이해도에 따른 결과물의 차이가 크다.
 
 - `px` 픽셀.
 - `%` 부모 크기에 대한 상대적 크기
@@ -335,6 +349,10 @@ HTML 요소들을 꾸미는 방법을 정의하는 규칙
 - `vw`, `vh`: Viewport width, height. 디바이스의 한 화면에 보이는 크기
 - `em`, `rem`: 부모 또는 `html` 요소의 `font-size`에 비례한 단위
 - `lh`, `rlh`: 엘리먼트의 line-height 속성을 따라가는 `lh`, `html` 요소의 line-height를 따라가는 `rlh`
+
+### CSS-wide keywords
+
+- inherit, unset, initial, revert
 
 ## 박스모델
 
@@ -364,6 +382,15 @@ div {
 
 - `top`, `right`, `bottom`, `left`의 순서
 - `margin-top`, `padding-bottom` 의 형태로 따로 작성하는 것도 가능
+
+## 마진 상쇄, 마진 겹침 (Margin Collapse)
+
+- HTML이 문서도구였던 시절의 유산
+	- MS Word 등의 문서도구도 이러한 규칙을 가진다(고 함)
+- 붙어있는 두 블록 요소의 위 아래 마진이 겹치는 경우, 더 큰 쪽의 마진으로 통합하는 규칙
+- [마진 상쇄 완벽 정리](https://velog.io/@raram2/CSS-%EB%A7%88%EC%A7%84-%EC%83%81%EC%87%84Margin-collapsing-%EC%9B%90%EB%A6%AC-%EC%99%84%EB%B2%BD-%EC%9D%B4%ED%95%B4)
+
+![](attachments/Pasted%20image%2020240701003959.png)
 
 ## Border
 
@@ -472,7 +499,17 @@ div {
 
 ## 미디어쿼리
 
+- 더 이상 HTML/CSS는 웹 문서만을 위한 것이 아니며, 다양한 문서 형태와 플랫폼을 위한 것
+- 각각의 미디어에서 어떻게 보일지를 조건과 CSS Rule을 사용해 정의함
+- `@media screen and (min-width: 800px)`
 
+![](attachments/Pasted%20image%2020240701002217.png)
+
+## Feather Icons
+
+- 공짜로 간편하게 쓸 수 있는 여러 아이콘들
+- CSS로 스타일링 가능
+- [Feather Icons](https://feathericons.com/)
 
 ## CSS 전처리기
 
@@ -481,5 +518,12 @@ div {
 - Sass, SCSS, Less
 
 ![](attachments/Pasted%20image%2020240624190139.png)
+
+
+## Reset CSS
+
+- 브라우저가 지정해둔 스타일들로 인해 여러 플랫폼/브라우저에서 CSS 렌더링 결과가 상이할 경우, CSS 기본값들을 해제하여 동일한 조건에 놓고 스타일링을 시작하기도 함
+- 그 외 `box-sizing: border-box;` 등 적용
+- [Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
 
 # 감사합니다
