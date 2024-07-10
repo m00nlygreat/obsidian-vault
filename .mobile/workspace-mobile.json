@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
+                "file": "강의/HTML-CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
+            "file": "강의/HTML-CSS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
+            "file": "강의/HTML-CSS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "강의/생성형AI/ChatGPT로 코딩하기 (부록).md"
+            "file": "강의/HTML-CSS.md"
           }
         }
       }
@@ -133,18 +133,31 @@
   },
   "active": "e21e2ef5a6076995",
   "lastOpenFiles": [
+    "강의/UX 이론.md",
+    "글/누군가의 인생을 망가뜨릴 용기.md",
+    "글/글은 비장한 마음으로 쓴다.md",
+    "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
+    "글/국뽕.md",
+    "글/Untitled.md",
+    "글/20-30대 한국 남자를 이해하기 위한 문화적 배경.md",
+    "강의/면접 멘토링.md",
+    "강의/attachments/0_YeaUsQyhXSL1TCTH.png",
+    "강의/attachments/Pasted image 20240624190139.png",
+    "강의/attachments/Pasted image 20240624184631.png",
+    "강의/attachments/Pasted image 20240624180948.png",
+    "강의/attachments/Pasted image 20240624163557.png",
+    "강의/HTML-CSS.md",
+    "강의/HTML-CSS 추가.md",
+    "강의/포트폴리오.md",
+    "강의/생성형AI/attachments/image34.png",
+    "강의/생성형AI/attachments/image35.png",
+    "강의/생성형AI/ChatGPT 강의는 이제 안 하고 싶은데요.md",
+    "강의/생성형AI/마크다운.md",
     "명리/신금일주 정리.md",
     "아이디어/Human Readable Device ID.md",
     "attachments/Data is beautiful 10 of the best data visualization examples/6_after_babylon.png",
     "attachments/Data is beautiful 10 of the best data visualization examples/10_eclipse_wash_po.gif",
     "attachments/Data is beautiful 10 of the best data visualization examples/8_screenplay_dialogue_.png",
-    "attachments/Data is beautiful 10 of the best data visualization examples/1_napolean_minard.png",
-    "attachments/Data is beautiful 10 of the best data visualization examples/4_a_new_chart_of_history_color.jpg",
-    "attachments/Data is beautiful 10 of the best data visualization examples/2_snow-cholera-map.jpg",
-    "attachments/Data is beautiful 10 of the best data visualization examples/3_nightingale-mortality.jpg",
-    "attachments/Data is beautiful 10 of the best data visualization examples/9_selfiecity.jpg",
-    "attachments/Data is beautiful 10 of the best data visualization examples/7_pew_research_next_america.gif",
-    "attachments/Data is beautiful 10 of the best data visualization examples/5_2016_budget_visualization_safe_img.jpg",
     "attachments/Data is beautiful 10 of the best data visualization examples",
     "attachments/사주보는법 자평진전의 변격과 겸격에 대한 이해  네이버 블로그",
     "글/220228 0508.md",
@@ -160,20 +173,7 @@
     "강의/생성형AI/attachments",
     "강의/생성형AI/하이퍼 파라미터(Hyperparameters).md",
     "강의/생성형AI/사용자 피드백 보고서 작성하기.md",
-    "강의/생성형AI/ChatGPT예제_회사원.md",
-    "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
-    "강의/생성형AI/AI이모저모.md",
-    "강의/생성형AI/ChatGPT예제_기자.md",
-    "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
-    "강의/생성형AI/강사 소개.md",
-    "강의/생성형AI/생성형AI.md",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI",
-    "강의/사전 평가 질문지.md",
-    "m00nlygreat의 경우.md",
-    "맥시멀리스트.md",
-    "9월4일 업데이트 공지.md",
-    "프로퍼티.md",
     "강의/버블 튜토리얼",
     "코드",
     "메모",
