@@ -11,18 +11,30 @@
             "id": "bd8eb08abe133024",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6453a3b1af3241d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.canvas"
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md"
               }
             }
           },
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,12 +199,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd8eb08abe133024",
+  "active": "6453a3b1af3241d2",
   "lastOpenFiles": [
+    "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.baked.md",
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+    "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
+    "강의/생성형AI/AI이모저모.md",
+    "강의/생성형AI/ChatGPT예제_회사원.md",
+    "강의/생성형AI/하이퍼 파라미터(Hyperparameters).md",
+    "강의/생성형AI/사용자 피드백 보고서 작성하기.md",
+    "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
+    "강의/생성형AI/강사 소개.md",
+    "글/타인은 나를 비추는 거울.md",
+    "글/프로덕트 기획에 ChatGPT 사용하기.md",
+    "journal/2023-09-04.md",
     "journal/2024-07-11.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/소프트웨어 기획.md",
     "강의/_소프트웨어 기획.md",
     "강의/attachments/Pasted image 20240711122706.png",
@@ -206,22 +230,11 @@
     "강의/서비스 기획.md",
     "강의/HTML-CSS.md",
     "강의/생성형AI/마크다운.md",
-    "강의/생성형AI/강사 소개.md",
     "강의/포트폴리오.md",
-    "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
-    "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
-    "강의/생성형AI/ChatGPT예제_회사원.md",
     "강의/생성형AI/ChatGPT예제_기자.md",
-    "강의/생성형AI/AI이모저모.md",
     "강의/UX 이론.md",
     "conflict-files-obsidian-git.md",
     "별자리/별자리 이야기 - 황소자리의 성격 [4.21~5.20].md",
-    "별자리/별자리 이야기 - 처녀자리의 성격 [8.23~9.22].md",
-    "별자리/별자리 이야기 - 천칭자리의 성격 [9.23~10.23].md",
-    "별자리/별자리 이야기 - 전갈자리의 성격 [10.24~11.22].md",
-    "별자리/별자리 이야기 - 염소(산양)자리의 성격 [12.22~01.20].md",
-    "별자리/별자리 이야기 - 쌍둥이자리의 성격 [5.21~6.21].md",
-    "별자리/별자리 이야기 - 양자리의 성격 [3.21~4.20].md",
     "별자리",
     "강의/attachments/Pasted image 20240706093452.png",
     "강의/attachments/Pasted image 20240701003959.png",
