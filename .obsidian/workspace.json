@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+                "file": "강의/소프트웨어 기획.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md"
+                "file": "강의/소프트웨어 기획.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+                "file": "강의/소프트웨어 기획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+                "file": "강의/소프트웨어 기획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,9 +201,11 @@
   },
   "active": "6453a3b1af3241d2",
   "lastOpenFiles": [
+    "강의/생성형AI/ChatGPT 강의는 이제 안 하고 싶은데요.md",
+    "강의/생성형AI/마크다운.md",
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
     "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.baked.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
     "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
     "강의/생성형AI/AI이모저모.md",
     "강의/생성형AI/ChatGPT예제_회사원.md",
@@ -225,11 +227,9 @@
     "강의/attachments/Pasted image 20240711032041.png",
     "강의/attachments/rest.png",
     "강의/attachments/Pasted image 20240711113304.png",
-    "강의/생성형AI/ChatGPT 강의는 이제 안 하고 싶은데요.md",
     "강의/스크럼 애자일-지라.md",
     "강의/서비스 기획.md",
     "강의/HTML-CSS.md",
-    "강의/생성형AI/마크다운.md",
     "강의/포트폴리오.md",
     "강의/생성형AI/ChatGPT예제_기자.md",
     "강의/UX 이론.md",
