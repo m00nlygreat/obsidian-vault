@@ -19,29 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "fcf8ff46b2530a27",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "2535cd91ee674aab",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "강의/attachments/uxdesign01.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +186,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcf8ff46b2530a27",
+  "active": "6453a3b1af3241d2",
   "lastOpenFiles": [
     "강의/_소프트웨어 기획.md",
     "강의/attachments/uxdesign02.png",
