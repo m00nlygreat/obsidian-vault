@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "별자리/별자리 이야기 - 쌍둥이자리의 성격 [5.21~6.21].md",
+                "file": "별자리/별자리 이야기 - 천칭자리의 성격 [9.23~10.23].md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "별자리/별자리 이야기 - 쌍둥이자리의 성격 [5.21~6.21].md"
+                "file": "별자리/별자리 이야기 - 천칭자리의 성격 [9.23~10.23].md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "별자리/별자리 이야기 - 쌍둥이자리의 성격 [5.21~6.21].md",
+                "file": "별자리/별자리 이야기 - 천칭자리의 성격 [9.23~10.23].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "별자리/별자리 이야기 - 쌍둥이자리의 성격 [5.21~6.21].md",
+                "file": "별자리/별자리 이야기 - 천칭자리의 성격 [9.23~10.23].md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +188,10 @@
   },
   "active": "6453a3b1af3241d2",
   "lastOpenFiles": [
-    "별자리/별자리 이야기 - 사수자리의 성격 [11.23~12.21].md",
     "별자리/별자리 이야기 - 사자자리의 성격 [7.23~8.22].md",
+    "별자리/별자리 이야기 - 사수자리의 성격 [11.23~12.21].md",
+    "별자리/별자리 이야기 - 물고기자리의 성격  [2.19~3.20].md",
+    "별자리/별자리 이야기 - 쌍둥이자리의 성격 [5.21~6.21].md",
     "별자리/별자리 이야기 - 양자리의 성격 [3.21~4.20].md",
     "별자리/별자리 이야기 - 염소(산양)자리의 성격 [12.22~01.20].md",
     "별자리/별자리 이야기 - 처녀자리의 성격 [8.23~9.22].md",
@@ -214,8 +216,6 @@
     "강의/HTML-CSS 추가.md",
     "강의/포트폴리오.md",
     "강의/사전 평가 질문지.md",
-    "강의/면접 멘토링.md",
-    "강의/버블 튜토리얼/타입과 연산.md",
     "강의/attachments/uxdesign02.png",
     "강의/attachments/Pasted image 20240712222211.png",
     "강의/attachments/Pasted image 20240711164257.png",
