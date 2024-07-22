@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d391e87db268b322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/UX 이론.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/UX 이론.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -128,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/UX 이론.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,15 +191,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d4a9f5e21a1d040",
+  "active": "d391e87db268b322",
   "lastOpenFiles": [
+    "강의/UX 이론.md",
+    "conflict-files-obsidian-git.md",
+    "글/아니면 그냥 미친 INFP가 과학 유투브 몇 개 보고 와서 개소리를 하는 것일 수도 있어.md",
+    "강의/스크럼 애자일-지라.md",
+    "강의/소프트웨어 기획.md",
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+    "강의/디자인을 위한 CS.md",
+    "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
+    "강의/강의 준비.md",
+    "강의/attachments/uxdesign03.png",
+    "강의/attachments/uxdesign02.png",
+    "강의/attachments/uxdesign01.png",
+    "강의/attachments/rest.png",
+    "강의/attachments/Pasted image 20240712222211.png",
+    "강의/attachments/Pasted image 20240711164257.png",
+    "강의/attachments/Pasted image 20240711163523.png",
+    "강의/attachments/Pasted image 20240711162808.png",
+    "강의/attachments/Pasted image 20240711162607.png",
+    "강의/attachments/Pasted image 20240711162442.png",
     "강의/포트폴리오.md",
     "강의/사전 평가 질문지.md",
     "강의/면접 멘토링.md",
     "강의/서비스 기획.md",
     "강의/강사 소개.md",
-    "강의/UX 이론.md",
-    "강의/attachments/Pasted image 20240706093452.png",
     "강의/HTML-CSS.md",
     "웹클립/HTTP의 Stateless, 비연결성.md",
     "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
@@ -198,25 +229,8 @@
     "별자리/별자리 이야기 - 사수자리의 성격 [11.23~12.21].md",
     "별자리/별자리 이야기 - 쌍둥이자리의 성격 [5.21~6.21].md",
     "별자리/별자리 이야기 - 사자자리의 성격 [7.23~8.22].md",
-    "별자리/별자리 이야기 - 양자리의 성격 [3.21~4.20].md",
-    "별자리/별자리 이야기 - 전갈자리의 성격 [10.24~11.22].md",
-    "별자리/별자리 이야기 - 염소(산양)자리의 성격 [12.22~01.20].md",
-    "별자리/별자리 이야기 - 천칭자리의 성격 [9.23~10.23].md",
     "별자리",
     "untitled folder",
-    "명리/신사(辛巳) 일주.md",
-    "글/모하고 지내.md",
-    "글/바탕화면 할일정리.md",
-    "글/글은 비장한 마음으로 쓴다.md",
-    "attachments/rapture_20230904144532.png",
-    "강의/attachments/Pasted image 20240701003959.png",
-    "강의/attachments/Pasted image 20240701002217.png",
-    "강의/attachments/Pasted image 20240624190139.png",
-    "강의/attachments/Pasted image 20240624184631.png",
-    "강의/attachments/Pasted image 20240624180948.png",
-    "강의/attachments/Pasted image 20240624163557.png",
-    "강의/attachments/0_YeaUsQyhXSL1TCTH.png",
-    "강의/생성형AI/attachments/Pasted image 20240614023735.png",
     "노코드 엔지니어링/attachments",
     "노코드 엔지니어링",
     "강의/노코드 엔지니어링/피그마",
