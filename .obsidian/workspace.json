@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "명리/(천간완벽정리) 신금론.md",
+                "file": "아이디어/맥시멀리스트.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "명리/(천간완벽정리) 신금론.md"
+                "file": "아이디어/맥시멀리스트.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "명리/(천간완벽정리) 신금론.md",
+                "file": "아이디어/맥시멀리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "명리/(천간완벽정리) 신금론.md",
+                "file": "아이디어/맥시멀리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,6 +202,11 @@
   },
   "active": "4a97b1d99ef03b77",
   "lastOpenFiles": [
+    "아이디어/나 살아있소.md",
+    "아이디어/양손 스와이프 키보드.md",
+    "아이디어/마인크래프트 성장형 RPG 시스템.md",
+    "아이디어/Human Readable Device ID.md",
+    "명리/(천간완벽정리) 신금론.md",
     "명리/대운-세운 관계.md",
     "명리/일간별 화낼 때 특징.md",
     "명리/십간의 성격.md",
@@ -209,7 +214,6 @@
     "명리/배우자 운 좋고 자수성가하는 辛巳일생.md",
     "명리/병신합.md",
     "명리/신사(辛巳) 일주.md",
-    "명리/(천간완벽정리) 신금론.md",
     "journal/2023-09-17.md",
     "journal/2023-09-10.md",
     "journal/2023-09-04.md",
@@ -225,10 +229,6 @@
     "별자리/별자리 이야기 - 쌍둥이자리의 성격 [5.21~6.21].md",
     "별자리/별자리 이야기 - 양자리의 성격 [3.21~4.20].md",
     "별자리/별자리 이야기 - 염소(산양)자리의 성격 [12.22~01.20].md",
-    "별자리/별자리 이야기 - 처녀자리의 성격 [8.23~9.22].md",
-    "별자리/별자리 이야기 - 전갈자리의 성격 [10.24~11.22].md",
-    "별자리/별자리 이야기 - 황소자리의 성격 [4.21~5.20].md",
-    "강의/강의 준비.md",
     "강의/노코드 엔지니어링/attachments/Pasted image 20240413042830.png",
     "강의/노코드 엔지니어링/attachments/notion1.png",
     "강의/attachments/uxdesign02.png",
