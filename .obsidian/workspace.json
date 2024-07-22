@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4a97b1d99ef03b77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "명리/(천간완벽정리) 신금론.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "명리/신사(辛巳) 일주.md"
+                "file": "명리/(천간완벽정리) 신금론.md"
               }
             }
           },
@@ -124,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "명리/신사(辛巳) 일주.md",
+                "file": "명리/(천간완벽정리) 신금론.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "명리/신사(辛巳) 일주.md",
+                "file": "명리/(천간완벽정리) 신금론.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +200,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6453a3b1af3241d2",
+  "active": "4a97b1d99ef03b77",
   "lastOpenFiles": [
     "journal/2023-09-17.md",
     "journal/2023-09-10.md",
