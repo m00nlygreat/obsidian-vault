@@ -32,9 +32,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "79e7a5241739d573",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "글/글은 비장한 마음으로 쓴다.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -138,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "글/글은 비장한 마음으로 쓴다.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "글/글은 비장한 마음으로 쓴다.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,8 +213,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a97b1d99ef03b77",
+  "active": "79e7a5241739d573",
   "lastOpenFiles": [
+    "글/글은 비장한 마음으로 쓴다.md",
+    "conflict-files-obsidian-git.md",
     "글/오늘의 나는 누가 뭐래도 멋있었다.md",
     "글/인간도 동물일 뿐이다.md",
     "아이디어/맥시멀리스트.md",
@@ -227,8 +242,6 @@
     "Untitled.canvas",
     "별자리/별자리 이야기 - 천칭자리의 성격 [9.23~10.23].md",
     "별자리/별자리 이야기 - 사자자리의 성격 [7.23~8.22].md",
-    "별자리/별자리 이야기 - 사수자리의 성격 [11.23~12.21].md",
-    "별자리/별자리 이야기 - 물고기자리의 성격  [2.19~3.20].md",
     "강의/노코드 엔지니어링/attachments/Pasted image 20240413042830.png",
     "강의/노코드 엔지니어링/attachments/notion1.png",
     "강의/attachments/uxdesign02.png",
