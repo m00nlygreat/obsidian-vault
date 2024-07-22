@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "명리/배우자 운 좋고 자수성가하는 辛巳일생.md",
+                "file": "명리/대운-세운 관계.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "명리/배우자 운 좋고 자수성가하는 辛巳일생.md"
+                "file": "명리/대운-세운 관계.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "명리/배우자 운 좋고 자수성가하는 辛巳일생.md",
+                "file": "명리/대운-세운 관계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "명리/배우자 운 좋고 자수성가하는 辛巳일생.md",
+                "file": "명리/대운-세운 관계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,6 +202,10 @@
   },
   "active": "4a97b1d99ef03b77",
   "lastOpenFiles": [
+    "명리/십간의 성격.md",
+    "명리/일간별 화낼 때 특징.md",
+    "명리/신금일주 정리.md",
+    "명리/배우자 운 좋고 자수성가하는 辛巳일생.md",
     "명리/병신합.md",
     "명리/신사(辛巳) 일주.md",
     "명리/(천간완벽정리) 신금론.md",
@@ -225,10 +229,6 @@
     "별자리/별자리 이야기 - 황소자리의 성격 [4.21~5.20].md",
     "강의/강의 준비.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
-    "강의/노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
-    "강의/노코드 엔지니어링/교안 개선사항.md",
-    "강의/노코드 엔지니어링/노코드 최강자 버블.md",
-    "강의/노코드 엔지니어링/프레이머로 블로그 만들기.md",
     "강의/노코드 엔지니어링/attachments/Pasted image 20240413042830.png",
     "강의/노코드 엔지니어링/attachments/notion1.png",
     "강의/attachments/uxdesign02.png",
