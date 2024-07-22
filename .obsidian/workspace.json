@@ -32,19 +32,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "c8e56bc05654a61b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,7 +200,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8e56bc05654a61b",
+  "active": "4a97b1d99ef03b77",
   "lastOpenFiles": [
     "글/오늘의 나는 누가 뭐래도 멋있었다.md",
     "글/인간도 동물일 뿐이다.md",
