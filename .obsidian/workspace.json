@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "글/아니면 그냥 미친 INFP가 과학 유투브 몇 개 보고 와서 개소리를 하는 것일 수도 있어.md",
+                "file": "글/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "글/아니면 그냥 미친 INFP가 과학 유투브 몇 개 보고 와서 개소리를 하는 것일 수도 있어.md"
+                "file": "글/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "글/아니면 그냥 미친 INFP가 과학 유투브 몇 개 보고 와서 개소리를 하는 것일 수도 있어.md",
+                "file": "글/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "글/아니면 그냥 미친 INFP가 과학 유투브 몇 개 보고 와서 개소리를 하는 것일 수도 있어.md",
+                "file": "글/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +202,14 @@
   },
   "active": "4a97b1d99ef03b77",
   "lastOpenFiles": [
-    "글/오늘의 나는 누가 뭐래도 멋있었다.md",
-    "글/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
     "글/누군가의 인생을 망가뜨릴 용기.md",
+    "글/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
+    "글/220228 0508.md",
+    "글/20-30대 한국 남자를 이해하기 위한 문화적 배경.md",
+    "글/Untitled.md",
     "글/국뽕.md",
+    "글/아니면 그냥 미친 INFP가 과학 유투브 몇 개 보고 와서 개소리를 하는 것일 수도 있어.md",
+    "글/오늘의 나는 누가 뭐래도 멋있었다.md",
     "글/글은 비장한 마음으로 쓴다.md",
     "conflict-files-obsidian-git.md",
     "글/인간도 동물일 뿐이다.md",
@@ -224,10 +228,6 @@
     "명리/신사(辛巳) 일주.md",
     "journal/2023-09-17.md",
     "journal/2023-09-10.md",
-    "journal/2023-09-04.md",
-    "journal/2023-09-03.md",
-    "journal/2023-09-02.md",
-    "별자리/별자리 이야기 - 물병자리의 성격 [1.20~2.18].md",
     "Untitled.canvas",
     "강의/노코드 엔지니어링/attachments/Pasted image 20240413042830.png",
     "강의/노코드 엔지니어링/attachments/notion1.png",
