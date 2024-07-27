@@ -32,9 +32,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "26ccf9c3d9c42c96",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,7 +210,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a97b1d99ef03b77",
+  "active": "26ccf9c3d9c42c96",
   "lastOpenFiles": [
     "강의/생성형AI/ChatGPT예제_회사원.md",
     "강의/생성형AI/사용자 피드백 보고서 작성하기.md",
