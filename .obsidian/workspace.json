@@ -14,8 +14,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "2518ca6ef784f398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -120,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,15 +186,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d4a9f5e21a1d040",
+  "active": "2518ca6ef784f398",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "강의/생성형AI/attachments/Pasted image 20240726085235.png",
+    "강의/노코드 엔지니어링/풀스택 노코드 버블.md",
     "노코드 엔지니어링/디지텍고 강의.md",
     "노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
     "노코드 엔지니어링/노코드 최강자 버블.md",
     "노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
     "강의/UX 이론.md",
-    "conflict-files-obsidian-git.md",
     "글/아니면 그냥 미친 INFP가 과학 유투브 몇 개 보고 와서 개소리를 하는 것일 수도 있어.md",
     "강의/스크럼 애자일-지라.md",
     "강의/소프트웨어 기획.md",
@@ -193,7 +213,6 @@
     "강의/attachments/Pasted image 20240711163523.png",
     "강의/attachments/Pasted image 20240711162808.png",
     "강의/attachments/Pasted image 20240711162607.png",
-    "강의/attachments/Pasted image 20240711162442.png",
     "강의/포트폴리오.md",
     "강의/사전 평가 질문지.md",
     "강의/면접 멘토링.md",
@@ -204,8 +223,6 @@
     "별자리/별자리 이야기 - 물병자리의 성격 [1.20~2.18].md",
     "별자리/별자리 이야기 - 황소자리의 성격 [4.21~5.20].md",
     "별자리/별자리 이야기 - 처녀자리의 성격 [8.23~9.22].md",
-    "별자리/별자리 이야기 - 게자리의 성격 [6.22~7.22].md",
-    "별자리/별자리 이야기 - 물고기자리의 성격  [2.19~3.20].md",
     "별자리",
     "untitled folder",
     "노코드 엔지니어링/attachments",
