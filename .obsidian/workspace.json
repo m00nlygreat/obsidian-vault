@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/랜선집사.md",
+                "file": "아이디어/블록코딩 앱.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/랜선집사.md"
+                "file": "아이디어/블록코딩 앱.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "아이디어/랜선집사.md",
+                "file": "아이디어/블록코딩 앱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이디어/랜선집사.md",
+                "file": "아이디어/블록코딩 앱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,9 +188,9 @@
   },
   "active": "4a97b1d99ef03b77",
   "lastOpenFiles": [
+    "아이디어/랜선집사.md",
     "아이디어/양손 스와이프 키보드.md",
     "아이디어/감시사회.md",
-    "아이디어/랜선집사.md",
     "아이디어/블록코딩 앱.md",
     "아이디어/Human Readable Device ID.md",
     "아이디어/링크 래퍼.md",
