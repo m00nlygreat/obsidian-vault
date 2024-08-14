@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/소프트웨어 기획.md",
+                "file": "아이디어/마인크래프트 성장형 RPG 시스템.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/소프트웨어 기획.md"
+                "file": "아이디어/마인크래프트 성장형 RPG 시스템.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/소프트웨어 기획.md",
+                "file": "아이디어/마인크래프트 성장형 RPG 시스템.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/소프트웨어 기획.md",
+                "file": "아이디어/마인크래프트 성장형 RPG 시스템.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +188,13 @@
   },
   "active": "4a97b1d99ef03b77",
   "lastOpenFiles": [
-    "강의/attachments/uxdesign02.png",
+    "아이디어/링크 래퍼.md",
+    "아이디어/맥시멀리스트.md",
+    "아이디어/나 살아있소.md",
+    "아이디어/양손 스와이프 키보드.md",
+    "아이디어/블록코딩 앱.md",
     "강의/소프트웨어 기획.md",
+    "강의/attachments/uxdesign02.png",
     "강의/서비스 기획.md",
     "강의/디자인을 위한 CS.md",
     "강의/강의 준비.md",
@@ -211,10 +216,6 @@
     "강의/노코드 엔지니어링/노코드 개론.md",
     "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
     "강의/노코드 엔지니어링/프레이머로 블로그 만들기.md",
-    "강의/노코드 엔지니어링/필살기 프레이머.md",
-    "강의/노코드 엔지니어링/풀스택 노코드 버블.md",
-    "강의/노코드 엔지니어링/_풀스택 노코드 버블.md",
-    "강의/노코드 엔지니어링/버블.md",
     "Untitled.canvas",
     "강의/노코드 엔지니어링/attachments/Pasted image 20240413042830.png",
     "강의/노코드 엔지니어링/attachments/notion1.png",
