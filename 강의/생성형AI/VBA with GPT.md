@@ -1,4 +1,6 @@
 ## VBA
 
 - Visual Basic for Applications
-- ㅇ
+- 초보자를 위한 베이직
+
+## 
