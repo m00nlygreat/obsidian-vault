@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/VBA with GPT.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "01e3b0304e07865c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/VBA with GPT.md"
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md"
               }
             }
           },
@@ -124,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/VBA with GPT.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/VBA with GPT.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,12 +200,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a97b1d99ef03b77",
+  "active": "01e3b0304e07865c",
   "lastOpenFiles": [
+    "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.baked.md",
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+    "강의/생성형AI/VBA with GPT.md",
+    "강의/생성형AI/attachments/Pasted image 20240815042447.png",
     "강의/생성형AI/attachments/Pasted image 20240815040614.png",
     "강의/생성형AI/attachments/Pasted image 20240815035928.png",
     "강의/생성형AI/ChatGPT 강의는 이제 안 하고 싶은데요.md",
-    "강의/생성형AI/VBA with GPT.md",
     "아이디어/블록코딩 앱.md",
     "아이디어/랜선집사.md",
     "아이디어/양손 스와이프 키보드.md",
@@ -214,8 +232,6 @@
     "강의/면접 멘토링.md",
     "강의/HTML-CSS 추가.md",
     "강의/UX 이론.md",
-    "강의/생성형AI/하이퍼 파라미터(Hyperparameters).md",
-    "강의/생성형AI/ChatGPT예제_회사원.md",
     "강의/생성형AI/attachments/Pasted image 20240726085235.png",
     "Untitled.canvas",
     "강의/노코드 엔지니어링/attachments/Pasted image 20240413042830.png",
@@ -223,8 +239,6 @@
     "강의/attachments/Pasted image 20240712222211.png",
     "강의/attachments/Pasted image 20240711164257.png",
     "강의/attachments/Pasted image 20240711163523.png",
-    "강의/attachments/Pasted image 20240711162808.png",
-    "강의/attachments/Pasted image 20240711162607.png",
     "Untitled 1.canvas",
     "별자리",
     "강의/생성형AI/생성형AI/attachments",

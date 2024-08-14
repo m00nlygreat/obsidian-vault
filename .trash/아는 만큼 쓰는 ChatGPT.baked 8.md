@@ -641,35 +641,6 @@ author:
 
 ![](attachments/image30.png)
 
-## VBA
-
-- Visual Basic for Applications
-- 초보자를 위한 베이직
-
-### 매크로
-
-- 엑셀의 작업이나 다른 프로그램 처리를 로직을 통해 자동화
-
-### 사용자 함수
-
-- 기존 엑셀 함수에 더해 사용할 수 있는 사용자 커스텀 함수를 VBA로 제작
-
-## 근태 체크 엑셀 매크로 만들기
-
-- 출근/퇴근 버튼을 누르면 근태 시트에 자동으로 출퇴근 시간이 적히도록 엑셀 매크로 작성
-
-![](attachments/Pasted%20image%2020240815040614.png)
-
-## 파일명 변경 엑셀 만들기
-
-- 폴더 내 파일명을 일괄 변경해주는 엑셀 매크로 만들기
-
-![](attachments/Pasted%20image%2020240815035928.png)
-
-## ChatGPT를 엑셀에서 사용할 수 있도록 커스텀 함수 만들기
-
-- `GPT()` 함수 만들기
-
-![](attachments/Pasted%20image%2020240815042447.png)
+![[VBA with GPT.]]
 
 # 감사합니다
