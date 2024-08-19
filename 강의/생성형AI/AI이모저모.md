@@ -139,3 +139,14 @@
 	- 애플 2024 WWDC, Siri와 ChatGPT의 통합
 
 ![](attachments/Pasted%20image%2020240609231252.png)
+
+---
+
+### 대규모 언어모델 경쟁심화
+
+- 언어모델 자체의 성능은 상향평준화 되는 추세
+	- Llama 3.1 
+	- Claude 3.5
+	- Mistral 2 Large
+	- Gemini 1.5 Pro
+- ChatGPT는 유틸리티, 애플리케이션 측면에서 선두
