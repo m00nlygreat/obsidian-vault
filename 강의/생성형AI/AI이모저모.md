@@ -150,4 +150,4 @@
 	- Mistral 2 Large
 	- Gemini 1.5 Pro
 - ChatGPT는 유틸리티, 애플리케이션 측면에서 선두
-	- GPT-4o / 
+	- GPT-4o / mini / long
