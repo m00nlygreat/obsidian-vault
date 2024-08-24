@@ -1,9 +1,17 @@
 {
   "version": "2.0",
   "layout": [
-    null,
-    null,
-    null
+    [
+      null,
+      null,
+      null
+    ],
+    [
+      {
+        "type": "pinned",
+        "path": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md"
+      }
+    ]
   ],
   "settings": {
     "splitDirection": "horizontal",
