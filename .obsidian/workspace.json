@@ -4,71 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "beb3021e793fbc38",
-        "type": "split",
+        "id": "7ae48cac5366e03c",
+        "type": "tabs",
         "children": [
           {
-            "id": "7ae48cac5366e03c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4a97b1d99ef03b77",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "01e3b0304e07865c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "c1e4307b032dc8bf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
+            "id": "4a97b1d99ef03b77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
-            ],
-            "currentTab": 2
+            }
           },
           {
-            "id": "e3d8e964a4ad859c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1178a3a1e615aa0a",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
+            "id": "01e3b0304e07865c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
-            ]
+            }
+          },
+          {
+            "id": "c1e4307b032dc8bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,7 +213,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1178a3a1e615aa0a",
+  "active": "c1e4307b032dc8bf",
   "lastOpenFiles": [
     "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.baked.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
