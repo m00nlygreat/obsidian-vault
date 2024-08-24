@@ -51,7 +51,7 @@ author:
 
 - OpenAI 가 발표한 Generative Pre-trained Transformer 모델의 생성형 AI
 - Transformer: 2017년 구글. 단어들 간의 유사도를 찾아내서 (셀프 어텐션) 의미를 알아서 학습하는 모델. 
-	- All you need is Attention
+	- "Attention is all you need."
 
 ### 생성형 AI (Generative AI)
 
