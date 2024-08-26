@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹클립/VIM 유용한 단축키 정리.md",
+                "file": "아이디어/감시사회.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹클립/VIM 유용한 단축키 정리.md",
+                "file": "아이디어/감시사회.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "웹클립/VIM 유용한 단축키 정리.md"
+                "file": "아이디어/감시사회.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "웹클립/VIM 유용한 단축키 정리.md",
+                "file": "아이디어/감시사회.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "웹클립/VIM 유용한 단축키 정리.md",
+                "file": "아이디어/감시사회.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,11 +208,12 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "6e7be19b029eca7b",
+  "active": "4a97b1d99ef03b77",
   "lastOpenFiles": [
+    "아이디어/아이디어.md",
+    "웹클립/VIM 유용한 단축키 정리.md",
     "웹클립/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트.md",
     "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
-    "웹클립/VIM 유용한 단축키 정리.md",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog/vim-shortkey-keyboard.png",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog",
     "웹클립/vim-shortkey-keyboard.png",
@@ -244,7 +245,6 @@
     "아이디어/블록코딩 앱.md",
     "아이디어/랜선집사.md",
     "아이디어/양손 스와이프 키보드.md",
-    "아이디어/나 살아있소.md",
     "강의/attachments/uxdesign02.png",
     "강의/생성형AI/attachments/Pasted image 20240726085235.png",
     "Untitled.canvas",

@@ -1,5 +1,19 @@
 {
   "editor:toggle-bold": [],
   "table-editor-obsidian:table-control-bar": [],
-  "editor:delete-paragraph": []
+  "editor:delete-paragraph": [],
+  "file-explorer:new-file": [],
+  "workspace:goto-last-tab": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-8": [],
+  "graph:open": [],
+  "editor:insert-link": [],
+  "app:open-help": [],
+  "editor:open-search": []
 }

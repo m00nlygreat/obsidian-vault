@@ -60,7 +60,8 @@
     "//Spaces/Spaces/Home",
     "//웹클립",
     "//웹클립/웹클립/attachments",
-    "//journal"
+    "//journal",
+    "//아이디어"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
