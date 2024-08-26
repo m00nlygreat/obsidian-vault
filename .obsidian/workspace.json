@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/감시사회.md"
+                "file": "웹클립/VIM 유용한 단축키 정리.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "아이디어/감시사회.md",
+                "file": "웹클립/VIM 유용한 단축키 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이디어/감시사회.md",
+                "file": "웹클립/VIM 유용한 단축키 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +208,47 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "4a97b1d99ef03b77",
+  "floating": {
+    "id": "3e0470ac9ee9a9be",
+    "type": "floating",
+    "children": [
+      {
+        "id": "559a32785c5aad0b",
+        "type": "window",
+        "children": [
+          {
+            "id": "12f19e655a3e37b7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bcb73effaeafdac2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "웹클립/VIM 유용한 단축키 정리.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1101,
+        "y": 392,
+        "width": 602,
+        "height": 831,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "bcb73effaeafdac2",
   "lastOpenFiles": [
+    "아이디어/감시사회.md",
     "아이디어/아이디어.md",
     "웹클립/VIM 유용한 단축키 정리.md",
     "웹클립/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트.md",
@@ -223,7 +262,6 @@
     "웹클립/attachments",
     "웹클립/Untitled.md",
     "웹클립/HTTP의 Stateless, 비연결성.md",
-    "아이디어/감시사회.md",
     "강의/스크럼 애자일-지라.md",
     "강의/면접 멘토링.md",
     "강의/포트폴리오.md",
