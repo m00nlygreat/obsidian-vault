@@ -189,12 +189,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,7 +208,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "4a97b1d99ef03b77",
+  "active": "6e7be19b029eca7b",
   "lastOpenFiles": [
     "웹클립/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트.md",
     "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
