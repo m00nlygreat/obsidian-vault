@@ -13,33 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
+                "file": "웹클립/VIM 유용한 단축키 정리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             },
-            "group": "ff2ebbe655b35232"
+            "group": "0fa554210a7dbab8"
           }
         ]
       },
       {
-        "id": "71f90782cc0a6b01",
+        "id": "24049f1002c67bb5",
         "type": "tabs",
         "children": [
           {
-            "id": "8d77036b6506f309",
+            "id": "236a790888b1afe7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
+                "file": "웹클립/VIM 유용한 단축키 정리.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             },
-            "group": "ff2ebbe655b35232"
+            "group": "0fa554210a7dbab8"
           }
         ]
       }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md"
+                "file": "웹클립/VIM 유용한 단축키 정리.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
+                "file": "웹클립/VIM 유용한 단축키 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
+                "file": "웹클립/VIM 유용한 단축키 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,13 +209,17 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "8d77036b6506f309",
+  "active": "236a790888b1afe7",
   "lastOpenFiles": [
+    "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog/vim-shortkey-keyboard.png",
+    "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog",
+    "웹클립/vim-shortkey-keyboard.png",
+    "attachments/vim-shortkey-keyboard.png",
     "웹클립/VIM 유용한 단축키 정리.md",
+    "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
     "웹클립/attachments/attachments.md",
     "웹클립/attachments/vim-shortkey-keyboard.png",
     "웹클립/attachments",
-    "웹클립/vim-shortkey-keyboard.png",
     "웹클립/Untitled.md",
     "웹클립/HTTP의 Stateless, 비연결성.md",
     "아이디어/감시사회.md",
@@ -241,13 +245,11 @@
     "아이디어/랜선집사.md",
     "아이디어/양손 스와이프 키보드.md",
     "아이디어/나 살아있소.md",
-    "conflict-files-obsidian-git.md",
     "강의/attachments/uxdesign02.png",
     "강의/생성형AI/attachments/Pasted image 20240726085235.png",
     "Untitled.canvas",
     "강의/노코드 엔지니어링/attachments/Pasted image 20240413042830.png",
     "강의/노코드 엔지니어링/attachments/notion1.png",
-    "강의/attachments/Pasted image 20240712222211.png",
     "Untitled 1.canvas",
     "별자리",
     "강의/생성형AI/생성형AI/attachments",
@@ -256,7 +258,6 @@
     "노코드 엔지니어링",
     "강의/노코드 엔지니어링/피그마",
     "강의/노코드 엔지니어링/노션",
-    "강의/~$사전 평가 질문지.pptx",
-    "강의/~$ 평가 질문지.docx"
+    "강의/~$사전 평가 질문지.pptx"
   ]
 }

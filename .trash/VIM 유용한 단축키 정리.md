@@ -1,15 +1,11 @@
----
-created: 2024-08-26T10:34:00 (UTC +09:00)
-source: https://gmlwjd9405.github.io/2019/05/14/vim-shortkey.html
----
 ## Goal
 
-> -   vim의 단축키 사용법에 대해 이해한다.
->     -   이동
->     -   편집 (삽입, 삭제, 수정, 복사, 붙여넣기 등)
->     -   선택
->     -   검색
->     -   기타 (매크로, 이어 붙이기, 취소하기/되돌리기 및 들여쓰기/내어쓰기, 대소문자 전환, 숫자 증감, 창 열기/탭 이동 등 )
+ -   vim의 단축키 사용법에 대해 이해한다.
+     -   이동
+     -   편집 (삽입, 삭제, 수정, 복사, 붙여넣기 등)
+     -   선택
+     -   검색
+     -   기타 (매크로, 이어 붙이기, 취소하기/되돌리기 및 들여쓰기/내어쓰기, 대소문자 전환, 숫자 증감, 창 열기/탭 이동 등 )
 
 ![](attachments/VIM%20vim%20%EC%9C%A0%EC%9A%A9%ED%95%9C%20%EB%8B%A8%EC%B6%95%ED%82%A4%20%EC%A0%95%EB%A6%AC%20-%20Heee's%20Development%20Blog/vim-shortkey-keyboard.png)
 
@@ -216,7 +212,3 @@ source: https://gmlwjd9405.github.io/2019/05/14/vim-shortkey.html
 > -   [https://devanix.tistory.com/170](https://devanix.tistory.com/170)
 > -   [http://ickhyun82.blogspot.com/2012/02/vi.html](http://ickhyun82.blogspot.com/2012/02/vi.html)
 > -   [vimgolf - vi 학습 프로그램](https://www.vimgolf.com/)
----
-created: 2024-08-26T10:34:00 (UTC +09:00)
-source: https://gmlwjd9405.github.io/2019/05/14/vim-shortkey.html
----
