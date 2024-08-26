@@ -58,10 +58,9 @@
     "//강의/강의/노코드 엔지니어링/강의/노코드 엔지니어링/노션",
     "//강의/강의/노코드 엔지니어링/강의/노코드 엔지니어링/노션",
     "//Spaces/Spaces/Home",
-    "//웹클립",
     "//웹클립/웹클립/attachments",
-    "//journal",
-    "//아이디어"
+    "//아이디어",
+    "//journal"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
