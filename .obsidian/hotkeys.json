@@ -17,6 +17,5 @@
   "app:open-help": [],
   "editor:open-search": [],
   "editor:toggle-checklist-status": [],
-  "editor:toggle-italics": [],
-  "editor:open-search-replace": []
+  "editor:toggle-italics": []
 }
