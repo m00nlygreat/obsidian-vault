@@ -13,33 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹클립/VIM 유용한 단축키 정리.md",
+                "file": "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             },
-            "group": "7ff17af5abebbe84"
+            "group": "ff2ebbe655b35232"
           }
         ]
       },
       {
-        "id": "2b3bdc1b347be6f9",
+        "id": "71f90782cc0a6b01",
         "type": "tabs",
         "children": [
           {
-            "id": "76b761eb33b53bd3",
+            "id": "8d77036b6506f309",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹클립/VIM 유용한 단축키 정리.md",
-                "mode": "source",
+                "file": "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             },
-            "group": "7ff17af5abebbe84"
+            "group": "ff2ebbe655b35232"
           }
         ]
       }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "웹클립/VIM 유용한 단축키 정리.md"
+                "file": "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "웹클립/VIM 유용한 단축키 정리.md",
+                "file": "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "웹클립/VIM 유용한 단축키 정리.md",
+                "file": "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,11 +209,11 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "4a97b1d99ef03b77",
+  "active": "8d77036b6506f309",
   "lastOpenFiles": [
-    "웹클립/attachments/vim-shortkey-keyboard.png",
     "웹클립/VIM 유용한 단축키 정리.md",
     "웹클립/attachments/attachments.md",
+    "웹클립/attachments/vim-shortkey-keyboard.png",
     "웹클립/attachments",
     "웹클립/vim-shortkey-keyboard.png",
     "웹클립/Untitled.md",
