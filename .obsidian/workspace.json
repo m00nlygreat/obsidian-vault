@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹클립/VIM 유용한 단축키 정리.md",
+                "file": "웹클립/그 애.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹클립/VIM 유용한 단축키 정리.md",
+                "file": "웹클립/그 애.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "웹클립/VIM 유용한 단축키 정리.md"
+                "file": "웹클립/그 애.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "웹클립/VIM 유용한 단축키 정리.md",
+                "file": "웹클립/그 애.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "웹클립/VIM 유용한 단축키 정리.md",
+                "file": "웹클립/그 애.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,6 +211,7 @@
   },
   "active": "4a97b1d99ef03b77",
   "lastOpenFiles": [
+    "웹클립/VIM 유용한 단축키 정리.md",
     "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
     "웹클립/커뮤니티 만드는 법.md",
     "웹클립/HTTP의 Stateless, 비연결성.md",
@@ -218,7 +220,6 @@
     "웹클립/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트.md",
     "웹클립/Lenovo Legion Y700 ZUI 14에 구글 플레이 결제 연동하기.  클리앙.md",
     "아이디어/감시사회.md",
-    "웹클립/VIM 유용한 단축키 정리.md",
     "Untitled.md",
     "아이디어/아이디어.md",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog/vim-shortkey-keyboard.png",
