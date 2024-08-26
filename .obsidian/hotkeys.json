@@ -17,5 +17,6 @@
   "app:open-help": [],
   "editor:open-search": [],
   "editor:toggle-checklist-status": [],
-  "editor:toggle-italics": []
+  "editor:toggle-italics": [],
+  "make-md:mk-blink": []
 }
