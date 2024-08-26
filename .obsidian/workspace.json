@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹클립/VIM 유용한 단축키 정리.md",
+                "file": "아이디어/감시사회.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "웹클립/VIM 유용한 단축키 정리.md"
+                "file": "아이디어/감시사회.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "웹클립/VIM 유용한 단축키 정리.md",
+                "file": "아이디어/감시사회.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "웹클립/VIM 유용한 단축키 정리.md",
+                "file": "아이디어/감시사회.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,6 +198,7 @@
   },
   "active": "3d12daac78cfef79",
   "lastOpenFiles": [
+    "웹클립/VIM 유용한 단축키 정리.md",
     "별자리/별자리 이야기 - 물병자리의 성격 [1.20~2.18].md",
     "아이디어/감시사회.md",
     "conflict-files-obsidian-git.md",
@@ -212,7 +213,6 @@
     "journal/2023-09-02.md",
     "웹클립/진보는 외부 자극에, 보수는 공포에 민감.md",
     "웹클립/히로스에 료코 불륜으로 본 일본의 성문화.md",
-    "웹클립/VIM 유용한 단축키 정리.md",
     "웹클립/그 애.md",
     "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
     "웹클립/HTTP의 Stateless, 비연결성.md",
