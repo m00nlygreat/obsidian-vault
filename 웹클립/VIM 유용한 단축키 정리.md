@@ -211,10 +211,10 @@ source: https://gmlwjd9405.github.io/2019/05/14/vim-shortkey.html
 
 ## Reference
 
-> -   [https://blog.outsider.ne.kr/540](https://blog.outsider.ne.kr/540)
-> -   [https://vim.rtorr.com/lang/ko](https://vim.rtorr.com/lang/ko)
-> -   [http://egloos.zum.com/kwon37xi/v/1501256](http://egloos.zum.com/kwon37xi/v/1501256)
-> -   [https://vim.rtorr.com/lang/ko](https://vim.rtorr.com/lang/ko)
-> -   [https://devanix.tistory.com/170](https://devanix.tistory.com/170)
-> -   [http://ickhyun82.blogspot.com/2012/02/vi.html](http://ickhyun82.blogspot.com/2012/02/vi.html)
-> -   [vimgolf - vi 학습 프로그램](https://www.vimgolf.com/)
+-  [https://blog.outsider.ne.kr/540](https://blog.outsider.ne.kr/540)
+-  [https://vim.rtorr.com/lang/ko](https://vim.rtorr.com/lang/ko)
+-  [http://egloos.zum.com/kwon37xi/v/1501256](http://egloos.zum.com/kwon37xi/v/1501256)
+-  [https://vim.rtorr.com/lang/ko](https://vim.rtorr.com/lang/ko)
+-  [https://devanix.tistory.com/170](https://devanix.tistory.com/170)
+-  [http://ickhyun82.blogspot.com/2012/02/vi.html](http://ickhyun82.blogspot.com/2012/02/vi.html)
+-  [vimgolf - vi 학습 프로그램](https://www.vimgolf.com/)
