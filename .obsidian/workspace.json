@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "9dffab8480015558",
+        "id": "54cc376f5a7ba160",
         "type": "tabs",
         "children": [
           {
-            "id": "6d4a9f5e21a1d040",
+            "id": "6bd07b5d0b6cb73b",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -168,7 +168,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d4a9f5e21a1d040",
+  "active": "6bd07b5d0b6cb73b",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "강의/생성형AI/attachments/Pasted image 20240726085235.png",
