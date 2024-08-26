@@ -68,10 +68,10 @@
   "spaceSubFolder": ".space",
   "hiddenFiles": [],
   "hiddenExtensions": [
-    ".mdb"
+    ".mdb",
+    "_assets",
+    "_blocks"
   ],
-  "newFileLocation": "root",
-  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
@@ -91,11 +91,11 @@
   "indexSVG": false,
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
-  "releaseNotesPrompt": 0.9,
+  "releaseNotesPrompt": 0.999,
   "enableDefaultSpaces": true,
   "showSpacePinIcon": true,
   "experimental": false,
-  "systemName": "Vault",
+  "systemName": "vault",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
   "actionMaxSteps": 100,
