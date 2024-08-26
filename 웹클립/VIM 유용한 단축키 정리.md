@@ -137,6 +137,7 @@ source: https://gmlwjd9405.github.io/2019/05/14/vim-shortkey.html
 ### 단어 단위로 여러 줄 선택
 
 1.  **\[esc\]** 를 눌러 표준 모드로 진입
+
 2.  **[v](https://gmlwjd9405.github.io/2019/05/14/%EB%B9%84%EC%A3%BC%EC%96%BC%20%EB%AA%A8%EB%93%9C)** 를 눌러 여러 줄을 선택할 수 있는 상태를 만든다.
   - **v:** 단어 단위
   - **\[shift + v\]:** 라인 단위
