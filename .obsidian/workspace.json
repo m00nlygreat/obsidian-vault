@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "cd6a251879d27be0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/감시사회.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -124,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "아이디어/감시사회.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이디어/감시사회.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,10 +210,11 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "3d12daac78cfef79",
+  "active": "cd6a251879d27be0",
   "lastOpenFiles": [
-    "Untitled.md",
     "아이디어/감시사회.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled.md",
     "웹클립/보수와 진보는 뇌의 두께가 다르더라.md",
     "웹클립/베라모드의 독백.md",
     "웹클립/커뮤니티 만드는 법.md",
@@ -229,7 +244,6 @@
     "강의/스크럼 애자일-지라.md",
     "강의/면접 멘토링.md",
     "강의/포트폴리오.md",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/attachments/Pasted image 20240815042447.png",
     "강의/생성형AI/attachments/Pasted image 20240815040614.png",
     "강의/생성형AI/attachments/Pasted image 20240815035928.png",
