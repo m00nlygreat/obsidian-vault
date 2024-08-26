@@ -11,8 +11,13 @@
             "id": "6bd07b5d0b6cb73b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -120,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +180,17 @@
   "active": "6bd07b5d0b6cb73b",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "웹클립/커뮤니티 만드는 법.md",
+    "웹클립/VIM 유용한 단축키 정리.md",
+    "아이디어/랜선집사.md",
+    "아이디어/감시사회.md",
+    "강의/생성형AI/attachments/Pasted image 20240815042447.png",
+    "강의/생성형AI/attachments/Pasted image 20240815040614.png",
+    "강의/생성형AI/attachments/Pasted image 20240815035928.png",
+    "강의/생성형AI/VBA with GPT.md",
+    "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog/vim-shortkey-keyboard.png",
+    "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog",
+    "Untitled.md",
     "강의/생성형AI/attachments/Pasted image 20240726085235.png",
     "강의/노코드 엔지니어링/풀스택 노코드 버블.md",
     "노코드 엔지니어링/디지텍고 강의.md",
@@ -191,20 +211,11 @@
     "강의/attachments/uxdesign01.png",
     "강의/attachments/rest.png",
     "강의/attachments/Pasted image 20240712222211.png",
-    "강의/attachments/Pasted image 20240711164257.png",
-    "강의/attachments/Pasted image 20240711163523.png",
-    "강의/attachments/Pasted image 20240711162808.png",
-    "강의/attachments/Pasted image 20240711162607.png",
     "강의/포트폴리오.md",
     "강의/사전 평가 질문지.md",
     "강의/면접 멘토링.md",
     "강의/서비스 기획.md",
     "강의/강사 소개.md",
-    "강의/HTML-CSS.md",
-    "웹클립/HTTP의 Stateless, 비연결성.md",
-    "별자리/별자리 이야기 - 물병자리의 성격 [1.20~2.18].md",
-    "별자리/별자리 이야기 - 황소자리의 성격 [4.21~5.20].md",
-    "별자리/별자리 이야기 - 처녀자리의 성격 [8.23~9.22].md",
     "별자리",
     "untitled folder",
     "노코드 엔지니어링/attachments",
@@ -214,7 +225,6 @@
     "강의/attachments",
     "attachments/사주보는법 자평진전의 변격과 겸격에 대한 이해  네이버 블로그",
     "attachments/Data is beautiful 10 of the best data visualization examples",
-    "Spaces/Home",
     "무제 파일.canvas"
   ]
 }

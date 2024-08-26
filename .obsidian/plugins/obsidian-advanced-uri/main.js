@@ -3277,7 +3277,7 @@ __export(main_exports, {
   default: () => AdvancedURI
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian13 = require("obsidian");
+var import_obsidian14 = require("obsidian");
 
 // node_modules/obsidian-community-lib/dist/utils.js
 var feather = __toESM(require_feather());
@@ -3299,15 +3299,17 @@ var BlockUtils = class _BlockUtils {
     var _a, _b;
     const cursor = editor.getCursor("to");
     const fileCache = app2.metadataCache.getFileCache(file);
-    let currentBlock = (_a = fileCache == null ? void 0 : fileCache.sections) == null ? void 0 : _a.find(
-      (section) => section.position.start.line <= cursor.line && section.position.end.line >= cursor.line
-    );
-    if (currentBlock.type == "list") {
-      currentBlock = (_b = fileCache.listItems) == null ? void 0 : _b.find((list) => {
-        if (list.position.start.line <= cursor.line && list.position.end.line >= cursor.line) {
-          return list;
-        }
-      });
+    const sections = fileCache == null ? void 0 : fileCache.sections;
+    if (!sections || sections.length === 0) {
+      console.log("error reading FileCache (empty file?)");
+      return;
+    }
+    const foundSectionIndex = sections.findIndex((section) => section.position.start.line > cursor.line);
+    let currentBlock = foundSectionIndex > 0 ? sections[foundSectionIndex - 1] : sections[sections.length - 1];
+    if ((currentBlock == null ? void 0 : currentBlock.type) == "list") {
+      currentBlock = (_b = (_a = fileCache.listItems) == null ? void 0 : _a.find(
+        (section) => section.position.start.line <= cursor.line && section.position.end.line >= cursor.line
+      )) != null ? _b : currentBlock;
     }
     return currentBlock;
   }
@@ -3683,7 +3685,11 @@ var Handlers = class {
         workspaces.saveWorkspace(active);
         new import_obsidian7.Notice(`Saved current workspace to ${active}`);
       }
-      if (parameters.workspace != void 0) {
+      if (parameters.clipboard && parameters.clipboard != "false") {
+        this.tools.copyURI({
+          workspace: workspaces.activeWorkspace
+        });
+      } else if (parameters.workspace != void 0) {
         workspaces.loadWorkspace(parameters.workspace);
       }
       this.plugin.success(parameters);
@@ -3724,7 +3730,7 @@ var Handlers = class {
             editor.setValue("");
           }
         }
-      } else if (parameters.line) {
+      } else if (parameters.line != void 0 || parameters.column != void 0 || parameters.offset != void 0) {
         await this.plugin.open({
           file: parameters.filepath,
           mode: "source",
@@ -3738,6 +3744,10 @@ var Handlers = class {
           parameters
         });
       }
+    } else if (parameters.openmode || parameters.viewmode) {
+      await this.plugin.open({
+        parameters
+      });
     }
     if (parameters.commandid) {
       this.app.commands.executeCommandById(parameters.commandid);
@@ -3746,12 +3756,21 @@ var Handlers = class {
       for (const command in rawCommands) {
         if (rawCommands[command].name === parameters.commandname) {
           if (rawCommands[command].callback) {
-            rawCommands[command].callback();
+            await rawCommands[command].callback();
           } else {
             rawCommands[command].checkCallback(false);
           }
           break;
         }
+      }
+    }
+    if (parameters.confirm && parameters.confirm != "false") {
+      await new Promise((r) => setTimeout(r, 750));
+      const button = document.querySelector(
+        ".mod-cta:not([style*='display: none'])"
+      );
+      if (button.click instanceof Function) {
+        button.click();
       }
     }
     this.plugin.success(parameters);
@@ -3791,7 +3810,7 @@ var Handlers = class {
             editor.setValue("");
           }
         }
-      } else if (parameters.line) {
+      } else if (parameters.line != void 0 || parameters.column != void 0 || parameters.offset != void 0) {
         await this.plugin.open({
           file: parameters.filepath,
           mode: "source",
@@ -3977,7 +3996,7 @@ var Handlers = class {
         setting: this.plugin.settings.openFileWithoutWriteInNewPane,
         parameters
       });
-      if (parameters.line != void 0) {
+      if (parameters.line != void 0 || parameters.column != void 0 || parameters.offset != void 0) {
         await this.plugin.setCursorInLine(parameters);
       }
     }
@@ -4080,12 +4099,12 @@ var Handlers = class {
     this.plugin.success(parameters);
   }
   async handleUpdatePlugins(parameters) {
-    parameters.settingid = "community-plugins";
-    this.handleOpenSettings(parameters);
-    this.app.setting.activeTab.containerEl.findAll(".mod-cta").last().click();
-    new import_obsidian7.Notice("Waiting 10 seconds");
-    await new Promise((resolve) => setTimeout(resolve, 10 * 1e3));
-    if (Object.keys(this.app.plugins.updates).length !== 0) {
+    new import_obsidian7.Notice("Checking for updates\u2026");
+    await this.app.plugins.checkForUpdates();
+    const updateCount = Object.keys(this.app.plugins.updates).length;
+    if (updateCount > 0) {
+      parameters.settingid = "community-plugins";
+      this.handleOpenSettings(parameters);
       this.app.setting.activeTab.containerEl.findAll(".mod-cta").last().click();
     }
     this.plugin.success(parameters);
@@ -4101,6 +4120,61 @@ var Handlers = class {
       openMode = parameters.openmode;
     }
     bookmarksPlugin.openBookmark(bookmark, openMode);
+  }
+  async handleCanvas(parameters) {
+    if (parameters.filepath) {
+      await this.plugin.open({
+        file: parameters.filepath,
+        setting: this.plugin.settings.openFileWithoutWriteInNewPane,
+        parameters
+      });
+    }
+    const activeView = this.app.workspace.activeLeaf.view;
+    if (activeView.getViewType() != "canvas") {
+      new import_obsidian7.Notice("Active view is not a canvas");
+      return;
+    }
+    const canvasView = activeView;
+    if (parameters.canvasnodes) {
+      const ids = parameters.canvasnodes.split(",");
+      const nodes = canvasView.canvas.nodes;
+      const selectedNodes = ids.map((id) => nodes.get(id));
+      const selection = canvasView.canvas.selection;
+      canvasView.canvas.updateSelection(() => {
+        for (const node of selectedNodes) {
+          selection.add(node);
+        }
+      });
+      canvasView.canvas.zoomToSelection();
+    }
+    if (parameters.canvasviewport) {
+      const [x, y, zoom] = parameters.canvasviewport.split(",");
+      if (x != "-") {
+        if (x.startsWith("--") || x.startsWith("++")) {
+          const tx = canvasView.canvas.tx + Number(x.substring(1));
+          canvasView.canvas.tx = tx;
+        } else {
+          canvasView.canvas.tx = Number(x);
+        }
+      }
+      if (y != "-") {
+        if (y.startsWith("--") || y.startsWith("++")) {
+          const ty = canvasView.canvas.ty + Number(y.substring(1));
+          canvasView.canvas.ty = ty;
+        } else {
+          canvasView.canvas.ty = Number(y);
+        }
+      }
+      if (zoom != "-") {
+        if (zoom.startsWith("--") || zoom.startsWith("++")) {
+          const tZoom = canvasView.canvas.tZoom + Number(zoom.substring(1));
+          canvasView.canvas.tZoom = tZoom;
+        } else {
+          canvasView.canvas.tZoom = Number(zoom);
+        }
+      }
+      canvasView.canvas.markViewportChanged();
+    }
   }
 };
 
@@ -4430,7 +4504,20 @@ var Tools = class {
         parameters.filepath = void 0;
       parameters.uid = await this.getUIDFromFile(file);
     }
-    for (const parameter in parameters) {
+    const sortedParameterKeys = Object.keys(parameters).filter((key) => parameters[key]).sort((a, b) => {
+      const first = ["filepath", "filename", "uid", "daily"];
+      const last = ["data", "eval"];
+      if (first.includes(a))
+        return -1;
+      if (first.includes(b))
+        return 1;
+      if (last.includes(a))
+        return 1;
+      if (last.includes(b))
+        return -1;
+      return 0;
+    });
+    for (const parameter of sortedParameterKeys) {
       if (parameters[parameter] != void 0) {
         suffix += suffix ? "&" : "?";
         suffix += `${parameter}=${encodeURIComponent(
@@ -4478,8 +4565,32 @@ var Tools = class {
   }
 };
 
+// src/modals/workspace_modal.ts
+var import_obsidian13 = require("obsidian");
+var WorkspaceModal = class extends import_obsidian13.FuzzySuggestModal {
+  constructor(plugin) {
+    super(plugin.app);
+    this.plugin = plugin;
+    this.setPlaceholder("Choose a workspace");
+  }
+  getItems() {
+    const workspacesPlugin = this.app.internalPlugins.getEnabledPluginById("workspaces");
+    if (!workspacesPlugin) {
+      new import_obsidian13.Notice("Workspaces plugin is not enabled");
+    } else {
+      return Object.keys(workspacesPlugin.workspaces);
+    }
+  }
+  getItemText(item) {
+    return item;
+  }
+  onChooseItem(item, _) {
+    this.plugin.tools.copyURI({ workspace: item });
+  }
+};
+
 // src/main.ts
-var AdvancedURI = class extends import_obsidian13.Plugin {
+var AdvancedURI = class extends import_obsidian14.Plugin {
   constructor() {
     super(...arguments);
     this.handlers = new Handlers(this);
@@ -4490,22 +4601,22 @@ var AdvancedURI = class extends import_obsidian13.Plugin {
     this.addSettingTab(new SettingsTab(this.app, this));
     this.addCommand({
       id: "copy-uri-current-file",
-      name: "copy URI for file with options",
+      name: "Copy URI for file with options",
       callback: () => this.handlers.handleCopyFileURI(false)
     });
     this.addCommand({
       id: "copy-uri-current-file-simple",
-      name: "copy URI for current file",
+      name: "Copy URI for current file",
       callback: () => this.handlers.handleCopyFileURI(true)
     });
     this.addCommand({
       id: "copy-uri-daily",
-      name: "copy URI for daily note",
+      name: "Copy URI for daily note",
       callback: () => new EnterDataModal(this).open()
     });
     this.addCommand({
       id: "copy-uri-search-and-replace",
-      name: "copy URI for search and replace",
+      name: "Copy URI for search and replace",
       callback: () => {
         const fileModal = new FileModal(
           this,
@@ -4523,7 +4634,7 @@ var AdvancedURI = class extends import_obsidian13.Plugin {
     });
     this.addCommand({
       id: "copy-uri-command",
-      name: "copy URI for command",
+      name: "Copy URI for command",
       callback: () => {
         const fileModal = new FileModal(
           this,
@@ -4537,9 +4648,9 @@ var AdvancedURI = class extends import_obsidian13.Plugin {
     });
     this.addCommand({
       id: "copy-uri-block",
-      name: "copy URI for current block",
+      name: "Copy URI for current block",
       checkCallback: (checking) => {
-        const view = this.app.workspace.getActiveViewOfType(import_obsidian13.MarkdownView);
+        const view = this.app.workspace.getActiveViewOfType(import_obsidian14.MarkdownView);
         if (checking)
           return view != void 0;
         const id = BlockUtils.getBlockId(this.app);
@@ -4549,6 +4660,54 @@ var AdvancedURI = class extends import_obsidian13.Plugin {
             block: id
           });
         }
+      }
+    });
+    this.addCommand({
+      id: "copy-uri-workspace",
+      name: "Copy URI for workspace",
+      callback: () => {
+        const modal = new WorkspaceModal(this);
+        modal.open();
+      }
+    });
+    this.addCommand({
+      id: "copy-uri-canvas-node",
+      name: "Copy URI for selected canvas nodes",
+      checkCallback: (checking) => {
+        const activeView = this.app.workspace.activeLeaf.view;
+        if (checking) {
+          return activeView.getViewType() === "canvas" && activeView.canvas.selection.size > 0;
+        }
+        if (activeView.getViewType() !== "canvas")
+          return false;
+        const canvasView = activeView;
+        let ids = [];
+        canvasView.canvas.selection.forEach((node) => {
+          ids.push(node.id);
+        });
+        this.tools.copyURI({
+          canvasnodes: ids.join(","),
+          filepath: activeView.file.path
+        });
+      }
+    });
+    this.addCommand({
+      id: "copy-uri-canvas-viewport",
+      name: "Copy URI for current canvas viewport",
+      checkCallback: (checking) => {
+        const activeView = this.app.workspace.activeLeaf.view;
+        if (checking) {
+          return activeView.getViewType() === "canvas";
+        }
+        if (activeView.getViewType() !== "canvas")
+          return false;
+        const canvasView = activeView;
+        const canvas = canvasView.canvas;
+        const tx = canvas.tx.toFixed(0), ty = canvas.ty.toFixed(0), tZoom = canvas.tZoom.toFixed(3);
+        this.tools.copyURI({
+          filepath: activeView.file.path,
+          canvasviewport: `${tx},${ty},${tZoom}`
+        });
       }
     });
     this.registerObsidianProtocolHandler("advanced-uri", async (e) => {
@@ -4576,7 +4735,7 @@ var AdvancedURI = class extends import_obsidian13.Plugin {
           file = this.app.vault.getMarkdownFiles().find(
             (file2) => {
               var _a2;
-              return (_a2 = (0, import_obsidian13.parseFrontMatterAliases)(
+              return (_a2 = (0, import_obsidian14.parseFrontMatterAliases)(
                 this.app.metadataCache.getFileCache(file2).frontmatter
               )) == null ? void 0 : _a2.includes(parameters.filename);
             }
@@ -4586,10 +4745,10 @@ var AdvancedURI = class extends import_obsidian13.Plugin {
           (_b = this.app.workspace.getActiveFile()) == null ? void 0 : _b.path
         );
         const parentFolderPath = parentFolder.isRoot() ? "" : parentFolder.path + "/";
-        parameters.filepath = (_c = file == null ? void 0 : file.path) != null ? _c : parentFolderPath + (0, import_obsidian13.normalizePath)(parameters.filename);
+        parameters.filepath = (_c = file == null ? void 0 : file.path) != null ? _c : parentFolderPath + (0, import_obsidian14.normalizePath)(parameters.filename);
       }
       if (parameters.filepath) {
-        parameters.filepath = (0, import_obsidian13.normalizePath)(parameters.filepath);
+        parameters.filepath = (0, import_obsidian14.normalizePath)(parameters.filepath);
         const index = parameters.filepath.lastIndexOf(".");
         const extension = parameters.filepath.substring(
           index < 0 ? parameters.filepath.length : index
@@ -4599,7 +4758,7 @@ var AdvancedURI = class extends import_obsidian13.Plugin {
         }
       } else if (parameters.daily === "true") {
         if (!(0, import_obsidian_daily_notes_interface2.appHasDailyNotesPluginLoaded)()) {
-          new import_obsidian13.Notice("Daily notes plugin is not loaded");
+          new import_obsidian14.Notice("Daily notes plugin is not loaded");
           return;
         }
         const moment = window.moment(Date.now());
@@ -4644,11 +4803,10 @@ var AdvancedURI = class extends import_obsidian13.Plugin {
     );
     this.registerEvent(
       this.app.workspace.on("file-menu", (menu, file, source) => {
-        console.log(source);
         if (!(source === "more-options" || source === "tab-header" || source == "file-explorer-context-menu")) {
           return;
         }
-        if (!(file instanceof import_obsidian13.TFile)) {
+        if (!(file instanceof import_obsidian14.TFile)) {
           return;
         }
         menu.addItem((item) => {
@@ -4674,6 +4832,8 @@ var AdvancedURI = class extends import_obsidian13.Plugin {
       this.handlers.handleEval(parameters);
     } else if (parameters.filepath && parameters.exists === "true") {
       this.handlers.handleDoesFileExist(parameters);
+    } else if (parameters.canvasnodes || parameters.canvasviewport) {
+      this.handlers.handleCanvas(parameters);
     } else if (parameters.data) {
       this.handlers.handleWrite(parameters, createdDailyNote);
     } else if (parameters.filepath && parameters.heading) {
@@ -4737,7 +4897,7 @@ var AdvancedURI = class extends import_obsidian13.Plugin {
     let path;
     let dataToWrite;
     if (parameters.heading) {
-      if (file instanceof import_obsidian13.TFile) {
+      if (file instanceof import_obsidian14.TFile) {
         path = file.path;
         const line = (_a = getEndAndBeginningOfHeading(
           this.app,
@@ -4752,15 +4912,21 @@ var AdvancedURI = class extends import_obsidian13.Plugin {
         dataToWrite = lines.join("\n");
       }
     } else {
-      let fileData;
-      if (file instanceof import_obsidian13.TFile) {
-        fileData = await this.app.vault.read(file);
+      if (file instanceof import_obsidian14.TFile) {
         path = file.path;
+        const fileData = await this.app.vault.read(file);
+        if (parameters.line) {
+          let line = Math.max(Number(parameters.line), 0);
+          const lines = fileData.split("\n");
+          lines.splice(line, 0, parameters.data);
+          dataToWrite = lines.join("\n");
+        } else {
+          dataToWrite = fileData + "\n" + parameters.data;
+        }
       } else {
         path = file;
-        fileData = "";
+        dataToWrite = parameters.data;
       }
-      dataToWrite = fileData + "\n" + parameters.data;
     }
     return this.writeAndOpenFile(path, dataToWrite, parameters);
   }
@@ -4769,7 +4935,7 @@ var AdvancedURI = class extends import_obsidian13.Plugin {
     let path;
     let dataToWrite;
     if (parameters.heading) {
-      if (file instanceof import_obsidian13.TFile) {
+      if (file instanceof import_obsidian14.TFile) {
         path = file.path;
         const line = (_a = getEndAndBeginningOfHeading(
           this.app,
@@ -4784,18 +4950,19 @@ var AdvancedURI = class extends import_obsidian13.Plugin {
         dataToWrite = lines.join("\n");
       }
     } else {
-      if (file instanceof import_obsidian13.TFile) {
+      if (file instanceof import_obsidian14.TFile) {
+        path = file.path;
         const fileData = await this.app.vault.read(file);
         const cache = this.app.metadataCache.getFileCache(file);
-        if (cache.sections[0].type == "yaml" && cache.sections[0].position.start.line == 0) {
-          const line = cache.sections[0].position.end.line;
-          const first = fileData.split("\n").slice(0, line + 1).join("\n");
-          const last = fileData.split("\n").slice(line + 1).join("\n");
-          dataToWrite = first + "\n" + parameters.data + "\n" + last;
-        } else {
-          dataToWrite = parameters.data + "\n" + fileData;
+        let line = 0;
+        if (parameters.line) {
+          line += Math.max(Number(parameters.line) - 1, 0);
+        } else if (cache.frontmatterPosition) {
+          line += cache.frontmatterPosition.end.line + 1;
         }
-        path = file.path;
+        const lines = fileData.split("\n");
+        lines.splice(line, 0, parameters.data);
+        dataToWrite = lines.join("\n");
       } else {
         path = file;
         dataToWrite = parameters.data;
@@ -4805,19 +4972,19 @@ var AdvancedURI = class extends import_obsidian13.Plugin {
   }
   async writeAndOpenFile(outputFileName, text, parameters) {
     const file = this.app.vault.getAbstractFileByPath(outputFileName);
-    if (file instanceof import_obsidian13.TFile) {
+    if (file instanceof import_obsidian14.TFile) {
       await this.app.vault.modify(file, text);
     } else {
       const parts = outputFileName.split("/");
       const dir = parts.slice(0, parts.length - 1).join("/");
-      if (parts.length > 1 && !(this.app.vault.getAbstractFileByPath(dir) instanceof import_obsidian13.TFolder)) {
+      if (parts.length > 1 && !(this.app.vault.getAbstractFileByPath(dir) instanceof import_obsidian14.TFolder)) {
         await this.app.vault.createFolder(dir);
       }
       const base64regex = /^([0-9a-zA-Z+/]{4})*(([0-9a-zA-Z+/]{2}==)|([0-9a-zA-Z+/]{3}=))?$/;
       if (base64regex.test(text)) {
         await this.app.vault.createBinary(
           outputFileName,
-          (0, import_obsidian13.base64ToArrayBuffer)(text)
+          (0, import_obsidian14.base64ToArrayBuffer)(text)
         );
       } else {
         await this.app.vault.create(outputFileName, text);
@@ -4835,7 +5002,7 @@ var AdvancedURI = class extends import_obsidian13.Plugin {
         setting: this.settings.openFileOnWriteInNewPane,
         parameters
       });
-      if (parameters.line != void 0) {
+      if (parameters.line != void 0 || parameters.column != void 0 || parameters.offset != void 0) {
         await this.setCursorInLine(parameters);
       }
     }
@@ -4847,26 +5014,21 @@ var AdvancedURI = class extends import_obsidian13.Plugin {
     supportPopover,
     mode
   }) {
+    let leaf;
     if (parameters.openmode == "popover" && (supportPopover != null ? supportPopover : true)) {
       const hoverEditor = this.app.plugins.plugins["obsidian-hover-editor"];
       if (!hoverEditor) {
-        new import_obsidian13.Notice(
+        new import_obsidian14.Notice(
           "Cannot find Hover Editor plugin. Please file an issue."
         );
         this.failure(parameters);
       }
-      const leaf = hoverEditor.spawnPopover(void 0, () => {
-        this.app.workspace.setActiveLeaf(leaf, { focus: true });
+      await new Promise((resolve) => {
+        leaf = hoverEditor.spawnPopover(void 0, () => {
+          this.app.workspace.setActiveLeaf(leaf, { focus: true });
+          resolve();
+        });
       });
-      let tFile;
-      if (file instanceof import_obsidian13.TFile) {
-        tFile = file;
-      } else {
-        tFile = this.app.vault.getAbstractFileByPath(
-          (0, import_obsidian13.getLinkpath)(file)
-        );
-      }
-      await leaf.openFile(tFile);
     } else {
       let openMode = setting;
       if (parameters.newpane !== void 0) {
@@ -4877,6 +5039,7 @@ var AdvancedURI = class extends import_obsidian13.Plugin {
           openMode = parameters.openmode == "true";
         } else if (parameters.openmode == "popover") {
           openMode = false;
+        } else if (import_obsidian14.Platform.isMobile && parameters.openmode == "window") {
         } else {
           openMode = parameters.openmode;
         }
@@ -4884,28 +5047,57 @@ var AdvancedURI = class extends import_obsidian13.Plugin {
       if (openMode == "silent") {
         return;
       }
-      let fileIsAlreadyOpened = false;
-      if (isBoolean(openMode)) {
-        this.app.workspace.iterateAllLeaves((leaf) => {
-          var _a;
-          if (((_a = leaf.view.file) == null ? void 0 : _a.path) === parameters.filepath) {
-            if (fileIsAlreadyOpened && leaf.width == 0)
-              return;
-            fileIsAlreadyOpened = true;
-            this.app.workspace.setActiveLeaf(leaf, { focus: true });
-          }
-        });
+      if (import_obsidian14.Platform.isMobileApp && openMode == "window") {
+        openMode = true;
       }
-      return this.app.workspace.openLinkText(
-        file instanceof import_obsidian13.TFile ? file.path : file,
+      if (file != void 0) {
+        let fileIsAlreadyOpened = false;
+        if (isBoolean(openMode)) {
+          this.app.workspace.iterateAllLeaves((existingLeaf) => {
+            var _a;
+            if (((_a = existingLeaf.view.file) == null ? void 0 : _a.path) === parameters.filepath) {
+              if (fileIsAlreadyOpened && existingLeaf.width == 0)
+                return;
+              fileIsAlreadyOpened = true;
+              this.app.workspace.setActiveLeaf(existingLeaf, {
+                focus: true
+              });
+              leaf = existingLeaf;
+            }
+          });
+        }
+      }
+      if (!leaf) {
+        leaf = this.app.workspace.getLeaf(openMode);
+        this.app.workspace.setActiveLeaf(leaf, { focus: true });
+      }
+    }
+    if (file instanceof import_obsidian14.TFile) {
+      await leaf.openFile(file);
+    } else if (file != void 0) {
+      await this.app.workspace.openLinkText(
+        file,
         "/",
-        fileIsAlreadyOpened ? false : openMode,
+        false,
         mode != void 0 ? { state: { mode } } : getViewStateFromMode(parameters)
       );
     }
+    if (leaf.view instanceof import_obsidian14.MarkdownView) {
+      const viewState = leaf.getViewState();
+      if (mode != void 0) {
+        viewState.state.mode = mode;
+      } else {
+        viewState.state = {
+          ...viewState.state,
+          ...getViewStateFromMode(parameters).state
+        };
+      }
+      await leaf.setViewState(viewState);
+    }
+    return leaf;
   }
   async setCursor(parameters) {
-    const view = this.app.workspace.getActiveViewOfType(import_obsidian13.MarkdownView);
+    const view = this.app.workspace.getActiveViewOfType(import_obsidian14.MarkdownView);
     if (!view)
       return;
     const mode = parameters.mode;
@@ -4928,19 +5120,36 @@ var AdvancedURI = class extends import_obsidian13.Plugin {
     }
   }
   async setCursorInLine(parameters) {
-    const rawLine = parameters.line;
-    const view = this.app.workspace.getActiveViewOfType(import_obsidian13.MarkdownView);
+    const view = this.app.workspace.getActiveViewOfType(import_obsidian14.MarkdownView);
     if (!view)
       return;
     const viewState = view.leaf.getViewState();
+    const rawLine = parameters.line != void 0 ? Number(parameters.line) : void 0;
+    const rawColumn = parameters.column ? Number(parameters.column) : void 0;
     viewState.state.mode = "source";
     await view.leaf.setViewState(viewState);
-    const line = Math.min(rawLine - 1, view.editor.lineCount() - 1);
+    let line, column;
+    if (parameters.offset != void 0) {
+      const pos = view.editor.offsetToPos(Number(parameters.offset));
+      line = pos.line;
+      column = pos.ch;
+    } else {
+      line = rawLine != void 0 ? Math.min(rawLine - 1, view.editor.lineCount() - 1) : view.editor.getCursor().line;
+      const maxColumn = view.editor.getLine(line).length - 1;
+      column = Math.min(rawColumn - 1, maxColumn);
+    }
     view.editor.focus();
     view.editor.setCursor({
       line,
-      ch: view.editor.getLine(line).length
+      ch: column
     });
+    view.editor.scrollIntoView(
+      {
+        from: { line, ch: column },
+        to: { line, ch: column }
+      },
+      true
+    );
     await new Promise((resolve) => setTimeout(resolve, 10));
     if (parameters.viewmode == "preview") {
       viewState.state.mode = "preview";

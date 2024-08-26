@@ -277,4 +277,6 @@ author:
 
 ![[ChatGPT예제_회사원.md]]
 
+![[VBA with GPT.md]]
+
 # 감사합니다
