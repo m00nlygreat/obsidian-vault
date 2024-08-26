@@ -19,22 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "cd6a251879d27be0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "아이디어/감시사회.md"
               }
             }
           },
@@ -138,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "아이디어/감시사회.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "아이디어/감시사회.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,10 +196,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "cd6a251879d27be0",
+  "active": "3d12daac78cfef79",
   "lastOpenFiles": [
-    "아이디어/감시사회.md",
     "conflict-files-obsidian-git.md",
+    "아이디어/감시사회.md",
     "Untitled.md",
     "웹클립/보수와 진보는 뇌의 두께가 다르더라.md",
     "웹클립/베라모드의 독백.md",
