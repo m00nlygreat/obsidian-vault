@@ -101,6 +101,7 @@ source: https://gmlwjd9405.github.io/2019/05/14/vim-shortkey.html
 -   **\[shift + x\]:** 커서가 위치한 문자 바로 앞에 있는 문자 잘라내기
     
 -   **s:** 커서가 위치한 문자 잘라내고 Insert 하기
+
 -   **cc** 또는 **\[shift + s\]**: 커서가 위치한 줄 전체 잘라내고 Insert 하기
 -   **cw:** 커서가 위치한 곳부터 단어의 마지막까지 잘라내고 Insert 하기
 -   **\[shift + c\]:** 현재 커서의 위치부터 줄의 끝까지 잘라내고 Insert 하기
