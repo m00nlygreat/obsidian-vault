@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/감시사회.md",
+                "file": "글/인간은 시간의 변화에 둔감하다.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/감시사회.md"
+                "file": "글/인간은 시간의 변화에 둔감하다.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "아이디어/감시사회.md",
+                "file": "글/인간은 시간의 변화에 둔감하다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이디어/감시사회.md",
+                "file": "글/인간은 시간의 변화에 둔감하다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,9 +198,11 @@
   },
   "active": "3d12daac78cfef79",
   "lastOpenFiles": [
+    "글/인간은 시간의 변화에 둔감하다.md",
+    "아이디어/아이디어.md",
+    "아이디어/감시사회.md",
     "웹클립/VIM 유용한 단축키 정리.md",
     "별자리/별자리 이야기 - 물병자리의 성격 [1.20~2.18].md",
-    "아이디어/감시사회.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
     "웹클립/보수와 진보는 뇌의 두께가 다르더라.md",
@@ -219,7 +221,6 @@
     "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
     "웹클립/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트.md",
     "웹클립/Lenovo Legion Y700 ZUI 14에 구글 플레이 결제 연동하기.  클리앙.md",
-    "아이디어/아이디어.md",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog/vim-shortkey-keyboard.png",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog",
     "웹클립/vim-shortkey-keyboard.png",
@@ -229,7 +230,6 @@
     "웹클립/attachments",
     "웹클립/Untitled.md",
     "강의/스크럼 애자일-지라.md",
-    "강의/면접 멘토링.md",
     "강의/생성형AI/attachments/Pasted image 20240815042447.png",
     "강의/생성형AI/attachments/Pasted image 20240815040614.png",
     "강의/생성형AI/attachments/Pasted image 20240815035928.png",
