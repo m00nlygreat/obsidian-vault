@@ -19,22 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "6d7051c9d8da9bb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "754bb3f6bae70b57",
@@ -129,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "아이디어/감시사회.md"
               }
             }
           },
@@ -139,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "아이디어/감시사회.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "아이디어/감시사회.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,10 +196,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "6d7051c9d8da9bb5",
+  "active": "3d12daac78cfef79",
   "lastOpenFiles": [
-    "아이디어/감시사회.md",
     "conflict-files-obsidian-git.md",
+    "아이디어/감시사회.md",
     "글/Untitled.md",
     "글/인간도 동물일 뿐이다.md",
     "글/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
