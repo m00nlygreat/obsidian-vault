@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "글/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
+                "file": "아이디어/감시사회.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "글/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md"
+                "file": "아이디어/감시사회.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "글/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
+                "file": "아이디어/감시사회.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "글/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
+                "file": "아이디어/감시사회.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,6 +198,9 @@
   },
   "active": "3d12daac78cfef79",
   "lastOpenFiles": [
+    "글/Untitled.md",
+    "글/인간도 동물일 뿐이다.md",
+    "글/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
     "글/누군가의 인생을 망가뜨릴 용기.md",
     "글/Maybe love is hate.md",
     "글/220228 0508.md",
@@ -221,9 +224,6 @@
     "웹클립/그 애.md",
     "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
     "웹클립/HTTP의 Stateless, 비연결성.md",
-    "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
-    "웹클립/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트.md",
-    "웹클립/Lenovo Legion Y700 ZUI 14에 구글 플레이 결제 연동하기.  클리앙.md",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog/vim-shortkey-keyboard.png",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog",
     "웹클립/vim-shortkey-keyboard.png",
