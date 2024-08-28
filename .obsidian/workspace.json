@@ -168,6 +168,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "obsidian-to-notion:Share to notion": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,11 +181,11 @@
   },
   "active": "4691f646667d891f",
   "lastOpenFiles": [
+    "아이디어/감시사회.md",
     "웹클립/VIM 유용한 단축키 정리.md",
     "conflict-files-obsidian-git.md",
     "웹클립/커뮤니티 만드는 법.md",
     "아이디어/랜선집사.md",
-    "아이디어/감시사회.md",
     "강의/생성형AI/attachments/Pasted image 20240815042447.png",
     "강의/생성형AI/attachments/Pasted image 20240815040614.png",
     "강의/생성형AI/attachments/Pasted image 20240815035928.png",
