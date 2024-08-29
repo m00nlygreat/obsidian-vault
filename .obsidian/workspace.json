@@ -19,22 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "0ee6689d98559932",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "아이디어/감시사회.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "아이디어/감시사회.md"
               }
             }
           },
@@ -142,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "아이디어/감시사회.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,10 +179,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ee6689d98559932",
+  "active": "4691f646667d891f",
   "lastOpenFiles": [
-    "아이디어/감시사회.md",
     "conflict-files-obsidian-git.md",
+    "아이디어/감시사회.md",
     "글/인간은 시간의 변화에 둔감하다.md",
     "웹클립/VIM 유용한 단축키 정리.md",
     "웹클립/커뮤니티 만드는 법.md",
