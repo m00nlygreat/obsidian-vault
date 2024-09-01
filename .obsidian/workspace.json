@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/감시사회.md",
+                "file": "명리/신금일주 정리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/감시사회.md"
+                "file": "명리/신금일주 정리.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "아이디어/감시사회.md",
+                "file": "명리/신금일주 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이디어/감시사회.md",
+                "file": "명리/신금일주 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +198,10 @@
   },
   "active": "3d12daac78cfef79",
   "lastOpenFiles": [
-    "Tags",
+    "명리/(천간완벽정리) 신금론.md",
+    "명리/대운-세운 관계.md",
     "아이디어/감시사회.md",
+    "Tags",
     "conflict-files-obsidian-git.md",
     "글/Untitled.md",
     "글/인간도 동물일 뿐이다.md",
@@ -223,7 +225,6 @@
     "웹클립/진보는 외부 자극에, 보수는 공포에 민감.md",
     "웹클립/히로스에 료코 불륜으로 본 일본의 성문화.md",
     "웹클립/그 애.md",
-    "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog/vim-shortkey-keyboard.png",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog",
     "웹클립/vim-shortkey-keyboard.png",
@@ -244,7 +245,6 @@
     "노코드 엔지니어링/attachments",
     "노코드 엔지니어링",
     "강의/노코드 엔지니어링/피그마",
-    "강의/노코드 엔지니어링/노션",
-    "강의/~$사전 평가 질문지.pptx"
+    "강의/노코드 엔지니어링/노션"
   ]
 }
