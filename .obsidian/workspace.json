@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "명리/신금일주 정리.md",
+                "file": "아이디어/감시사회.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "명리/신금일주 정리.md"
+                "file": "아이디어/감시사회.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "명리/신금일주 정리.md",
+                "file": "아이디어/감시사회.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "명리/신금일주 정리.md",
+                "file": "아이디어/감시사회.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,6 +198,8 @@
   },
   "active": "3d12daac78cfef79",
   "lastOpenFiles": [
+    "아이디어/아이디어.md",
+    "명리/신금일주 정리.md",
     "명리/(천간완벽정리) 신금론.md",
     "명리/대운-세운 관계.md",
     "아이디어/감시사회.md",
@@ -210,7 +212,6 @@
     "글/Maybe love is hate.md",
     "글/220228 0508.md",
     "글/인간은 시간의 변화에 둔감하다.md",
-    "아이디어/아이디어.md",
     "웹클립/VIM 유용한 단축키 정리.md",
     "별자리/별자리 이야기 - 물병자리의 성격 [1.20~2.18].md",
     "Untitled.md",
@@ -224,7 +225,6 @@
     "journal/2023-09-02.md",
     "웹클립/진보는 외부 자극에, 보수는 공포에 민감.md",
     "웹클립/히로스에 료코 불륜으로 본 일본의 성문화.md",
-    "웹클립/그 애.md",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog/vim-shortkey-keyboard.png",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog",
     "웹클립/vim-shortkey-keyboard.png",
