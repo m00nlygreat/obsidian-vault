@@ -45,7 +45,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//아이디어"
+    "//아이디어",
+    "//강의"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
