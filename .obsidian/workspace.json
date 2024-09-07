@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/포트폴리오.md",
+                "file": "강의/면접 멘토링.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "754bb3f6bae70b57",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/포트폴리오.md"
+                "file": "강의/면접 멘토링.md"
               }
             }
           },
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/포트폴리오.md",
+                "file": "강의/면접 멘토링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/포트폴리오.md",
+                "file": "강의/면접 멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,6 +198,7 @@
   },
   "active": "3d12daac78cfef79",
   "lastOpenFiles": [
+    "강의/포트폴리오.md",
     "아이디어/감시사회.md",
     "아이디어/## 로그인 (인덱스)- 구글 로그인이 가능해야 할 것.## 피드.md",
     "아이디어/아이디어.md",
@@ -225,7 +225,6 @@
     "journal/2023-09-04.md",
     "journal/2023-09-03.md",
     "journal/2023-09-02.md",
-    "웹클립/진보는 외부 자극에, 보수는 공포에 민감.md",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog/vim-shortkey-keyboard.png",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog",
     "웹클립/vim-shortkey-keyboard.png",
