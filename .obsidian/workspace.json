@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/랜선집사.md",
+                "file": "강의/포트폴리오.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/랜선집사.md"
+                "file": "강의/포트폴리오.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "아이디어/랜선집사.md",
+                "file": "강의/포트폴리오.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이디어/랜선집사.md",
+                "file": "강의/포트폴리오.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,6 +198,7 @@
   },
   "active": "3d12daac78cfef79",
   "lastOpenFiles": [
+    "아이디어/랜선집사.md",
     "아이디어/양손 스와이프 키보드.md",
     "아이디어/맥시멀리스트.md",
     "아이디어/감시사회.md",
@@ -224,7 +225,6 @@
     "웹클립/베라모드의 독백.md",
     "웹클립/커뮤니티 만드는 법.md",
     "journal/2023-09-17.md",
-    "journal/2023-09-10.md",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog/vim-shortkey-keyboard.png",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog",
     "웹클립/vim-shortkey-keyboard.png",
