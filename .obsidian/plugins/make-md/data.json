@@ -46,7 +46,9 @@
   "expandedSpaces": [
     "/",
     "//아이디어",
-    "//강의"
+    "//강의",
+    "//강의/강의/노코드 엔지니어링",
+    "//글"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

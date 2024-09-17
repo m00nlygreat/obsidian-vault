@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/옛한글을 복원시키기 위한 한글 입력 방식 개발.md",
+                "file": "글/220228 0508.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/옛한글을 복원시키기 위한 한글 입력 방식 개발.md"
+                "file": "글/220228 0508.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "아이디어/옛한글을 복원시키기 위한 한글 입력 방식 개발.md",
+                "file": "글/220228 0508.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이디어/옛한글을 복원시키기 위한 한글 입력 방식 개발.md",
+                "file": "글/220228 0508.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,12 +198,18 @@
   },
   "active": "3d12daac78cfef79",
   "lastOpenFiles": [
+    "글/Maybe love is hate.md",
+    "글/220228 0508.md",
+    "강의/노코드 엔지니어링/피그마 그래픽스.md",
+    "강의/노코드 엔지니어링/필살기 프레이머.md",
+    "강의/노코드 엔지니어링/교안 개선사항.md",
+    "강의/노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
+    "강의/노코드 엔지니어링/노코드 엔지니어링.md",
     "아이디어/옛한글을 복원시키기 위한 한글 입력 방식 개발.md",
     "아이디어/아이디어.md",
     "아이디어/플러터 기반 스니펫 에디터.md",
     "아이디어/## 로그인 (인덱스)- 구글 로그인이 가능해야 할 것.## 피드.md",
     "강의/포트폴리오.md",
-    "강의/노코드 엔지니어링/노코드 엔지니어링.md",
     "강의/생성형AI/생성형AI.md",
     "강의/소프트웨어 기획.md",
     "강의/스크럼 애자일-지라.md",
@@ -218,13 +224,7 @@
     "아이디어/맥시멀리스트.md",
     "아이디어/감시사회.md",
     "명리/신금일주 정리.md",
-    "명리/(천간완벽정리) 신금론.md",
-    "명리/대운-세운 관계.md",
     "Tags",
-    "conflict-files-obsidian-git.md",
-    "글/Untitled.md",
-    "글/인간도 동물일 뿐이다.md",
-    "글/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog/vim-shortkey-keyboard.png",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog",
     "웹클립/vim-shortkey-keyboard.png",
