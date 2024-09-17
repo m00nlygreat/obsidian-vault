@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/아이디어.md",
+                "file": "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/아이디어.md"
+                "file": "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "아이디어/아이디어.md",
+                "file": "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이디어/아이디어.md",
+                "file": "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,6 +197,10 @@
   },
   "active": "3d12daac78cfef79",
   "lastOpenFiles": [
+    "웹클립/Data is beautiful 10 of the best data visualization examples.md",
+    "웹클립/HTTP의 Stateless, 비연결성.md",
+    "웹클립/Lenovo Legion Y700 ZUI 14에 구글 플레이 결제 연동하기.  클리앙.md",
+    "아이디어/아이디어.md",
     "아이디어/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
     "아이디어/플러터 기반 스니펫 에디터.md",
     "아이디어/나 살아있소.md",
@@ -216,13 +220,9 @@
     "강의/노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "강의/노코드 엔지니어링/노코드 엔지니어링.md",
     "아이디어/옛한글을 복원시키기 위한 한글 입력 방식 개발.md",
-    "아이디어/아이디어.md",
     "강의/포트폴리오.md",
     "강의/생성형AI/생성형AI.md",
     "강의/소프트웨어 기획.md",
-    "강의/스크럼 애자일-지라.md",
-    "강의/강의 준비.md",
-    "강의/디자인을 위한 CS.md",
     "Tags",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog/vim-shortkey-keyboard.png",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog",
