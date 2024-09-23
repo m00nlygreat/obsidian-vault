@@ -152,3 +152,9 @@
 - ChatGPT는 유틸리티, 애플리케이션 측면에서 선두
 	- GPT-4o / mini / long output
 	- Structured Output
+
+---
+
+### GPT-4 o1
+
+- 스스로 회고(Self-reflect)하는 특성으로 추론 능력
