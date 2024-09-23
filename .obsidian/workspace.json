@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e6b2db24c294177d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md"
               }
             }
           },
@@ -124,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,12 +210,13 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "3d12daac78cfef79",
+  "active": "e6b2db24c294177d",
   "lastOpenFiles": [
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
     "강의/생성형AI/AI이모저모.md",
     "강의/생성형AI/attachments/Pasted image 20240923163945.png",
     "강의/생성형AI/ChatGPT예제_기자.md",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/생성형AI.md",
     "강의/사전 평가 질문지.md",
     "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
@@ -224,7 +239,6 @@
     "글/Maybe love is hate.md",
     "강의/노코드 엔지니어링/피그마 그래픽스.md",
     "강의/노코드 엔지니어링/필살기 프레이머.md",
-    "강의/노코드 엔지니어링/교안 개선사항.md",
     "Tags",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog/vim-shortkey-keyboard.png",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog",
