@@ -157,4 +157,8 @@
 
 ### GPT-4 o1
 
-- 스스로 회고(Self-reflect)하는 특성으로 추론 능력
+- 스스로 회고(Self-reflect)하는 특성으로 추론 능력을 대폭 향상
+	- 인간으로 치면 IQ 120
+	- 박사 학위 수준
+
+![](attachments/Pasted%20image%2020240923163945.png)
