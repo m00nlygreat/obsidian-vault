@@ -58,8 +58,6 @@ author:
 
 ![](attachments/Fpdln-jaMAA-Gw1.jpg)
 
-# AI 이모저모
-
 ![[AI이모저모.md]]
 
 # ChatGPT 사용해보기
