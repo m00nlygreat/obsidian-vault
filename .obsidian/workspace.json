@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/사전 평가 질문지.md",
+                "file": "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/사전 평가 질문지.md"
+                "file": "강의/생성형AI/ChatGPT 채팅 공유 링크.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/사전 평가 질문지.md",
+                "file": "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/사전 평가 질문지.md",
+                "file": "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,11 +198,11 @@
   },
   "active": "3d12daac78cfef79",
   "lastOpenFiles": [
+    "강의/사전 평가 질문지.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/AI이모저모.md",
     "강의/생성형AI/강사 소개.md",
     "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
-    "강의/사전 평가 질문지.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
     "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.baked.md",
     "강의/생성형AI/attachments/Pasted image 20240923163945.png",
