@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
-                "mode": "source",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md"
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,8 +196,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "93295b387fb7907e",
+  "active": "3d12daac78cfef79",
   "lastOpenFiles": [
+    "강의/생성형AI/생성형AI.md",
+    "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
     "강의/노코드 엔지니어링/_노션 야무지게 쓰기.md",
     "강의/노코드 엔지니어링/노코드 엔지니어링.md",
     "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
@@ -209,7 +211,6 @@
     "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.baked.md",
     "강의/생성형AI/attachments/Pasted image 20240923163945.png",
     "강의/생성형AI/ChatGPT예제_기자.md",
-    "강의/생성형AI/생성형AI.md",
     "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
     "웹클립/Data is beautiful 10 of the best data visualization examples.md",
     "웹클립/HTTP의 Stateless, 비연결성.md",
@@ -224,7 +225,6 @@
     "글/모하고 지내.md",
     "글/눈물의 여왕.md",
     "글/누군가의 인생을 망가뜨릴 용기.md",
-    "글/글은 비장한 마음으로 쓴다.md",
     "Tags",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog/vim-shortkey-keyboard.png",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog",
