@@ -29,7 +29,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 2,
+  "currentWaypoint": 0,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -45,11 +45,9 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//아이디어",
-    "//강의",
-    "//글",
     "//강의/강의/노코드 엔지니어링",
-    "//강의/강의/생성형AI"
+    "//강의/강의/생성형AI",
+    "//명리"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
