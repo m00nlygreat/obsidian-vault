@@ -11,8 +11,13 @@
             "id": "3d12daac78cfef79",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -108,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md"
+              }
             }
           },
           {
@@ -117,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
