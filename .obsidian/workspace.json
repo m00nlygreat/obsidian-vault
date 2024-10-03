@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/스크럼 애자일-지라.md",
+                "file": "강의/소프트웨어 기획.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/스크럼 애자일-지라.md"
+                "file": "강의/소프트웨어 기획.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/스크럼 애자일-지라.md",
+                "file": "강의/소프트웨어 기획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/스크럼 애자일-지라.md",
+                "file": "강의/소프트웨어 기획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,6 +198,8 @@
   },
   "active": "3d12daac78cfef79",
   "lastOpenFiles": [
+    "강의/강의 준비.md",
+    "강의/스크럼 애자일-지라.md",
     "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
     "강의/노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "강의/노코드 엔지니어링/교안 개선사항.md",
@@ -223,8 +225,6 @@
     "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.baked.md",
     "강의/생성형AI/attachments/Pasted image 20240923163945.png",
     "강의/생성형AI/ChatGPT예제_기자.md",
-    "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
-    "웹클립/HTTP의 Stateless, 비연결성.md",
     "Tags",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog/vim-shortkey-keyboard.png",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog",
