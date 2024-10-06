@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
+                "file": "강의/사전 평가 질문지.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md"
+                "file": "강의/사전 평가 질문지.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
+                "file": "강의/사전 평가 질문지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
+                "file": "강의/사전 평가 질문지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,6 +198,7 @@
   },
   "active": "3d12daac78cfef79",
   "lastOpenFiles": [
+    "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
     "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
     "강의/면접 멘토링.md",
     "노코드 엔지니어링/노코드 엔지니어링.md",
@@ -207,7 +208,6 @@
     "강의/소프트웨어 기획.md",
     "강의/강의 준비.md",
     "강의/스크럼 애자일-지라.md",
-    "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
     "강의/노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
     "강의/노코드 엔지니어링/교안 개선사항.md",
     "웹클립/Data is beautiful 10 of the best data visualization examples.md",
