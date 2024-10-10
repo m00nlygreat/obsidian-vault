@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5223d669a033621d",
+        "id": "38e9f6a96e31b353",
         "type": "tabs",
         "children": [
           {
-            "id": "0dbb92cc9512dea8",
+            "id": "5321fd92298bd8c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/사전 평가 질문지.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -113,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "강의/사전 평가 질문지.md"
-              }
+              "state": {}
             }
           },
           {
@@ -124,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/사전 평가 질문지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/사전 평가 질문지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,15 +187,15 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "0dbb92cc9512dea8",
+  "active": "5321fd92298bd8c3",
   "lastOpenFiles": [
+    "강의/사전 평가 질문지.md",
     "아이디어/감시사회.md",
     "아이디어/랜선집사.md",
     "아이디어/Human Readable Device ID.md",
     "아이디어/트랙볼을 가진 게임 컨트롤러.md",
     "아이디어/구독 관리 노션 템플릿.md",
     "아이디어/아이디어.md",
-    "강의/사전 평가 질문지.md",
     "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
     "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
     "강의/면접 멘토링.md",
