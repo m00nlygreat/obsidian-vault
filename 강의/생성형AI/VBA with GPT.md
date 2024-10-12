@@ -26,5 +26,6 @@
 ## ChatGPT를 엑셀에서 사용할 수 있도록 커스텀 함수 만들기
 
 - `GPT()` 함수 만들기
+- 패키지 설치
 
 ![](attachments/Pasted%20image%2020240815042447.png)

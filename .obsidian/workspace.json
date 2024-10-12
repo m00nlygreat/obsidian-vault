@@ -11,8 +11,13 @@
             "id": "5321fd92298bd8c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "강의/생성형AI/VBA with GPT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -108,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "강의/생성형AI/VBA with GPT.md"
+              }
             }
           },
           {
@@ -117,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "강의/생성형AI/VBA with GPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "강의/생성형AI/VBA with GPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +174,25 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "4e3995dbf096b2b7",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e82b8ca11c5ecaee",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -188,8 +213,11 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "5321fd92298bd8c3",
+  "active": "e82b8ca11c5ecaee",
   "lastOpenFiles": [
+    "강의/생성형AI/마크다운.md",
+    "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
+    "강의/노코드 엔지니어링/교안 개선사항.md",
     "강의/사전 평가 질문지.md",
     "아이디어/감시사회.md",
     "아이디어/랜선집사.md",
@@ -206,7 +234,6 @@
     "강의/강의 준비.md",
     "강의/스크럼 애자일-지라.md",
     "강의/노코드 엔지니어링/구글 시트로 데이터 관리하기.md",
-    "강의/노코드 엔지니어링/교안 개선사항.md",
     "웹클립/Data is beautiful 10 of the best data visualization examples.md",
     "글/오늘의 나는 누가 뭐래도 멋있었다.md",
     "글/국뽕.md",
@@ -214,8 +241,6 @@
     "글/글은 비장한 마음으로 쓴다.md",
     "명리/신금일주 정리.md",
     "명리/십간의 성격.md",
-    "명리/대운-세운 관계.md",
-    "명리/신사(辛巳) 일주.md",
     "강의/생성형AI/attachments/Pasted image 20240923163945.png",
     "Tags",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog/vim-shortkey-keyboard.png",
