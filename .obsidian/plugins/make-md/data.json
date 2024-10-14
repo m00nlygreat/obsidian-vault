@@ -45,10 +45,11 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//강의",
     "//아이디어",
     "//Tags",
-    "//웹클립"
+    "//웹클립",
+    "//강의",
+    "//강의/강의/노코드 엔지니어링"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
