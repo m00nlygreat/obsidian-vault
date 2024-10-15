@@ -107,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "코드/스프레드시트 상대적 시간 수식.md"
-              }
+              "state": {}
             }
           },
           {
@@ -118,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코드/스프레드시트 상대적 시간 수식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코드/스프레드시트 상대적 시간 수식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,8 +203,9 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "d882dff4f3e14dff",
+  "active": "5a84e1b972e2eb08",
   "lastOpenFiles": [
+    "코드/스프레드시트 상대적 시간 수식.md",
     "아이디어/블록코딩 앱.md",
     "아이디어/구독 관리 노션 템플릿.md",
     "아이디어/링크 래퍼.md",
@@ -234,7 +231,6 @@
     "웹클립/히로스에 료코 불륜으로 본 일본의 성문화.md",
     "웹클립/HTTP의 Stateless, 비연결성.md",
     "강의/생성형AI/VBA with GPT.md",
-    "강의/생성형AI/마크다운.md",
     "강의/생성형AI/attachments/Pasted image 20240923163945.png",
     "Tags",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog/vim-shortkey-keyboard.png",
