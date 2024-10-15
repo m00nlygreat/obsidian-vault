@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "38e9f6a96e31b353",
+        "id": "da76e4cf84e452ae",
         "type": "tabs",
         "children": [
           {
-            "id": "5321fd92298bd8c3",
+            "id": "5a84e1b972e2eb08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "코드/스프레드시트 상대적 시간 수식.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "상대적",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,7 +207,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "5321fd92298bd8c3",
+  "active": "d882dff4f3e14dff",
   "lastOpenFiles": [
     "아이디어/블록코딩 앱.md",
     "아이디어/구독 관리 노션 템플릿.md",
