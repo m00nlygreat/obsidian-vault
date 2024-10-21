@@ -14,10 +14,28 @@
               "type": "mk-space",
               "state": {
                 "path": "강의/attachments"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "attachments"
+            }
+          },
+          {
+            "id": "69baa2b363ec00b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "프로그래밍을 처음 학습하는 이들에게"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -37,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -52,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -60,15 +82,19 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "93295b387fb7907e",
+            "id": "fce6fd1668aec8d2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ],
@@ -94,7 +120,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -102,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -110,7 +140,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "웹클립/프로그래밍을 처음 학습하는 이들에게.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 프로그래밍을 처음 학습하는 이들에게"
             }
           },
           {
@@ -119,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +161,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 프로그래밍을 처음 학습하는 이들에게"
             }
           },
           {
@@ -135,9 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 프로그래밍을 처음 학습하는 이들에게"
             }
           },
           {
@@ -149,7 +189,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -157,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "QUICKSHARE_SIDE_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "cloud",
+              "title": "QuickShare"
             }
           },
           {
@@ -165,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           },
           {
@@ -173,7 +219,9 @@
             "type": "leaf",
             "state": {
               "type": "SC-custom-variables-view",
-              "state": {}
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
             }
           },
           {
@@ -181,7 +229,9 @@
             "type": "leaf",
             "state": {
               "type": "SC-custom-variables-view",
-              "state": {}
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
             }
           }
         ],
@@ -206,7 +256,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "5a84e1b972e2eb08",
+  "active": "69baa2b363ec00b5",
   "lastOpenFiles": [
     "강의/사전 평가 질문지.md",
     "강의/면접 멘토링.md",
