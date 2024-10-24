@@ -16,7 +16,7 @@
                 "path": "강의/attachments"
               },
               "icon": "lucide-file",
-              "title": "강의/attachments"
+              "title": "attachments"
             }
           }
         ]
@@ -72,15 +72,13 @@
             }
           },
           {
-            "id": "c097b688905459d6",
+            "id": "9463af574eea7ccc",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ],
