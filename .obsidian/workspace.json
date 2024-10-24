@@ -16,26 +16,10 @@
                 "path": "강의/attachments"
               },
               "icon": "lucide-file",
-              "title": "attachments"
-            }
-          },
-          {
-            "id": "69baa2b363ec00b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "프로그래밍을 처음 학습하는 이들에게"
+              "title": "강의/attachments"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,10 +75,12 @@
             "id": "c097b688905459d6",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -256,7 +242,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "69baa2b363ec00b5",
+  "active": "5a84e1b972e2eb08",
   "lastOpenFiles": [
     "강의/사전 평가 질문지.md",
     "강의/면접 멘토링.md",
