@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
@@ -244,7 +244,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "34bc21f2f9af88bd",
+  "active": "5a84e1b972e2eb08",
   "lastOpenFiles": [
     "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
     "강의/생성형AI/ChatGPT 강의는 이제 안 하고 싶은데요.md",

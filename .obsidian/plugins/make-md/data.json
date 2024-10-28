@@ -49,8 +49,7 @@
     "//Tags",
     "//웹클립",
     "//강의",
-    "//강의/강의/생성형AI",
-    "//강의/강의/생성형AI/강의/생성형AI/attachments"
+    "//강의/강의/생성형AI"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
