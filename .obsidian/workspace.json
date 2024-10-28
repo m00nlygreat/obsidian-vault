@@ -240,7 +240,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-to-notion:Share to notion": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "publish:Publish changes...": false
     }
   },
   "active": "5a84e1b972e2eb08",
