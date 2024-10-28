@@ -6,7 +6,7 @@ author:
 
 # 들어가며
 
-![ChatGPT 강의는 이제 안 하고 싶은데요](ChatGPT 강의는 이제 안 하고 싶은데요.md)
+![[ChatGPT 강의는 이제 안 하고 싶은데요]]
 
 ## ChatGPT
 
