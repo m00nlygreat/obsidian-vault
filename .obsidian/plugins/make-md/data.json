@@ -47,7 +47,9 @@
     "/",
     "//아이디어",
     "//Tags",
-    "//웹클립"
+    "//웹클립",
+    "//강의",
+    "//강의/강의/생성형AI"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
