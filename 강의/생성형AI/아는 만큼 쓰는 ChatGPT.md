@@ -64,7 +64,7 @@ author:
 
 ### 환각 현상
 
-- GPT는 단지 
+- GPT는 단지 확률적 앵무새(Stochastic Parrots)다. 
 
 # ChatGPT 사용해보기
 
