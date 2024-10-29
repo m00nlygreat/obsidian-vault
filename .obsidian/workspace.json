@@ -11,10 +11,15 @@
             "id": "7588e50122225c8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "아는 만큼 쓰는 ChatGPT"
             }
           }
         ]
@@ -111,9 +116,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 아는 만큼 쓰는 ChatGPT"
             }
           },
           {
@@ -122,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 아는 만큼 쓰는 ChatGPT"
             }
           },
           {
@@ -140,11 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 아는 만큼 쓰는 ChatGPT"
             }
           },
           {
