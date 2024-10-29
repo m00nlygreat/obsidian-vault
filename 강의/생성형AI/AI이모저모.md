@@ -99,6 +99,7 @@
 	- NVIDIA의 승리는 어디까지인가
 		- 인텔, 메타, Groq 등 빅테크 들의 탈NVIDIA를 위한 노력
 		- [짐 켈러 "엔비디아 시대는 결국 끝난다.."](https://www.youtube.com/watch?v=2pw-YZ7KuFY)
+		- [짐켈러 인터뷰](https://www.youtube.com/watch?v=iwXr1IRaqWA)
 	- Sora와 대항마들
 		- Sora
 		- Vidu, Kling
