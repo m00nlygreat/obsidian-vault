@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "아는 만큼 쓰는 ChatGPT.baked"
+              "title": "아는 만큼 쓰는 ChatGPT"
             }
           }
         ],
@@ -133,10 +133,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md"
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 아는 만큼 쓰는 ChatGPT.baked"
+              "title": "Outline of 아는 만큼 쓰는 ChatGPT"
             }
           },
           {
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 아는 만큼 쓰는 ChatGPT.baked"
+              "title": "Backlinks for 아는 만큼 쓰는 ChatGPT"
             }
           },
           {
@@ -164,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 아는 만큼 쓰는 ChatGPT.baked"
+              "title": "Outgoing links from 아는 만큼 쓰는 ChatGPT"
             }
           },
           {
@@ -249,11 +249,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ff1f94f95b7302d7",
+  "active": "d882dff4f3e14dff",
   "lastOpenFiles": [
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
     "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.baked.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
     "강의/생성형AI/ChatGPT 강의는 이제 안 하고 싶은데요.md",
     "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
     "노코드 엔지니어링/노션으로 랜딩페이지 만들기.md",
