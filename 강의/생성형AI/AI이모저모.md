@@ -155,6 +155,9 @@
 - ChatGPT는 유틸리티, 애플리케이션 측면에서 선두
 	- GPT-4o / mini / long output
 	- Structured Output
+- 새로운 전장, AI 에이전트
+	- Anthropic "Claude 3.5 Computer Use"
+	- OpenAI
 
 ---
 
