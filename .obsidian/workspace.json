@@ -11,15 +11,12 @@
             "id": "7588e50122225c8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "강의/생성형AI/attachments/image35.png"
               },
-              "icon": "lucide-file",
-              "title": "아는 만큼 쓰는 ChatGPT"
+              "icon": "lucide-image",
+              "title": "image35"
             }
           }
         ]
@@ -235,9 +232,9 @@
   },
   "active": "7588e50122225c8d",
   "lastOpenFiles": [
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
     "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.baked.md",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/사전 평가 질문지.md",
     "강의/생성형AI/AI이모저모.md",
     "강의/생성형AI/ChatGPT 강의는 이제 안 하고 싶은데요.md",
