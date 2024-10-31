@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/소프트웨어 기획.md",
+                "file": "메모/디스코드 스터디 봇.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "소프트웨어 기획"
+              "title": "디스코드 스터디 봇"
             }
           }
         ],
@@ -251,6 +251,8 @@
   },
   "active": "6227f27b9c9898ff",
   "lastOpenFiles": [
+    "메모/버블 스크롤 애니메이션.md",
+    "강의/소프트웨어 기획.md",
     "강의/스크럼 애자일-지라.md",
     "강의/디자인을 위한 CS.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
@@ -274,12 +276,10 @@
     "강의/면접 멘토링.md",
     "강의/포트폴리오.md",
     "강의/서비스 기획.md",
-    "강의/소프트웨어 기획.md",
     "강의/_소프트웨어 기획.md",
     "코드/스프레드시트 상대적 시간 수식.md",
     "아이디어/블록코딩 앱.md",
     "아이디어/구독 관리 노션 템플릿.md",
-    "아이디어/링크 래퍼.md",
     "강의/생성형AI/attachments/Pasted image 20240923163945.png",
     "Tags",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog/vim-shortkey-keyboard.png",
