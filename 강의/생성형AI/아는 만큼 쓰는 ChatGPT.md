@@ -93,6 +93,10 @@ author:
 
 ![](attachments/image6.png)
 
+---
+
+![](attachments/image36.png)
+
 ## 질문해보기
 
 ### 간단한 의견 물어보기
