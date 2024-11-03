@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/포트폴리오.md",
+                "file": "아이디어/OBS용 마우스-키보드 하이라이트 플러그인.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "포트폴리오"
+              "title": "OBS용 마우스-키보드 하이라이트 플러그인"
             }
           }
         ],
@@ -251,8 +251,9 @@
   },
   "active": "6227f27b9c9898ff",
   "lastOpenFiles": [
-    "Clippings/피크민 키우려고 한 정거장 일찍 내려 걸어요… 요즘 유행하는 ‘걷기’ 게임  14F.md",
     "강의/포트폴리오.md",
+    "아이디어/OBS용 마우스-키보드 하이라이트 플러그인.md",
+    "Clippings/피크민 키우려고 한 정거장 일찍 내려 걸어요… 요즘 유행하는 ‘걷기’ 게임  14F.md",
     "Clippings",
     "notes/notion-api.md",
     "강의/면접 멘토링.md",
@@ -281,7 +282,6 @@
     "강의/디자인을 위한 CS.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
-    "강의/생성형AI/ChatGPT 강의는 이제 안 하고 싶은데요.md",
     "강의/생성형AI/attachments/image36.png",
     "강의/생성형AI/attachments/Fpdln-jaMAA-Gw1.jpg",
     "강의/생성형AI/attachments/image35.png",
