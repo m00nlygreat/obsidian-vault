@@ -85,7 +85,10 @@
 ### AGI에 이르는 길은?
 
 - Transformer 모델의 최종형태
-- 
+- AI 3대천왕
+	- 제프리 힌튼, 토론토대 교수
+	- 요슈아 벤지오, 몬트리올대 교수
+	- 얀 르쿤, 메타 인공지능 수석 과학자
 
 ---
 
@@ -108,10 +111,6 @@
 		- 인텔, 메타, Groq 등 빅테크 들의 탈NVIDIA를 위한 노력
 		- [짐 켈러 "엔비디아 시대는 결국 끝난다.."](https://www.youtube.com/watch?v=2pw-YZ7KuFY)
 		- [짐켈러 인터뷰](https://www.youtube.com/watch?v=iwXr1IRaqWA)
-	- Sora와 대항마들
-		- Sora
-		- Vidu, Kling
-		- Luma Dream Machine
 
 ---
 
@@ -124,6 +123,8 @@
 	- 개인화의 측면, 비용의 측면
 - OpenAI, 동영상 생성 AI Sora 발표
 	- 중국판 Sora, Vidu와 Kling
+- AI 에이전트
+	- Anthropic, 'Claude 3.5 Computer Use'
 
 ---
 
