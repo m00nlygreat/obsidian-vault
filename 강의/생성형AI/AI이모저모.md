@@ -117,7 +117,6 @@
 - Data 보유
 	- 빠르면 2025년 학습시킬 데이터 고갈
 	- AGI 달성을 위한 키
-
 - 온디바이스 AI
 	- 갤럭시?
 	- 개인화의 측면, 비용의 측면
@@ -125,6 +124,8 @@
 	- 중국판 Sora, Vidu와 Kling
 - AI 에이전트
 	- Anthropic, 'Claude 3.5 Computer Use'
+	- OpenAI는 ChatGPT의 Native App과 iOS 통합 등으로 꾀하는 중
+	- NotionAI
 
 ---
 
