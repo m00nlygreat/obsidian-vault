@@ -13,32 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "강의/생성형AI/AI이모저모.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "아는 만큼 쓰는 ChatGPT"
-            }
-          },
-          {
-            "id": "6227f27b9c9898ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "아이디어/OBS용 마우스-키보드 하이라이트 플러그인.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "OBS용 마우스-키보드 하이라이트 플러그인"
+              "title": "AI이모저모"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,15 +233,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "6227f27b9c9898ff",
+  "active": "54d40f9f9861239a",
   "lastOpenFiles": [
-    "강의/포트폴리오.md",
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "아이디어/OBS용 마우스-키보드 하이라이트 플러그인.md",
+    "강의/포트폴리오.md",
     "Clippings/피크민 키우려고 한 정거장 일찍 내려 걸어요… 요즘 유행하는 ‘걷기’ 게임  14F.md",
     "Clippings",
     "notes/notion-api.md",
     "강의/면접 멘토링.md",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "notes/attachments/2024-10-04-23-08-57-image.png",
     "notes/토스뱅크-프로젝트.md",
     "notes/좀보이드.md",
