@@ -28,32 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "강의/생성형AI/VBA with GPT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "아는 만큼 쓰는 ChatGPT"
-            }
-          },
-          {
-            "id": "888f038910941217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "아는 만큼 쓰는 ChatGPT.baked"
+              "title": "VBA with GPT"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,11 +249,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "888f038910941217",
+  "active": "9310db5c08f0d8aa",
   "lastOpenFiles": [
-    "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.baked.md",
+    "강의/생성형AI/ChatGPT예제_회사원.md",
+    "강의/생성형AI/ChatGPT예제_기자.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+    "강의/생성형AI/ChatGPT_logo 1.png",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+    "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.baked.md",
     "강의/생성형AI/AI이모저모.md",
     "강의/생성형AI/ChatGPT 강의는 이제 안 하고 싶은데요.md",
     "아이디어/OBS용 마우스-키보드 하이라이트 플러그인.md",
@@ -295,8 +283,6 @@
     "메모/디스코드 스터디 봇.md",
     "메모/버블 스크롤 애니메이션.md",
     "강의/소프트웨어 기획.md",
-    "강의/스크럼 애자일-지라.md",
-    "강의/디자인을 위한 CS.md",
     "강의/생성형AI/attachments/image36.png",
     "강의/생성형AI/attachments/Fpdln-jaMAA-Gw1.jpg",
     "강의/생성형AI/attachments/image35.png",
@@ -308,7 +294,6 @@
     "attachments/vim-shortkey-keyboard.png",
     "웹클립/attachments/vim-shortkey-keyboard.png",
     "웹클립/attachments",
-    "강의/생성형AI/attachments/Pasted image 20240815042447.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "별자리",
