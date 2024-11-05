@@ -2,5 +2,5 @@
   "bakeLinks": false,
   "bakeEmbeds": true,
   "bakeInList": true,
-  "convertFileLinks": true
+  "convertFileLinks": false
 }
