@@ -36,21 +36,9 @@
               "icon": "lucide-file",
               "title": "스프레드시트 상대적 시간 수식"
             }
-          },
-          {
-            "id": "5778cc60ef91f7f2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -261,7 +249,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "5778cc60ef91f7f2",
+  "active": "9310db5c08f0d8aa",
   "lastOpenFiles": [
     "강의/노코드 엔지니어링/구글 시트로 업무 자산관리하기.md",
     "강의/노코드 엔지니어링/_구글 시트로 업무 자산관리하기.md",
