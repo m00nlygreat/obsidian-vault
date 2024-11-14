@@ -1,10 +1,10 @@
 {
-  "accentColor": "#a2882a",
+  "accentColor": "#3b9ac9",
   "theme": "moonstone",
   "interfaceFontFamily": "Input Mono",
   "baseFontSize": 14,
   "translucency": false,
-  "cssTheme": "Things",
+  "cssTheme": "Maple",
   "enabledCssSnippets": [
     "monospace",
     "preview"
