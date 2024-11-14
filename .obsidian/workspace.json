@@ -66,21 +66,9 @@
               "icon": "lucide-file",
               "title": "서비스 기획"
             }
-          },
-          {
-            "id": "a5f064b523d1a000",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -174,9 +162,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "강의/서비스 기획.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 서비스 기획"
             }
           },
           {
@@ -288,7 +278,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a5f064b523d1a000",
+  "active": "96356f3c7d558359",
   "lastOpenFiles": [
     "강의/디자인을 위한 CS.md",
     "강의/데이터 분석을 위한 서비스 기획.md",
