@@ -1,5 +1,15 @@
 .markdown-preview-view {
-  line-height: 1.8;
+  line-height: 2;
   word-wrap: break-word;
   word-break: keep-all;
+}
+
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+  margin-top: 16px !important;
+  margin-bottom: 16px !important;
 }
