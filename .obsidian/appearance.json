@@ -6,7 +6,8 @@
   "translucency": false,
   "cssTheme": "Maple",
   "enabledCssSnippets": [
-    "monospace"
+    "monospace",
+    "all-padded-vertically"
   ],
   "textFontFamily": "Input Mono",
   "monospaceFontFamily": "Input Mono",
