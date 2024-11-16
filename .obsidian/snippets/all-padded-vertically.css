@@ -10,6 +10,6 @@
 .markdown-preview-view h4,
 .markdown-preview-view h5,
 .markdown-preview-view h6 {
-  margin-top: 16px !important;
-  margin-bottom: 16px !important;
+  margin-top: 1.5rem !important;
+  margin-bottom: 1.5rem !important;
 }
