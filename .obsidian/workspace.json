@@ -13,21 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/기획 선배의 잔소리.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "기획 선배의 잔소리"
-            }
-          },
-          {
-            "id": "b68069273c532bf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "강의/프로젝트 매니지먼트.md",
                 "mode": "source",
                 "backlinks": true,
@@ -37,8 +22,7 @@
               "title": "프로젝트 매니지먼트"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "75f8e9390f18c22f",
@@ -295,17 +279,20 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b68069273c532bf9",
+  "active": "96356f3c7d558359",
   "lastOpenFiles": [
-    "강의/서비스기획 Flow.md",
-    "강의/프로젝트 매니지먼트.md",
-    "강의/기획자의 무기.md",
-    "강의/서비스기획 재료.md",
-    "강의/면접 멘토링.md",
-    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
-    "강의/데이터 분석을 위한 서비스 기획.md",
-    "강의/서비스기획 개론.md",
     "강의/기획 선배의 잔소리.md",
+    "강의/attachments/프로필.jpg",
+    "강의/강사 소개.md",
+    "강의/강의 준비.md",
+    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
+    "강의/서비스기획 개론.md",
+    "강의/프로젝트 매니지먼트.md",
+    "강의/서비스기획 재료.md",
+    "강의/서비스기획 Flow.md",
+    "강의/기획자의 무기.md",
+    "강의/면접 멘토링.md",
+    "강의/데이터 분석을 위한 서비스 기획.md",
     "강의/attachments/Pasted image 20240712222211.png",
     "강의/기획 선배의 잔소리.baked.md",
     "강의/_기획 선배의 잔소리.baked.md",
@@ -320,13 +307,11 @@
     "강의/UX 이론.md",
     "강의/_서비스 기획.md",
     "강의/노코드 엔지니어링/피그마 그래픽스.md",
-    "강의/강의 준비.md",
     "강의/포트폴리오.md",
     "강의/HTML-CSS.md",
     "강의/HTML-CSS 추가.md",
     "강의/생성형AI/사전 평가 질문지.md",
     "강의/생성형AI/사전 평가 질문지 - 노코드 엔지니어링.md",
-    "강의/스크럼 애자일-지라.md",
     "Untitled",
     "강의/생성형AI/ChatGPT_logo 1.png",
     "Clippings",
@@ -336,7 +321,6 @@
     "notes",
     "강의/생성형AI/attachments/image36.png",
     "강의/생성형AI/attachments/Fpdln-jaMAA-Gw1.jpg",
-    "강의/생성형AI/attachments/image35.png",
     "Tags",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog",
     "웹클립/attachments",
