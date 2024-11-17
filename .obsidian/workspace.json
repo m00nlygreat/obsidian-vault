@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/기획 선배의 잔소리.baked.md",
+                "file": "강의/서비스기획 Flow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "기획 선배의 잔소리.baked"
+              "title": "서비스기획 Flow"
             }
           },
           {
@@ -185,10 +185,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/기획 선배의 잔소리.baked.md"
+                "file": "강의/서비스기획 Flow.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 기획 선배의 잔소리.baked"
+              "title": "Outline of 서비스기획 Flow"
             }
           },
           {
@@ -312,12 +312,12 @@
   },
   "active": "40d7e74e376f0764",
   "lastOpenFiles": [
-    "강의/attachments/프로그램의 완성 과정.png",
     "강의/서비스기획 재료.md",
+    "강의/서비스기획 Flow.md",
     "강의/기획 선배의 잔소리.baked.md",
+    "강의/attachments/프로그램의 완성 과정.png",
     "강의/_기획 선배의 잔소리.baked.md",
     "강의/기획 선배의 잔소리.md",
-    "강의/서비스기획 Flow.md",
     "강의/서비스기획 개론.md",
     "강의/attachments/Pasted image 20241117190528.png",
     "강의/소프트웨어 기획.md",
@@ -354,7 +354,6 @@
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog/vim-shortkey-keyboard.png",
     "attachments/VIM vim 유용한 단축키 정리 - Heee's Development Blog",
     "웹클립/vim-shortkey-keyboard.png",
-    "attachments/vim-shortkey-keyboard.png",
     "웹클립/attachments",
     "Untitled.canvas",
     "Untitled 1.canvas",
