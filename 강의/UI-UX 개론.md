@@ -19,4 +19,8 @@
 ## 어포던스
 
 - Affordance
-- 어떤 물건에 내재된 
+	- 행위자와 환경 사이의 관계에 존재하는 행동 가능성(possibility of action)
+	- 제임스 깁슨
+- 지각된 어포던스 (Perceived Affordance, 기표)
+	- 도널드 노먼
+	- 
