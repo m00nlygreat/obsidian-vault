@@ -28,17 +28,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/기획자의 무기.md",
+                "file": "강의/기획 선배의 잔소리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "기획자의 무기"
+              "title": "기획 선배의 잔소리"
+            }
+          },
+          {
+            "id": "97eb882f6a0113f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/기획 선배의 잔소리.baked.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "기획 선배의 잔소리.baked"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "75f8e9390f18c22f",
@@ -170,10 +185,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/기획자의 무기.md"
+                "file": "강의/기획 선배의 잔소리.baked.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 기획자의 무기"
+              "title": "Outline of 기획 선배의 잔소리.baked"
             }
           },
           {
@@ -295,16 +310,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "2c66d8c13459385f",
+  "active": "97eb882f6a0113f9",
   "lastOpenFiles": [
-    "강의/서비스기획 재료.md",
-    "강의/기획자의 무기.md",
+    "강의/_기획 선배의 잔소리.baked.md",
     "강의/기획 선배의 잔소리.md",
+    "강의/기획 선배의 잔소리.baked.md",
+    "강의/기획자의 무기.md",
+    "강의/서비스기획 재료.md",
     "강의/서비스기획 Flow.md",
     "강의/서비스기획 개론.md",
-    "강의/기획 선배의 잔소리.baked.md",
     "강의/attachments/프로그램의 완성 과정.png",
-    "강의/_기획 선배의 잔소리.baked.md",
     "강의/attachments/Pasted image 20241117190528.png",
     "강의/소프트웨어 기획.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
