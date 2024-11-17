@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스 기획 Flow.md",
+                "file": "강의/서비스기획 개론.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "서비스 기획 Flow"
+              "title": "서비스기획 개론"
             }
           }
         ]
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스 기획 Flow.md"
+                "file": "강의/서비스기획 개론.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스 기획 Flow"
+              "title": "Outline of 서비스기획 개론"
             }
           },
           {
@@ -281,8 +281,8 @@
   },
   "active": "96356f3c7d558359",
   "lastOpenFiles": [
-    "강의/기획 선배의 잔소리.md",
     "강의/서비스 기획 Flow.md",
+    "강의/기획 선배의 잔소리.md",
     "강의/서비스기획 개론.md",
     "강의/소프트웨어 기획.md",
     "강의/서비스기획 재료.md",
