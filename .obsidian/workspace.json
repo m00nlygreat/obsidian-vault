@@ -185,10 +185,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/기획 선배의 잔소리.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 기획 선배의 잔소리"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -310,10 +310,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ee777f8e3a212a91",
+  "active": "5d277c0ad76e95af",
   "lastOpenFiles": [
-    "강의/서비스기획 재료.md",
     "강의/기획 선배의 잔소리.md",
+    "강의/서비스기획 재료.md",
     "강의/기획자의 무기.md",
     "강의/기획 선배의 잔소리.baked.md",
     "강의/_기획 선배의 잔소리.baked.md",
