@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/프로젝트 매니지먼트.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 프로젝트 매니지먼트"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -279,15 +279,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "96356f3c7d558359",
+  "active": "5d277c0ad76e95af",
   "lastOpenFiles": [
+    "강의/프로젝트 매니지먼트.md",
     "강의/기획 선배의 잔소리.md",
     "강의/attachments/프로필.jpg",
     "강의/강사 소개.md",
     "강의/강의 준비.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "강의/서비스기획 개론.md",
-    "강의/프로젝트 매니지먼트.md",
     "강의/서비스기획 재료.md",
     "강의/서비스기획 Flow.md",
     "강의/기획자의 무기.md",
