@@ -23,97 +23,22 @@
             }
           },
           {
-            "id": "ee777f8e3a212a91",
+            "id": "b68069273c532bf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/기획 선배의 잔소리.md",
+                "file": "강의/프로젝트 매니지먼트.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "기획 선배의 잔소리"
-            }
-          },
-          {
-            "id": "d47d5a9e8b815317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/기획 선배의 잔소리.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "기획 선배의 잔소리"
-            }
-          },
-          {
-            "id": "a3886c26bec51a48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/기획 선배의 잔소리.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "기획 선배의 잔소리"
-            }
-          },
-          {
-            "id": "c9e2af6ea6878e96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/기획 선배의 잔소리.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "기획 선배의 잔소리"
-            }
-          },
-          {
-            "id": "3cb22c53614b6944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/기획 선배의 잔소리.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "기획 선배의 잔소리"
-            }
-          },
-          {
-            "id": "67d572eccacc8fc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/기획 선배의 잔소리.baked.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "기획 선배의 잔소리.baked"
+              "title": "프로젝트 매니지먼트"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       },
       {
         "id": "75f8e9390f18c22f",
@@ -245,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/기획 선배의 잔소리.baked.md"
+                "file": "강의/프로젝트 매니지먼트.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 기획 선배의 잔소리.baked"
+              "title": "Outline of 프로젝트 매니지먼트"
             }
           },
           {
@@ -370,11 +295,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "67d572eccacc8fc6",
+  "active": "b68069273c532bf9",
   "lastOpenFiles": [
-    "강의/_기획 선배의 잔소리.baked.md",
     "강의/기획 선배의 잔소리.md",
+    "강의/데이터 분석을 위한 서비스 기획.md",
     "강의/기획 선배의 잔소리.baked.md",
+    "강의/_기획 선배의 잔소리.baked.md",
     "강의/프로젝트 매니지먼트.md",
     "강의/서비스기획 개론.md",
     "강의/서비스기획 재료.md",
@@ -385,7 +311,6 @@
     "강의/attachments/프로그램의 완성 과정.png",
     "강의/attachments/Pasted image 20241117190528.png",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
-    "강의/데이터 분석을 위한 서비스 기획.md",
     "강의/UX 이론.md",
     "강의/_서비스 기획.md",
     "강의/면접 멘토링.md",
