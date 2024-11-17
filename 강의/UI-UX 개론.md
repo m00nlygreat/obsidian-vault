@@ -24,6 +24,9 @@
 - 행위자와 환경 사이의 관계에 존재하는 행동 가능성(possibility of action)
 - 행위자가 인지하든 하지 않든, 어포던스는 존재함
 
+![](attachments/Pasted%20image%2020241118035957.png)
+
+---
 ### 지각된 어포던스 (Perceived Affordance)
 
 - 또는 기표(Signifiant), 도널드 노먼
@@ -32,9 +35,7 @@
 
 - [어포던스 - 위키백과](https://ko.wikipedia.org/wiki/%EC%96%B4%ED%8F%AC%EB%8D%98%EC%8A%A4)
 
-![](attachments/Pasted%20image%2020241118035957.png)
-
----
+***
 
 ### 어포던스의 응용
 
