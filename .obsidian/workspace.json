@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스기획 재료.md",
+                "file": "강의/서비스기획 Flow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "서비스기획 재료"
+              "title": "서비스기획 Flow"
             }
           }
         ],
@@ -165,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획 재료.md"
+                "file": "강의/서비스기획 Flow.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스기획 재료"
+              "title": "Outline of 서비스기획 Flow"
             }
           },
           {
@@ -293,18 +293,18 @@
   "active": "2c66d8c13459385f",
   "lastOpenFiles": [
     "강의/서비스기획 개론.md",
-    "강의/소프트웨어 기획.md",
-    "강의/서비스 기획 Flow.md",
-    "강의/기획 선배의 잔소리.md",
+    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
+    "강의/데이터 분석을 위한 서비스 기획.md",
     "강의/서비스기획 재료.md",
+    "강의/소프트웨어 기획.md",
+    "강의/서비스기획 Flow.md",
+    "강의/기획 선배의 잔소리.md",
     "강의/_기획 선배의 잔소리.md",
     "강의/UX 이론.md",
     "강의/_서비스 기획.md",
     "강의/면접 멘토링.md",
     "강의/노코드 엔지니어링/피그마 그래픽스.md",
     "강의/강의 준비.md",
-    "강의/데이터 분석을 위한 서비스 기획.md",
-    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "강의/포트폴리오.md",
     "강의/HTML-CSS.md",
     "강의/HTML-CSS 추가.md",
