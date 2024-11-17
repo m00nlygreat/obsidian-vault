@@ -28,17 +28,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/조작-인터랙션-피드백.md",
+                "file": "강의/기획 선배의 잔소리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "조작-인터랙션-피드백"
+              "title": "기획 선배의 잔소리"
+            }
+          },
+          {
+            "id": "6dd1dfe963f0b558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/기획 선배의 잔소리.baked.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "기획 선배의 잔소리.baked"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "75f8e9390f18c22f",
@@ -170,10 +185,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/조작-인터랙션-피드백.md"
+                "file": "강의/기획 선배의 잔소리.baked.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 조작-인터랙션-피드백"
+              "title": "Outline of 기획 선배의 잔소리.baked"
             }
           },
           {
@@ -295,9 +310,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ac66a9c96c16c7e2",
+  "active": "6dd1dfe963f0b558",
   "lastOpenFiles": [
+    "강의/_기획 선배의 잔소리.baked.md",
     "강의/기획 선배의 잔소리.md",
+    "강의/기획 선배의 잔소리.baked.md",
     "강의/조작-인터랙션-피드백.md",
     "강의/UI-UX 개론.md",
     "강의/서비스기획 재료.md",
@@ -317,8 +334,6 @@
     "강의/면접 멘토링.md",
     "강의/데이터 분석을 위한 서비스 기획.md",
     "강의/attachments/Pasted image 20240712222211.png",
-    "강의/기획 선배의 잔소리.baked.md",
-    "강의/_기획 선배의 잔소리.baked.md",
     "강의/attachments/rest.png",
     "강의/노코드 엔지니어링/노코드 개론.md",
     "강의/노코드 엔지니어링/노코드 엔지니어링.md",
