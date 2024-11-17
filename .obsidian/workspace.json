@@ -170,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획 재료.md"
+                "file": "강의/서비스기획 Flow.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스기획 재료"
+              "title": "Outline of 서비스기획 Flow"
             }
           },
           {
@@ -295,12 +295,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "5d277c0ad76e95af",
+  "active": "2c66d8c13459385f",
   "lastOpenFiles": [
+    "강의/서비스기획 재료.md",
     "강의/서비스기획 Flow.md",
     "강의/기획 선배의 잔소리.md",
     "강의/서비스기획 개론.md",
-    "강의/서비스기획 재료.md",
     "강의/attachments/Pasted image 20241117190528.png",
     "강의/소프트웨어 기획.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
