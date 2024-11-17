@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/소프트웨어 기획.md"
+                "file": "강의/기획 선배의 잔소리.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 소프트웨어 기획"
+              "title": "Outline of 기획 선배의 잔소리"
             }
           },
           {
@@ -279,10 +279,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "5d277c0ad76e95af",
+  "active": "96356f3c7d558359",
   "lastOpenFiles": [
-    "강의/기획 선배의 잔소리.md",
     "강의/소프트웨어 기획.md",
+    "강의/기획 선배의 잔소리.md",
     "서비스기획 재료.md",
     "강의/_기획 선배의 잔소리.md",
     "강의/UX 이론.md",
