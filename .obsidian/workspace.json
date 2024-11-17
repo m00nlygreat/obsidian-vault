@@ -74,7 +74,8 @@
               "title": "서비스기획 재료"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획 Flow.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스기획 Flow"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -294,10 +295,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "2c66d8c13459385f",
+  "active": "5d277c0ad76e95af",
   "lastOpenFiles": [
-    "강의/소프트웨어 기획.md",
     "강의/서비스기획 Flow.md",
+    "강의/소프트웨어 기획.md",
     "강의/서비스기획 재료.md",
     "강의/기획 선배의 잔소리.md",
     "강의/서비스기획 개론.md",
