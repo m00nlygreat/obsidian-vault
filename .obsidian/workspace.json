@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스기획 개론.md",
+                "file": "강의/기획 선배의 잔소리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "서비스기획 개론"
+              "title": "기획 선배의 잔소리"
+            }
+          },
+          {
+            "id": "2c66d8c13459385f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/서비스 기획 Flow.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "서비스 기획 Flow"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "75f8e9390f18c22f",
@@ -32,15 +48,10 @@
             "id": "eb56d3598795ff39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "서비스기획 재료.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "서비스기획 재료"
+              "title": "New tab"
             }
           },
           {
@@ -154,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획 개론.md"
+                "file": "강의/서비스 기획 Flow.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스기획 개론"
+              "title": "Outline of 서비스 기획 Flow"
             }
           },
           {
@@ -279,12 +290,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "96356f3c7d558359",
+  "active": "2c66d8c13459385f",
   "lastOpenFiles": [
-    "강의/서비스 기획 Flow.md",
     "강의/기획 선배의 잔소리.md",
-    "강의/서비스기획 개론.md",
+    "강의/서비스 기획 Flow.md",
     "강의/소프트웨어 기획.md",
+    "강의/서비스기획 개론.md",
     "강의/서비스기획 재료.md",
     "강의/_기획 선배의 잔소리.md",
     "강의/UX 이론.md",
