@@ -36,4 +36,8 @@
 
 - 한 화면에는 유저가 한 번에 소화시킬 수 있는 만큼의 정보량(One thing)을 제공해야 한다.
 - 토스가 좋아하는 UX 원칙
+- [거꾸로 입력하는 가입 화면](https://toss.tech/article/toss-signup-process)
+- [토스 디자이너들의 프로덕트 원칙](https://brunch.co.kr/@figmaster/8)
+
+![](attachments/Pasted%20image%2020241119035619.png)
 
