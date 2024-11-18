@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스기획 개론.md",
+                "file": "강의/기획 선배의 잔소리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "서비스기획 개론"
+              "title": "기획 선배의 잔소리"
             }
           }
         ]
@@ -58,8 +58,7 @@
               "title": "서비스기획 재료"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획 개론.md"
+                "file": "강의/소프트웨어 기획.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스기획 개론"
+              "title": "Outline of 소프트웨어 기획"
             }
           },
           {
@@ -279,20 +278,20 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "96356f3c7d558359",
+  "active": "eb56d3598795ff39",
   "lastOpenFiles": [
-    "강의/서비스기획 재료.md",
+    "강의/조작-인터랙션-피드백.md",
+    "강의/소프트웨어 기획.md",
+    "강의/기획 선배의 잔소리.md",
     "강의/서비스기획 개론.md",
+    "강의/서비스기획 재료.md",
     "강의/attachments/Pasted image 20240706093452.png",
     "강의/서비스기획 Flow.md",
-    "강의/조작-인터랙션-피드백.md",
-    "강의/기획 선배의 잔소리.md",
     "강의/포트폴리오.md",
     "강의/_기획 선배의 잔소리.baked.md",
     "강의/기획 선배의 잔소리.baked.md",
     "강의/UI-UX 개론.md",
     "강의/기획자의 무기.md",
-    "강의/소프트웨어 기획.md",
     "강의/UX 이론.md",
     "강의/attachments/Pasted image 20241118035957.png",
     "강의/소프트웨어 분류.md",
