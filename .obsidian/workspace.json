@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/기획 선배의 잔소리.md",
+                "file": "강의/조작-인터랙션-피드백.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "기획 선배의 잔소리"
+              "title": "조작-인터랙션-피드백"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획 재료.md"
+                "file": "강의/조작-인터랙션-피드백.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스기획 재료"
+              "title": "Outline of 조작-인터랙션-피드백"
             }
           },
           {
@@ -279,11 +279,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "57b8f2838ce99bd6",
+  "active": "ad5c2cfe596a34da",
   "lastOpenFiles": [
+    "강의/면접 멘토링.md",
+    "강의/사용자 여정 지도.md",
     "강의/기획 선배의 잔소리.md",
     "강의/서비스기획 재료.md",
-    "강의/사용자 여정 지도.md",
     "강의/attachments/Pasted image 20241119011629.png",
     "강의/attachments/Pasted image 20241119011544.png",
     "강의/attachments/Pasted image 20241119011621.png",
