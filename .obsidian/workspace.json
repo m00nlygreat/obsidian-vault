@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/피그마 그래픽스.md",
+                "file": "강의/HTML-CSS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "피그마 그래픽스"
+              "title": "HTML-CSS"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노코드 엔지니어링/피그마 그래픽스.md"
+                "file": "강의/HTML-CSS.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 피그마 그래픽스"
+              "title": "Outline of HTML-CSS"
             }
           },
           {
@@ -265,6 +265,8 @@
   },
   "active": "eb56d3598795ff39",
   "lastOpenFiles": [
+    "강의/_HTML-CSS.md",
+    "강의/노코드 엔지니어링/피그마 그래픽스.md",
     "강의/노코드 엔지니어링/_피그마 그래픽스.md",
     "강의/UX 이모저모.md",
     "강의/기타 UX 도구들.md",
@@ -285,7 +287,6 @@
     "강의/노코드 엔지니어링/구글 시트로 업무 자산관리하기.md",
     "강의/노코드 엔지니어링/노코드 개론.md",
     "강의/노코드 엔지니어링/노코드 유즈케이스.md",
-    "강의/노코드 엔지니어링/피그마 그래픽스.md",
     "강의/노코드 엔지니어링/피그마로 UI 디자인하기.md",
     "강의/노코드 엔지니어링/필살기 프레이머.md",
     "강의/노코드 엔지니어링/풀스택 노코드 버블.md",
@@ -296,7 +297,6 @@
     "강의/노코드 엔지니어링/프레이머로 블로그 만들기.md",
     "강의/attachments/프로그램의 완성 과정.png",
     "강의/강사 소개.md",
-    "강의/프로젝트 매니지먼트.md",
     "강의/attachments/tailwindcss.com_.png",
     "강의/attachments/Pasted image 20241119035619.png",
     "강의/attachments/Pasted image 20241119033614.png",

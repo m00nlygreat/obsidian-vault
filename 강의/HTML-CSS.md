@@ -533,5 +533,3 @@ div {
 - 빠른 프로토타이핑과 확장성으로 인기
 
 ![](attachments/tailwindcss.com_.png)
-
-# 감사합니다
