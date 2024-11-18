@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획 재료.md"
+                "file": "강의/설문조사.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스기획 재료"
+              "title": "Outline of 설문조사"
             }
           },
           {
@@ -279,10 +279,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "57b8f2838ce99bd6",
+  "active": "1c96bf5f7f4157a3",
   "lastOpenFiles": [
-    "강의/HTML-CSS 추가.md",
     "강의/서비스기획 재료.md",
+    "강의/HTML-CSS 추가.md",
     "강의/설문조사.md",
     "강의/기획 선배의 잔소리.md",
     "강의/UI-UX 개론.md",
