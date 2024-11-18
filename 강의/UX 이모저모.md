@@ -84,6 +84,8 @@
 
 ![](attachments/Pasted%20image%2020241119053735.png)
 
+---
+
 ### 콜린 그레이의 5 Dark Patterns
 
 1. 잔소리형(Nagging)
