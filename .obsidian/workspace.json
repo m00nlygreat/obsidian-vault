@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/어피니티 다이어그램.md",
+                "file": "강의/기타 UX 도구들.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "어피니티 다이어그램"
+              "title": "기타 UX 도구들"
             }
           }
         ],
@@ -169,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/어피니티 다이어그램.md"
+                "file": "강의/기타 UX 도구들.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 어피니티 다이어그램"
+              "title": "Outline of 기타 UX 도구들"
             }
           },
           {
@@ -297,7 +297,7 @@
   "active": "6f5785b45ad6cf81",
   "lastOpenFiles": [
     "강의/attachments/Pasted image 20241119015813.png",
-    "강의/어피니티 다이어그램.md",
+    "강의/기타 UX 도구들.md",
     "강의/서비스기획 재료.md",
     "강의/기획 선배의 잔소리.md",
     "강의/서비스기획 개론.md",
