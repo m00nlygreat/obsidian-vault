@@ -23,21 +23,6 @@
             }
           },
           {
-            "id": "85f8dce0616422ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/기획 선배의 잔소리.baked.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "기획 선배의 잔소리.baked"
-            }
-          },
-          {
             "id": "96356f3c7d558359",
             "type": "leaf",
             "state": {
@@ -52,8 +37,7 @@
               "title": "UI 엘리먼트"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "75f8e9390f18c22f",
@@ -65,13 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스기획 재료.md",
+                "file": "강의/기획 선배의 잔소리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "서비스기획 재료"
+              "title": "기획 선배의 잔소리"
             }
           }
         ]
@@ -169,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/기획 선배의 잔소리.baked.md"
+                "file": "강의/기획 선배의 잔소리.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 기획 선배의 잔소리.baked"
+              "title": "Outline of 기획 선배의 잔소리"
             }
           },
           {
@@ -294,11 +278,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "85f8dce0616422ed",
+  "active": "5d277c0ad76e95af",
   "lastOpenFiles": [
+    "강의/기획 선배의 잔소리.baked.md",
     "강의/_기획 선배의 잔소리.baked.md",
     "강의/서비스기획 재료.md",
-    "강의/기획 선배의 잔소리.baked.md",
     "강의/기획 선배의 잔소리.md",
     "강의/UI 기타.md",
     "강의/UI 엘리먼트.md",
