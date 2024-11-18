@@ -73,8 +73,21 @@
 8. 미끼와 스위치(Bait and Switch), 숨겨진 버튼
 9. 호혜적 선택강요(Confirmshaming)
 10. 위장된 광고(Disguised Ads), 콘텐츠로 위장한 광고
-11. 강제 ㅇ녓
+11. 강제 연속 결제(Forced Continuity), EU불법
+12. 친구로 위장한 스팸(Friend Spam)
 
 ---
 
 ![](attachments/Pasted%20image%2020241119053358.png)
+
+---
+
+![](attachments/Pasted%20image%2020241119053735.png)
+
+### 콜린 그레이의 5 Dark Patterns
+
+1. 잔소리형(Nagging)
+2. 경로방해형(Obstruction)
+3. 인터페이스 간섭(Interface Interference)
+4. 은닉형(Sneaking)
+5. 행동강제형(Forced Action)
