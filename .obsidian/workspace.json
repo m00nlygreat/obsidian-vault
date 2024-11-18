@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/기획 선배의 잔소리.baked.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 기획 선배의 잔소리.baked"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -279,11 +279,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d882dff4f3e14dff",
+  "active": "57b8f2838ce99bd6",
   "lastOpenFiles": [
-    "강의/_기획 선배의 잔소리.baked.md",
     "강의/기획 선배의 잔소리.md",
     "강의/기획 선배의 잔소리.baked.md",
+    "강의/_기획 선배의 잔소리.baked.md",
     "강의/설문조사.md",
     "Pasted image 20241118191933.png",
     "강의/서비스기획 재료.md",
