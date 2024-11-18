@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/기획 선배의 잔소리.baked.md",
+                "file": "강의/UI 엘리먼트.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "기획 선배의 잔소리.baked"
+              "title": "UI 엘리먼트"
             }
           }
         ],
@@ -184,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/기획 선배의 잔소리.baked.md"
+                "file": "강의/UI 엘리먼트.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 기획 선배의 잔소리.baked"
+              "title": "Outline of UI 엘리먼트"
             }
           },
           {
@@ -311,8 +311,9 @@
   },
   "active": "ca5350fae6cc9412",
   "lastOpenFiles": [
-    "강의/기획 선배의 잔소리.md",
     "강의/기획 선배의 잔소리.baked.md",
+    "강의/_기획 선배의 잔소리.baked.md",
+    "강의/기획 선배의 잔소리.md",
     "강의/기타 UX 도구들.md",
     "강의/서비스기획 재료.md",
     "강의/attachments/Pasted image 20241119021133.png",
@@ -325,7 +326,6 @@
     "강의/attachments/Pasted image 20241119011544.png",
     "강의/attachments/Pasted image 20241119011621.png",
     "강의/기획자의 무기.md",
-    "강의/_기획 선배의 잔소리.baked.md",
     "강의/유저 퍼소나.md",
     "강의/attachments/Pasted image 20241118204856.png",
     "강의/attachments/Pasted image 20241118204819.png",
