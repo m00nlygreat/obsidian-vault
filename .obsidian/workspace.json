@@ -13,32 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/기획 선배의 잔소리.md",
+                "file": "강의/조작-인터랙션-피드백.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "기획 선배의 잔소리"
-            }
-          },
-          {
-            "id": "553edf270923a19b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/기획 선배의 잔소리.baked.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "기획 선배의 잔소리.baked"
+              "title": "조작-인터랙션-피드백"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "75f8e9390f18c22f",
@@ -169,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/기획 선배의 잔소리.baked.md"
+                "file": "강의/조작-인터랙션-피드백.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 기획 선배의 잔소리.baked"
+              "title": "Outline of 조작-인터랙션-피드백"
             }
           },
           {
@@ -294,16 +278,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "553edf270923a19b",
+  "active": "96356f3c7d558359",
   "lastOpenFiles": [
+    "강의/attachments/uxdesign04.png",
+    "강의/조작-인터랙션-피드백.md",
+    "강의/기획 선배의 잔소리.baked.md",
     "강의/_기획 선배의 잔소리.baked.md",
     "강의/기획 선배의 잔소리.md",
-    "강의/기획 선배의 잔소리.baked.md",
-    "강의/조작-인터랙션-피드백.md",
     "강의/소프트웨어 기획.md",
     "강의/강의 준비.md",
     "강의/생성형AI/AI이모저모.md",
-    "강의/attachments/uxdesign04.png",
     "강의/attachments/uxdesign02.png",
     "강의/서비스기획 개론.md",
     "강의/서비스기획 재료.md",
@@ -331,7 +315,6 @@
     "강의/attachments/프로그램의 완성 과정.png",
     "강의/_서비스 기획.md",
     "강의/노코드 엔지니어링/피그마 그래픽스.md",
-    "강의/HTML-CSS.md",
     "Untitled",
     "Clippings",
     "notes/멘토링복붙.md.backup",
