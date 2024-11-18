@@ -87,7 +87,7 @@
 		- 경로(Path): 각 조건마다 한 번씩 참/거짓을 수행하며 검증
 		- 조건(Condition): All True/All False 케이스를 검증
 
-![](attachments/Pasted%20image%2020241119022807.png)
+![](attachments/Pasted%20image%2020241119023155.png)
 
 ## 유지보수 및 고도화
 
