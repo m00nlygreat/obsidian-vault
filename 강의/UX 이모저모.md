@@ -59,6 +59,8 @@
 
 - 사용자에게 손해, 그리고 서비스에 이익이 되도록 의도적으로 UX를 배치하는 것.
 
+***
+
 ### 해리 브리그널의 12 Dark Patterns
 
 1. 속임수 질문(Trick Questions)
@@ -67,3 +69,12 @@
 4. 개인정보 주커링(Privacy Zuckering)
 5. 가격비교 차단(Privacy Comparison Prevention)
 6. 주의집중 분산(Misdirection)
+7. 숨겨진 가격(Hidden Cost)
+8. 미끼와 스위치(Bait and Switch), 숨겨진 버튼
+9. 호혜적 선택강요(Confirmshaming)
+10. 위장된 광고(Disguised Ads), 콘텐츠로 위장한 광고
+11. 강제 ㅇ녓
+
+---
+
+![](attachments/Pasted%20image%2020241119053358.png)
