@@ -37,8 +37,7 @@
               "title": "UI 엘리먼트"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "75f8e9390f18c22f",
@@ -154,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/UI 엘리먼트.md"
+                "file": "강의/UX 이론.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of UI 엘리먼트"
+              "title": "Outline of UX 이론"
             }
           },
           {
@@ -279,11 +278,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "96356f3c7d558359",
+  "active": "eb56d3598795ff39",
   "lastOpenFiles": [
+    "강의/UI 엘리먼트.md",
     "강의/UX 이론.md",
     "강의/UI-UX 개론.md",
-    "강의/UI 엘리먼트.md",
     "강의/기획 선배의 잔소리.md",
     "강의/HTML-CSS 추가.md",
     "강의/HTML-CSS.md",
