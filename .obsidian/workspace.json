@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "기획 선배의 잔소리"
             }
-          },
-          {
-            "id": "13b0fe74c6d3837a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "강의/attachments/0_YeaUsQyhXSL1TCTH.png"
-              },
-              "icon": "lucide-image",
-              "title": "0_YeaUsQyhXSL1TCTH"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "75f8e9390f18c22f",
@@ -47,13 +34,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/필살기 프레이머.md",
+                "file": "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "필살기 프레이머"
+              "title": "노코드를 시작하기 전에 알았으면 좋았을 것들"
             }
           }
         ]
@@ -151,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노코드 엔지니어링/필살기 프레이머.md"
+                "file": "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 필살기 프레이머"
+              "title": "Outline of 노코드를 시작하기 전에 알았으면 좋았을 것들"
             }
           },
           {
@@ -278,19 +265,22 @@
   },
   "active": "57b8f2838ce99bd6",
   "lastOpenFiles": [
-    "강의/노코드 엔지니어링/피그마로 UI 디자인하기.md",
+    "강의/기타 UX 도구들.md",
+    "강의/attachments/0_YeaUsQyhXSL1TCTH.png",
+    "강의/노코드 엔지니어링/교안 개선사항.md",
+    "강의/노코드 엔지니어링/구글 시트로 업무 자산관리하기.md",
+    "강의/노코드 엔지니어링/노코드 개론.md",
+    "강의/노코드 엔지니어링/노코드 유즈케이스.md",
     "강의/노코드 엔지니어링/피그마 그래픽스.md",
+    "강의/노코드 엔지니어링/피그마로 UI 디자인하기.md",
+    "강의/노코드 엔지니어링/필살기 프레이머.md",
     "강의/노코드 엔지니어링/풀스택 노코드 버블.md",
     "강의/노코드 엔지니어링/버블.md",
     "강의/노코드 엔지니어링/디지텍고 강의.md",
-    "강의/노코드 엔지니어링/구글 시트로 업무 자산관리하기.md",
     "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
-    "강의/노코드 엔지니어링/노코드 개론.md",
-    "강의/노코드 엔지니어링/노코드 유즈케이스.md",
     "강의/노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
     "강의/노코드 엔지니어링/프레이머로 블로그 만들기.md",
     "강의/서비스기획 재료.md",
-    "강의/attachments/0_YeaUsQyhXSL1TCTH.png",
     "강의/attachments/프로그램의 완성 과정.png",
     "강의/기획 선배의 잔소리.md",
     "강의/강사 소개.md",
@@ -303,10 +293,7 @@
     "강의/서비스기획 개론.md",
     "강의/사용자 여정 지도.md",
     "강의/기획 선배의 잔소리.baked.md",
-    "강의/_기획 선배의 잔소리.baked.md",
-    "강의/HTML-CSS.md",
     "강의/attachments/tailwindcss.com_.png",
-    "강의/HTML-CSS 추가.md",
     "강의/attachments/Pasted image 20241119035619.png",
     "강의/attachments/Pasted image 20241119033614.png",
     "강의/attachments/Pasted image 20241119033057.png",
