@@ -46,3 +46,7 @@
 
 ![](attachments/Pasted%20image%2020241119035619.png)
 
+## 넛지 이론, Nudge Theory
+
+- 팔꿈치로 쿡쿡 찌르다. 라는 의미의 영단어.
+- 
