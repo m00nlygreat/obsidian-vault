@@ -34,13 +34,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/UI 엘리먼트.md",
+                "file": "강의/서비스기획 재료.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "UI 엘리먼트"
+              "title": "서비스기획 재료"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/UX 이모저모.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of UX 이모저모"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -263,11 +263,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb56d3598795ff39",
+  "active": "57b8f2838ce99bd6",
   "lastOpenFiles": [
+    "강의/UI 엘리먼트.md",
+    "강의/UX 이모저모.md",
+    "강의/attachments/Pasted image 20241119052446.png",
     "강의/기타 UX 도구들.md",
     "강의/기획 선배의 잔소리.md",
-    "강의/UI 엘리먼트.md",
     "강의/UI-UX 개론.md",
     "강의/서비스기획 재료.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
@@ -292,7 +294,6 @@
     "강의/유저 퍼소나.md",
     "강의/소프트웨어 분류.md",
     "강의/설문조사.md",
-    "강의/서비스기획 Flow.md",
     "강의/attachments/tailwindcss.com_.png",
     "강의/attachments/Pasted image 20241119035619.png",
     "강의/attachments/Pasted image 20241119033614.png",
@@ -300,7 +301,6 @@
     "강의/attachments/Pasted image 20241119032229.png",
     "강의/attachments/Pasted image 20241119031714.png",
     "강의/attachments/Pasted image 20241119031428.png",
-    "강의/attachments/Pasted image 20241119023155.png",
     "설문조사.pdf",
     "Untitled",
     "Clippings",
