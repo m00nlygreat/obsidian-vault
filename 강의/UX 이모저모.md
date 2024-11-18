@@ -89,5 +89,12 @@
 1. 잔소리형(Nagging)
 2. 경로방해형(Obstruction)
 3. 인터페이스 간섭(Interface Interference)
+	- Checked by default
+	- Next 버튼 시차
 4. 은닉형(Sneaking)
 5. 행동강제형(Forced Action)
+
+---
+
+![](attachments/Pasted%20image%2020241119053937.png)
+
