@@ -169,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/유저 퍼소나.md"
+                "file": "강의/서비스기획 개론.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 유저 퍼소나"
+              "title": "Outline of 서비스기획 개론"
             }
           },
           {
@@ -294,11 +294,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e1f1864628ed89b8",
+  "active": "57b8f2838ce99bd6",
   "lastOpenFiles": [
+    "강의/유저 퍼소나.md",
     "강의/설문조사.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
-    "강의/유저 퍼소나.md",
     "강의/기획 선배의 잔소리.md",
     "강의/서비스기획 개론.md",
     "설문조사.pdf",
