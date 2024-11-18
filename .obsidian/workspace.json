@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/UX 이모저모.md",
+                "file": "강의/기타 UX 도구들.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "UX 이모저모"
+              "title": "기타 UX 도구들"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/UX 이모저모.md"
+                "file": "강의/기타 UX 도구들.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of UX 이모저모"
+              "title": "Outline of 기타 UX 도구들"
             }
           },
           {
@@ -281,9 +281,10 @@
   },
   "active": "13b0fe74c6d3837a",
   "lastOpenFiles": [
+    "강의/UX 이모저모.md",
+    "강의/attachments/Pasted image 20241119031714.png",
     "강의/attachments/Pasted image 20241119031428.png",
     "강의/기획 선배의 잔소리.md",
-    "강의/UX 이모저모.md",
     "강의/서비스기획 재료.md",
     "강의/UX 이론.md",
     "강의/서비스기획 개론.md",
@@ -308,8 +309,6 @@
     "강의/attachments/Pasted image 20241119011544.png",
     "강의/attachments/Pasted image 20241119011621.png",
     "강의/유저 퍼소나.md",
-    "강의/attachments/Pasted image 20241118204856.png",
-    "강의/attachments/Pasted image 20241118204819.png",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "설문조사.pdf",
     "강의/HTML-CSS 추가.md",
