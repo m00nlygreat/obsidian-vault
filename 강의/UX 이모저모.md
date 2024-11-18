@@ -13,5 +13,6 @@
 
 ![](attachments/Pasted%20image%2020241119031714.png)
 
-## Beautiful websites don't convert
+## 예쁜 웹사이트는 
 
+- [Why Beautiful Websites Don't Convert](https://www.youtube.com/watch?v=Toonu-cTE60)
