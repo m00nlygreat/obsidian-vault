@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/기획 선배의 잔소리.md",
+                "file": "강의/설문조사.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "기획 선배의 잔소리"
+              "title": "설문조사"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획 개론.md"
+                "file": "강의/설문조사.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스기획 개론"
+              "title": "Outline of 설문조사"
             }
           },
           {
@@ -278,10 +278,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "57b8f2838ce99bd6",
+  "active": "eb56d3598795ff39",
   "lastOpenFiles": [
-    "강의/서비스기획 재료.md",
+    "설문조사.pdf",
     "강의/기획 선배의 잔소리.md",
+    "강의/서비스기획 개론.md",
+    "강의/서비스기획 재료.md",
     "강의/기획 선배의 잔소리.baked.md",
     "강의/_기획 선배의 잔소리.baked.md",
     "강의/기획자의 무기.md",
@@ -291,7 +293,6 @@
     "강의/UI-UX 개론.md",
     "강의/UI 엘리먼트.md",
     "강의/서비스기획 Flow.md",
-    "강의/서비스기획 개론.md",
     "강의/소프트웨어 분류.md",
     "강의/UX 이론.md",
     "강의/HTML-CSS.md",
