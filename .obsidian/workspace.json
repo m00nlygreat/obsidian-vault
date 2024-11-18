@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/기타 UX 도구들.md",
+                "file": "강의/서비스기획 개론.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "기타 UX 도구들"
+              "title": "서비스기획 개론"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/기타 UX 도구들.md"
+                "file": "강의/서비스기획 개론.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 기타 UX 도구들"
+              "title": "Outline of 서비스기획 개론"
             }
           },
           {
@@ -281,8 +281,8 @@
   },
   "active": "b2b77fb182704db3",
   "lastOpenFiles": [
-    "강의/서비스기획 재료.md",
     "강의/기타 UX 도구들.md",
+    "강의/서비스기획 재료.md",
     "강의/기획 선배의 잔소리.md",
     "강의/서비스기획 개론.md",
     "강의/기획자의 무기.md",
