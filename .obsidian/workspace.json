@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "기획 선배의 잔소리"
             }
+          },
+          {
+            "id": "42c598975fbf96d8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "75f8e9390f18c22f",
@@ -137,11 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 노코드를 시작하기 전에 알았으면 좋았을 것들"
+              "title": "Outline"
             }
           },
           {
@@ -263,8 +274,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "57b8f2838ce99bd6",
+  "active": "42c598975fbf96d8",
   "lastOpenFiles": [
+    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "강의/기타 UX 도구들.md",
     "강의/attachments/0_YeaUsQyhXSL1TCTH.png",
     "강의/노코드 엔지니어링/교안 개선사항.md",
@@ -292,7 +304,6 @@
     "강의/서비스기획 Flow.md",
     "강의/서비스기획 개론.md",
     "강의/사용자 여정 지도.md",
-    "강의/기획 선배의 잔소리.baked.md",
     "강의/attachments/tailwindcss.com_.png",
     "강의/attachments/Pasted image 20241119035619.png",
     "강의/attachments/Pasted image 20241119033614.png",
