@@ -184,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/HTML-CSS 추가.md"
+                "file": "강의/기획자의 무기.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of HTML-CSS 추가"
+              "title": "Outline of 기획자의 무기"
             }
           },
           {
@@ -309,11 +309,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "5d277c0ad76e95af",
+  "active": "74e4450ff4e44316",
   "lastOpenFiles": [
+    "강의/HTML-CSS 추가.md",
     "강의/기획자의 무기.md",
     "강의/서비스기획 개론.md",
-    "강의/HTML-CSS 추가.md",
     "강의/서비스기획 Flow.md",
     "강의/소프트웨어 분류.md",
     "강의/설문조사.md",
