@@ -8,11 +8,13 @@
 ## 3-Click Rule
 
 - 애플리케이션의 모든 기능에 접근하는 데 3번의 클릭을 넘으면 안된다.
-	- 라는 **2001년의 UX 미신**
+	- 라는 주장을 했던 **2001년의 UX 미신**
 - 비슷하게 최상위 메뉴가 7개 이하여야 한다라는 미신도 있다.
 
 ![](attachments/Pasted%20image%2020241119031714.png)
 
-## 예쁜 웹사이트는 
+## 예쁜 웹사이트는 왜 전환에 실패하는가
 
 - [Why Beautiful Websites Don't Convert](https://www.youtube.com/watch?v=Toonu-cTE60)
+
+![](attachments/Pasted%20image%2020241119033614.png)
