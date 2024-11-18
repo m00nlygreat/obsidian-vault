@@ -51,9 +51,19 @@
               "icon": "lucide-file",
               "title": "기획 선배의 잔소리"
             }
+          },
+          {
+            "id": "95cf2230dadfcd8b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "75f8e9390f18c22f",
@@ -184,11 +194,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "강의/기획 선배의 잔소리.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 기획 선배의 잔소리"
+              "title": "Outline"
             }
           },
           {
@@ -310,13 +318,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "6dd1dfe963f0b558",
+  "active": "95cf2230dadfcd8b",
   "lastOpenFiles": [
-    "강의/UI-UX 개론.md",
-    "강의/기획 선배의 잔소리.baked.md",
-    "강의/기획자의 무기.md",
     "강의/_기획 선배의 잔소리.baked.md",
     "강의/기획 선배의 잔소리.md",
+    "강의/기획 선배의 잔소리.baked.md",
+    "강의/UI-UX 개론.md",
+    "강의/기획자의 무기.md",
     "강의/조작-인터랙션-피드백.md",
     "강의/서비스기획 재료.md",
     "강의/소프트웨어 기획.md",
