@@ -18,3 +18,10 @@
 - [Why Beautiful Websites Don't Convert](https://www.youtube.com/watch?v=Toonu-cTE60)
 
 ![](attachments/Pasted%20image%2020241119033614.png)
+
+## 10 Laws of UX
+
+- 제이콥의 법칙: UX는 다수가 깡패. 다수가 사용하는 인터페이스를 제공해라
+- 피츠의 법칙: 사람들은 크고 가까운 것을 선택하는 경향이 있다.
+- 힉의 법칙: 선택지가 많아지면 선택에 걸리는 시간은 (로그함수의 형태로) 늘어난다.
+- 밀러의 법칙: 사람들은 7(±2)개 정도밖에 한 번에 기억하지 못
