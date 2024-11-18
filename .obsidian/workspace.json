@@ -37,7 +37,8 @@
               "title": "UX 원칙"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "75f8e9390f18c22f",
@@ -153,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/기획 선배의 잔소리.md"
+                "file": "강의/UX 원칙.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 기획 선배의 잔소리"
+              "title": "Outline of UX 원칙"
             }
           },
           {
@@ -278,8 +279,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb56d3598795ff39",
+  "active": "13b0fe74c6d3837a",
   "lastOpenFiles": [
+    "강의/UX 이론.md",
     "강의/UX 원칙.md",
     "강의/기획 선배의 잔소리.md",
     "강의/서비스기획 개론.md",
@@ -296,7 +298,6 @@
     "강의/attachments/Pasted image 20241119023155.png",
     "강의/attachments/Pasted image 20241119022807.png",
     "강의/attachments/Pasted image 20241119022533.png",
-    "강의/UX 이론.md",
     "강의/UI 엘리먼트.md",
     "강의/attachments/Pasted image 20241119021133.png",
     "강의/attachments/Pasted image 20241119015813.png",
