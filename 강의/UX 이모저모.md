@@ -59,4 +59,11 @@
 
 - 사용자에게 손해, 그리고 서비스에 이익이 되도록 의도적으로 UX를 배치하는 것.
 
-### 
+### 해리 브리그널의 12 Dark Patterns
+
+1. 속임수 질문(Trick Questions)
+2. 소매넣기(Sneak into Basket), 2014년부터 EU에서 불법
+3. 싸구려 호텔(Roach Motel), 가입은 쉽게 해지는 어렵게
+4. 개인정보 주커링(Privacy Zuckering)
+5. 가격비교 차단(Privacy Comparison Prevention)
+6. 주의집중 분산(Misdirection)
