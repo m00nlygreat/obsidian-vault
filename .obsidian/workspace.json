@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/설문조사.md",
+                "file": "강의/기획 선배의 잔소리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "설문조사"
+              "title": "기획 선배의 잔소리"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/설문조사.md"
+                "file": "강의/기획 선배의 잔소리.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 설문조사"
+              "title": "Outline of 기획 선배의 잔소리"
             }
           },
           {
@@ -280,6 +280,7 @@
   },
   "active": "eb56d3598795ff39",
   "lastOpenFiles": [
+    "강의/설문조사.md",
     "설문조사.pdf",
     "강의/기획 선배의 잔소리.md",
     "강의/서비스기획 개론.md",
@@ -287,7 +288,6 @@
     "강의/기획 선배의 잔소리.baked.md",
     "강의/_기획 선배의 잔소리.baked.md",
     "강의/기획자의 무기.md",
-    "강의/설문조사.md",
     "Pasted image 20241118191933.png",
     "강의/HTML-CSS 추가.md",
     "강의/UI-UX 개론.md",
@@ -326,7 +326,6 @@
     "웹클립/attachments",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "별자리",
-    "강의/생성형AI/생성형AI/attachments"
+    "별자리"
   ]
 }
