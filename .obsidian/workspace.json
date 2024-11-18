@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/UI-UX 개론.md",
+                "file": "강의/기획 선배의 잔소리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "UI-UX 개론"
+              "title": "기획 선배의 잔소리"
+            }
+          },
+          {
+            "id": "58cb40c29b5da2e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "설문조사.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "설문조사"
             }
           },
           {
@@ -37,7 +52,8 @@
               "title": "UI 엘리먼트"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "75f8e9390f18c22f",
@@ -153,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/UI-UX 개론.md"
+                "file": "설문조사.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of UI-UX 개론"
+              "title": "Outline of 설문조사"
             }
           },
           {
@@ -278,12 +294,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb56d3598795ff39",
+  "active": "58cb40c29b5da2e0",
   "lastOpenFiles": [
+    "강의/기획 선배의 잔소리.md",
+    "설문조사.md",
+    "강의/UI-UX 개론.md",
     "강의/UX 이론.md",
     "강의/UI 엘리먼트.md",
-    "강의/UI-UX 개론.md",
-    "강의/기획 선배의 잔소리.md",
     "강의/HTML-CSS 추가.md",
     "강의/HTML-CSS.md",
     "강의/프로젝트 매니지먼트.md",
@@ -314,7 +331,6 @@
     "강의/attachments/Pasted image 20240712222211.png",
     "강의/attachments/rest.png",
     "강의/노코드 엔지니어링/노코드 개론.md",
-    "강의/노코드 엔지니어링/노코드 엔지니어링.md",
     "강의/attachments/Pasted image 20241118025224.png",
     "Untitled",
     "Clippings",
