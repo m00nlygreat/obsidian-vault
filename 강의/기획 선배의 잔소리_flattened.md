@@ -20,7 +20,7 @@ author:
 - '23 동북권 ICT 이노베이션 스퀘어 강의
 - '23 한양대학교 강의
 
-![](attachments\프로필.jpg)
+![](attachments%5C%ED%94%84%EB%A1%9C%ED%95%84.jpg)
 
 # 서비스기획 개론
 
@@ -42,7 +42,7 @@ author:
 	- 방법론과 도구들
 	- 케이스 스터디
 
-![](../attachments/Pasted%20image%2020240706093452.png)
+![](attachments%5CPasted%20image%2020240706093452.png)
 
 ## 범기획자 직군들에 대한 소개
 
@@ -80,7 +80,7 @@ author:
 
 - 기획의 여정은 발산과 수렴을 반복한다.
 
-![](../attachments/Pasted%20image%2020241117190528.png)
+![](attachments%5CPasted%20image%2020241117190528.png)
 
 ## 문제 및 요구사항 정의
 
@@ -149,7 +149,7 @@ author:
 
 ## 구현 및 테스트
 
-![](../attachments/프로그램의%20완성%20과정.png)
+![](attachments%5C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%98%20%EC%99%84%EC%84%B1%20%EA%B3%BC%EC%A0%95.png)
 
 ---
 
@@ -165,7 +165,7 @@ author:
 		- 경로(Path): 각 조건마다 한 번씩 참/거짓을 수행하며 검증
 		- 조건(Condition): All True/All False 케이스를 검증
 
-![](../attachments/Pasted%20image%2020241119023155.png)
+![](attachments%5CPasted%20image%2020241119023155.png)
 
 ## 유지보수 및 고도화
 
@@ -313,7 +313,7 @@ author:
 
 #### 비판적으로 사고할 것!
 
-![](attachments\rest.png)
+![](attachments%5Crest.png)
 
 # 프로젝트 매니지먼트
 
@@ -322,7 +322,7 @@ author:
 - 전통적, 한국적 방법: 여러 문서와 워터폴 방식을 따르는 조직
 - 스타트업, 해외 유래: 프로토타입과 TDD 위주의 애자일 조직
 
-![](../attachments/Pasted%20image%2020240711154412.png)
+![](attachments%5CPasted%20image%2020240711154412.png)
 
 ## 애자일과 워터폴
 
@@ -330,7 +330,7 @@ author:
 - 빠른 주기로 프로덕트의 개발을 반복하며 테스트 주도(Test-driven)형으로 완성품의 품질을 높여가는 소프트웨어 개발 방식
 	- 유저를 내팽개치지 않음
 
-![](../attachments/Pasted%20image%2020240711113304.png)
+![](attachments%5CPasted%20image%2020240711113304.png)
 
 ## 린 스타트업
 
@@ -338,7 +338,7 @@ author:
 - Build -> Measure -> Learn의 구성을 따름
 - [프로그래밍 좀비님의 이야기](https://www.youtube.com/watch?v=XYR2-_H4PzI)
 
-![](../attachments/그게%20워터폴.png)
+![](attachments%5C%EA%B7%B8%EA%B2%8C%20%EC%9B%8C%ED%84%B0%ED%8F%B4.png)
 
 ---
 
@@ -356,7 +356,7 @@ author:
 
 ---
 
-![](attachments\uxdesign05.png)
+![](attachments%5Cuxdesign05.png)
 
 ## 스크럼
 
@@ -371,11 +371,11 @@ author:
 
 ### Jira와 Kanban
 
-![](../attachments/Pasted%20image%2020240712222211.png)
+![](attachments%5CPasted%20image%2020240712222211.png)
 
 ## 간트차트와 업무 분해도(WBS)
 
-![](../attachments/Pasted%20image%2020241118034608.png)
+![](attachments%5CPasted%20image%2020241118034608.png)
 
 
 # UI/UX 개론
@@ -447,7 +447,7 @@ author:
 - 直觀, Intuition
 - 보고 아는 것
 
-![](../attachments/Pasted%20image%2020240711032041.png)
+![](attachments%5CPasted%20image%2020240711032041.png)
 
 ---
 
@@ -458,7 +458,7 @@ author:
 3. 모르지만 왠지 알겠는 것
 4. 논리적으로 알아챌 수 있는 것
 
-![](../attachments/Pasted%20image%2020240711120701.png)
+![](attachments%5CPasted%20image%2020240711120701.png)
 
 ## 어포던스
 
@@ -468,7 +468,7 @@ author:
 - 행위자와 환경 사이의 관계에 존재하는 행동 가능성(possibility of action)
 - 행위자가 인지하든 하지 않든, 어포던스는 존재함
 
-![](../attachments/Pasted%20image%2020241118035957.png)
+![](attachments%5CPasted%20image%2020241118035957.png)
 
 ---
 ### 지각된 어포던스 (Perceived Affordance)
@@ -492,7 +492,7 @@ author:
 
 ## 인터랙션(Interactions)
 
-![](attachments\uxdesign04.png)
+![](attachments%5Cuxdesign04.png)
 
 ## 장치(Devices)
 
@@ -588,7 +588,7 @@ author:
 - Interact: 어떤 인터랙션을 가지는지
 - Data: 어떤 데이터가 암시되어 있는지
 
-![](attachments\uxdesign03.png)
+![](attachments%5Cuxdesign03.png)
 
 # Solitary
 
@@ -615,7 +615,7 @@ author:
 
 ---
 
-![](../attachments/Pasted%20image%2020240711122706.png)
+![](attachments%5CPasted%20image%2020240711122706.png)
 
 ## Radio Button
 
@@ -634,7 +634,7 @@ author:
 - items: Item[]
 - selected: Item
 
-![](../attachments/Pasted%20image%2020240711131815.png)
+![](attachments%5CPasted%20image%2020240711131815.png)
 
 ## Checkbox
 
@@ -651,7 +651,7 @@ author:
 
 - checked: boolean
 
-![](../attachments/Pasted%20image%2020240711132444.png)
+![](attachments%5CPasted%20image%2020240711132444.png)
 
 ## Switch
 
@@ -668,7 +668,7 @@ author:
 
 - activated: boolean
 
-![](../attachments/Pasted%20image%2020240711132750.png)
+![](attachments%5CPasted%20image%2020240711132750.png)
 
 ## Input
 
@@ -687,7 +687,7 @@ author:
 
 - [인풋 입력 시 적절한 키보드가 나와야 한다.](http://mobileinputtypes.com/)
 
-![](../attachments/Pasted%20image%2020240711133227.png)
+![](attachments%5CPasted%20image%2020240711133227.png)
 
 ## Slider
 
@@ -706,7 +706,7 @@ author:
 
 #### 난 슬라이더가 싫어요
 
-![](../attachments/Pasted%20image%2020240711150048.png)
+![](attachments%5CPasted%20image%2020240711150048.png)
 
 ## Progresss bar
 
@@ -725,7 +725,7 @@ author:
 - value: 0<number<=1
 	- .. 인데 이 number 계산을 어떻게 하느냐가 중요
 
-![](../attachments/Pasted%20image%2020240711150334.png)
+![](attachments%5CPasted%20image%2020240711150334.png)
 
 ## Dropdown ≒ Selectbox, Combobox
 
@@ -744,7 +744,7 @@ author:
 - items: Item[]
 - selected: Item
 
-![](../attachments/Pasted%20image%2020240711151934.png)
+![](attachments%5CPasted%20image%2020240711151934.png)
 
 # Areas & Containers
 
@@ -752,19 +752,19 @@ author:
 
 - 특정 목적의 데이터들을 입력받는 인풋들의 집합 (예: 회원가입)
 
-![](../attachments/Pasted%20image%2020240711135853.png)
+![](attachments%5CPasted%20image%2020240711135853.png)
 
 ## Tab
 
 - 여러 페이지들을 묶어 버튼으로 전환할 수 있도록 추상화한 컨테이너 요소
 
-![](attachments\uxdesign01.png)
+![](attachments%5Cuxdesign01.png)
 
 ## Dialog
 
 - 대화상자. 
 
-![](../attachments/Pasted%20image%2020240711140919.png)
+![](attachments%5CPasted%20image%2020240711140919.png)
 
 ## Modal ≒ Window
 
@@ -772,7 +772,7 @@ author:
 - 실행시 부모 컨테이너의 Interaction 중단됨 ≠ Modeless
 - Pop-ups / Pop-over
 
-![](../attachments/Pasted%20image%2020240711141425.png)
+![](attachments%5CPasted%20image%2020240711141425.png)
 
 
 ## Screen / Page
@@ -786,20 +786,20 @@ author:
 	- 큰 것 -> 작은 것
 	- Public -> Private
 
-![](../attachments/Pasted%20image%2020240711151605.png)
+![](attachments%5CPasted%20image%2020240711151605.png)
 
 ## List
 
 - 여러 개의 항목을 보여주는 컨테이너
 - Swipe actions
 
-![](../attachments/Pasted%20image%2020240711162442.png)
+![](attachments%5CPasted%20image%2020240711162442.png)
 
 ---
 
 ### 다양한 기기에서의 List
 
-![](../attachments/Pasted%20image%2020240711162607.png)
+![](attachments%5CPasted%20image%2020240711162607.png)
 
 ---
 
@@ -808,14 +808,14 @@ author:
 - 프로퍼티를 가진 복수 개의 복잡한 정보를 나타내는 효과적인 UI 요소
 - Flat UI의 핵심
 
-![](../attachments/Pasted%20image%2020240711162808.png)
+![](attachments%5CPasted%20image%2020240711162808.png)
 
 ## Popup / Context Menu
 
 - 우클릭하면 나타나는 상황에 맞는 (Contextual) 메뉴
 - Dropdown과 비슷하게 메뉴 출현 위치에 대해 고민 필요
 
-![](../attachments/Pasted%20image%2020240711163523.png)
+![](attachments%5CPasted%20image%2020240711163523.png)
 
 ## 기타
 
@@ -852,7 +852,7 @@ author:
 - Toast
 - Breadcrumbs
 
-![](../attachments/Pasted%20image%2020240711121345.png)
+![](attachments%5CPasted%20image%2020240711121345.png)
 
 ## 이름에 집착하지 맙시다
 
@@ -871,7 +871,7 @@ author:
 
 ### Atomic Designs
 
-![](../attachments/Pasted%20image%2020240711164257.png)
+![](attachments%5CPasted%20image%2020240711164257.png)
 
 ---
 
@@ -1003,7 +1003,7 @@ author:
 
 - [리처드 파인만 "자석이 서로 밀어내는 이유"](https://www.youtube.com/watch?v=3smc7jbUPiE)
 
-![](../attachments/Pasted%20image%2020241119153654.png)
+![](attachments%5CPasted%20image%2020241119153654.png)
 
 ---
 
@@ -1037,7 +1037,7 @@ author:
 
 ## 분석
 
-![](../attachments/Pasted%20image%2020241118191933.png)
+![](attachments%5CPasted%20image%2020241118191933.png)
 
 # UX 도구 - 유저 퍼소나
 
@@ -1071,11 +1071,11 @@ author:
 
 ---
 
-![](../attachments/Pasted%20image%2020241118204819.png)
+![](attachments%5CPasted%20image%2020241118204819.png)
 
 ---
 
-![](../attachments/Pasted%20image%2020241118204856.png)
+![](attachments%5CPasted%20image%2020241118204856.png)
 
 # UX 도구 - 사용자 여정 지도
 
@@ -1101,11 +1101,11 @@ author:
 
 ---
 
-![](../attachments/Pasted%20image%2020241119011544.png)
+![](attachments%5CPasted%20image%2020241119011544.png)
 
 ---
 
-![](../attachments/Pasted%20image%2020241119011629.png)
+![](attachments%5CPasted%20image%2020241119011629.png)
 
 # 기타 UX 도구들
 
@@ -1115,7 +1115,7 @@ author:
 - 스타트업 하면 떠오르는 이미지 속에 반드시 있는 그거
 - 불규칙한 정성적 데이터를 분류하고 의미있는 데이터로 만드는 방법
 
-![](../attachments/Pasted%20image%2020241119015813.png)
+![](attachments%5CPasted%20image%2020241119015813.png)
 
 ## 플로우차트 (Flowchart)
 
@@ -1123,7 +1123,7 @@ author:
 - 본래는 코딩을 위한 알고리즘 프로토타이핑의 용도이므로 플로우차트의 기호들은 컴퓨터의 동작과 관련되어 있다
 - 흐름도의 주체가 무엇인지를 엄격하게 고려하면서 작성하기
 
-![](../attachments/Pasted%20image%2020241119021133.png)
+![](attachments%5CPasted%20image%2020241119021133.png)
 
 ## 휴리스틱 (Heuristic)
 
@@ -1151,14 +1151,14 @@ author:
 - A/B 테스트 결과는 절대적이거나 항구적이지 않다
 - 지역최적점에 머물게 될 위험
 
-![](../attachments/Pasted%20image%2020241119032229.png)
+![](attachments%5CPasted%20image%2020241119032229.png)
 
 ## UX 히트맵
 
 - 스크롤, 클릭, 커서 움직임 등의 유저 행동을 누적된 히트맵으로 보기
 - 사용자의 정보 습득 경로와 주 의사결정 요인 등을 확인할 수 있는 지표
 
-![](../attachments/Pasted%20image%2020241119033057.png)
+![](attachments%5CPasted%20image%2020241119033057.png)
 
 # UX 이모저모
 
@@ -1167,7 +1167,7 @@ author:
 - 모바일 애플리케이션의 설계 시 한 손으로 기기를 파지했을 때 UI 요소에 접근하기 위한 엄지손가락의 가동 범위
 - 되도록 Thumbzone 안에 자주 사용하는 기능을 배치할 것이 요구됨
 
-![](../attachments/Pasted%20image%2020241119031428.png)
+![](attachments%5CPasted%20image%2020241119031428.png)
 
 ## 3-Click Rule
 
@@ -1175,13 +1175,13 @@ author:
 	- 라는 주장을 했던 **2001년의 UX 미신**
 - 비슷하게 최상위 메뉴가 7개 이하여야 한다라는 미신도 있다.
 
-![](../attachments/Pasted%20image%2020241119031714.png)
+![](attachments%5CPasted%20image%2020241119031714.png)
 
 ## 예쁜 웹사이트는 왜 전환에 실패하는가
 
 - [Why Beautiful Websites Don't Convert](https://www.youtube.com/watch?v=Toonu-cTE60)
 
-![](../attachments/Pasted%20image%2020241119033614.png)
+![](attachments%5CPasted%20image%2020241119033614.png)
 
 ## 10 Laws of UX
 
@@ -1208,7 +1208,7 @@ author:
 - [거꾸로 입력하는 가입 화면](https://toss.tech/article/toss-signup-process)
 - [토스 디자이너들의 프로덕트 원칙](https://brunch.co.kr/@figmaster/8)
 
-![](../attachments/Pasted%20image%2020241119035619.png)
+![](attachments%5CPasted%20image%2020241119035619.png)
 
 ## 넛지 이론, Nudge Theory
 
@@ -1217,7 +1217,7 @@ author:
 - 넛지는 은연 중에 작은 신호들이나 의도적인 혼란으로 행동을 유도하는 방법
 - 과하면 다크 패턴이 된다. 
 
-![](../attachments/Pasted%20image%2020241119052446.png)
+![](attachments%5CPasted%20image%2020241119052446.png)
 
 ## 다크 패턴
 
@@ -1242,15 +1242,15 @@ author:
 
 ---
 
-![](../attachments/Pasted%20image%2020241119053358.png)
+![](attachments%5CPasted%20image%2020241119053358.png)
 
 ---
 
-![](../attachments/Pasted%20image%2020241119053735.png)
+![](attachments%5CPasted%20image%2020241119053735.png)
 
 ---
 
-![](attachments\uxdesign06.png)
+![](attachments%5Cuxdesign06.png)
 
 ---
 
@@ -1266,4 +1266,4 @@ author:
 
 ---
 
-![](../attachments/Pasted%20image%2020241119053937.png)
+![](attachments%5CPasted%20image%2020241119053937.png)
