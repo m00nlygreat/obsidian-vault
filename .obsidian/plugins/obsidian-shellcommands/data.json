@@ -26,11 +26,11 @@
     {
       "id": "so49bu1jxf",
       "platform_specific_commands": {
-        "default": "md2ppt {{file_path:relative}}"
+        "default": "md2ppt {{file_name}}"
       },
       "shells": {},
       "alias": "",
-      "icon": null,
+      "icon": "activity",
       "confirm_execution": false,
       "ignore_error_codes": [],
       "input_contents": {
