@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스기획/조작-인터랙션-피드백.md",
+                "file": "강의/서비스기획/기획자의 무기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "조작-인터랙션-피드백"
+              "title": "기획자의 무기"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획/조작-인터랙션-피드백.md"
+                "file": "강의/서비스기획/기획자의 무기.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 조작-인터랙션-피드백"
+              "title": "Outline of 기획자의 무기"
             }
           },
           {
@@ -280,6 +280,7 @@
   },
   "active": "eb56d3598795ff39",
   "lastOpenFiles": [
+    "강의/서비스기획/조작-인터랙션-피드백.md",
     "강의/포트폴리오.md",
     "강의/면접 멘토링.md",
     "강의/강의 준비 체크포인트.md",
@@ -308,7 +309,6 @@
     "강의/HTML-CSS.md",
     "강의/_HTML-CSS.md",
     "강의/노코드 엔지니어링/피그마 그래픽스.md",
-    "강의/노코드 엔지니어링/_피그마 그래픽스.md",
     "강의/attachments/Pasted image 20241119053937.png",
     "강의/attachments/Pasted image 20241119053735.png",
     "강의/attachments/Pasted image 20241119053358.png",
