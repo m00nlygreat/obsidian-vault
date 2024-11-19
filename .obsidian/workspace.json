@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/기획 선배의 잔소리.md",
+                "file": "강의/서비스기획/프로젝트 매니지먼트.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "기획 선배의 잔소리"
+              "title": "프로젝트 매니지먼트"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/기획 선배의 잔소리.md"
+                "file": "강의/서비스기획/프로젝트 매니지먼트.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 기획 선배의 잔소리"
+              "title": "Outline of 프로젝트 매니지먼트"
             }
           },
           {
@@ -281,12 +281,13 @@
   },
   "active": "9164133ba84f3b9c",
   "lastOpenFiles": [
-    "강의/서비스기획/UI 엘리먼트.md",
     "강의/기획 선배의 잔소리_flattened.md",
-    "강의/서비스기획/서비스기획 개론.md",
-    "강의/_기획 선배의 잔소리.md",
-    "강의/attachments/Pasted image 20240706093452.png",
+    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "강의/기획 선배의 잔소리.md",
+    "강의/_기획 선배의 잔소리.md",
+    "강의/서비스기획/UI 엘리먼트.md",
+    "강의/서비스기획/서비스기획 개론.md",
+    "강의/attachments/Pasted image 20240706093452.png",
     "강의/서비스기획/프로젝트 매니지먼트.md",
     "강의/서비스기획/기타 UX 도구들.md",
     "강의/서비스기획/사용자 여정 지도.md",
@@ -316,7 +317,6 @@
     "강의/서비스기획",
     "강의/서비스기획 재료.md",
     "강의/기획 선배의 잔소리_final.md",
-    "강의/기획 선배의 잔소리.baked.md",
     "강의/attachments/Pasted image 20241119153654.png",
     "강의/attachments/Pasted image 20241119053735.png",
     "설문조사.pdf",
