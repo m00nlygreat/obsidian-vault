@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/강사 소개.md",
+                "file": "강의/서비스기획/기타 UX 도구들.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "강사 소개"
+              "title": "기타 UX 도구들"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/강사 소개.md"
+                "file": "강의/서비스기획/기타 UX 도구들.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 강사 소개"
+              "title": "Outline of 기타 UX 도구들"
             }
           },
           {
@@ -278,9 +278,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb56d3598795ff39",
+  "active": "d882dff4f3e14dff",
   "lastOpenFiles": [
     "강의/기획 선배의 잔소리.md",
+    "강의/서비스기획/사용자 여정 지도.md",
+    "강의/서비스기획/기타 UX 도구들.md",
+    "강의/attachments/Pasted image 20241119015813.png",
+    "강의/강사 소개.md",
+    "강의/서비스기획",
     "강의/_기획 선배의 잔소리.md",
     "강의/서비스기획 재료.md",
     "강의/설문조사.md",
@@ -288,10 +293,9 @@
     "강의/서비스기획 Flow.md",
     "강의/기획 선배의 잔소리.baked.md",
     "강의/_기획 선배의 잔소리.baked.md",
-    "강의/기타 UX 도구들.md",
-    "강의/기획자의 무기.md",
+    "강의/서비스기획/기획자의 무기.md",
     "강의/attachments/Pasted image 20241119153654.png",
-    "강의/서비스기획 개론.md",
+    "강의/서비스기획/서비스기획 개론.md",
     "강의/HTML-CSS.md",
     "강의/_HTML-CSS.md",
     "강의/노코드 엔지니어링/피그마 그래픽스.md",
@@ -300,7 +304,7 @@
     "강의/attachments/Pasted image 20241119053937.png",
     "강의/attachments/Pasted image 20241119053735.png",
     "강의/attachments/Pasted image 20241119053358.png",
-    "강의/UI 엘리먼트.md",
+    "강의/서비스기획/UI 엘리먼트.md",
     "강의/attachments/Pasted image 20241119052446.png",
     "강의/UI-UX 개론.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
@@ -310,14 +314,10 @@
     "강의/노코드 엔지니어링/노코드 개론.md",
     "강의/노코드 엔지니어링/노코드 유즈케이스.md",
     "강의/노코드 엔지니어링/피그마로 UI 디자인하기.md",
-    "강의/노코드 엔지니어링/필살기 프레이머.md",
-    "강의/노코드 엔지니어링/풀스택 노코드 버블.md",
     "강의/attachments/프로그램의 완성 과정.png",
     "강의/attachments/tailwindcss.com_.png",
     "강의/attachments/Pasted image 20241119035619.png",
-    "강의/attachments/Pasted image 20241119033614.png",
     "설문조사.pdf",
-    "Untitled",
     "Clippings",
     "notes/멘토링복붙.md.backup",
     "notes/attachments",
