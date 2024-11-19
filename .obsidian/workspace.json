@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
+                "file": "강의/생성형AI/ChatGPT예제_회사원.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ChatGPT로 코딩하기 (부록)"
+              "title": "ChatGPT예제_회사원"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/ChatGPT로 코딩하기 (부록).md"
+                "file": "강의/생성형AI/ChatGPT예제_회사원.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of ChatGPT로 코딩하기 (부록)"
+              "title": "Outline of ChatGPT예제_회사원"
             }
           },
           {
@@ -281,6 +281,8 @@
   },
   "active": "9164133ba84f3b9c",
   "lastOpenFiles": [
+    "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
+    "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
     "강의/생성형AI/ChatGPT 강의는 이제 안 하고 싶은데요.md",
     "강의/기획 선배의 잔소리.md",
     "_기획 선배의 잔소리.md",
@@ -313,13 +315,11 @@
     "강의/서비스기획/사용자 여정 지도.md",
     "강의/attachments/uxdesign05.png",
     "강의/서비스기획/설문조사.md",
-    "강의/서비스기획/UX 이모저모.md",
     "강의/attachments/uxdesign06.png",
     "강의/attachments/Pasted image 20241119053937.png",
     "강의/서비스기획/attachments",
     "강의/attachments/Pasted image 20241118025224.png",
     "강의/attachments/Pasted image 20240711113304.png",
-    "강의/UX 이론.md",
     "강의/서비스기획",
     "설문조사.pdf",
     "Clippings",
