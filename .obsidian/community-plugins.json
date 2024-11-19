@@ -11,5 +11,6 @@
   "obsidian-remember-file-state",
   "obsidian-to-notion",
   "obsidian-vimrc-support",
-  "copilot"
+  "copilot",
+  "obsidian-markdown-export-plugin"
 ]
