@@ -2,7 +2,7 @@
 
 - 기획의 여정은 발산과 수렴을 반복한다.
 
-![](attachments/Pasted%20image%2020241117190528.png)
+![](../attachments/Pasted%20image%2020241117190528.png)
 
 ## 문제 및 요구사항 정의
 
@@ -71,7 +71,7 @@
 
 ## 구현 및 테스트
 
-![](attachments/프로그램의%20완성%20과정.png)
+![](../attachments/프로그램의%20완성%20과정.png)
 
 ---
 
@@ -87,7 +87,7 @@
 		- 경로(Path): 각 조건마다 한 번씩 참/거짓을 수행하며 검증
 		- 조건(Condition): All True/All False 케이스를 검증
 
-![](attachments/Pasted%20image%2020241119023155.png)
+![](../attachments/Pasted%20image%2020241119023155.png)
 
 ## 유지보수 및 고도화
 

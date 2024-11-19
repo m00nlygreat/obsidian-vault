@@ -3,7 +3,7 @@
 - 모바일 애플리케이션의 설계 시 한 손으로 기기를 파지했을 때 UI 요소에 접근하기 위한 엄지손가락의 가동 범위
 - 되도록 Thumbzone 안에 자주 사용하는 기능을 배치할 것이 요구됨
 
-![](attachments/Pasted%20image%2020241119031428.png)
+![](../attachments/Pasted%20image%2020241119031428.png)
 
 ## 3-Click Rule
 
@@ -11,13 +11,13 @@
 	- 라는 주장을 했던 **2001년의 UX 미신**
 - 비슷하게 최상위 메뉴가 7개 이하여야 한다라는 미신도 있다.
 
-![](attachments/Pasted%20image%2020241119031714.png)
+![](../attachments/Pasted%20image%2020241119031714.png)
 
 ## 예쁜 웹사이트는 왜 전환에 실패하는가
 
 - [Why Beautiful Websites Don't Convert](https://www.youtube.com/watch?v=Toonu-cTE60)
 
-![](attachments/Pasted%20image%2020241119033614.png)
+![](../attachments/Pasted%20image%2020241119033614.png)
 
 ## 10 Laws of UX
 
@@ -44,7 +44,7 @@
 - [거꾸로 입력하는 가입 화면](https://toss.tech/article/toss-signup-process)
 - [토스 디자이너들의 프로덕트 원칙](https://brunch.co.kr/@figmaster/8)
 
-![](attachments/Pasted%20image%2020241119035619.png)
+![](../attachments/Pasted%20image%2020241119035619.png)
 
 ## 넛지 이론, Nudge Theory
 
@@ -53,7 +53,7 @@
 - 넛지는 은연 중에 작은 신호들이나 의도적인 혼란으로 행동을 유도하는 방법
 - 과하면 다크 패턴이 된다. 
 
-![](attachments/Pasted%20image%2020241119052446.png)
+![](../attachments/Pasted%20image%2020241119052446.png)
 
 ## 다크 패턴
 
@@ -78,11 +78,11 @@
 
 ---
 
-![](attachments/Pasted%20image%2020241119053358.png)
+![](../attachments/Pasted%20image%2020241119053358.png)
 
 ---
 
-![](attachments/Pasted%20image%2020241119053735.png)
+![](../attachments/Pasted%20image%2020241119053735.png)
 
 ---
 
@@ -102,5 +102,5 @@
 
 ---
 
-![](attachments/Pasted%20image%2020241119053937.png)
+![](../attachments/Pasted%20image%2020241119053937.png)
 

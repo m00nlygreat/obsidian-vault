@@ -5,7 +5,7 @@
 - Interact: 어떤 인터랙션을 가지는지
 - Data: 어떤 데이터가 암시되어 있는지
 
-![](attachments/uxdesign03.png)
+![](../attachments/uxdesign03.png)
 
 # Solitary
 
@@ -32,7 +32,7 @@
 
 ---
 
-![](attachments/Pasted%20image%2020240711122706.png)
+![](../attachments/Pasted%20image%2020240711122706.png)
 
 ## Radio Button
 
@@ -51,7 +51,7 @@
 - items: Item[]
 - selected: Item
 
-![](attachments/Pasted%20image%2020240711131815.png)
+![](../attachments/Pasted%20image%2020240711131815.png)
 
 ## Checkbox
 
@@ -68,7 +68,7 @@
 
 - checked: boolean
 
-![](attachments/Pasted%20image%2020240711132444.png)
+![](../attachments/Pasted%20image%2020240711132444.png)
 
 ## Switch
 
@@ -85,7 +85,7 @@
 
 - activated: boolean
 
-![](attachments/Pasted%20image%2020240711132750.png)
+![](../attachments/Pasted%20image%2020240711132750.png)
 
 ## Input
 
@@ -104,7 +104,7 @@
 
 - [인풋 입력 시 적절한 키보드가 나와야 한다.](http://mobileinputtypes.com/)
 
-![](attachments/Pasted%20image%2020240711133227.png)
+![](../attachments/Pasted%20image%2020240711133227.png)
 
 ## Slider
 
@@ -123,7 +123,7 @@
 
 #### 난 슬라이더가 싫어요
 
-![](attachments/Pasted%20image%2020240711150048.png)
+![](../attachments/Pasted%20image%2020240711150048.png)
 
 ## Progresss bar
 
@@ -142,7 +142,7 @@
 - value: 0<number<=1
 	- .. 인데 이 number 계산을 어떻게 하느냐가 중요
 
-![](attachments/Pasted%20image%2020240711150334.png)
+![](../attachments/Pasted%20image%2020240711150334.png)
 
 ## Dropdown ≒ Selectbox, Combobox
 
@@ -161,7 +161,7 @@
 - items: Item[]
 - selected: Item
 
-![](attachments/Pasted%20image%2020240711151934.png)
+![](../attachments/Pasted%20image%2020240711151934.png)
 
 # Areas & Containers
 
@@ -169,19 +169,19 @@
 
 - 특정 목적의 데이터들을 입력받는 인풋들의 집합 (예: 회원가입)
 
-![](attachments/Pasted%20image%2020240711135853.png)
+![](../attachments/Pasted%20image%2020240711135853.png)
 
 ## Tab
 
 - 여러 페이지들을 묶어 버튼으로 전환할 수 있도록 추상화한 컨테이너 요소
 
-![](attachments/uxdesign01.png)
+![](../attachments/uxdesign01.png)
 
 ## Dialog
 
 - 대화상자. 
 
-![](attachments/Pasted%20image%2020240711140919.png)
+![](../attachments/Pasted%20image%2020240711140919.png)
 
 ## Modal ≒ Window
 
@@ -189,7 +189,7 @@
 - 실행시 부모 컨테이너의 Interaction 중단됨 ≠ Modeless
 - Pop-ups / Pop-over
 
-![](attachments/Pasted%20image%2020240711141425.png)
+![](../attachments/Pasted%20image%2020240711141425.png)
 
 
 ## Screen / Page
@@ -203,20 +203,20 @@
 	- 큰 것 -> 작은 것
 	- Public -> Private
 
-![](attachments/Pasted%20image%2020240711151605.png)
+![](../attachments/Pasted%20image%2020240711151605.png)
 
 ## List
 
 - 여러 개의 항목을 보여주는 컨테이너
 - Swipe actions
 
-![](attachments/Pasted%20image%2020240711162442.png)
+![](../attachments/Pasted%20image%2020240711162442.png)
 
 ---
 
 ### 다양한 기기에서의 List
 
-![](attachments/Pasted%20image%2020240711162607.png)
+![](../attachments/Pasted%20image%2020240711162607.png)
 
 ---
 
@@ -225,14 +225,14 @@
 - 프로퍼티를 가진 복수 개의 복잡한 정보를 나타내는 효과적인 UI 요소
 - Flat UI의 핵심
 
-![](attachments/Pasted%20image%2020240711162808.png)
+![](../attachments/Pasted%20image%2020240711162808.png)
 
 ## Popup / Context Menu
 
 - 우클릭하면 나타나는 상황에 맞는 (Contextual) 메뉴
 - Dropdown과 비슷하게 메뉴 출현 위치에 대해 고민 필요
 
-![](attachments/Pasted%20image%2020240711163523.png)
+![](../attachments/Pasted%20image%2020240711163523.png)
 
 ## 기타
 
@@ -269,7 +269,7 @@
 - Toast
 - Breadcrumbs
 
-![](attachments/Pasted%20image%2020240711121345.png)
+![](../attachments/Pasted%20image%2020240711121345.png)
 
 ## 이름에 집착하지 맙시다
 

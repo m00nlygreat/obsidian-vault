@@ -3,7 +3,7 @@
 - 直觀, Intuition
 - 보고 아는 것
 
-![](attachments/Pasted%20image%2020240711032041.png)
+![](../attachments/Pasted%20image%2020240711032041.png)
 
 ---
 
@@ -14,7 +14,7 @@
 3. 모르지만 왠지 알겠는 것
 4. 논리적으로 알아챌 수 있는 것
 
-![](attachments/Pasted%20image%2020240711120701.png)
+![](../attachments/Pasted%20image%2020240711120701.png)
 
 ## 어포던스
 
@@ -24,7 +24,7 @@
 - 행위자와 환경 사이의 관계에 존재하는 행동 가능성(possibility of action)
 - 행위자가 인지하든 하지 않든, 어포던스는 존재함
 
-![](attachments/Pasted%20image%2020241118035957.png)
+![](../attachments/Pasted%20image%2020241118035957.png)
 
 ---
 ### 지각된 어포던스 (Perceived Affordance)

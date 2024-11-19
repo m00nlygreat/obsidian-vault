@@ -9,7 +9,7 @@
 
 ### Atomic Designs
 
-![](attachments/Pasted%20image%2020240711164257.png)
+![](../attachments/Pasted%20image%2020240711164257.png)
 
 ---
 
