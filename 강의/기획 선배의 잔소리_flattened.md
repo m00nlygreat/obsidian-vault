@@ -20,7 +20,7 @@ author:
 - '23 동북권 ICT 이노베이션 스퀘어 강의
 - '23 한양대학교 강의
 
-![](D:/vault/강의/attachments/프로필.jpg)
+![](attachments/프로필.jpg)
 
 # 서비스기획 개론
 
@@ -42,12 +42,9 @@ author:
 	- 방법론과 도구들
 	- 케이스 스터디
 
-![](D:/vault/attachments/Pasted%20image%2020240706093452.png)
+![](../attachments/Pasted%20image%2020240706093452.png)
 
 ## 범기획자 직군들에 대한 소개
-
-::: {.columns}
-::: {.column}
 
 ### 기술과 패러다임 변화에 의한 직군 다양화
 
@@ -59,14 +56,10 @@ author:
 - 프로젝트 매니저
 - 프로덕트 디자이너 / 매니저 / 오너 
 
-:::
-::: {.column}
+***
 
 - [기획자가 사라지고 있다](https://seokjun.kim/why-engineers-become-ceo/)
 - [개발팀과 개발팀장이 사라져야 하는 이유](https://seokjun.kim/no-reason-for-dev-team/)
-
-:::
-:::
 
 ## 기획자의 명과 암
 
@@ -87,12 +80,9 @@ author:
 
 - 기획의 여정은 발산과 수렴을 반복한다.
 
-![](D:/vault/attachments/Pasted%20image%2020241117190528.png)
+![](../attachments/Pasted%20image%2020241117190528.png)
 
 ## 문제 및 요구사항 정의
-
-::: {.columns}
-::: {.column}
 
 ### 아이디어 도출
 
@@ -106,8 +96,7 @@ author:
 		- 문제가 하위 기획에 의해 도전을 받고 수정되는 일은 있어도,
 		- 하위 기획이 문제를 배반해서는 안됨.
 
-:::
-::: {.column}
+***
 
 ### 리서치
 
@@ -125,15 +114,7 @@ author:
 		- 유저는 솔직하지 않습니다
 	- 가장 열성적이고 협조적인 유저 = 기획자 자신
 
-:::
-:::
-
 ---
-
-## 문제 및 요구사항 정의
-
-::: {.columns}
-::: {.column}
 
 ### 솔루션 도출 및 가설 설정
 
@@ -143,8 +124,7 @@ author:
 	- 정량적 지표를 포함하면 좋음
 - How Might We? 질문법
 
-:::
-::: {.column}
+***
 
 ### 요구사항(User Story) 정의
 
@@ -152,9 +132,6 @@ author:
 - 유저의 직접적인 욕망을 대표하는 문장의 형태로 작성
 	- `I, as a ~~~ want to ~~~~ so that ~~~~`
 - 또는 일상 언어로 제품 내의 유저 행동을 표현해도 좋다
-
-:::
-:::
 
 ## 기능 및 화면 정의
 
@@ -172,11 +149,9 @@ author:
 
 ## 구현 및 테스트
 
-![](D:/vault/attachments/프로그램의%20완성%20과정.png)
+![](../attachments/프로그램의%20완성%20과정.png)
 
 ---
-
-## 구현 및 테스트
 
 ### 테스트
 
@@ -190,7 +165,7 @@ author:
 		- 경로(Path): 각 조건마다 한 번씩 참/거짓을 수행하며 검증
 		- 조건(Condition): All True/All False 케이스를 검증
 
-![](D:/vault/attachments/Pasted%20image%2020241119023155.png)
+![](../attachments/Pasted%20image%2020241119023155.png)
 
 ## 유지보수 및 고도화
 
@@ -209,9 +184,6 @@ author:
 
 ## 소프트 스킬
 
-::: {.columns}
-::: {.column}
-
 ### 호기심
 
 - the one must-have skill
@@ -222,8 +194,7 @@ author:
 - 논리력
 - 솔직하고 투명한 커뮤니케이션
 
-:::
-::: {.column}
+***
 
 ### 꼼꼼함
 
@@ -232,15 +203,7 @@ author:
 	- 상호배타적이며 전체 포괄적
 - 일반적인 의미의 꼼꼼함 역시 필수
 
-:::
-:::
-
 ---
-
-## 소프트 스킬
-
-::: {.columns}
-::: {.column}
 
 ### 창의력
 
@@ -253,8 +216,7 @@ author:
 	- [유튜버에게 생각지도 못한 질문을 들은 일론 머스크](https://www.youtube.com/watch?v=WY73exaVpyw)
 	- [People that are really good](https://www.youtube.com/watch?v=tkHvxLwLx3M)
 
-:::
-::: {.column}
+***
 
 ### 그리고 약간의 고집
 
@@ -262,13 +224,7 @@ author:
 - 똑똑한 사람은 쉽게 예민해지기 마련입니다.
 	- 하지만 당신이 예민하다는 사실이 당신의 똑똑함을 증명하지는 않습니다.
 
-:::
-:::
-
 ## 하드스킬
-
-::: {.columns}
-::: {.column}
 
 ### 글쓰기
 
@@ -284,8 +240,7 @@ author:
 - 이해와 공감을 전할 수 있는 some kinda 연기력
 	- 솔직함은 훈련해야 하는 것입니다.
 
-:::
-::: {.column}
+***
 
 ### 툴 사용
 
@@ -295,36 +250,21 @@ author:
 	- 동영상 편집, 촬영
 	- 노코드 도구: 노션, 웹 빌더, 자동화 등
 
-:::
-:::
-
 ---
-
-## 하드스킬
-
-::: {.columns}
-::: {.column}
 
 ### 데이터 분석
 
 - 데이터를 정량적, 정성적으로 분석할 수 있는 능력
 - 데이터 분석은 어디까지나 도구일 뿐
 
-:::
-::: {.column}
+***
 
 ### 개발과 기술에 대한 이해
 
 - [오늘도 개발자가 안 된다고 말했다](https://www.yes24.com/Product/Goods/97919905)
 - 그럴 거면 그냥 개발 공부하는 게 낫지 않을까?
 
-:::
-:::
-
 ## 라이브러리
-
-::: {.columns}
-::: {.column}
 
 #### 다양한 지식과 경험의 독자적 체계
 
@@ -335,8 +275,7 @@ author:
 - 경험으로부터 귀납적 원리를 이끌어 내기
 - 다양한 프로젝트 경험
 
-:::
-::: {.column}
+***
 
 ### 지식
 
@@ -349,12 +288,7 @@ author:
 	- 블로그
 	- 세컨드 브레인
 
-:::
-:::
-
 ---
-
-## 라이브러리
 
 ### 용어
 
@@ -369,8 +303,6 @@ author:
 
 ---
 
-## 라이브러리
-
 ### 우상 숭배 금지
 
 - 애자일
@@ -381,7 +313,7 @@ author:
 
 #### 비판적으로 사고할 것!
 
-![](D:/vault/attachments/rest.png)
+![](../attachments/rest.png)
 
 # 프로젝트 매니지먼트
 
@@ -390,7 +322,7 @@ author:
 - 전통적, 한국적 방법: 여러 문서와 워터폴 방식을 따르는 조직
 - 스타트업, 해외 유래: 프로토타입과 TDD 위주의 애자일 조직
 
-![](D:/vault/attachments/Pasted%20image%2020240711154412.png)
+![](../attachments/Pasted%20image%2020240711154412.png)
 
 ## 애자일과 워터폴
 
@@ -398,7 +330,7 @@ author:
 - 빠른 주기로 프로덕트의 개발을 반복하며 테스트 주도(Test-driven)형으로 완성품의 품질을 높여가는 소프트웨어 개발 방식
 	- 유저를 내팽개치지 않음
 
-![](D:/vault/attachments/Pasted%20image%2020240711113304.png)
+![](../attachments/Pasted%20image%2020240711113304.png)
 
 ## 린 스타트업
 
@@ -406,11 +338,9 @@ author:
 - Build -> Measure -> Learn의 구성을 따름
 - [프로그래밍 좀비님의 이야기](https://www.youtube.com/watch?v=XYR2-_H4PzI)
 
-![](D:/vault/attachments/그게%20워터폴.png)
+![](../attachments/그게%20워터폴.png)
 
 ---
-
-## 린 스타트업
 
 ### MVP
 
@@ -426,9 +356,7 @@ author:
 
 ---
 
-## 린 스타트업
-
-![](D:/vault/attachments/uxdesign05.png)
+![](../attachments/uxdesign05.png)
 
 ## 스크럼
 
@@ -443,19 +371,16 @@ author:
 
 ### Jira와 Kanban
 
-![](D:/vault/attachments/Pasted%20image%2020240712222211.png)
+![](../attachments/Pasted%20image%2020240712222211.png)
 
 ## 간트차트와 업무 분해도(WBS)
 
-![](D:/vault/attachments/Pasted%20image%2020241118034608.png)
+![](../attachments/Pasted%20image%2020241118034608.png)
 
 
 # UI/UX 개론
 
 ## 소프트웨어를 분류하는 여러가지 방법
-
-::: {.columns}
-::: {.column}
 
 ### 플랫폼에 의한 분류
 
@@ -465,8 +390,7 @@ author:
 	- 자바 (가상머신)
 - 하이브리드
 
-:::
-::: {.column}
+***
 
 ### 시스템 레이어에 의한 분류
 
@@ -475,15 +399,7 @@ author:
 - 미들웨어 (Middlewares)
 - 응용 프로그램 (Applications)
 
-:::
-:::
-
 ---
-
-## 소프트웨어를 분류하는 여러가지 방법
-
-::: {.columns}
-::: {.column}
 
 ### 사용 목적에 따른 분류
 
@@ -497,8 +413,7 @@ author:
 - B2B 소프트웨어
 - B2C 소프트웨어
 
-:::
-::: {.column}
+***
 
 ### 네트워크 상의 역할에 따른 분류
 
@@ -514,12 +429,7 @@ author:
 - Integrated
 	- 의존성(Dependancy)
 
-:::
-:::
-
 ---
-
-## 소프트웨어를 분류하는 여러가지 방법
 
 ### 구축 형태에 따른 분류
 
@@ -537,11 +447,9 @@ author:
 - 直觀, Intuition
 - 보고 아는 것
 
-![](D:/vault/attachments/Pasted%20image%2020240711032041.png)
+![](../attachments/Pasted%20image%2020240711032041.png)
 
 ---
-
-## 직관
 
 ### 직관의 우선순위
 
@@ -550,7 +458,7 @@ author:
 3. 모르지만 왠지 알겠는 것
 4. 논리적으로 알아챌 수 있는 것
 
-![](D:/vault/attachments/Pasted%20image%2020240711120701.png)
+![](../attachments/Pasted%20image%2020240711120701.png)
 
 ## 어포던스
 
@@ -560,14 +468,9 @@ author:
 - 행위자와 환경 사이의 관계에 존재하는 행동 가능성(possibility of action)
 - 행위자가 인지하든 하지 않든, 어포던스는 존재함
 
-![](D:/vault/attachments/Pasted%20image%2020241118035957.png)
+![](../attachments/Pasted%20image%2020241118035957.png)
 
 ---
-
-## 어포던스
-
-::: {.columns}
-::: {.column}
 ### 지각된 어포던스 (Perceived Affordance)
 
 - 또는 기표(Signifiant), 도널드 노먼
@@ -576,8 +479,7 @@ author:
 
 - [어포던스 - 위키백과](https://ko.wikipedia.org/wiki/%EC%96%B4%ED%8F%AC%EB%8D%98%EC%8A%A4)
 
-:::
-::: {.column}
+***
 
 ### 어포던스의 응용
 
@@ -586,19 +488,13 @@ author:
 - 메타포(Metaphor, 은유)를 사용하라.
 - 인터페이스를 학습한 이후 이것을 다른 부분에 활용할 수 있도록 지속적으로 같은 컨셉 모델을 따르도록 하라.
 
-:::
-:::
-
 # 인터랙션: 조작과 피드백
 
 ## 인터랙션(Interactions)
 
-![](D:/vault/attachments/uxdesign04.png)
+![](../attachments/uxdesign04.png)
 
 ## 장치(Devices)
-
-::: {.columns}
-::: {.column}
 
 ### 입력 장치 (Input Devices)
 
@@ -616,20 +512,11 @@ author:
 	- 디지타이저 태블릿
 - 게임 패드
 
-:::
-::: {.column}
+***
 
 #### 스마트폰은 가히 센서 혁명이라고 볼 수 있다.
 
-:::
-:::
-
 ---
-
-## 장치(Devices)
-
-::: {.columns}
-::: {.column}
 
 ### 출력 장치 (Output Devices)
 
@@ -642,8 +529,7 @@ author:
 	- HD 진동
 	- 스피커로도 쓴다..?
 
-:::
-::: {.column}
+***
 
 ### 입출력 동시
 
@@ -652,12 +538,7 @@ author:
 - VR 헤드셋
 - 어댑티브 트리거 (게임 패드)
 
-:::
-:::
-
 ---
-
-## 장치(Devices)
 
 ### 기타
 
@@ -671,9 +552,6 @@ author:
 	- 이더넷
 
 ## 주요 인터페이스
-
-::: {.columns}
-::: {.column}
 
 ### 키보드
 
@@ -692,8 +570,7 @@ author:
 	- Left, Right, Middle, Mouse4, 5
 	- 포인팅, 호버, 클릭, 더블 클릭, 클릭 앤 드래그, 클릭 앤 홀드
 
-:::
-::: {.column}
+***
 
 ### 터치스크린
 
@@ -701,9 +578,6 @@ author:
 	- 입력과 출력이 동시에 이뤄짐
 	- 인터랙션이 가능한 UI 요소의 최소 현실 크기 `10mm × 10mm`
 	- 탭, 탭 앤 홀드＝롱 프레스, 더블 탭, 스와이프, 플릭, 핀치, 3D 터치, 멀티 핑거 제스처
-
-:::
-:::
 
 # 유저 인터페이스, UI
 
@@ -714,14 +588,11 @@ author:
 - Interact: 어떤 인터랙션을 가지는지
 - Data: 어떤 데이터가 암시되어 있는지
 
-![](D:/vault/attachments/uxdesign03.png)
+![](../attachments/uxdesign03.png)
 
 # Solitary
 
 ## Button
-
-::: {.columns}
-::: {.column}
 
 #### Looks
 
@@ -736,21 +607,15 @@ author:
 	- 누르기
 	- 떼기
 
-:::
-::: {.column}
+***
 
 #### Data
 
 - onClick : function()
 
-:::
-:::
-
 ---
 
-## Button
-
-![](D:/vault/attachments/Pasted%20image%2020240711122706.png)
+![](../attachments/Pasted%20image%2020240711122706.png)
 
 ## Radio Button
 
@@ -769,7 +634,7 @@ author:
 - items: Item[]
 - selected: Item
 
-![](D:/vault/attachments/Pasted%20image%2020240711131815.png)
+![](../attachments/Pasted%20image%2020240711131815.png)
 
 ## Checkbox
 
@@ -786,7 +651,7 @@ author:
 
 - checked: boolean
 
-![](D:/vault/attachments/Pasted%20image%2020240711132444.png)
+![](../attachments/Pasted%20image%2020240711132444.png)
 
 ## Switch
 
@@ -803,7 +668,7 @@ author:
 
 - activated: boolean
 
-![](D:/vault/attachments/Pasted%20image%2020240711132750.png)
+![](../attachments/Pasted%20image%2020240711132750.png)
 
 ## Input
 
@@ -822,7 +687,7 @@ author:
 
 - [인풋 입력 시 적절한 키보드가 나와야 한다.](http://mobileinputtypes.com/)
 
-![](D:/vault/attachments/Pasted%20image%2020240711133227.png)
+![](../attachments/Pasted%20image%2020240711133227.png)
 
 ## Slider
 
@@ -841,7 +706,7 @@ author:
 
 #### 난 슬라이더가 싫어요
 
-![](D:/vault/attachments/Pasted%20image%2020240711150048.png)
+![](../attachments/Pasted%20image%2020240711150048.png)
 
 ## Progresss bar
 
@@ -860,7 +725,7 @@ author:
 - value: 0<number<=1
 	- .. 인데 이 number 계산을 어떻게 하느냐가 중요
 
-![](D:/vault/attachments/Pasted%20image%2020240711150334.png)
+![](../attachments/Pasted%20image%2020240711150334.png)
 
 ## Dropdown ≒ Selectbox, Combobox
 
@@ -879,7 +744,7 @@ author:
 - items: Item[]
 - selected: Item
 
-![](D:/vault/attachments/Pasted%20image%2020240711151934.png)
+![](../attachments/Pasted%20image%2020240711151934.png)
 
 # Areas & Containers
 
@@ -887,19 +752,19 @@ author:
 
 - 특정 목적의 데이터들을 입력받는 인풋들의 집합 (예: 회원가입)
 
-![](D:/vault/attachments/Pasted%20image%2020240711135853.png)
+![](../attachments/Pasted%20image%2020240711135853.png)
 
 ## Tab
 
 - 여러 페이지들을 묶어 버튼으로 전환할 수 있도록 추상화한 컨테이너 요소
 
-![](D:/vault/attachments/uxdesign01.png)
+![](../attachments/uxdesign01.png)
 
 ## Dialog
 
 - 대화상자. 
 
-![](D:/vault/attachments/Pasted%20image%2020240711140919.png)
+![](../attachments/Pasted%20image%2020240711140919.png)
 
 ## Modal ≒ Window
 
@@ -907,7 +772,7 @@ author:
 - 실행시 부모 컨테이너의 Interaction 중단됨 ≠ Modeless
 - Pop-ups / Pop-over
 
-![](D:/vault/attachments/Pasted%20image%2020240711141425.png)
+![](../attachments/Pasted%20image%2020240711141425.png)
 
 
 ## Screen / Page
@@ -921,22 +786,20 @@ author:
 	- 큰 것 -> 작은 것
 	- Public -> Private
 
-![](D:/vault/attachments/Pasted%20image%2020240711151605.png)
+![](../attachments/Pasted%20image%2020240711151605.png)
 
 ## List
 
 - 여러 개의 항목을 보여주는 컨테이너
 - Swipe actions
 
-![](D:/vault/attachments/Pasted%20image%2020240711162442.png)
+![](../attachments/Pasted%20image%2020240711162442.png)
 
 ---
 
-## List
-
 ### 다양한 기기에서의 List
 
-![](D:/vault/attachments/Pasted%20image%2020240711162607.png)
+![](../attachments/Pasted%20image%2020240711162607.png)
 
 ---
 
@@ -945,19 +808,16 @@ author:
 - 프로퍼티를 가진 복수 개의 복잡한 정보를 나타내는 효과적인 UI 요소
 - Flat UI의 핵심
 
-![](D:/vault/attachments/Pasted%20image%2020240711162808.png)
+![](../attachments/Pasted%20image%2020240711162808.png)
 
 ## Popup / Context Menu
 
 - 우클릭하면 나타나는 상황에 맞는 (Contextual) 메뉴
 - Dropdown과 비슷하게 메뉴 출현 위치에 대해 고민 필요
 
-![](D:/vault/attachments/Pasted%20image%2020240711163523.png)
+![](../attachments/Pasted%20image%2020240711163523.png)
 
 ## 기타
-
-::: {.columns}
-::: {.column}
 
 - Splash Screen
 - Accordion
@@ -970,8 +830,7 @@ author:
 - Notification Bar
 - Stepper / Spinner
 
-:::
-::: {.column}
+***
 
 - Toast
 - Banner
@@ -985,9 +844,6 @@ author:
 - Skeleton
 - Sticky Header
 
-:::
-:::
-
 ## 왠진 모르겠지만 음식 이름으로 부름
 
 - Hamburger
@@ -996,7 +852,7 @@ author:
 - Toast
 - Breadcrumbs
 
-![](D:/vault/attachments/Pasted%20image%2020240711121345.png)
+![](../attachments/Pasted%20image%2020240711121345.png)
 
 ## 이름에 집착하지 맙시다
 
@@ -1015,11 +871,9 @@ author:
 
 ### Atomic Designs
 
-![](D:/vault/attachments/Pasted%20image%2020240711164257.png)
+![](../attachments/Pasted%20image%2020240711164257.png)
 
 ---
-
-## 디자인 시스템
 
 - [SOCAR FRAME](https://design.socar.kr/)
 - [Wanted Design Library](https://www.figma.com/community/file/1355516515676178246)
@@ -1057,9 +911,6 @@ author:
 
 ## 설문조사의 방법과 도구
 
-::: {.columns}
-::: {.column}
-
 - 폼 도구
 	- 구글 폼
 	- 타입폼, Tally.so, 왈라
@@ -1069,8 +920,7 @@ author:
 	- 스프레드시트
 	- 데이터 분석 도구 (파이썬 등)
 
-:::
-::: {.column}
+***
 
 ### 방법
 
@@ -1079,13 +929,7 @@ author:
 - 설문조사 배포
 - 결과 수집 및 분석
 
-:::
-:::
-
 ## 설문조사는 남을 귀찮게 하는 일
-
-::: {.columns}
-::: {.column}
 
 - 기본적으로 답변자는 설문조사에 참여해야하는 이유가 없고
 - 거의 전적으로 설문조사는 답변자의 선의에 기대야 하는 일
@@ -1103,17 +947,13 @@ author:
 - 사례를 위한 전화번호 등 수집 시 개인정보 보호법 준수
 	- 동의 항목 첨부
 
-:::
-::: {.column}
+***
 
 ### 최소한 보람이라도 있어야
 
 - 답변자가 답변을 하면서 이걸 대체 어디다 쓸 수 있을까? 라는 의문이 들면 설문조사는 가치가 없어짐
 - 목적과 의의를 확실히 제시하되, 의도는 숨겨야 좋은 답변을 얻을 수 있음
 - 답변자도 설문 결과가 궁금하다!
-
-:::
-:::
 
 ## 가설설정
 
@@ -1126,9 +966,6 @@ author:
 
 ## 설계
 
-::: {.columns}
-::: {.column}
-
 ### 설문조사 또한 일종의 제품
 
 - 인사이트를 얻을 수 있는 **양질의 답변**을 **최대한 많이** 얻는 것을 목적으로 하는 제품
@@ -1136,8 +973,7 @@ author:
 	- 질문이 명확히 이해되고 답변을 내기 위해 너무 많은 노력이 들지 않도록 신중하고 섬세한 질문 작성
 - 답변자(유저)에 대한 이해를 기반으로 제출까지 이탈하지 않도록 섬세하계 설계
 
-:::
-::: {.column}
+***
 
 ### 설문에도 UX가 필요
 
@@ -1148,12 +984,7 @@ author:
 	- 히든 필드, URL 파라미터
 	- 이미지나 미디어를 적극적으로 활용
 
-:::
-:::
-
 ---
-
-## 설계
 
 ### 명확한 대상이 없는 경우 모든 사람을 위해 만들 것
 
@@ -1168,20 +999,13 @@ author:
 
 ---
 
-## 설계
-
 ### 답변할 수 있는 질문인가?
 
 - [리처드 파인만 "자석이 서로 밀어내는 이유"](https://www.youtube.com/watch?v=3smc7jbUPiE)
 
-![](D:/vault/attachments/Pasted%20image%2020241119153654.png)
+![](../attachments/Pasted%20image%2020241119153654.png)
 
 ---
-
-## 설계
-
-::: {.columns}
-::: {.column}
 
 ### 약은 약사에게, 진료는 의사에게, 기획은 기획자가
 
@@ -1194,14 +1018,10 @@ author:
 	- 또는 진짜 눈 앞의 선택을 하는 상황이 아니기에 진지하지 않을 가능성이 높음
 	- 혹은 자기 자신의 진짜 욕망에 대해 이해하지 못하고 있을 가능성이 높음
 
-:::
-::: {.column}
+***
 
 - 따라서 설문자는 오로지 퍼실리테이터(Facilitator)의 역할로서 상황을 상상하게 만들거나 추상적이고 해석의 여지가 있는 질문을 통해 답변자의 본의를 이끌어내는 데에 집중해야 한다.
 	- 미로 속의 생쥐를 정점 타격하는 것이 아니라 주변부를 타격, 경로를 차단하며 막다른 길로 몰아가는 감각으로
-
-:::
-:::
 
 ## 배포
 
@@ -1217,14 +1037,11 @@ author:
 
 ## 분석
 
-![](D:/vault/attachments/Pasted%20image%2020241118191933.png)
+![](../attachments/Pasted%20image%2020241118191933.png)
 
 # UX 도구 - 유저 퍼소나
 
 ## 유저 퍼소나 User Persona
-
-::: {.columns}
-::: {.column}
 
 - 전체 사용자 집단을 여러 특질을 기준으로 클러스터링했을 때 해당 군집의 사용자를 대표하는 구체화된 가상의 유저
 
@@ -1239,8 +1056,7 @@ author:
 	- 행동 특성(Behavioral Traits)
 		- 사용빈도, 브랜드 충성도, 사용자 의견 제시
 
-:::
-::: {.column}
+***
 
 ### 퍼소나 속성의 활용
 
@@ -1253,27 +1069,17 @@ author:
 - 행동 특성 속성
 	- 개인화된 추천 기능, 기능 최적화, 온보딩과 재방문 전략
 
-:::
-:::
+---
+
+![](../attachments/Pasted%20image%2020241118204819.png)
 
 ---
 
-## 유저 퍼소나 User Persona
-
-![](D:/vault/attachments/Pasted%20image%2020241118204819.png)
-
----
-
-## 유저 퍼소나 User Persona
-
-![](D:/vault/attachments/Pasted%20image%2020241118204856.png)
+![](../attachments/Pasted%20image%2020241118204856.png)
 
 # UX 도구 - 사용자 여정 지도
 
 ## 사용자 여정 지도 (User Journey Map)
-
-::: {.columns}
-::: {.column}
 
 - 사용자가 특정 시나리오에서 제품을 접하고 이용하는 과정에서 욕망과 감정이 어떻게 변화하는지를 나타내는 지도
 	- 고객이 제품을 알게 되고 이용하고, 떠나는 모든 과정을 한 눈에 볼 수 있도록 하여
@@ -1281,8 +1087,7 @@ author:
 - 머릿속에 있는 것과 눈 앞에 펼쳐져 있는 것은 몰입과 체감 차원에서 다름
 - 여정 지도는 제품과 함께 살아있으며, 계속 업데이트되어야 함
 
-:::
-::: {.column}
+***
 
 ### 요소
 
@@ -1294,20 +1099,13 @@ author:
 - 페인 포인트
 - 터치 포인트: 고객과 제품이 접하는 지점
 
-:::
-:::
+---
+
+![](../attachments/Pasted%20image%2020241119011544.png)
 
 ---
 
-## 사용자 여정 지도 (User Journey Map)
-
-![](D:/vault/attachments/Pasted%20image%2020241119011544.png)
-
----
-
-## 사용자 여정 지도 (User Journey Map)
-
-![](D:/vault/attachments/Pasted%20image%2020241119011629.png)
+![](../attachments/Pasted%20image%2020241119011629.png)
 
 # 기타 UX 도구들
 
@@ -1317,7 +1115,7 @@ author:
 - 스타트업 하면 떠오르는 이미지 속에 반드시 있는 그거
 - 불규칙한 정성적 데이터를 분류하고 의미있는 데이터로 만드는 방법
 
-![](D:/vault/attachments/Pasted%20image%2020241119015813.png)
+![](../attachments/Pasted%20image%2020241119015813.png)
 
 ## 플로우차트 (Flowchart)
 
@@ -1325,12 +1123,9 @@ author:
 - 본래는 코딩을 위한 알고리즘 프로토타이핑의 용도이므로 플로우차트의 기호들은 컴퓨터의 동작과 관련되어 있다
 - 흐름도의 주체가 무엇인지를 엄격하게 고려하면서 작성하기
 
-![](D:/vault/attachments/Pasted%20image%2020241119021133.png)
+![](../attachments/Pasted%20image%2020241119021133.png)
 
 ## 휴리스틱 (Heuristic)
-
-::: {.columns}
-::: {.column}
 
 - **발견법**(發見法). 불충분한 시간이나 정보로 인하여 합리적인 판단을 할 수 없거나, 체계적이면서 합리적인 판단이 굳이 필요하지 않은 상황에서 사람들이 빠르게 사용할 수 있게 보다 용이하게 구성된 간편추론의 방법
 	- 즉 **어림짐작**
@@ -1339,16 +1134,12 @@ author:
 
 - 간편법, 간편추론법, 어림법, 어림셈, 어림짐작법, 주먹구구법, 편의법, 쉬운 발견법, 판단 효과, 발견법, 경험적 지식, 즉흥적 추론, 쉬운 방법, 지름길
 
-:::
-::: {.column}
+***
 
 ###  뻔히 눈에 보이는 것을 추론하기 위해 애쓸 필요는 없다
 
 - 기획자의 직관을 이용해 의사결정 및 판단을 빠르게 할 수 있지만 그만큼 주관성에 빠져버릴 위험이 있다.
 - 그러나 시행착오를 통해 개선되는 만큼, 휴리스틱은 암묵지를 획득하기 좋은 훈련법이기도 하다.
-
-:::
-:::
 
 ## A/B 테스트
 
@@ -1360,14 +1151,14 @@ author:
 - A/B 테스트 결과는 절대적이거나 항구적이지 않다
 - 지역최적점에 머물게 될 위험
 
-![](D:/vault/attachments/Pasted%20image%2020241119032229.png)
+![](../attachments/Pasted%20image%2020241119032229.png)
 
 ## UX 히트맵
 
 - 스크롤, 클릭, 커서 움직임 등의 유저 행동을 누적된 히트맵으로 보기
 - 사용자의 정보 습득 경로와 주 의사결정 요인 등을 확인할 수 있는 지표
 
-![](D:/vault/attachments/Pasted%20image%2020241119033057.png)
+![](../attachments/Pasted%20image%2020241119033057.png)
 
 # UX 이모저모
 
@@ -1376,7 +1167,7 @@ author:
 - 모바일 애플리케이션의 설계 시 한 손으로 기기를 파지했을 때 UI 요소에 접근하기 위한 엄지손가락의 가동 범위
 - 되도록 Thumbzone 안에 자주 사용하는 기능을 배치할 것이 요구됨
 
-![](D:/vault/attachments/Pasted%20image%2020241119031428.png)
+![](../attachments/Pasted%20image%2020241119031428.png)
 
 ## 3-Click Rule
 
@@ -1384,18 +1175,15 @@ author:
 	- 라는 주장을 했던 **2001년의 UX 미신**
 - 비슷하게 최상위 메뉴가 7개 이하여야 한다라는 미신도 있다.
 
-![](D:/vault/attachments/Pasted%20image%2020241119031714.png)
+![](../attachments/Pasted%20image%2020241119031714.png)
 
 ## 예쁜 웹사이트는 왜 전환에 실패하는가
 
 - [Why Beautiful Websites Don't Convert](https://www.youtube.com/watch?v=Toonu-cTE60)
 
-![](D:/vault/attachments/Pasted%20image%2020241119033614.png)
+![](../attachments/Pasted%20image%2020241119033614.png)
 
 ## 10 Laws of UX
-
-::: {.columns}
-::: {.column}
 
 [10 Laws of UX](https://brunch.co.kr/@sower/167)
 
@@ -1405,17 +1193,13 @@ author:
 - 밀러의 법칙: 사람들이 한 번에 기억할 수 있는 건 7(±2)개 정도의 요소뿐이다.
 - 포스텔의 법칙: 사용자의 행동(입력)은 너그럽게 수용하되, 입력을 요구하는 건 제한하라.
 
-:::
-::: {.column}
+***
 
 - 피크엔드 법칙: 사람들은 절정과 마지막 순간만을 기억한다.
 - 심미적 사용성: 예쁘면 사람들은 사용성이 좋다고 생각한다.
 - 폰 레스토프 효과: 비슷한 사물이 여러 개 있으면 그 중 색다른 것만 기억한다.
 - 테슬러의 법칙: 시스템의 복잡성은 어느 한도 이상으로 축소할 수 없다.
 - 도허티 임계: 사람들의 생산성을 증대시키는 인터랙션의 속도는 0.4초 이하이다.
-
-:::
-:::
 
 ## One thing per page
 
@@ -1424,7 +1208,7 @@ author:
 - [거꾸로 입력하는 가입 화면](https://toss.tech/article/toss-signup-process)
 - [토스 디자이너들의 프로덕트 원칙](https://brunch.co.kr/@figmaster/8)
 
-![](D:/vault/attachments/Pasted%20image%2020241119035619.png)
+![](../attachments/Pasted%20image%2020241119035619.png)
 
 ## 넛지 이론, Nudge Theory
 
@@ -1433,17 +1217,13 @@ author:
 - 넛지는 은연 중에 작은 신호들이나 의도적인 혼란으로 행동을 유도하는 방법
 - 과하면 다크 패턴이 된다. 
 
-![](D:/vault/attachments/Pasted%20image%2020241119052446.png)
+![](../attachments/Pasted%20image%2020241119052446.png)
 
 ## 다크 패턴
 
-::: {.columns}
-::: {.column}
-
 - 사용자에게 손해, 그리고 서비스에 이익이 되도록 의도적으로 UX를 배치하는 것.
 
-:::
-::: {.column}
+***
 
 ### 해리 브리그널의 12 Dark Patterns
 
@@ -1460,30 +1240,19 @@ author:
 11. 강제 연속 결제(Forced Continuity), EU불법
 12. 친구로 위장한 스팸(Friend Spam)
 
-:::
-:::
+---
+
+![](../attachments/Pasted%20image%2020241119053358.png)
 
 ---
 
-## 다크 패턴
-
-![](D:/vault/attachments/Pasted%20image%2020241119053358.png)
+![](../attachments/Pasted%20image%2020241119053735.png)
 
 ---
 
-## 다크 패턴
-
-![](D:/vault/attachments/Pasted%20image%2020241119053735.png)
+![](../attachments/uxdesign06.png)
 
 ---
-
-## 다크 패턴
-
-![](D:/vault/attachments/uxdesign06.png)
-
----
-
-## 다크 패턴
 
 ### 콜린 그레이의 5 Dark Patterns
 
@@ -1497,6 +1266,4 @@ author:
 
 ---
 
-## 다크 패턴
-
-![](D:/vault/attachments/Pasted%20image%2020241119053937.png)
+![](../attachments/Pasted%20image%2020241119053937.png)
