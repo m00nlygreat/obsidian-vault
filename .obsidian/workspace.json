@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스기획 개론.md",
+                "file": "강의/설문조사.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "서비스기획 개론"
+              "title": "설문조사"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획 개론.md"
+                "file": "강의/설문조사.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스기획 개론"
+              "title": "Outline of 설문조사"
             }
           },
           {
@@ -265,6 +265,7 @@
   },
   "active": "eb56d3598795ff39",
   "lastOpenFiles": [
+    "강의/서비스기획 개론.md",
     "강의/HTML-CSS.md",
     "강의/서비스기획 재료.md",
     "강의/_HTML-CSS.md",
@@ -295,7 +296,6 @@
     "강의/노코드 엔지니어링/디지텍고 강의.md",
     "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
     "강의/노코드 엔지니어링/노코드 기반의 프로덕트 구현.md",
-    "강의/노코드 엔지니어링/프레이머로 블로그 만들기.md",
     "강의/attachments/프로그램의 완성 과정.png",
     "강의/attachments/tailwindcss.com_.png",
     "강의/attachments/Pasted image 20241119035619.png",
