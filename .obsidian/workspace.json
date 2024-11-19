@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/설문조사.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 설문조사"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -263,10 +263,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb56d3598795ff39",
+  "active": "57b8f2838ce99bd6",
   "lastOpenFiles": [
-    "강의/서비스기획 재료.md",
     "강의/설문조사.md",
+    "강의/서비스기획 재료.md",
     "강의/attachments/Pasted image 20241119153654.png",
     "강의/서비스기획 개론.md",
     "강의/HTML-CSS.md",
