@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/링크 래퍼.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 링크 래퍼"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -279,10 +279,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0a8cbae366fc35e6",
+  "active": "57b8f2838ce99bd6",
   "lastOpenFiles": [
-    "아이디어/랜선집사.md",
     "아이디어/링크 래퍼.md",
+    "아이디어/랜선집사.md",
     "아이디어/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
     "아이디어/블록코딩 앱.md",
     "아이디어/옛한글을 복원시키기 위한 한글 입력 방식 개발.md",
