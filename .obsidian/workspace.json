@@ -11,15 +11,10 @@
             "id": "751048c82d04c2a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/마크다운.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "마크다운"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -137,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "강의/마크다운.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 마크다운"
+              "title": "Outline"
             }
           },
           {
@@ -265,8 +258,8 @@
   },
   "active": "751048c82d04c2a6",
   "lastOpenFiles": [
-    "강의/서비스기획 재료.md",
     "강의/마크다운.md",
+    "강의/서비스기획 재료.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/attachments/Pasted image 20240323014225.png",
     "강의/생성형AI/마크다운.md",
