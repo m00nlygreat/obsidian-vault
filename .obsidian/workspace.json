@@ -11,12 +11,15 @@
             "id": "751048c82d04c2a6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/attachments/image.gif.10e392976cfc4428a5f951aca28b9b5b.gif"
+                "file": "강의/서비스기획/기획자의 무기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "image.gif.10e392976cfc4428a5f951aca28b9b5b"
+              "icon": "lucide-file",
+              "title": "기획자의 무기"
             }
           }
         ]
@@ -92,8 +95,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노코드 엔지니어링/attachments/image.gif.10e392976cfc4428a5f951aca28b9b5b.gif"
+                "file": "강의/서비스기획/기획자의 무기.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of image.gif.10e392976cfc4428a5f951aca28b9b5b"
+              "title": "Outline of 기획자의 무기"
             }
           },
           {
@@ -263,10 +265,13 @@
   },
   "active": "751048c82d04c2a6",
   "lastOpenFiles": [
-    "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
-    "강의/마크다운.md",
-    "Untitled.canvas",
+    "강의/_기획 선배의 잔소리.md",
+    "강의/서비스기획/기타 UX 도구들.md",
     "강의/기획 선배의 잔소리.md",
+    "강의/마크다운.md",
+    "강의/노코드 엔지니어링/attachments/image.gif.10e392976cfc4428a5f951aca28b9b5b.gif",
+    "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
+    "Untitled.canvas",
     "강의/서비스기획 재료.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/attachments/Pasted image 20240323014225.png",
@@ -279,7 +284,6 @@
     "강의/생성형AI/attachments/file-mqBlhyrMG4ynB1uCWsFq5m3r.png",
     "강의/생성형AI/attachments/20231103502402.jpg",
     "강의/생성형AI/attachments/1678583134640d255e2f927.png",
-    "강의/attachments/Pasted image 20241120233959.png",
     "강의/강사 소개.md",
     "강의/attachment",
     "output",
@@ -300,8 +304,6 @@
     "글/바탕화면 할일정리.md",
     "글/모하고 지내.md",
     "글/누군가의 인생을 망가뜨릴 용기.md",
-    "글/글은 비장한 마음으로 쓴다.md",
-    "아이디어/링크 래퍼.md",
     "강의/강의.7z",
     "강의/강의.zip",
     "강의/서비스기획/attachments",
