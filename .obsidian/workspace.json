@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스기획/기획자의 무기.md",
-                "mode": "source",
+                "file": "강의/HTML-CSS.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "기획자의 무기"
+              "title": "HTML-CSS"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획/기획자의 무기.md"
+                "file": "강의/HTML-CSS.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 기획자의 무기"
+              "title": "Outline of HTML-CSS"
             }
           },
           {
@@ -265,20 +265,26 @@
   },
   "active": "751048c82d04c2a6",
   "lastOpenFiles": [
+    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
+    "강의/기획 선배의 잔소리.md",
+    "강의/서비스기획/UI 기타.md",
+    "강의/서비스기획/프로젝트 매니지먼트.md",
+    "강의/서비스기획/조작-인터랙션-피드백.md",
+    "강의/서비스기획/소프트웨어 분류.md",
+    "강의/서비스기획/서비스기획 Flow.md",
+    "강의/서비스기획/유저 퍼소나.md",
+    "강의/서비스기획/기획자의 무기.md",
     "강의/서비스기획 재료.md",
     "강의/Topics/마크다운.md",
-    "강의/기획 선배의 잔소리.md",
     "강의/_기획 선배의 잔소리.md",
     "강의/Topics/attachments/Pasted image 20241121011543.png",
     "강의/면접 멘토링.md",
-    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "강의/강사 소개.md",
     "강의/Topics/attachments",
     "강의/Topics",
     "강의/강의 준비 체크포인트.md",
     "강의/서비스기획/UX 이모저모.md",
     "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
-    "강의/서비스기획/기획자의 무기.md",
     "강의/서비스기획/기타 UX 도구들.md",
     "강의/노코드 엔지니어링/attachments/image.gif.10e392976cfc4428a5f951aca28b9b5b.gif",
     "Untitled.canvas",
@@ -300,11 +306,6 @@
     "코드/스프레드시트 상대적 시간 수식.md",
     "메모/성공한 CEO가 되기 위한 조건.md",
     "웹클립/Data is beautiful 10 of the best data visualization examples.md",
-    "글/The Last Of Us Part 1.md",
-    "글/Maybe love is hate.md",
-    "글/현생인류가 사라지고.md",
-    "글/플랫폼 이론.md",
-    "글/우리가족은 반려동물과는 연이 없다.md",
     "강의/강의.7z",
     "강의/강의.zip",
     "강의/서비스기획/attachments",
