@@ -252,7 +252,7 @@ author:
 
 ![](attachments/image12.png)
 
-![[마크다운]]
+![마크다운](../마크다운.md)
 
 # ChatGPT 고급 기능 소개
 
