@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스기획/프로젝트 매니지먼트.md",
+                "file": "강의/UX 이론.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "프로젝트 매니지먼트"
+              "title": "UX 이론"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획/프로젝트 매니지먼트.md"
+                "file": "강의/UX 이론.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 프로젝트 매니지먼트"
+              "title": "Outline of UX 이론"
             }
           },
           {
@@ -281,8 +281,11 @@
   },
   "active": "89f3f21ad63924e5",
   "lastOpenFiles": [
-    "강의/attachments/Pasted image 20240711113304.png",
+    "강의/HTML-CSS 추가.md",
+    "강의/HTML-CSS.md",
+    "강의/UX 이론.md",
     "강의/서비스기획/프로젝트 매니지먼트.md",
+    "강의/attachments/Pasted image 20240711113304.png",
     "강의/서비스기획/attachments/Pasted image 20241121025646.png",
     "강의/서비스기획/attachments",
     "강의/attachments/uxdesign05.png",
@@ -293,7 +296,6 @@
     "강의/강의 준비 체크포인트.md",
     "강의/강사 소개.md",
     "강의/attachments/프로필-aigen.png",
-    "강의/HTML-CSS.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "강의/서비스기획/UI 기타.md",
     "강의/서비스기획/조작-인터랙션-피드백.md",
@@ -321,7 +323,6 @@
     "output",
     "강의/노코드 엔지니어링/구글 시트로 업무 자산관리하기.md",
     "강의/노코드 엔지니어링/교안 개선사항.md",
-    "강의/노코드 엔지니어링/디지텍고 강의.md",
     "강의/강의.7z",
     "강의/강의.zip",
     "강의/서비스기획",
