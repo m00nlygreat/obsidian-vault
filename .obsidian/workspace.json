@@ -11,10 +11,17 @@
             "id": "751048c82d04c2a6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 241.60000610351562,
+                  "y": 415.39996337890625,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -132,9 +139,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Untitled.canvas"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -258,6 +267,7 @@
   },
   "active": "751048c82d04c2a6",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "강의/마크다운.md",
     "강의/서비스기획 재료.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
@@ -295,7 +305,6 @@
     "글/누군가의 인생을 망가뜨릴 용기.md",
     "글/글은 비장한 마음으로 쓴다.md",
     "아이디어/링크 래퍼.md",
-    "아이디어/랜선집사.md",
     "강의/강의.7z",
     "강의/강의.zip",
     "강의/서비스기획/attachments",
@@ -304,7 +313,6 @@
     "Clippings",
     "notes/멘토링복붙.md.backup",
     "notes/attachments",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }
