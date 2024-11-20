@@ -37,7 +37,8 @@
               "title": "성공한 CEO가 되기 위한 조건"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,10 +133,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노코드 엔지니어링/구글 시트로 업무 자산관리하기.md"
+                "file": "메모/성공한 CEO가 되기 위한 조건.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 구글 시트로 업무 자산관리하기"
+              "title": "Outline of 성공한 CEO가 되기 위한 조건"
             }
           },
           {
@@ -257,8 +258,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "eb56d3598795ff39",
+  "active": "0a8cbae366fc35e6",
   "lastOpenFiles": [
+    "강의/노코드 엔지니어링/구글 시트로 업무 자산관리하기.md",
     "웹클립/Data is beautiful 10 of the best data visualization examples.md",
     "메모/성공한 CEO가 되기 위한 조건.md",
     "글/The Last Of Us Part 1.md",
@@ -284,7 +286,6 @@
     "아이디어/트랙볼을 가진 게임 컨트롤러.md",
     "글/시간이 가속되는 구간.md",
     "글/아니면 그냥 미친 INFP가 과학 유투브 몇 개 보고 와서 개소리를 하는 것일 수도 있어.md",
-    "글/220228 0508.md",
     "attachments/desktop-todolist.jpg",
     "attachments/rapture_20230904144532.png",
     "output/attachment/40adcd5285a2e1cc5e9028d0f7bbd81d.png",
