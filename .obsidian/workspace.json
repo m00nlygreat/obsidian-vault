@@ -11,17 +11,10 @@
             "id": "751048c82d04c2a6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 241.60000610351562,
-                  "y": 415.39996337890625,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -139,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           },
           {
@@ -268,6 +259,7 @@
   "active": "751048c82d04c2a6",
   "lastOpenFiles": [
     "Untitled.canvas",
+    "강의/기획 선배의 잔소리.md",
     "강의/마크다운.md",
     "강의/서비스기획 재료.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
@@ -282,7 +274,6 @@
     "강의/생성형AI/attachments/20231103502402.jpg",
     "강의/생성형AI/attachments/1678583134640d255e2f927.png",
     "강의/attachments/Pasted image 20241120233959.png",
-    "강의/기획 선배의 잔소리.md",
     "강의/강사 소개.md",
     "강의/attachment",
     "output",
