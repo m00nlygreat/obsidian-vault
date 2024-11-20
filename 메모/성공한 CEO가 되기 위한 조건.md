@@ -12,4 +12,3 @@
 	- [유튜버에게 생각지도 못한 질문을 들은 일론 머스크](https://www.youtube.com/watch?v=WY73exaVpyw)
 	- [유튜버에게 생각지도 못한 질문을 들은 일론 머스크 (한국어)](https://www.youtube.com/shorts/7XfiTcqPNbA)
 	- [People that are really good](https://www.youtube.com/watch?v=tkHvxLwLx3M)
-
