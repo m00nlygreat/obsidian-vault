@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "성공한 CEO가 되기 위한 조건.md",
+                "file": "메모/성공한 CEO가 되기 위한 조건.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "성공한 CEO가 되기 위한 조건.md"
+                "file": "메모/성공한 CEO가 되기 위한 조건.md"
               },
               "icon": "lucide-list",
               "title": "Outline of 성공한 CEO가 되기 위한 조건"
@@ -279,10 +279,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0a8cbae366fc35e6",
+  "active": "d882dff4f3e14dff",
   "lastOpenFiles": [
     "강의/서비스기획 재료.md",
-    "성공한 CEO가 되기 위한 조건.md",
+    "메모/성공한 CEO가 되기 위한 조건.md",
     "웹클립/Data is beautiful 10 of the best data visualization examples.md",
     "강의/면접 멘토링.md",
     "글/인간도 동물일 뿐이다.md",
