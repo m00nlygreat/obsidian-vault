@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "09abf1ebcece656f",
+        "id": "fdcbd5404ed73674",
         "type": "tabs",
         "children": [
           {
-            "id": "eb56d3598795ff39",
+            "id": "751048c82d04c2a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/구글 시트로 업무 자산관리하기.md",
+                "file": "강의/노코드 엔지니어링/디지텍고 강의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "구글 시트로 업무 자산관리하기"
-            }
-          },
-          {
-            "id": "0a8cbae366fc35e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "코드/스프레드시트 상대적 시간 수식.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "스프레드시트 상대적 시간 수식"
+              "title": "디지텍고 강의"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,10 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코드/스프레드시트 상대적 시간 수식.md"
+                "file": "강의/노코드 엔지니어링/디지텍고 강의.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 스프레드시트 상대적 시간 수식"
+              "title": "Outline of 디지텍고 강의"
             }
           },
           {
@@ -258,10 +242,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0a8cbae366fc35e6",
+  "active": "751048c82d04c2a6",
   "lastOpenFiles": [
-    "메모/성공한 CEO가 되기 위한 조건.md",
     "강의/노코드 엔지니어링/구글 시트로 업무 자산관리하기.md",
+    "코드/스프레드시트 상대적 시간 수식.md",
+    "메모/성공한 CEO가 되기 위한 조건.md",
     "웹클립/Data is beautiful 10 of the best data visualization examples.md",
     "글/The Last Of Us Part 1.md",
     "글/Maybe love is hate.md",
@@ -285,7 +270,6 @@
     "아이디어/플러터 기반 스니펫 에디터.md",
     "아이디어/트랙볼을 가진 게임 컨트롤러.md",
     "글/시간이 가속되는 구간.md",
-    "글/아니면 그냥 미친 INFP가 과학 유투브 몇 개 보고 와서 개소리를 하는 것일 수도 있어.md",
     "attachments/desktop-todolist.jpg",
     "attachments/rapture_20230904144532.png",
     "output/attachment/40adcd5285a2e1cc5e9028d0f7bbd81d.png",
