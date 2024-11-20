@@ -7,7 +7,7 @@
 
 ![](../attachments/uxdesign03.png)
 
-# Solitary
+# Primitives
 
 ## Button
 
@@ -163,7 +163,7 @@
 
 ![](../attachments/Pasted%20image%2020240711151934.png)
 
-# Areas & Containers
+# Composites
 
 ## Form
 
