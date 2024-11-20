@@ -263,8 +263,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d882dff4f3e14dff",
+  "active": "751048c82d04c2a6",
   "lastOpenFiles": [
+    "강의/Topics/attachments/Pasted image 20241121011543.png",
+    "강의/Topics/attachments",
     "강의/Topics",
     "강의/강의 준비 체크포인트.md",
     "강의/서비스기획/UX 이모저모.md",
@@ -310,8 +312,6 @@
     "강의/서비스기획",
     "설문조사.pdf",
     "Clippings",
-    "notes/멘토링복붙.md.backup",
-    "notes/attachments",
     "Untitled 1.canvas"
   ]
 }
