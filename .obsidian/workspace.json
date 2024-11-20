@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹클립/Data is beautiful 10 of the best data visualization examples.md",
-                "mode": "preview",
+                "file": "강의/노코드 엔지니어링/구글 시트로 업무 자산관리하기.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Data is beautiful 10 of the best data visualization examples"
+              "title": "구글 시트로 업무 자산관리하기"
             }
           },
           {
@@ -28,35 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/링크 래퍼.md",
-                "mode": "source",
+                "file": "메모/성공한 CEO가 되기 위한 조건.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "링크 래퍼"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "75f8e9390f18c22f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "57b8f2838ce99bd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/서비스기획 재료.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "서비스기획 재료"
+              "title": "성공한 CEO가 되기 위한 조건"
             }
           }
         ]
@@ -154,10 +132,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/링크 래퍼.md"
+                "file": "강의/노코드 엔지니어링/구글 시트로 업무 자산관리하기.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 링크 래퍼"
+              "title": "Outline of 구글 시트로 업무 자산관리하기"
             }
           },
           {
@@ -279,10 +257,24 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0a8cbae366fc35e6",
+  "active": "eb56d3598795ff39",
   "lastOpenFiles": [
-    "강의/서비스기획 재료.md",
+    "웹클립/Data is beautiful 10 of the best data visualization examples.md",
+    "메모/성공한 CEO가 되기 위한 조건.md",
+    "글/The Last Of Us Part 1.md",
+    "글/Maybe love is hate.md",
+    "글/현생인류가 사라지고.md",
+    "글/플랫폼 이론.md",
+    "글/우리가족은 반려동물과는 연이 없다.md",
+    "글/인간도 동물일 뿐이다.md",
+    "글/인간은 시간의 변화에 둔감하다.md",
+    "글/아저씨가 된다는 것.md",
+    "글/바탕화면 할일정리.md",
+    "글/모하고 지내.md",
+    "글/누군가의 인생을 망가뜨릴 용기.md",
+    "글/글은 비장한 마음으로 쓴다.md",
     "아이디어/링크 래퍼.md",
+    "강의/서비스기획 재료.md",
     "아이디어/랜선집사.md",
     "아이디어/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
     "아이디어/블록코딩 앱.md",
@@ -290,23 +282,9 @@
     "아이디어/유튜브 채널 구독 현황 비교.md",
     "아이디어/플러터 기반 스니펫 에디터.md",
     "아이디어/트랙볼을 가진 게임 컨트롤러.md",
-    "글/인간도 동물일 뿐이다.md",
-    "글/인간은 시간의 변화에 둔감하다.md",
-    "글/플랫폼 이론.md",
-    "글/모하고 지내.md",
-    "글/바탕화면 할일정리.md",
     "글/시간이 가속되는 구간.md",
     "글/아니면 그냥 미친 INFP가 과학 유투브 몇 개 보고 와서 개소리를 하는 것일 수도 있어.md",
-    "글/아저씨가 된다는 것.md",
     "글/220228 0508.md",
-    "글/국뽕.md",
-    "글/버블의 불편함을 해소하는 팁 3가지.md",
-    "메모/이재원.md",
-    "메모/버블 스크롤 애니메이션.md",
-    "글/글.md",
-    "글/우리가족은 반려동물과는 연이 없다.md",
-    "글/외할머니가 돌아가셨다.md",
-    "글/눈물의 여왕.md",
     "attachments/desktop-todolist.jpg",
     "attachments/rapture_20230904144532.png",
     "output/attachment/40adcd5285a2e1cc5e9028d0f7bbd81d.png",
