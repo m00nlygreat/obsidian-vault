@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "메모/성공한 CEO가 되기 위한 조건.md",
+                "file": "글/눈물의 여왕.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "성공한 CEO가 되기 위한 조건"
+              "title": "눈물의 여왕"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "메모/성공한 CEO가 되기 위한 조건.md"
+                "file": "글/눈물의 여왕.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 성공한 CEO가 되기 위한 조건"
+              "title": "Outline of 눈물의 여왕"
             }
           },
           {
@@ -281,8 +281,13 @@
   },
   "active": "0a8cbae366fc35e6",
   "lastOpenFiles": [
-    "강의/서비스기획/기획자의 무기.md",
+    "글/누군가의 인생을 망가뜨릴 용기.md",
+    "글/모하고 지내.md",
+    "글/눈물의 여왕.md",
+    "글/글은 비장한 마음으로 쓴다.md",
+    "글/Untitled.md",
     "메모/성공한 CEO가 되기 위한 조건.md",
+    "강의/서비스기획/기획자의 무기.md",
     "강의/서비스기획 재료.md",
     "웹클립/Data is beautiful 10 of the best data visualization examples.md",
     "강의/면접 멘토링.md",
@@ -291,7 +296,6 @@
     "글/현생인류가 사라지고.md",
     "글/플랫폼 이론.md",
     "글/The Last Of Us Part 1.md",
-    "글/Untitled.md",
     "글/Maybe love is hate.md",
     "강의/버블 튜토리얼/프로퍼티.md",
     "강의/버블 튜토리얼/타입과 연산.md",
@@ -303,10 +307,6 @@
     "강의/서비스기획/프로젝트 매니지먼트.md",
     "메모/헤어질 결심(2022).md",
     "메모/m00nlygreat의 경우.md",
-    "메모/정규식 문법 정리.md",
-    "메모/9월4일 업데이트 공지.md",
-    "메모/구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
-    "메모/디스코드 스터디 봇.md",
     "attachments/desktop-todolist.jpg",
     "attachments/rapture_20230904144532.png",
     "output/attachment/40adcd5285a2e1cc5e9028d0f7bbd81d.png",
