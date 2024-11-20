@@ -11,10 +11,15 @@
             "id": "751048c82d04c2a6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "강의/마크다운.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "마크다운"
             }
           }
         ]
@@ -132,9 +137,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "강의/마크다운.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 마크다운"
             }
           },
           {
