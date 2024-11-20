@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획 재료.md"
+                "file": "아이디어/링크 래퍼.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스기획 재료"
+              "title": "Outline of 링크 래퍼"
             }
           },
           {
@@ -279,8 +279,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "57b8f2838ce99bd6",
+  "active": "0a8cbae366fc35e6",
   "lastOpenFiles": [
+    "강의/서비스기획 재료.md",
     "아이디어/링크 래퍼.md",
     "아이디어/랜선집사.md",
     "아이디어/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
@@ -306,7 +307,6 @@
     "글/우리가족은 반려동물과는 연이 없다.md",
     "글/외할머니가 돌아가셨다.md",
     "글/눈물의 여왕.md",
-    "글/누군가의 인생을 망가뜨릴 용기.md",
     "attachments/desktop-todolist.jpg",
     "attachments/rapture_20230904144532.png",
     "output/attachment/40adcd5285a2e1cc5e9028d0f7bbd81d.png",
