@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/Topics/마크다운.md",
+                "file": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "마크다운"
+              "title": "노션 야무지게 쓰기"
             }
           },
           {
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/Topics/마크다운.md"
+                "file": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 마크다운"
+              "title": "Outline of 노션 야무지게 쓰기"
             }
           },
           {
@@ -277,8 +277,9 @@
   },
   "active": "751048c82d04c2a6",
   "lastOpenFiles": [
-    "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
     "강의/노코드 엔지니어링/_노션 야무지게 쓰기.md",
+    "강의/Topics/마크다운.md",
+    "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
     "강의/노코드 엔지니어링/attachments/notion3.png",
     "강의/기획 선배의 잔소리.md",
     "강의/서비스기획 재료.md",
@@ -301,7 +302,6 @@
     "강의/노코드 엔지니어링/필살기 프레이머.md",
     "강의/노코드 엔지니어링/프레이머로 블로그 만들기.md",
     "강의/Topics/기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다.md",
-    "강의/Topics/마크다운.md",
     "강의/attachments/markdown-preview.png",
     "강의/attachments/markdown-example.png",
     "강의/Topics/attachments/mermaid-example.png",
