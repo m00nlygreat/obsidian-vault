@@ -5,6 +5,6 @@
   "GFM": true,
   "fileNameEncode": true,
   "removeOutgoingLinkBrackets": false,
-  "includeFileName": false,
+  "includeFileName": true,
   "customFileName": ""
 }
