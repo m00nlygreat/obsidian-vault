@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/기획 선배의 잔소리.md",
-                "mode": "preview",
+                "file": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "기획 선배의 잔소리"
+              "title": "노션 야무지게 쓰기"
             }
           }
         ]
@@ -117,10 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/기획 선배의 잔소리.md"
+                "file": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 기획 선배의 잔소리"
+              "title": "Outline of 노션 야무지게 쓰기"
             }
           },
           {
@@ -244,8 +244,9 @@
   },
   "active": "751048c82d04c2a6",
   "lastOpenFiles": [
-    "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
+    "강의/노코드 엔지니어링/_노션 야무지게 쓰기.md",
     "강의/기획 선배의 잔소리.md",
+    "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
     "강의/노코드 엔지니어링/attachments/markdown-example.png",
     "강의/노코드 엔지니어링/attachments/notion-mention.png",
     "강의/노코드 엔지니어링/attachments/mermaidjs.png",
