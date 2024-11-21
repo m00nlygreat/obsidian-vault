@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/교안 개선사항.md",
+                "file": "강의/서비스기획/기획자의 무기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "교안 개선사항"
+              "title": "기획자의 무기"
             }
           },
           {
@@ -165,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노코드 엔지니어링/교안 개선사항.md"
+                "file": "강의/서비스기획/기획자의 무기.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 교안 개선사항"
+              "title": "Outline of 기획자의 무기"
             }
           },
           {
@@ -293,6 +293,9 @@
   },
   "active": "797166bb5438a98d",
   "lastOpenFiles": [
+    "강의/기획 선배의 잔소리.md",
+    "강의/서비스기획 재료.md",
+    "강의/노코드 엔지니어링/교안 개선사항.md",
     "강의/노코드 엔지니어링/풀스택 노코드 버블.md",
     "강의/노코드 엔지니어링/필살기 프레이머.md",
     "강의/노코드 엔지니어링/피그마 그래픽스.md",
@@ -308,8 +311,6 @@
     "강의/노코드 엔지니어링/_노션 야무지게 쓰기.md",
     "강의/Topics/마크다운.md",
     "강의/노코드 엔지니어링/attachments/notion3.png",
-    "강의/기획 선배의 잔소리.md",
-    "강의/서비스기획 재료.md",
     "강의/서비스기획/설문조사.md",
     "강의/서비스기획/프로젝트 매니지먼트.md",
     "강의/서비스기획/유저 퍼소나.md",
@@ -328,7 +329,6 @@
     "강의/노코드 엔지니어링/attachments/notion-comments.png",
     "강의/노코드 엔지니어링/attachments/notion-page.png",
     "강의/강사 소개.md",
-    "강의/강의 준비 체크포인트.md",
     "강의/서비스기획/attachments",
     "강의/Topics/attachments",
     "강의/Topics",
