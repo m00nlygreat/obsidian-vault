@@ -68,7 +68,7 @@
     {
       "id": "3wvokdrujy",
       "platform_specific_commands": {
-        "default": "cmd {{folder_path:absolute}}"
+        "default": "powershell {{folder_path:absolute}}"
       },
       "shells": {},
       "alias": "",
