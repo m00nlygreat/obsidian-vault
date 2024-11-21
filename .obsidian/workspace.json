@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/Topics/기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다.md",
+                "file": "강의/강사 소개.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다"
+              "title": "강사 소개"
             }
           }
         ],
@@ -156,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/Topics/기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다.md"
+                "file": "강의/강사 소개.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다"
+              "title": "Outline of 강사 소개"
             }
           },
           {
@@ -284,8 +284,8 @@
   },
   "active": "89f3f21ad63924e5",
   "lastOpenFiles": [
-    "강의/Topics/마크다운.md",
     "강의/Topics/기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다.md",
+    "강의/Topics/마크다운.md",
     "강의/노코드 엔지니어링/피그마 그래픽스.md",
     "강의/강의 준비 체크포인트.md",
     "강의/노코드 엔지니어링/_구글 시트로 업무자산 관리하기.md",
