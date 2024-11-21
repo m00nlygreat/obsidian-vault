@@ -68,7 +68,7 @@
     {
       "id": "3wvokdrujy",
       "platform_specific_commands": {
-        "default": "cd {{folder_path:absolute}}"
+        "default": "cmd /K \"cd {{folder_path:absolute}}\""
       },
       "shells": {},
       "alias": "",
