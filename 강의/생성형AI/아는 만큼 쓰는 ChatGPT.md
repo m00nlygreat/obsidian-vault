@@ -6,7 +6,7 @@ author:
 
 # 들어가며
 
-![ChatGPT 강의는 이제 안 하고 싶은데요](ChatGPT%20강의는%20이제%20안%20하고%20싶은데요.md)
+![ChatGPT 강의를 안하고 싶은 이유](ChatGPT%20강의를%20안하고%20싶은%20이유.md)
 
 ## ChatGPT
 
@@ -58,6 +58,8 @@ author:
 ![](attachments/gpt-hallucination.jpg)
 
 ![왜 내 GPT는 대답을 이상하게 할까](왜%20내%20GPT는%20대답을%20이상하게%20할까.md)
+
+# AI 이모저모
 
 ![AI이모저모](AI이모저모.md)
 

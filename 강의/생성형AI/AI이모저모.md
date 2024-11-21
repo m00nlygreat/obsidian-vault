@@ -1,5 +1,3 @@
-# AI 이모저모
-
 ## AI의 역사
 
 ### 인공지능 (Artificial Inteligence)의 두 갈래
