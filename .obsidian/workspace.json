@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획/설문조사.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 설문조사"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -263,8 +263,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "751048c82d04c2a6",
+  "active": "2e73ab5ca066b97b",
   "lastOpenFiles": [
+    "강의/서비스기획/설문조사.md",
     "강의/기획 선배의 잔소리.md",
     "강의/서비스기획 재료.md",
     "강의/_기획 선배의 잔소리.md",
@@ -300,7 +301,6 @@
     "명리/병신합.md",
     "명리/배우자 운 좋고 자수성가하는 辛巳일생.md",
     "명리/대운-세운 관계.md",
-    "명리/(천간완벽정리) 신금론.md",
     "강의/서비스기획/attachments",
     "강의/Topics/attachments",
     "강의/Topics",
