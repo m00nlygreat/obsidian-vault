@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노코드 엔지니어링/구글 시트로 업무자산 관리하기.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 구글 시트로 업무자산 관리하기"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -266,10 +266,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "751048c82d04c2a6",
+  "active": "05cab76cf42e6910",
   "lastOpenFiles": [
-    "강의/노코드 엔지니어링/_구글 시트로 업무자산 관리하기.md",
     "강의/노코드 엔지니어링/구글 시트로 업무자산 관리하기.md",
+    "강의/노코드 엔지니어링/_구글 시트로 업무자산 관리하기.md",
     "강의/포트폴리오.md",
     "강의/면접 멘토링.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
