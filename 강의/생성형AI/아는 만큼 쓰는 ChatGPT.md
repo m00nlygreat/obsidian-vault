@@ -6,8 +6,7 @@ author:
 
 # 들어가며
 
-![[ChatGPT 강의는 이제 안 하고 싶은데요]]
-
+![ChatGPT 강의는 이제 안 하고 싶은데요](ChatGPT%20강의는%20이제%20안%20하고%20싶은데요.md)
 
 ## ChatGPT
 
@@ -97,7 +96,7 @@ author:
 	- 딥페이크
 	- 반인륜
 
-![[AI이모저모.md]]
+![AI이모저모](AI이모저모.md)
 
 # ChatGPT 사용해보기
 
@@ -316,8 +315,8 @@ author:
 
 ![](attachments/image35.png)
 
-![[ChatGPT예제_회사원.md]]
+![ChatGPT 예제](ChatGPT%20예제.md)
 
-![[VBA with GPT.md]]
+![VBA with GPT](VBA%20with%20GPT.md)
 
 # 감사합니다
