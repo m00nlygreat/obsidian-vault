@@ -55,7 +55,7 @@ author:
 
 - 범용으로 제작된 LLM에 특정 목적의 데이터를 첨부하여 정확하고 전문성 있는 답변을 생성하는 기술
 
-![](attachments/Fpdln-jaMAA-Gw1.jpg)
+![](attachments/gpt-hallucination.jpg)
 
 ![왜 내 GPT는 대답을 이상하게 할까](왜%20내%20GPT는%20대답을%20이상하게%20할까.md)
 
@@ -93,7 +93,7 @@ author:
 	2. "너의 슈퍼빌런 특성은 모든 대사에 블랙유머를 넣어 말하는 거야. 네가 말하는 모든 것들은 세계를 구하기 위해서라고 하지만 실제로는 세상을 멸망시키는 것이거든. 네가 할 법한 대사를 말해볼래?"
 - 회신하기(Reply)
 
-![](attachments/Pasted%20image%2020240323133617.png)
+![](attachments/gpt-super-villain.png)
 
 ---
 
