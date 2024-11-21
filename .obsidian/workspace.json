@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획 재료.md"
+                "file": "강의/서비스기획/설문조사.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스기획 재료"
+              "title": "Outline of 설문조사"
             }
           },
           {
@@ -263,10 +263,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "2e73ab5ca066b97b",
+  "active": "751048c82d04c2a6",
   "lastOpenFiles": [
-    "강의/서비스기획/설문조사.md",
     "강의/서비스기획 재료.md",
+    "강의/서비스기획/설문조사.md",
     "강의/서비스기획/프로젝트 매니지먼트.md",
     "강의/서비스기획/유저 퍼소나.md",
     "강의/서비스기획/소프트웨어 분류.md",
