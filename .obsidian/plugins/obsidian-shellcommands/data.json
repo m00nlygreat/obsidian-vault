@@ -68,7 +68,7 @@
     {
       "id": "3wvokdrujy",
       "platform_specific_commands": {
-        "default": "powershell {{folder_path:absolute}}"
+        "default": "cd {{folder_path:absolute}}"
       },
       "shells": {},
       "alias": "",
@@ -98,7 +98,13 @@
       "events": {},
       "debounce": null,
       "command_palette_availability": "enabled",
-      "preactions": [],
+      "preactions": [
+        {
+          "type": "prompt",
+          "enabled": false,
+          "prompt_id": ""
+        }
+      ],
       "variable_default_values": {}
     }
   ],
