@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "강의/기획 선배의 잔소리.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
@@ -38,8 +38,7 @@
               "title": "기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5d961cb36f3eed52",
@@ -156,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/Topics/기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다.md"
+                "file": "강의/기획 선배의 잔소리.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다"
+              "title": "Outline of 기획 선배의 잔소리"
             }
           },
           {
@@ -282,15 +281,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "89f3f21ad63924e5",
+  "active": "751048c82d04c2a6",
   "lastOpenFiles": [
-    "강의/강사 소개.md",
+    "강의/서비스기획/서비스기획 개론.md",
+    "강의/기획 선배의 잔소리.md",
     "강의/Topics/기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다.md",
+    "강의/강사 소개.md",
     "강의/Topics/마크다운.md",
     "강의/노코드 엔지니어링/피그마 그래픽스.md",
     "강의/강의 준비 체크포인트.md",
     "강의/노코드 엔지니어링/_구글 시트로 업무자산 관리하기.md",
-    "강의/기획 선배의 잔소리.md",
     "강의/노코드 엔지니어링/풀스택 노코드 버블.md",
     "강의/노코드 엔지니어링/프레이머로 블로그 만들기.md",
     "강의/노코드 엔지니어링/디지텍고 강의.md",
@@ -314,7 +314,6 @@
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "강의/서비스기획/UI 기타.md",
     "강의/서비스기획/조작-인터랙션-피드백.md",
-    "강의/서비스기획/소프트웨어 분류.md",
     "강의/Topics/attachments/Pasted image 20241121011543.png",
     "강의/Topics/attachments",
     "강의/Topics",
