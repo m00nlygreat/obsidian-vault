@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/트랙볼을 가진 게임 컨트롤러.md",
-                "mode": "source",
+                "file": "웹클립/히로스에 료코 불륜으로 본 일본의 성문화.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "트랙볼을 가진 게임 컨트롤러"
+              "title": "히로스에 료코 불륜으로 본 일본의 성문화"
             }
           }
         ]
@@ -283,9 +283,12 @@
       }
     ]
   },
-  "active": "6a6865fbf9a753c0",
+  "active": "80d394432a11ce3b",
   "lastOpenFiles": [
+    "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
+    "웹클립/커뮤니티 만드는 법.md",
     "아이디어/트랙볼을 가진 게임 컨트롤러.md",
+    "강의/서비스기획 재료.md",
     "아이디어/유튜브 채널 구독 현황 비교.md",
     "아이디어/옛한글을 복원시키기 위한 한글 입력 방식 개발.md",
     "아이디어/블록코딩 앱.md",
@@ -300,7 +303,6 @@
     "강의/Topics/기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다.md",
     "강의/Topics/마크다운.md",
     "강의/서비스기획/UI 기타.md",
-    "강의/서비스기획 재료.md",
     "강의/서비스기획/UI-UX 개론.md",
     "강의/서비스기획/UI 엘리먼트.md",
     "강의/기획 선배의 맞는 말 대잔치.md",
@@ -309,8 +311,6 @@
     "강의/서비스기획/서비스기획 Flow.md",
     "강의/서비스기획/UX 이모저모.md",
     "강의/강사 소개.md",
-    "강의/생성형AI/VBA with GPT.md",
-    "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
     "강의/생성형AI/attachments/gpt-wonyoung-thinking.png",
     "강의/attachments/ux-journey-map-2.png",
     "강의/attachments/ux-journey-map.png",
