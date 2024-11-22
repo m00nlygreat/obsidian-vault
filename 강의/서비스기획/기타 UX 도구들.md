@@ -4,7 +4,7 @@
 - 스타트업 하면 떠오르는 이미지 속에 반드시 있는 그거
 - 불규칙한 정성적 데이터를 분류하고 의미있는 데이터로 만드는 방법
 
-![](../attachments/Pasted%20image%2020241119015813.png)
+![](../attachments/ux-affinity-diagram.png)
 
 ## 플로우차트 (Flowchart)
 
@@ -12,7 +12,7 @@
 - 본래는 코딩을 위한 알고리즘 프로토타이핑의 용도이므로 플로우차트의 기호들은 컴퓨터의 동작과 관련되어 있다
 - 흐름도의 주체가 무엇인지를 엄격하게 고려하면서 작성하기
 
-![](../attachments/Pasted%20image%2020241119021133.png)
+![](../attachments/ux-flow-chart.png)
 
 ## 휴리스틱 (Heuristic)
 
