@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "별자리/별자리 이야기 - 물병자리의 성격 [1.20~2.18].md",
+                "file": "아이디어/트랙볼을 가진 게임 컨트롤러.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "별자리 이야기 - 물병자리의 성격 [1.20~2.18]"
+              "title": "트랙볼을 가진 게임 컨트롤러"
             }
           }
         ]
@@ -283,8 +283,17 @@
       }
     ]
   },
-  "active": "80d394432a11ce3b",
+  "active": "6a6865fbf9a753c0",
   "lastOpenFiles": [
+    "아이디어/트랙볼을 가진 게임 컨트롤러.md",
+    "아이디어/유튜브 채널 구독 현황 비교.md",
+    "아이디어/옛한글을 복원시키기 위한 한글 입력 방식 개발.md",
+    "아이디어/블록코딩 앱.md",
+    "아이디어/맥시멀리스트.md",
+    "아이디어/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
+    "아이디어/마인크래프트 성장형 RPG 시스템.md",
+    "별자리/별자리 이야기 - 양자리의 성격 [3.21~4.20].md",
+    "별자리/별자리 이야기 - 물병자리의 성격 [1.20~2.18].md",
     "명리/병신합.md",
     "명리/신금일주 정리.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
@@ -302,16 +311,7 @@
     "강의/강사 소개.md",
     "강의/생성형AI/VBA with GPT.md",
     "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
-    "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
-    "강의/생성형AI/ChatGPT 예제.md",
-    "강의/생성형AI/ChatGPT 강의를 안하고 싶은 이유.md",
-    "강의/생성형AI/AI이모저모.md",
-    "강의/생성형AI/하이퍼 파라미터(Hyperparameters).md",
-    "강의/생성형AI/왜 내 GPT는 대답을 이상하게 할까.md",
     "강의/생성형AI/attachments/gpt-wonyoung-thinking.png",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
-    "강의/서비스기획/기획자의 무기.md",
-    "강의/서비스기획/기타 UX 도구들.md",
     "강의/attachments/ux-journey-map-2.png",
     "강의/attachments/ux-journey-map.png",
     "강의/Untitled.canvas",
