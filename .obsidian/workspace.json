@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스기획 재료.md",
+                "file": "강의/기획 선배의 맞는 말 대잔치.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "서비스기획 재료"
+              "title": "기획 선배의 맞는 말 대잔치"
             }
           }
         ]
@@ -245,6 +245,14 @@
   },
   "active": "80d394432a11ce3b",
   "lastOpenFiles": [
+    "강의/서비스기획 재료.md",
+    "강의/서비스기획/서비스기획 개론.md",
+    "강의/서비스기획/설문조사.md",
+    "강의/서비스기획/서비스기획 Flow.md",
+    "강의/서비스기획/UI 엘리먼트.md",
+    "강의/서비스기획/UI-UX 개론.md",
+    "강의/서비스기획/UX 이모저모.md",
+    "강의/강사 소개.md",
     "강의/생성형AI/VBA with GPT.md",
     "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
     "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
@@ -260,26 +268,19 @@
     "강의/서비스기획/사용자 여정 지도.md",
     "강의/attachments/ux-journey-map-2.png",
     "강의/attachments/ux-journey-map.png",
-    "강의/서비스기획/서비스기획 개론.md",
-    "강의/서비스기획/서비스기획 Flow.md",
     "강의/채용 공통.md",
     "강의/포트폴리오.md",
-    "강의/서비스기획 재료.md",
     "강의/HTML-CSS.md",
     "강의/Untitled.canvas",
-    "강의/기획 선배의 잔소리.md",
+    "강의/기획 선배의 맞는 말 대잔치.md",
     "강의/_기획 선배의 잔소리.md",
     "강의/생성형AI/ChatGPT예제_기자.md",
     "강의/생성형AI/attachments/gpt-super-villain.png",
     "강의/생성형AI/attachments/image36.png",
     "강의/생성형AI/attachments/image6.png",
     "강의/생성형AI/attachments/gpt-hallucination.jpg",
-    "강의/노코드 엔지니어링/구글 시트로 업무자산 관리하기.md",
     "강의/생성형AI/attachments/1678583134640d255e2f927.png",
     "강의/생성형AI/attachments/gpt-deep-fake-trump-got-caught.png",
-    "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.md",
-    "강의/노코드 엔지니어링/교안 개선사항.md",
-    "강의/노코드 엔지니어링/풀스택 노코드 버블.md",
     "강의/노코드 엔지니어링/attachments/notion3.png",
     "강의/서비스기획/attachments",
     "강의/Topics/attachments",
