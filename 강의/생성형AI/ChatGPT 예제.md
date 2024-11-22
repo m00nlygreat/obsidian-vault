@@ -65,7 +65,7 @@
 - 어떤 Instruction을 주었을까? 생각해보기
 - [까칠한 그녀 GPT](https://chatgpt.com/g/g-wIpN0ihcQ-ggacilhan-geunyeo)
 
-![](attachments/Pasted%20image%2020240610015849.png)
+![](attachments/gpt-wonyoung-thinking.png)
 
 ## 텍스트를 파워포인트 슬라이드로 만들기
 

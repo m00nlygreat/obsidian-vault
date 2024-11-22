@@ -39,4 +39,4 @@
 	- 직업 -> 스킬: 
 	  직군으로서의 역할보다 어떠한 능력을 가지고 있는지가 중요
 
-![](attachments/Pasted%20image%2020240726085235.png)
+![](attachments/gpt-star-framework.png)
