@@ -269,21 +269,34 @@
                   "icon": "lucide-file",
                   "title": "서비스기획 재료"
                 }
+              },
+              {
+                "id": "2ed1ba331c4220ae",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.7.7"
+                  },
+                  "icon": "lucide-file",
+                  "title": "Release Notes 1.7.7"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
         "x": -706,
         "y": 367,
-        "width": 589,
-        "height": 630,
+        "width": 473,
+        "height": 506,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "80d394432a11ce3b",
+  "active": "2ed1ba331c4220ae",
   "lastOpenFiles": [
     "강의/서비스기획 재료.md",
     "강의/포트폴리오.md",
