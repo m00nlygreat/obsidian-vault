@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "강의/포트폴리오.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
@@ -133,10 +133,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/포트폴리오.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 포트폴리오"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -292,14 +292,14 @@
         "direction": "vertical",
         "x": -706,
         "y": 367,
-        "width": 503,
-        "height": 658,
+        "width": 403,
+        "height": 527,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e87f14a81dcdbb95",
+  "active": "6a6865fbf9a753c0",
   "lastOpenFiles": [
     "강의/포트폴리오 메모.md",
     "강의/포트폴리오.md",
