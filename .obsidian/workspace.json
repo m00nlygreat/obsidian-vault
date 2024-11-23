@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "포트폴리오"
             }
+          },
+          {
+            "id": "e87f14a81dcdbb95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/포트폴리오.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "포트폴리오"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -283,8 +299,10 @@
       }
     ]
   },
-  "active": "80d394432a11ce3b",
+  "active": "e87f14a81dcdbb95",
   "lastOpenFiles": [
+    "강의/포트폴리오 메모.md",
+    "강의/포트폴리오.md",
     "강의/attachments/portfolio-readability-onepiece.png",
     "강의/attachments/portfolio-relative-to-others2.png",
     "강의/서비스기획 재료.md",
@@ -293,7 +311,6 @@
     "강의/HTML-CSS 추가.md",
     "강의/UX 이론.md",
     "강의/채용 공통.md",
-    "강의/포트폴리오.md",
     "강의/면접 멘토링.md",
     "강의/Topics/서비스 기획 잔소리.md",
     "강의/기획 선배의 맞는 말 대잔치.md",
@@ -321,7 +338,6 @@
     "강의/생성형AI/attachments/image36.png",
     "강의/생성형AI/attachments/image6.png",
     "강의/생성형AI/attachments/gpt-hallucination.jpg",
-    "강의/생성형AI/attachments/1678583134640d255e2f927.png",
     "강의/서비스기획/attachments",
     "강의/Topics/attachments",
     "강의/Topics",
