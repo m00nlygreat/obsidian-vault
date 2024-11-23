@@ -117,10 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획 재료.md"
+                "file": "강의/면접 멘토링.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스기획 재료"
+              "title": "Outline of 면접 멘토링"
             }
           },
           {
@@ -283,10 +283,10 @@
       }
     ]
   },
-  "active": "6a6865fbf9a753c0",
+  "active": "80d394432a11ce3b",
   "lastOpenFiles": [
-    "강의/면접 멘토링.md",
     "강의/서비스기획 재료.md",
+    "강의/면접 멘토링.md",
     "강의/포트폴리오.md",
     "강의/Topics/서비스 기획 잔소리.md",
     "강의/UX 이론.md",
