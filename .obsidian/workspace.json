@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/포트폴리오.md",
+                "file": "강의/서비스기획 재료.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "포트폴리오"
+              "title": "서비스기획 재료"
             }
           }
         ]
@@ -116,11 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "강의/포트폴리오.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 포트폴리오"
+              "title": "Outline"
             }
           },
           {
