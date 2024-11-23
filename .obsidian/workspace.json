@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스기획 재료.md",
+                "file": "강의/면접 멘토링.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "서비스기획 재료"
+              "title": "면접 멘토링"
             }
           }
         ]
@@ -117,10 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획 재료.md"
+                "file": "강의/면접 멘토링.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스기획 재료"
+              "title": "Outline of 면접 멘토링"
             }
           },
           {
@@ -269,28 +269,15 @@
                   "icon": "lucide-file",
                   "title": "서비스기획 재료"
                 }
-              },
-              {
-                "id": "2ed1ba331c4220ae",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.7.7"
-                  },
-                  "icon": "lucide-file",
-                  "title": "Release Notes 1.7.7"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
         "x": -706,
         "y": 367,
-        "width": 304,
-        "height": 326,
+        "width": 628,
+        "height": 821,
         "maximize": false,
         "zoom": 0
       }
@@ -298,11 +285,11 @@
   },
   "active": "80d394432a11ce3b",
   "lastOpenFiles": [
-    "강의/Topics/서비스 기획 잔소리.md",
+    "강의/포트폴리오.md",
     "강의/서비스기획 재료.md",
+    "강의/Topics/서비스 기획 잔소리.md",
     "강의/UX 이론.md",
     "강의/기획 선배의 맞는 말 대잔치.md",
-    "강의/포트폴리오.md",
     "강의/면접 멘토링.md",
     "강의/채용 공통.md",
     "강의/Topics/AI를 UX에 통합하기.md",
