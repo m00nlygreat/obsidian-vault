@@ -117,10 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/면접 멘토링.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 면접 멘토링"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -283,14 +283,14 @@
       }
     ]
   },
-  "active": "80d394432a11ce3b",
+  "active": "6a6865fbf9a753c0",
   "lastOpenFiles": [
-    "강의/포트폴리오.md",
+    "강의/면접 멘토링.md",
     "강의/서비스기획 재료.md",
+    "강의/포트폴리오.md",
     "강의/Topics/서비스 기획 잔소리.md",
     "강의/UX 이론.md",
     "강의/기획 선배의 맞는 말 대잔치.md",
-    "강의/면접 멘토링.md",
     "강의/채용 공통.md",
     "강의/Topics/AI를 UX에 통합하기.md",
     "웹클립/히로스에 료코 불륜으로 본 일본의 성문화.md",
