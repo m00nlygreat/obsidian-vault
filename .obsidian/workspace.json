@@ -21,24 +21,8 @@
               "icon": "lucide-file",
               "title": "포트폴리오"
             }
-          },
-          {
-            "id": "e87f14a81dcdbb95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "글/민희진이 드러낸 게임업계의 민낯.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "민희진이 드러낸 게임업계의 민낯"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,10 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "글/민희진이 드러낸 게임업계의 민낯.md"
+                "file": "강의/포트폴리오.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 민희진이 드러낸 게임업계의 민낯"
+              "title": "Outline of 포트폴리오"
             }
           },
           {
@@ -299,11 +283,11 @@
       }
     ]
   },
-  "active": "e87f14a81dcdbb95",
+  "active": "80d394432a11ce3b",
   "lastOpenFiles": [
+    "글/민희진이 드러낸 게임업계의 민낯.md",
     "글/모하고 지내.md",
     "강의/서비스기획 재료.md",
-    "글/민희진이 드러낸 게임업계의 민낯.md",
     "강의/포트폴리오.md",
     "강의/포트폴리오 메모.md",
     "강의/attachments/portfolio-readability-onepiece.png",
