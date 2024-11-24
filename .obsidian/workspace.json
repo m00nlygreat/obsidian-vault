@@ -117,10 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/포트폴리오.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 포트폴리오"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -276,14 +276,14 @@
         "direction": "vertical",
         "x": -875,
         "y": 298,
-        "width": 681,
-        "height": 849,
+        "width": 546,
+        "height": 680,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "80d394432a11ce3b",
+  "active": "6a6865fbf9a753c0",
   "lastOpenFiles": [
     "글/민희진이 드러낸 게임업계의 민낯.md",
     "글/모하고 지내.md",
