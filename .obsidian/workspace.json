@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "글/모하고 지내.md",
+                "file": "글/민희진이 드러낸 게임업계의 민낯.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "모하고 지내"
+              "title": "민희진이 드러낸 게임업계의 민낯"
             }
           }
         ],
@@ -133,10 +133,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "글/모하고 지내.md"
+                "file": "글/민희진이 드러낸 게임업계의 민낯.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 모하고 지내"
+              "title": "Outline of 민희진이 드러낸 게임업계의 민낯"
             }
           },
           {
@@ -290,10 +290,10 @@
           }
         ],
         "direction": "vertical",
-        "x": -706,
-        "y": 367,
-        "width": 323,
-        "height": 422,
+        "x": -875,
+        "y": 298,
+        "width": 681,
+        "height": 849,
         "maximize": false,
         "zoom": 0
       }
@@ -301,9 +301,10 @@
   },
   "active": "e87f14a81dcdbb95",
   "lastOpenFiles": [
+    "글/모하고 지내.md",
+    "강의/서비스기획 재료.md",
     "글/민희진이 드러낸 게임업계의 민낯.md",
     "강의/포트폴리오.md",
-    "강의/서비스기획 재료.md",
     "강의/포트폴리오 메모.md",
     "강의/attachments/portfolio-readability-onepiece.png",
     "강의/attachments/portfolio-relative-to-others2.png",
@@ -329,7 +330,6 @@
     "별자리/별자리 이야기 - 양자리의 성격 [3.21~4.20].md",
     "별자리/별자리 이야기 - 물병자리의 성격 [1.20~2.18].md",
     "명리/병신합.md",
-    "명리/신금일주 정리.md",
     "강의/생성형AI/attachments/gpt-wonyoung-thinking.png",
     "강의/attachments/ux-journey-map-2.png",
     "강의/attachments/ux-journey-map.png",
