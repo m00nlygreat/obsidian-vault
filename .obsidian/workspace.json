@@ -133,10 +133,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "글/민희진이 드러낸 게임업계의 민낯.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 민희진이 드러낸 게임업계의 민낯"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -292,14 +292,14 @@
         "direction": "vertical",
         "x": -875,
         "y": 298,
-        "width": 546,
-        "height": 680,
+        "width": 438,
+        "height": 544,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "d7e97717b2451289",
+  "active": "6a6865fbf9a753c0",
   "lastOpenFiles": [
     "강의/서비스기획 재료.md",
     "글/민희진이 드러낸 게임업계의 민낯.md",
