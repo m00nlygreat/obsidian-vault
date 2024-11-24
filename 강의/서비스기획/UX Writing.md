@@ -20,6 +20,7 @@
 - 모바일에서 확인해주세요.
 - 홈 화면에서 설정을 눌러 찾아보세요.
 
-### 신한카드 UX Writing 가이드북
+### 참고자료
 
-[가이드 북](attachments/신한카드%20UX%20Writing%20가이드북_v1.0.pdf)
+- [가이드 북](attachments/신한카드%20UX%20Writing%20가이드북_v1.0.pdf)
+- [WWDC24 UX 라이팅으로 앱에 개성 더하기](https://developer.apple.com/kr/videos/play/wwdc2024/10140/)
