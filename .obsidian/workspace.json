@@ -117,10 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획 재료.md"
+                "file": "강의/포트폴리오.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스기획 재료"
+              "title": "Outline of 포트폴리오"
             }
           },
           {
@@ -283,11 +283,11 @@
       }
     ]
   },
-  "active": "6a6865fbf9a753c0",
+  "active": "80d394432a11ce3b",
   "lastOpenFiles": [
+    "강의/서비스기획 재료.md",
     "글/민희진이 드러낸 게임업계의 민낯.md",
     "글/모하고 지내.md",
-    "강의/서비스기획 재료.md",
     "강의/포트폴리오.md",
     "강의/포트폴리오 메모.md",
     "강의/attachments/portfolio-readability-onepiece.png",
