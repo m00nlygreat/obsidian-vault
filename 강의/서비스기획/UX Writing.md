@@ -22,4 +22,4 @@
 
 ### 신한카드 UX Writing 가이드북
 
--
+[가이드 북](attachments/신한카드%20UX%20Writing%20가이드북_v1.0.pdf)
