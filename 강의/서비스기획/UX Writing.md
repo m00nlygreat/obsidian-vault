@@ -5,4 +5,5 @@
 ### UX at its finest
 
 - UX 라이팅은 궁극의 UX로, 가장 섬세하고 디테일한 UX설계의 끝이라고 볼 수 있다
-- 제품의 전체 Tone of Voice를 담당하며 브랜드의 캐릭터리스틱
+- 제품의 전체 Tone of Voice를 담당하며 브랜드의 퍼스낼러티를 구축
+- 
