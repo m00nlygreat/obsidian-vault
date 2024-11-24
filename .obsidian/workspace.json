@@ -133,10 +133,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획 재료.md"
+                "file": "강의/포트폴리오.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스기획 재료"
+              "title": "Outline of 포트폴리오"
             }
           },
           {
@@ -299,10 +299,10 @@
       }
     ]
   },
-  "active": "6a6865fbf9a753c0",
+  "active": "e87f14a81dcdbb95",
   "lastOpenFiles": [
-    "강의/포트폴리오.md",
     "강의/서비스기획 재료.md",
+    "강의/포트폴리오.md",
     "강의/포트폴리오 메모.md",
     "강의/attachments/portfolio-readability-onepiece.png",
     "강의/attachments/portfolio-relative-to-others2.png",
