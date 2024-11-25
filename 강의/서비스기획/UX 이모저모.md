@@ -3,7 +3,7 @@
 - 모바일 애플리케이션의 설계 시 한 손으로 기기를 파지했을 때 UI 요소에 접근하기 위한 엄지손가락의 가동 범위
 - 되도록 Thumbzone 안에 자주 사용하는 기능을 배치할 것이 요구됨
 
-![](../attachments/Pasted%20image%2020241119031428.png)
+![](../attachments/ux-thumbzone.png)
 
 ## 3-Click Rule
 
@@ -11,13 +11,13 @@
 	- 라는 주장을 했던 **2001년의 UX 미신**
 - 비슷하게 최상위 메뉴가 7개 이하여야 한다라는 미신도 있다.
 
-![](../attachments/Pasted%20image%2020241119031714.png)
+![](../attachments/ux-3-click-rule.png)
 
 ## 예쁜 웹사이트는 왜 전환에 실패하는가
 
 - [Why Beautiful Websites Don't Convert](https://www.youtube.com/watch?v=Toonu-cTE60)
 
-![](../attachments/Pasted%20image%2020241119033614.png)
+![](../attachments/ux-why-beautiful-websites-dont-convert.png)
 
 ## 10 Laws of UX
 
@@ -44,63 +44,5 @@
 - [거꾸로 입력하는 가입 화면](https://toss.tech/article/toss-signup-process)
 - [토스 디자이너들의 프로덕트 원칙](https://brunch.co.kr/@figmaster/8)
 
-![](../attachments/Pasted%20image%2020241119035619.png)
-
-## 넛지 이론, Nudge Theory
-
-- 팔꿈치로 쿡쿡 찌르다. 라는 의미의 영단어로 **자유주의적 개입 또는 간섭**을 의미
-- 행동을 유도하는 대표적인 방법으로 인센티브와 벌칙(당근과 채찍)이 있다면
-- 넛지는 은연 중에 작은 신호들이나 의도적인 혼란으로 행동을 유도하는 방법
-- 과하면 다크 패턴이 된다. 
-
-![](../attachments/Pasted%20image%2020241119052446.png)
-
-## 다크 패턴
-
-- 사용자에게 손해, 그리고 서비스에 이익이 되도록 의도적으로 UX를 배치하는 것.
-
-***
-
-### 해리 브리그널의 12 Dark Patterns
-
-1. 속임수 질문(Trick Questions)
-2. 소매넣기(Sneak into Basket), 2014년부터 EU에서 불법
-3. 싸구려 호텔(Roach Motel), 가입은 쉽게 해지는 어렵게
-4. 개인정보 주커링(Privacy Zuckering)
-5. 가격비교 차단(Privacy Comparison Prevention)
-6. 주의집중 분산(Misdirection)
-7. 숨겨진 가격(Hidden Cost)
-8. 미끼와 스위치(Bait and Switch), 숨겨진 버튼
-9. 호혜적 선택강요(Confirmshaming)
-10. 위장된 광고(Disguised Ads), 콘텐츠로 위장한 광고
-11. 강제 연속 결제(Forced Continuity), EU불법
-12. 친구로 위장한 스팸(Friend Spam)
-
----
-
-![](../attachments/Pasted%20image%2020241119053358.png)
-
----
-
-![](../attachments/Pasted%20image%2020241119053735.png)
-
----
-
-![](../attachments/uxdesign06.png)
-
----
-
-### 콜린 그레이의 5 Dark Patterns
-
-1. 잔소리형(Nagging)
-2. 경로방해형(Obstruction)
-3. 인터페이스 간섭(Interface Interference)
-	- Checked by default
-	- Next 버튼 시차
-4. 은닉형(Sneaking)
-5. 행동강제형(Forced Action)
-
----
-
-![](../attachments/Pasted%20image%2020241119053937.png)
+![](../attachments/ux-onething-per-page.png)
 
