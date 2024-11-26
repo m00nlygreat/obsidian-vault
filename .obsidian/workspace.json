@@ -133,10 +133,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/강사 소개.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 강사 소개"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -290,16 +290,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 585,
+        "x": 584,
         "y": 416,
-        "width": 829,
-        "height": 671,
+        "width": 834,
+        "height": 672,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "d7e97717b2451289",
+  "active": "6a6865fbf9a753c0",
   "lastOpenFiles": [
     "강의/서비스기획 재료.md",
     "강의/강사 소개.md",
