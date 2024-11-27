@@ -11,10 +11,15 @@
             "id": "d7e97717b2451289",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "강의/서비스기획 재료.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "서비스기획 재료"
             }
           }
         ]
@@ -111,9 +116,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "강의/서비스기획 재료.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
