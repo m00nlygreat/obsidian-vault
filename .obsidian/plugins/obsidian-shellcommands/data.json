@@ -26,7 +26,7 @@
     {
       "id": "so49bu1jxf",
       "platform_specific_commands": {
-        "default": "md2ppt {{file_name}}"
+        "default": "cd {{file_path:absolute}}\nmd2ppt {{file_name}}"
       },
       "shells": {},
       "alias": "",
