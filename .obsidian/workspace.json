@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/피그마 그래픽스.md",
-                "mode": "source",
+                "file": "강의/포트폴리오.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "피그마 그래픽스"
+              "title": "포트폴리오"
             }
           }
         ]
@@ -117,10 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노코드 엔지니어링/피그마 그래픽스.md"
+                "file": "강의/포트폴리오.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 피그마 그래픽스"
+              "title": "Outline of 포트폴리오"
             }
           },
           {
@@ -243,8 +243,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d882dff4f3e14dff",
+  "active": "d7e97717b2451289",
   "lastOpenFiles": [
+    "강의/포트폴리오 메모.md",
+    "강의/포트폴리오.md",
+    "강의/노코드 엔지니어링/피그마 그래픽스.md",
     "강의/노코드 엔지니어링/_피그마 그래픽스.md",
     "강의/서비스기획 재료.md",
     "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
@@ -268,9 +271,6 @@
     "글/인간도 동물일 뿐이다.md",
     "글/타인은 나를 비추는 거울.md",
     "글/프로덕트 기획에 ChatGPT 사용하기.md",
-    "글/형식이 아닌 내용으로 평가하는 사회가 되었으면 좋겠다.md",
-    "글/Maybe love is hate.md",
-    "글/플랫폼 이론.md",
     "강의/attachments/portfolio-readability-onepiece.png",
     "강의/attachments/portfolio-relative-to-others2.png",
     "강의/attachments/portfolio-relative-to-others.png",
