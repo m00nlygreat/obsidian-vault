@@ -4,3 +4,4 @@
 	- [본 대화창](https://chat.openai.com/c/3450fb09-5d3a-4bab-ad61-8aa310d931b0) by moonlygreat
 - [회사 재무제표 분석](https://chat.openai.com/share/ba2ce170-c640-49a2-884d-fa3c3669ca20)
 - [웬즈데이와 의사소통](https://chat.openai.com/share/3d5ad690-fe14-4e57-8ea4-cce8685a1415)
+	- [웬즈데이와 의사소통 2024](https://chatgpt.com/share/6722d658-8e00-8008-aec7-27519e736ca3)

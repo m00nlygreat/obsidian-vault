@@ -6,7 +6,7 @@ author:
 
 # 들어가며
 
-![[ChatGPT 강의는 이제 안 하고 싶은데요]]
+![ChatGPT 강의를 안하고 싶은 이유](ChatGPT%20강의를%20안하고%20싶은%20이유.md)
 
 ## ChatGPT
 
@@ -40,9 +40,8 @@ author:
 ### 멀티 모달
 
 - 텍스트만이 아니라, 이미지, 비디오, 음악 등을 입력받아 동시에 처리하는 AI
-- GPT-3.5 는 불가하고, GPT-4는 가능한 것
-- 구글 Gemini는 바닥부터 멀티 모달을 기반으로 만들어짐
-- GPT-4o 의 멀티모달
+- GPT-3.5 는 불가하고, GPT-4(텍스트, 이미지)는 가능한 것
+- Gemini, GPT-4o 의 멀티모달
 
 ![](attachments/image1.png)
 
@@ -56,17 +55,23 @@ author:
 
 - 범용으로 제작된 LLM에 특정 목적의 데이터를 첨부하여 정확하고 전문성 있는 답변을 생성하는 기술
 
-![](attachments/Fpdln-jaMAA-Gw1.jpg)
+![](attachments/gpt-hallucination.jpg)
+
+![왜 내 GPT는 대답을 이상하게 할까](왜%20내%20GPT는%20대답을%20이상하게%20할까.md)
 
 # AI 이모저모
 
-![[AI이모저모.md]]
+![AI이모저모](AI이모저모.md)
 
 # ChatGPT 사용해보기
 
 ## 소개
 
 ![](attachments/image6.png)
+
+---
+
+![](attachments/image36.png)
 
 ## 질문해보기
 
@@ -90,7 +95,7 @@ author:
 	2. "너의 슈퍼빌런 특성은 모든 대사에 블랙유머를 넣어 말하는 거야. 네가 말하는 모든 것들은 세계를 구하기 위해서라고 하지만 실제로는 세상을 멸망시키는 것이거든. 네가 할 법한 대사를 말해볼래?"
 - 회신하기(Reply)
 
-![](attachments/Pasted%20image%2020240323133617.png)
+![](attachments/gpt-super-villain.png)
 
 ---
 
@@ -211,7 +216,7 @@ author:
 
 ![](attachments/image12.png)
 
-![[마크다운]]
+![마크다운](../Topics/마크다운.md)
 
 # ChatGPT 고급 기능 소개
 
@@ -275,8 +280,8 @@ author:
 
 ![](attachments/image35.png)
 
-![[ChatGPT예제_회사원.md]]
+![ChatGPT 예제](ChatGPT%20예제.md)
 
-![[VBA with GPT.md]]
+![VBA with GPT](VBA%20with%20GPT.md)
 
 # 감사합니다

@@ -74,11 +74,21 @@
 
 ## AI의 미래
 
-### 강 인공지능 (Strong AI)
+### 인공 일반지능 (AGI)
 
-- 약 인공지능 (Weak AI)
+- 강인공지능과 약인공지능 (Strong vs. Weak AI)
 	- 특정한 분야의 일을 인간의 지시에 따라 수행하는 인공지능
-- 스스로를 업데이트하는 인공지능 (AGI, 일반 인공지능)
+- 스스로를 업데이트하는 인공지능
+
+### AGI에 이르는 길은?
+
+- Transformer 모델의 최종형태
+- AI 3대천왕
+	- 제프리 힌튼, 토론토대 교수
+	- 요슈아 벤지오, 몬트리올대 교수
+	- 얀 르쿤, 메타 인공지능 수석 과학자
+
+---
 
 ### AI와 인간의 가치
 
@@ -86,6 +96,7 @@
 - Genuine, authentic한 인간에의 선호
 
 ![](attachments/image32.png)
+
 
 ## AI 이모저모
 
@@ -97,22 +108,22 @@
 	- NVIDIA의 승리는 어디까지인가
 		- 인텔, 메타, Groq 등 빅테크 들의 탈NVIDIA를 위한 노력
 		- [짐 켈러 "엔비디아 시대는 결국 끝난다.."](https://www.youtube.com/watch?v=2pw-YZ7KuFY)
-	- Sora와 대항마들
-		- Sora
-		- Vidu, Kling
-		- Luma Dream Machine
+		- [짐켈러 인터뷰](https://www.youtube.com/watch?v=iwXr1IRaqWA)
 
 ---
 
 - Data 보유
 	- 빠르면 2025년 학습시킬 데이터 고갈
 	- AGI 달성을 위한 키
-
 - 온디바이스 AI
 	- 갤럭시?
 	- 개인화의 측면, 비용의 측면
 - OpenAI, 동영상 생성 AI Sora 발표
 	- 중국판 Sora, Vidu와 Kling
+- AI 에이전트
+	- Anthropic, 'Claude 3.5 Computer Use'
+	- OpenAI는 ChatGPT의 Native App과 iOS 통합 등으로 꾀하는 중
+	- NotionAI
 
 ---
 
@@ -152,3 +163,16 @@
 - ChatGPT는 유틸리티, 애플리케이션 측면에서 선두
 	- GPT-4o / mini / long output
 	- Structured Output
+- 새로운 전장, AI 에이전트
+	- Anthropic "Claude 3.5 Computer Use"
+	- OpenAI
+
+---
+
+### GPT-4 o1
+
+- 스스로 회고(Self-reflect)하는 특성으로 추론 능력을 대폭 향상
+	- 인간으로 치면 IQ 120
+	- 박사 학위 수준
+
+![](attachments/Pasted%20image%2020240923163945.png)

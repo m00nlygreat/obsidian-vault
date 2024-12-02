@@ -26,7 +26,49 @@
     {
       "id": "so49bu1jxf",
       "platform_specific_commands": {
-        "default": "md2ppt {{file_path:relative}}"
+        "default": "cd {{folder_path:absolute}}\nmd2ppt {{file_name}}"
+      },
+      "shells": {},
+      "alias": "",
+      "icon": "activity",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "input_contents": {
+        "stdin": null
+      },
+      "output_handlers": {
+        "stdout": {
+          "handler": "open-files",
+          "convert_ansi_code": true
+        },
+        "stderr": {
+          "handler": "modal",
+          "convert_ansi_code": true
+        }
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": "uzecvpvv30"
+      },
+      "output_channel_order": "stdout-first",
+      "output_handling_mode": "buffered",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [
+        {
+          "type": "prompt",
+          "enabled": false,
+          "prompt_id": ""
+        }
+      ],
+      "variable_default_values": {},
+      "execution_notification_mode": null,
+      "debounce": null
+    },
+    {
+      "id": "3wvokdrujy",
+      "platform_specific_commands": {
+        "default": "cmd /K \"cd {{folder_path:absolute}}\""
       },
       "shells": {},
       "alias": "",
@@ -52,7 +94,9 @@
       },
       "output_channel_order": "stdout-first",
       "output_handling_mode": "buffered",
+      "execution_notification_mode": null,
       "events": {},
+      "debounce": null,
       "command_palette_availability": "enabled",
       "preactions": [
         {
@@ -61,9 +105,7 @@
           "prompt_id": ""
         }
       ],
-      "variable_default_values": {},
-      "execution_notification_mode": null,
-      "debounce": null
+      "variable_default_values": {}
     }
   ],
   "prompts": [],
@@ -74,5 +116,11 @@
     "output_assignment": true
   },
   "custom_shells": [],
-  "output_wrappers": []
+  "output_wrappers": [
+    {
+      "id": "uzecvpvv30",
+      "title": "",
+      "content": ""
+    }
+  ]
 }
