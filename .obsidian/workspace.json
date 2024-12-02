@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/포트폴리오.md",
+                "file": "강의/서비스기획 재료.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "포트폴리오"
+              "title": "서비스기획 재료"
             }
           }
         ]
@@ -117,10 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/포트폴리오.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 포트폴리오"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -245,8 +245,12 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
-    "강의/포트폴리오 메모.md",
+    "강의/채용 공통.md",
+    "강의/면접 멘토링.md",
+    "강의/기획 선배의 맞는 말 대잔치.md",
+    "강의/강의 준비 체크포인트.md",
     "강의/포트폴리오.md",
+    "강의/포트폴리오 메모.md",
     "강의/노코드 엔지니어링/피그마 그래픽스.md",
     "강의/노코드 엔지니어링/_피그마 그래픽스.md",
     "강의/서비스기획 재료.md",
@@ -267,10 +271,6 @@
     "글/아니면 그냥 미친 INFP가 과학 유투브 몇 개 보고 와서 개소리를 하는 것일 수도 있어.md",
     "글/오늘의 나는 누가 뭐래도 멋있었다.md",
     "글/외할머니가 돌아가셨다.md",
-    "글/우리가족은 반려동물과는 연이 없다.md",
-    "글/인간도 동물일 뿐이다.md",
-    "글/타인은 나를 비추는 거울.md",
-    "글/프로덕트 기획에 ChatGPT 사용하기.md",
     "강의/attachments/portfolio-readability-onepiece.png",
     "강의/attachments/portfolio-relative-to-others2.png",
     "강의/attachments/portfolio-relative-to-others.png",
