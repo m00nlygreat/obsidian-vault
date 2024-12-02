@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
+                "file": "강의/포트폴리오.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "노코드를 시작하기 전에 알았으면 좋았을 것들"
+              "title": "포트폴리오"
             }
           }
         ]
@@ -117,10 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md"
+                "file": "강의/포트폴리오.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 노코드를 시작하기 전에 알았으면 좋았을 것들"
+              "title": "Outline of 포트폴리오"
             }
           },
           {
@@ -245,6 +245,7 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
+    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "강의/포트폴리오.md",
     "강의/서비스기획 재료.md",
     "강의/채용 공통.md",
@@ -270,7 +271,6 @@
     "글/아저씨가 된다는 것.md",
     "글/아니면 그냥 미친 INFP가 과학 유투브 몇 개 보고 와서 개소리를 하는 것일 수도 있어.md",
     "글/오늘의 나는 누가 뭐래도 멋있었다.md",
-    "글/외할머니가 돌아가셨다.md",
     "강의/attachments/portfolio-readability-onepiece.png",
     "강의/attachments/portfolio-relative-to-others2.png",
     "강의/attachments/portfolio-relative-to-others.png",
