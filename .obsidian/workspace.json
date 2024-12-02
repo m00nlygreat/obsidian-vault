@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/감시사회.md",
+                "file": "강의/포트폴리오.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이디어/감시사회.md",
+                "file": "강의/포트폴리오.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/감시사회.md"
+                "file": "강의/포트폴리오.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "아이디어/감시사회.md",
+                "file": "강의/포트폴리오.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,8 +181,8 @@
   },
   "active": "4691f646667d891f",
   "lastOpenFiles": [
-    "Tags",
     "아이디어/감시사회.md",
+    "Tags",
     "conflict-files-obsidian-git.md",
     "글/인간은 시간의 변화에 둔감하다.md",
     "웹클립/VIM 유용한 단축키 정리.md",
@@ -226,7 +226,6 @@
     "강의/노코드 엔지니어링/노션",
     "강의/attachments",
     "attachments/사주보는법 자평진전의 변격과 겸격에 대한 이해  네이버 블로그",
-    "attachments/Data is beautiful 10 of the best data visualization examples",
     "무제 파일.canvas"
   ]
 }

@@ -44,7 +44,8 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//강의"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
