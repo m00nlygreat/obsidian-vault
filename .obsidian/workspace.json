@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/포트폴리오.md",
-                "mode": "preview",
+                "file": "강의/포트폴리오 메모.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "포트폴리오"
+              "title": "포트폴리오 메모"
             }
           }
         ]
@@ -117,10 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/포트폴리오.md"
+                "file": "강의/포트폴리오 메모.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 포트폴리오"
+              "title": "Outline of 포트폴리오 메모"
             }
           },
           {
@@ -245,8 +245,8 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
-    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "강의/포트폴리오.md",
+    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "강의/서비스기획 재료.md",
     "강의/채용 공통.md",
     "강의/면접 멘토링.md",
