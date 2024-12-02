@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스기획 재료.md",
+                "file": "강의/포트폴리오.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "서비스기획 재료"
+              "title": "포트폴리오"
             }
           }
         ]
@@ -117,10 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획 재료.md"
+                "file": "강의/포트폴리오.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스기획 재료"
+              "title": "Outline of 포트폴리오"
             }
           },
           {
@@ -245,6 +245,7 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
+    "강의/서비스기획 재료.md",
     "강의/채용 공통.md",
     "강의/면접 멘토링.md",
     "강의/기획 선배의 맞는 말 대잔치.md",
@@ -253,7 +254,6 @@
     "강의/포트폴리오 메모.md",
     "강의/노코드 엔지니어링/피그마 그래픽스.md",
     "강의/노코드 엔지니어링/_피그마 그래픽스.md",
-    "강의/서비스기획 재료.md",
     "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
     "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md",
     "웹클립/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트.md",
