@@ -21,8 +21,39 @@
               "icon": "lucide-file",
               "title": "포트폴리오"
             }
+          },
+          {
+            "id": "51dbbfdd41ceda8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "이미지 생성.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "이미지 생성"
+            }
+          },
+          {
+            "id": "3ba17f6e69aeb881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,10 +148,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/포트폴리오.md"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 포트폴리오"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -243,10 +274,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d7e97717b2451289",
+  "active": "3ba17f6e69aeb881",
   "lastOpenFiles": [
-    "강의/포트폴리오 메모.md",
+    "이미지 생성.md",
+    "conflict-files-obsidian-git.md",
     "강의/포트폴리오.md",
+    "강의/포트폴리오 메모.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "강의/서비스기획 재료.md",
     "강의/채용 공통.md",
@@ -269,8 +302,6 @@
     "글/바탕화면 할일정리.md",
     "글/시간이 가속되는 구간.md",
     "글/아저씨가 된다는 것.md",
-    "글/아니면 그냥 미친 INFP가 과학 유투브 몇 개 보고 와서 개소리를 하는 것일 수도 있어.md",
-    "글/오늘의 나는 누가 뭐래도 멋있었다.md",
     "강의/attachments/portfolio-readability-onepiece.png",
     "강의/attachments/portfolio-relative-to-others2.png",
     "강의/attachments/portfolio-relative-to-others.png",
