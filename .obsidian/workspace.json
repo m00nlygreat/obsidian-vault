@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/Topics/LLM을 UX에 통합하기.md",
+                "file": "강의/서비스기획 재료.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "LLM을 UX에 통합하기"
+              "title": "서비스기획 재료"
             }
           }
         ]
@@ -117,10 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/Topics/LLM을 UX에 통합하기.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of LLM을 UX에 통합하기"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -245,6 +245,7 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
+    "강의/Topics/LLM을 UX에 통합하기.md",
     "강의/서비스기획 재료.md",
     "강의/포트폴리오.md",
     "이미지 생성.md",
@@ -270,7 +271,6 @@
     "글/민희진이 드러낸 게임업계의 민낯.md",
     "글/바탕화면 할일정리.md",
     "글/시간이 가속되는 구간.md",
-    "글/아저씨가 된다는 것.md",
     "강의/attachments/portfolio-readability-onepiece.png",
     "강의/attachments/portfolio-relative-to-others2.png",
     "강의/attachments/portfolio-relative-to-others.png",
