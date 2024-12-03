@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "이미지 생성"
             }
+          },
+          {
+            "id": "d65afb35781f91b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,10 +133,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/이미지 생성.md"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 이미지 생성"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -243,13 +259,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d7e97717b2451289",
+  "active": "d65afb35781f91b5",
   "lastOpenFiles": [
+    "강의/생성형AI/이미지 생성.md",
+    "conflict-files-obsidian-git.md",
     "강의/서비스기획 재료.md",
     "강의/Topics/LLM을 UX에 통합하기.md",
     "강의/포트폴리오.md",
-    "강의/생성형AI/이미지 생성.md",
-    "conflict-files-obsidian-git.md",
     "강의/포트폴리오 메모.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "강의/채용 공통.md",
