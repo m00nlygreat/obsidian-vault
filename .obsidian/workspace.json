@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "2aa05a486c1e135a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "e93e309b4765b62b",
             "type": "leaf",
             "state": {
@@ -34,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/포트폴리오.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/포트폴리오.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -141,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/포트폴리오.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,10 +209,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4691f646667d891f",
+  "active": "2aa05a486c1e135a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "강의/포트폴리오.md",
+    "conflict-files-obsidian-git.md",
+    "강의/생성형AI/이미지 생성.md",
     "아이디어/플러터 기반 스니펫 에디터.md",
     "아이디어/트랙볼을 가진 게임 컨트롤러.md",
     "아이디어/유튜브 채널 구독 현황 비교.md",
@@ -224,7 +239,6 @@
     "강의/서비스기획/서비스기획 Flow.md",
     "강의/서비스기획/사용자 여정 지도.md",
     "강의/서비스기획/다크패턴.md",
-    "강의/서비스기획/다양한 사용자를 고려하기.md",
     "강의/서비스기획/attachments",
     "강의/서비스기획",
     "강의/생성형AI/attachments/image36.png",
