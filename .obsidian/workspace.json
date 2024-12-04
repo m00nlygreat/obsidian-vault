@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/링크 래퍼.md",
+                "file": "강의/노코드 엔지니어링/필살기 프레이머.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "링크 래퍼"
+              "title": "필살기 프레이머"
             }
           }
         ]
@@ -117,10 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/링크 래퍼.md"
+                "file": "강의/노코드 엔지니어링/필살기 프레이머.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 링크 래퍼"
+              "title": "Outline of 필살기 프레이머"
             }
           },
           {
@@ -245,6 +245,8 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
+    "강의/노코드 엔지니어링/_필살기 프레이머.md",
+    "아이디어/링크 래퍼.md",
     "아이디어/마인크래프트 성장형 RPG 시스템.md",
     "아이디어/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
     "아이디어/맥시멀리스트.md",
@@ -269,8 +271,6 @@
     "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
     "강의/노코드 엔지니어링/_노션 야무지게 쓰기.md",
     "글/국뽕.md",
-    "강의/강사 소개.md",
-    "강의/서비스기획/UX 이모저모.md",
     "강의/attachments/portfolio-readability-onepiece.png",
     "강의/attachments/portfolio-relative-to-others2.png",
     "강의/attachments/portfolio-relative-to-others.png",
