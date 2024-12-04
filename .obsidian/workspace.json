@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/이미지 생성.md",
+                "file": "아이디어/링크 래퍼.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "이미지 생성"
+              "title": "링크 래퍼"
             }
           }
         ]
@@ -117,10 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/이미지 생성.md"
+                "file": "아이디어/링크 래퍼.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 이미지 생성"
+              "title": "Outline of 링크 래퍼"
             }
           },
           {
@@ -245,8 +245,12 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "아이디어/마인크래프트 성장형 RPG 시스템.md",
+    "아이디어/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
+    "아이디어/맥시멀리스트.md",
+    "아이디어/감시사회.md",
     "강의/생성형AI/이미지 생성.md",
+    "conflict-files-obsidian-git.md",
     "강의/서비스기획 재료.md",
     "강의/Topics/LLM을 UX에 통합하기.md",
     "강의/포트폴리오.md",
@@ -267,10 +271,6 @@
     "글/국뽕.md",
     "강의/강사 소개.md",
     "강의/서비스기획/UX 이모저모.md",
-    "강의/서비스기획/UI-UX 개론.md",
-    "글/민희진이 드러낸 게임업계의 민낯.md",
-    "글/바탕화면 할일정리.md",
-    "글/시간이 가속되는 구간.md",
     "강의/attachments/portfolio-readability-onepiece.png",
     "강의/attachments/portfolio-relative-to-others2.png",
     "강의/attachments/portfolio-relative-to-others.png",
