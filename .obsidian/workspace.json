@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/필살기 프레이머.md",
+                "file": "강의/노코드 엔지니어링/피그마 그래픽스.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "필살기 프레이머"
+              "title": "피그마 그래픽스"
             }
           }
         ]
@@ -117,10 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노코드 엔지니어링/필살기 프레이머.md"
+                "file": "강의/노코드 엔지니어링/피그마 그래픽스.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 필살기 프레이머"
+              "title": "Outline of 피그마 그래픽스"
             }
           },
           {
@@ -245,6 +245,7 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
+    "강의/노코드 엔지니어링/필살기 프레이머.md",
     "강의/노코드 엔지니어링/_필살기 프레이머.md",
     "아이디어/링크 래퍼.md",
     "아이디어/마인크래프트 성장형 RPG 시스템.md",
@@ -270,7 +271,6 @@
     "웹클립/히로스에 료코 불륜으로 본 일본의 성문화.md",
     "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
     "강의/노코드 엔지니어링/_노션 야무지게 쓰기.md",
-    "글/국뽕.md",
     "강의/attachments/portfolio-readability-onepiece.png",
     "강의/attachments/portfolio-relative-to-others2.png",
     "강의/attachments/portfolio-relative-to-others.png",
