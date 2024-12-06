@@ -31,5 +31,6 @@ author:
 ### HTTP Request
 
 - 웹 서버와 클라이언트가 서로 소통하는 방법. 웹 API
+- Request, Response
 - GET, POST 등의 종류로 나뉘며
-- Endpoint, Header와 Body로 
+- Endpoint, Header와 Body 등으로 구성돼있다.
