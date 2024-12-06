@@ -19,3 +19,10 @@ author:
 - Back-end: 사용자가 알 필요 없는 내부의 동작 원리
 
 ![](attachments/terms.png)
+
+## API
+
+- Application Programming Interface
+- User Interface와 비교해보면
+	- API는 '프로그램이 누르는 버튼'이라고 말할 수 있다.
+	- 따라서 
