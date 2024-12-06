@@ -8,4 +8,5 @@ author:
 
 ## 서버와 클라이언트
 
-- 서버는 
+- Server: Serve-r
+- Client: 고객
