@@ -4,7 +4,7 @@ author:
 	- 배문형
 ---
 
-# 백엔드? 프론트엔드? 서버? 클라이언트?
+# API
 
 ## 서버와 클라이언트, 프론트엔드와 백엔드
 
@@ -33,4 +33,4 @@ author:
 - 웹 서버와 클라이언트가 서로 소통하는 방법. 웹 API
 - Request, Response
 - GET, POST 등의 종류로 나뉘며
-- Endpoint, Header와 Body 등으로 구성돼있다.
+- Endpoint, Path, Header와 Body 등으로 구성돼있다.
