@@ -25,4 +25,9 @@ author:
 - Application Programming Interface
 - User Interface와 비교해보면
 	- API는 '프로그램이 누르는 버튼'이라고 말할 수 있다.
-	- 따라서 
+	- 일반적으로 말하는 API는 웹 API
+
+### HTTP Request
+
+- 웹 서버와 클라이언트가 서로 소통하는 방법
+- GET, POST 등의 종류로 나뉨
