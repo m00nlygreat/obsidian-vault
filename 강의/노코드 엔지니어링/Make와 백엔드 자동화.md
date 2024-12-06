@@ -26,7 +26,6 @@ author:
 - User Interface, UI와 비교
 	- 버튼으로 대표되는 UI를 User가 누르는 버튼이라고 한다면,
 	- API는 '프로그램이 누르는 버튼'이라고 말할 수 있다.
-	- 일반적으로 말하는 API는 `웹 API`
 
 ### HTTP Request
 
