@@ -18,7 +18,7 @@ author:
 - Front-end: 사용자가 접하는 측면의 인터페이스, 프로그램 등을 뜻함
 - Back-end: 사용자가 알 필요 없는 내부의 동작 원리
 
-![](attachments/terms-for-api.png)
+![](../attachments/terms-for-api.png)
 
 ## API
 
@@ -34,4 +34,4 @@ author:
 	- GET, POST 등의 종류로 나뉘며
 	- Endpoint, Path, Header와 Body 등으로 구성돼있다.
 
-![](attachments/backend-request-response.png)
+![](../attachments/api-response-request.png)
