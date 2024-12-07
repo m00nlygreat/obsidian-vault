@@ -31,6 +31,7 @@ author:
 	- 수행(Operations): 시나리오 실행 시 실행된 모듈 한 개당 1 Operation으로 과금 기준이 된다.
 - 연결(Connections): 각 모듈의 실행을 위한 연결된 외부 서비스들의 인증/연결 내용들
 - 웹훅(Webhooks): 외부에서 시나리오를 실행시킬 수 있는 API
+- 데이터 구조(Data Structure): 자주 쓰게 되는 JSON 등의 데이터 구조를 템플릿으로 등록해서 사용
 
 ## 시나리오(Scenarios)
 
