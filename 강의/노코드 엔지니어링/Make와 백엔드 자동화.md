@@ -26,5 +26,7 @@ author:
 ## Terms
 
 - 시나리오(Scenarios): 하나 하나의 작업을 지칭
+	- 모듈(Modules): 
+	- 수행(Operations): 
 - 연결(Connections): 
 - 웹훅(Webhooks)
