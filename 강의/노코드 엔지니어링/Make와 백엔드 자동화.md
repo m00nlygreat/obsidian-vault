@@ -26,6 +26,5 @@ author:
 ## Terms
 
 - 시나리오(Scenarios): 하나 하나의 작업을 지칭
-- 실행(Operations): 시나리오를 구성하는 단위이며 과금의 기준
 - 연결(Connections): 
 - 웹훅(Webhooks)
