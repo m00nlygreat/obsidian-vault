@@ -8,13 +8,14 @@
 ### 보이느냐 보이지 않느냐
 
 - Front-end: 사용자가 접하는 측면의 인터페이스, 프로그램 등을 뜻함
-- Back-end: 사용자가 알 필요 없는 내부의 동작 원리
+- Back-end: 사용자가 알 필요 없는 내부의 동작 원리, 로직
 
 ![](../attachments/terms-for-api.png)
 
 ## API
 
-- Application Programming Interface
+### Application Programming Interface
+
 - User Interface, UI와 비교
 	- 버튼으로 대표되는 UI를 User가 누르는 버튼이라고 한다면,
 	- API는 '프로그램이 누르는 버튼'이라고 말할 수 있다.
