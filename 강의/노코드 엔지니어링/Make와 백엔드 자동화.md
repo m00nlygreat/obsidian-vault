@@ -25,6 +25,6 @@ author:
 
 ## Terms
 
-- 시나리오(Scenarios)
+- 시나리오(Scenarios): 하나 하나의 작업을 
 - 연결(Connections)
 - 웹훅(Webhooks)
