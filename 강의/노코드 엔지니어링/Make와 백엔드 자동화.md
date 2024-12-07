@@ -23,4 +23,8 @@ author:
 
 ![](attachments/make-intro.png)
 
-## 
+## Terms
+
+- 시나리오(Scenarios)
+- 연결(Connections)
+- 웹훅(Webhooks)
