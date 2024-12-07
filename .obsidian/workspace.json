@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스기획 재료.md",
+                "file": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "서비스기획 재료"
+              "title": "Make와 백엔드 자동화"
             }
           }
         ],
@@ -163,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획 재료.md"
+                "file": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스기획 재료"
+              "title": "Outline of Make와 백엔드 자동화"
             }
           },
           {
@@ -291,12 +291,13 @@
   },
   "active": "20794392b7d3e28c",
   "lastOpenFiles": [
-    "강의/Topics/서비스 기획 잔소리.md",
+    "강의/Topics/API.md",
     "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
+    "강의/서비스기획 재료.md",
+    "강의/Topics/서비스 기획 잔소리.md",
     "강의/노코드 엔지니어링/attachments/make-intro.png",
     "강의/노코드 엔지니어링/attachments/Create_without_limits___1.webp",
     "강의/Topics/서버는 무한루프다..md",
-    "강의/Topics/API.md",
     "강의/노코드 엔지니어링/_Make와 백엔드 자동화.md",
     "강의/포트폴리오.md",
     "강의/포트폴리오 메모.md",
