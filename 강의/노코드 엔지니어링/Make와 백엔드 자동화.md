@@ -66,5 +66,8 @@ author:
 
 ## 타입
 
-- Collection
+- Bundles
+- Collections
+- Number
+- Text
 - 
