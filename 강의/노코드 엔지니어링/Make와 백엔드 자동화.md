@@ -21,4 +21,4 @@ author:
 - 경제적: 넉넉한 무료 티어, 유료 기능도 재피어에 비해 저렴
 - 인터페이스: 탁월한 시각화로 난이도 완화
 
-![](attachments/Create_without_limits___1.webp)
+![](attachments/make-intro.png)
