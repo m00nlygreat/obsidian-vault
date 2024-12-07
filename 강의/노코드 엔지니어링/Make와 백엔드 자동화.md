@@ -25,8 +25,8 @@ author:
 
 ## Terms
 
-- 시나리오(Scenarios): 하나 하나의 작업을 지칭
+- 시나리오(Scenarios): 하나 하나의 작업을 지칭.
 	- 모듈(Modules): 시나리오를 구성하는 하나 하나의 작업
 	- 수행(Operations): 시나리오 실행 시 실행된 모듈 한 개당 1 Operation으로 과금 기준이 된다.
 - 연결(Connections): 각 모듈의 실행을 위한 연결된 외부 서비스들의 인증/연결 항목들
-- 웹훅(Webhooks): 시나리오를 
+- 웹훅(Webhooks): 
