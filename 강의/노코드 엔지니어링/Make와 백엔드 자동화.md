@@ -64,10 +64,12 @@ author:
 - 요소마다 작업의 결과 데이터를 반환(Return)하고
 	- 이 데이터는 이후의 모듈에서 사용할 수 있다
 
-## 타입
+## 데이터 타입 (Data Types)
 
 - Bundles
 - Collections
 - Number
 - Text
-- 
+- Date
+- Boolean
+- Binary
