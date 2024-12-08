@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/블록코딩 앱.md",
+                "file": "아이디어/플러터 기반 스니펫 에디터.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "블록코딩 앱"
+              "title": "플러터 기반 스니펫 에디터"
             }
           }
         ],
@@ -163,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/블록코딩 앱.md"
+                "file": "아이디어/플러터 기반 스니펫 에디터.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 블록코딩 앱"
+              "title": "Outline of 플러터 기반 스니펫 에디터"
             }
           },
           {
@@ -291,6 +291,7 @@
   },
   "active": "20794392b7d3e28c",
   "lastOpenFiles": [
+    "아이디어/블록코딩 앱.md",
     "아이디어/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
     "아이디어/링크 래퍼.md",
     "아이디어/랜선집사.md",
@@ -326,7 +327,6 @@
     "강의/HTML-CSS.md",
     "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
     "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
-    "강의/노코드 엔지니어링/풀스택 노코드 버블.md",
     "강의/Untitled.canvas",
     "강의/서비스기획/attachments",
     "강의/Topics/attachments",
