@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
+                "file": "아이디어/블록코딩 앱.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Make와 백엔드 자동화"
+              "title": "블록코딩 앱"
             }
           }
         ],
@@ -163,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
+                "file": "아이디어/블록코딩 앱.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Make와 백엔드 자동화"
+              "title": "Outline of 블록코딩 앱"
             }
           },
           {
@@ -291,8 +291,13 @@
   },
   "active": "20794392b7d3e28c",
   "lastOpenFiles": [
-    "글/220228 0508.md",
+    "아이디어/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
+    "아이디어/링크 래퍼.md",
+    "아이디어/랜선집사.md",
+    "아이디어/나 살아있소.md",
+    "아이디어/구독 관리 노션 템플릿.md",
     "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
+    "글/220228 0508.md",
     "강의/Topics/API.md",
     "강의/노코드 엔지니어링/_Make와 백엔드 자동화.md",
     "강의/서비스기획 재료.md",
@@ -322,11 +327,6 @@
     "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
     "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
     "강의/노코드 엔지니어링/풀스택 노코드 버블.md",
-    "강의/노코드 엔지니어링/피그마 그래픽스.md",
-    "강의/노코드 엔지니어링/노코드 개론.md",
-    "글/Dying Light 2 - Stay Human.md",
-    "글/The Last Of Us Part 1.md",
-    "강의/생성형AI/AI이모저모.md",
     "강의/Untitled.canvas",
     "강의/서비스기획/attachments",
     "강의/Topics/attachments",
