@@ -66,10 +66,10 @@ author:
 
 ## 데이터 타입 (Data Types)
 
-- Bundles
-- Collections
-- Number
-- Text
-- Date
-- Boolean
-- Binary
+- 번들(Bundles)
+- 컬렉션(Collections)
+- 숫자(Number)
+- 텍스트(Text)
+- 날짜(Date)
+- 불리언(Boolean)
+- 바이너리(Binary)
