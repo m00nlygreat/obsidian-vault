@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "글/220228 0508.md",
+                "file": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "220228 0508"
+              "title": "Make와 백엔드 자동화"
             }
           }
         ],
@@ -163,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "글/220228 0508.md"
+                "file": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 220228 0508"
+              "title": "Outline of Make와 백엔드 자동화"
             }
           },
           {
@@ -291,6 +291,7 @@
   },
   "active": "20794392b7d3e28c",
   "lastOpenFiles": [
+    "글/220228 0508.md",
     "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
     "강의/Topics/API.md",
     "강의/노코드 엔지니어링/_Make와 백엔드 자동화.md",
@@ -326,7 +327,6 @@
     "글/Dying Light 2 - Stay Human.md",
     "글/The Last Of Us Part 1.md",
     "강의/생성형AI/AI이모저모.md",
-    "강의/생성형AI/ChatGPT 강의를 안하고 싶은 이유.md",
     "강의/Untitled.canvas",
     "강의/서비스기획/attachments",
     "강의/Topics/attachments",
