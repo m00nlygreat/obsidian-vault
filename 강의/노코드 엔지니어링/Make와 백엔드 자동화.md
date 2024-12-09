@@ -106,4 +106,15 @@ author:
 - Docs/Sheets/Slides/Forms
 - Drive/Calendar
 - Gmail
-	- 
+
+### 인스턴트 메시징
+
+- 텔레그램/디스코드
+- Solapi(SMS/카카오톡)
+
+### DB
+
+- 노션
+- Airtable
+
+### 소셜 미디어, ㅇ
