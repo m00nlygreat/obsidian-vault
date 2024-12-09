@@ -136,3 +136,14 @@ author:
 - Replicate
 
 ### Flow Control
+
+- Repeater
+- Iterator
+- Array Aggregator
+- Router
+
+### Tools 및 기타
+
+- Basic Trigger
+- JSON
+- HTTP Request
