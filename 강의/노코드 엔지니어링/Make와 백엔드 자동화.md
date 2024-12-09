@@ -71,6 +71,7 @@ author:
 - 숫자(Number)
 - 텍스트(Text)
 - 날짜(Date)
+	- ISO 
 - 불리언(Boolean)
 - 바이너리(Binary)
 
