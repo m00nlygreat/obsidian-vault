@@ -101,6 +101,9 @@ author:
 
 ## 주요 모듈들
 
-### 구글 Suites
+### 구글 G Suites
 
-- 
+- Docs/Sheets/Slides/Forms
+- Drive/Calendar
+- Gmail
+	- 개인 계정의 경우 GCP에서 프로젝트 생성해야함
