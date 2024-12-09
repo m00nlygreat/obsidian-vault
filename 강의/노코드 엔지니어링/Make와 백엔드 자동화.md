@@ -105,19 +105,29 @@ author:
 
 - Docs/Sheets/Slides/Forms
 - Drive/Calendar
-- Gmail
+- **Gmail**
 
 ### 인스턴트 메시징
 
 - 텔레그램/디스코드
 - Solapi(SMS/카카오톡)
 
-### DB
+### DB, 저장소
 
 - 노션
 - Airtable
+- 드롭박스
+
+***
 
 ### 소셜 미디어, 블로그
 
 - 노션
 - 인스타그램 for business
+- 틱톡/페이스북/유튜브
+
+### Gen AI
+
+- OpenAI
+- Claude
+- Google Vertex AI (Gemini)
