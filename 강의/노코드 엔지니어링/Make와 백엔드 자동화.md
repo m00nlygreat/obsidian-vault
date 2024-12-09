@@ -89,10 +89,9 @@ author:
 ### OAuth
 
 - Open Authorization
-	- 한 번 정도 사용자로 하여금 직접 로그인을 하도록 하고,
-	- 그 로그인 정보를 남겨 대신 로그인하도록 하는 것
-- 대부분 웹 인터페이스를 필
-
+- 대부분 웹 인터페이스를 사용하여 직접 로그인을 하도록 하나
+- 몇몇 구글 서비스는 Google Cloud Platform에서 발급한 Client / Client Secret을 사용해야 함
+	- 대표적으로 Gmail
 
 ### API Key
 
