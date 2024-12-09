@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹클립/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization.md",
-                "mode": "preview",
+                "file": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization"
+              "title": "Make와 백엔드 자동화"
             }
           }
         ],
@@ -148,10 +148,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "웹클립/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization.md"
+                "file": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization"
+              "title": "Outline of Make와 백엔드 자동화"
             }
           },
           {
@@ -276,12 +276,12 @@
   },
   "active": "d16c82de095532a2",
   "lastOpenFiles": [
+    "웹클립/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization.md",
     "강의/Topics/API.md",
     "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝/2020_024_003.jpg",
     "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝/2020_024_002.jpg",
     "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝",
     "attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝/2020_024_002.jpg.md",
-    "웹클립/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization.md",
     "attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝",
     "웹클립/attachments",
     "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
