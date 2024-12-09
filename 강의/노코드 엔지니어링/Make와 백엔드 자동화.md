@@ -73,3 +73,5 @@ author:
 - 날짜(Date)
 - 불리언(Boolean)
 - 바이너리(Binary)
+
+## 인증 (Authentication)

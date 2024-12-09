@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/감시사회.md",
-                "mode": "source",
+                "file": "웹클립/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "감시사회"
+              "title": "비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization"
             }
           }
         ],
@@ -163,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/감시사회.md"
+                "file": "웹클립/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 감시사회"
+              "title": "Outline of 비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization"
             }
           },
           {
@@ -291,6 +291,10 @@
   },
   "active": "20794392b7d3e28c",
   "lastOpenFiles": [
+    "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
+    "웹클립/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization.md",
+    "강의/Topics/서버는 무한루프다..md",
+    "아이디어/감시사회.md",
     "아이디어/랜선집사.md",
     "아이디어/나 살아있소.md",
     "아이디어/링크 래퍼.md",
@@ -304,7 +308,6 @@
     "아이디어/블록코딩 앱.md",
     "아이디어/구독 관리 노션 템플릿.md",
     "아이디어/플러터 기반 스니펫 에디터.md",
-    "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
     "글/220228 0508.md",
     "강의/Topics/API.md",
     "강의/노코드 엔지니어링/_Make와 백엔드 자동화.md",
@@ -312,7 +315,6 @@
     "강의/Topics/서비스 기획 잔소리.md",
     "강의/노코드 엔지니어링/attachments/make-intro.png",
     "강의/노코드 엔지니어링/attachments/Create_without_limits___1.webp",
-    "강의/Topics/서버는 무한루프다..md",
     "강의/포트폴리오.md",
     "강의/포트폴리오 메모.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
@@ -320,12 +322,10 @@
     "강의/attachments/Pasted image 20240624184631.png",
     "강의/attachments/Pasted image 20240624180948.png",
     "강의/attachments/Pasted image 20240624163557.png",
-    "강의/Topics/LLM을 UX에 통합하기.md",
     "강의/attachments/api-response-request.png",
     "강의/attachments/terms-for-api.png",
     "강의/attachments/terms-for-api 1.png",
     "강의/노코드 엔지니어링/attachments/backend-request-response.png",
-    "강의/강의 업데이트 초안.md",
     "강의/노코드 엔지니어링/attachments/framer-breakpoints.png",
     "강의/Untitled.canvas",
     "강의/서비스기획/attachments",
