@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
@@ -277,6 +277,8 @@
   "active": "d16c82de095532a2",
   "lastOpenFiles": [
     "강의/노코드 엔지니어링/attachments/make-functions.png",
+    "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
+    "강의/노코드 엔지니어링/attachments/make-functions.png",
     "강의/노코드 엔지니어링/_Make와 백엔드 자동화.md",
     "웹클립/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization.md",
     "강의/Topics/API.md",
@@ -286,7 +288,6 @@
     "attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝/2020_024_002.jpg.md",
     "attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝",
     "웹클립/attachments",
-    "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
     "강의/Topics/서버는 무한루프다..md",
     "아이디어/감시사회.md",
     "아이디어/랜선집사.md",
@@ -313,8 +314,6 @@
     "강의/attachments/Pasted image 20240624180948.png",
     "강의/attachments/Pasted image 20240624163557.png",
     "강의/attachments/api-response-request.png",
-    "강의/attachments/terms-for-api.png",
-    "강의/attachments/terms-for-api 1.png",
     "강의/Untitled.canvas",
     "강의/서비스기획/attachments",
     "강의/Topics/attachments",
