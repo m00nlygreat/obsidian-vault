@@ -128,8 +128,11 @@ author:
 
 ---
 
-### Gen AI
+### Generative AI
 
 - OpenAI
 - Claude
 - Google Vertex AI (Gemini)
+- Replicate
+
+### Flow Control
