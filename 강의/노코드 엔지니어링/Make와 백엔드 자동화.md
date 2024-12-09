@@ -106,4 +106,4 @@ author:
 - Docs/Sheets/Slides/Forms
 - Drive/Calendar
 - Gmail
-	- 개인 계정의 경우 GCP에서 프로젝트 생성해야함
+	- 
