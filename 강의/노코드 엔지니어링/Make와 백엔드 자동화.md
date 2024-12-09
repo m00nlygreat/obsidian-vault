@@ -67,14 +67,19 @@ author:
 ## 데이터 타입 (Data Types)
 
 - 번들(Bundles)
+	- 엄밀한 의미에서 타입은 아니고 Make의 개념에 가까움
 - 컬렉션(Collections)
 - 숫자(Number)
 - 텍스트(Text)
+
+***
+
 - 날짜(Date)
 	- ISO 8601 형식을 따름
 	- `2024-12-10T00:45:00`
 - 불리언(Boolean)
 - 바이너리(Binary)
+	- 파일, 이미지, 음성 등
 
 ## 인증 (Authentication)
 
