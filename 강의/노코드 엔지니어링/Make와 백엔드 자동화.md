@@ -142,8 +142,17 @@ author:
 - Array Aggregator
 - Router
 
+***
+
 ### Tools 및 기타
 
 - Basic Trigger
 - JSON
 - HTTP Request
+
+## Functions
+
+- 구글시트, 노션과 비슷하게 Make 전용 함수들을 아이템 매핑에 사용할 수 있음
+- 특이하게 인수 구분자로 세미콜론(`;`)을 사용
+
+![](attachments/make-functions.png)
