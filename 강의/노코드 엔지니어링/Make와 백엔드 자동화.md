@@ -117,4 +117,7 @@ author:
 - 노션
 - Airtable
 
-### 소셜 미디어, ㅇ
+### 소셜 미디어, 블로그
+
+- 노션
+- 인스타그램 for business
