@@ -58,11 +58,13 @@ author:
 	- 대표적으로 'Watch ..' 로 시작하는 모듈
 	- `ACID` 가 붙어있는 모듈들
 
-### 모듈(Modules)
+## 모듈(Modules)
 
 - 실질적으로 기능을 수행하거나 작업의 흐름을 제어하는 요소
 - 요소마다 작업의 결과 데이터를 반환(Return)하고
 	- 이 데이터는 이후의 모듈에서 사용할 수 있다
+
+![](attachments/make-modules.png)
 
 ## 데이터 타입 (Data Types)
 
