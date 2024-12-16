@@ -23,18 +23,6 @@
             }
           },
           {
-            "id": "d91d34e4cfb78f1a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
             "id": "e93e309b4765b62b",
             "type": "leaf",
             "state": {
@@ -50,8 +38,7 @@
               "title": "Changelog"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,7 +219,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d91d34e4cfb78f1a",
+  "active": "4691f646667d891f",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "강의/포트폴리오.md",
