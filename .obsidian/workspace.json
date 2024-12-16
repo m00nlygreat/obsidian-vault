@@ -13,28 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/포트폴리오.md",
+                "file": "아이디어/랜선집사.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "포트폴리오"
-            }
-          },
-          {
-            "id": "3ff2cc2a0690200b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "랜선집사"
             }
           },
           {
@@ -53,8 +38,7 @@
               "title": "Changelog"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,12 +120,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "아이디어/랜선집사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from conflict-files-obsidian-git"
+              "title": "Outgoing links from 랜선집사"
             }
           },
           {
@@ -163,10 +147,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "아이디어/랜선집사.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of 랜선집사"
             }
           },
           {
@@ -175,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "아이디어/랜선집사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks for 랜선집사"
             }
           },
           {
@@ -235,8 +219,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ff2cc2a0690200b",
+  "active": "4691f646667d891f",
   "lastOpenFiles": [
+    "아이디어/감시사회.md",
+    "아이디어/아이디어.md",
+    "아이디어/양손 스와이프 키보드.md",
+    "아이디어/블록코딩 앱.md",
+    "아이디어/맥시멀리스트.md",
+    "아이디어/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
+    "아이디어/마인크래프트 성장형 RPG 시스템.md",
+    "아이디어/링크 래퍼.md",
+    "아이디어/구독 관리 노션 템플릿.md",
     "강의/포트폴리오.md",
     "conflict-files-obsidian-git.md",
     "웹클립/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization.md",
@@ -264,19 +257,10 @@
     "아이디어/트랙볼을 가진 게임 컨트롤러.md",
     "아이디어/유튜브 채널 구독 현황 비교.md",
     "아이디어/옛한글을 복원시키기 위한 한글 입력 방식 개발.md",
-    "아이디어/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
-    "아이디어/구독 관리 노션 템플릿.md",
     "아이디어/OBS용 마우스-키보드 하이라이트 플러그인.md",
     "메모/성공한 CEO가 되기 위한 조건.md",
     "글/형식이 아닌 내용으로 평가하는 사회가 되었으면 좋겠다.md",
-    "글/아저씨가 된다는 것.md",
-    "글/민희진이 드러낸 게임업계의 민낯.md",
-    "글/The Last Of Us Part 1.md",
-    "강의/포트폴리오 메모.md",
-    "강의/채용 공통.md",
     "강의/서비스기획/attachments/신한카드 UX Writing 가이드북_v1.0.pdf",
-    "강의/서비스기획/프로젝트 매니지먼트.md",
-    "강의/서비스기획/조작-인터랙션-피드백.md",
     "강의/서비스기획/attachments",
     "강의/서비스기획",
     "강의/Topics/attachments",
