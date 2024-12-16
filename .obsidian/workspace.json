@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/랜선집사.md",
+                "file": "아이디어/감시사회.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "랜선집사"
+              "title": "감시사회"
             }
           },
           {
@@ -120,12 +120,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이디어/랜선집사.md",
+                "file": "아이디어/감시사회.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 랜선집사"
+              "title": "Outgoing links from 감시사회"
             }
           },
           {
@@ -147,10 +147,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/랜선집사.md"
+                "file": "아이디어/감시사회.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 랜선집사"
+              "title": "Outline of 감시사회"
             }
           },
           {
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "아이디어/랜선집사.md",
+                "file": "아이디어/감시사회.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 랜선집사"
+              "title": "Backlinks for 감시사회"
             }
           },
           {
@@ -221,9 +221,9 @@
   },
   "active": "4691f646667d891f",
   "lastOpenFiles": [
+    "아이디어/랜선집사.md",
     "아이디어/나 살아있소.md",
     "아이디어/링크 래퍼.md",
-    "아이디어/랜선집사.md",
     "아이디어/감시사회.md",
     "아이디어/아이디어.md",
     "아이디어/양손 스와이프 키보드.md",
