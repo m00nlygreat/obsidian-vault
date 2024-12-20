@@ -51,24 +51,9 @@
               "icon": "lucide-file",
               "title": "서비스기획 재료"
             }
-          },
-          {
-            "id": "8be1f813bbd14ee9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,10 +148,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -289,10 +274,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "8be1f813bbd14ee9",
+  "active": "d16c82de095532a2",
   "lastOpenFiles": [
-    "강의/서비스기획 재료.md",
     "conflict-files-obsidian-git.md",
+    "강의/서비스기획 재료.md",
     "강의/기획 선배의 맞는 말 대잔치.md",
     "강의/_기획 선배의 맞는 말 대잔치.md",
     "강의/서비스기획/프로젝트 매니지먼트.md",
