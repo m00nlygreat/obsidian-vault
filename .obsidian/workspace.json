@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스기획/UI 기타.md",
+                "file": "강의/서비스기획 재료.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "UI 기타"
+              "title": "서비스기획 재료"
             }
           }
         ],
@@ -148,10 +148,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획/UI 기타.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of UI 기타"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -276,6 +276,7 @@
   },
   "active": "d16c82de095532a2",
   "lastOpenFiles": [
+    "강의/서비스기획/UI 기타.md",
     "강의/서비스기획/UI 엘리먼트.md",
     "강의/서비스기획/UI-UX 개론.md",
     "강의/서비스기획/UX 이모저모.md",
@@ -309,7 +310,6 @@
     "강의/Topics/서버는 무한루프다..md",
     "아이디어/감시사회.md",
     "아이디어/랜선집사.md",
-    "아이디어/나 살아있소.md",
     "강의/노코드 엔지니어링/attachments/make-intro.png",
     "강의/노코드 엔지니어링/attachments/Create_without_limits___1.webp",
     "강의/attachments/Pasted image 20240624184631.png",
