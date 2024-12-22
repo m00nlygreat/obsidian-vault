@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스기획 재료.md",
+                "file": "강의/UX 이론.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "서비스기획 재료"
+              "title": "UX 이론"
             }
           }
         ],
@@ -148,10 +148,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획 재료.md"
+                "file": "강의/UX 이론.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스기획 재료"
+              "title": "Outline of UX 이론"
             }
           },
           {
@@ -276,6 +276,7 @@
   },
   "active": "d16c82de095532a2",
   "lastOpenFiles": [
+    "강의/서비스기획 재료.md",
     "강의/서비스기획/UI 기타.md",
     "강의/서비스기획/UI 엘리먼트.md",
     "강의/서비스기획/UI-UX 개론.md",
@@ -283,7 +284,6 @@
     "강의/서비스기획/UX Writing.md",
     "강의/서비스기획/유저 퍼소나.md",
     "강의/서비스기획/조작-인터랙션-피드백.md",
-    "강의/서비스기획 재료.md",
     "conflict-files-obsidian-git.md",
     "강의/기획 선배의 맞는 말 대잔치.md",
     "강의/_기획 선배의 맞는 말 대잔치.md",
