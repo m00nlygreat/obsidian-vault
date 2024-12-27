@@ -21,19 +21,8 @@
               "icon": "lucide-file",
               "title": "서비스기획 재료"
             }
-          },
-          {
-            "id": "c510be6da00d48c6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,9 +130,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "강의/서비스기획 재료.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -212,8 +203,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c510be6da00d48c6",
+  "active": "4691f646667d891f",
   "lastOpenFiles": [
+    "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
+    "웹클립/진보는 외부 자극에, 보수는 공포에 민감.md",
+    "웹클립/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization.md",
+    "별자리/별자리 이야기 - 게자리의 성격 [6.22~7.22].md",
     "conflict-files-obsidian-git.md",
     "강의/강의 업데이트 초안.md",
     "강의/강의 준비 체크포인트.md",
@@ -231,7 +226,6 @@
     "아이디어/마인크래프트 성장형 RPG 시스템.md",
     "아이디어/구독 관리 노션 템플릿.md",
     "강의/포트폴리오.md",
-    "웹클립/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization.md",
     "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝/2020_024_003.jpg",
     "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝/2020_024_002.jpg",
     "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝",
@@ -250,9 +244,6 @@
     "강의/Topics/API.md",
     "attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝/2020_024_002.jpg.md",
     "attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝",
-    "강의/생성형AI/이미지 생성.md",
-    "아이디어/플러터 기반 스니펫 에디터.md",
-    "아이디어/트랙볼을 가진 게임 컨트롤러.md",
     "강의/서비스기획/attachments/신한카드 UX Writing 가이드북_v1.0.pdf",
     "강의/서비스기획/attachments",
     "강의/서비스기획",
