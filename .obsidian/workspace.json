@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f9fbcf8ed7a5d8dd",
+        "id": "c3c7eafc766f332b",
         "type": "tabs",
         "children": [
           {
-            "id": "4691f646667d891f",
+            "id": "c9b8956077b6de5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스기획 재료.md",
+                "file": "강의/서비스기획/UX 이모저모.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "서비스기획 재료"
+              "title": "UX 이모저모"
             }
           }
         ]
@@ -131,10 +131,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획 재료.md"
+                "file": "강의/서비스기획/UX 이모저모.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 서비스기획 재료"
+              "title": "Outline of UX 이모저모"
             }
           },
           {
@@ -203,14 +203,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4691f646667d891f",
+  "active": "c9b8956077b6de5c",
   "lastOpenFiles": [
-    "강의/서비스기획/UI 엘리먼트.md",
+    "강의/서비스기획/UX 이모저모.md",
     "강의/서비스기획 재료.md",
+    "강의/서비스기획/UI 엘리먼트.md",
     "강의/서비스기획/서비스기획 개론.md",
     "강의/서비스기획/UI-UX 개론.md",
     "강의/서비스기획/UX Writing.md",
-    "강의/서비스기획/UX 이모저모.md",
     "강의/서비스기획/기타 UX 도구들.md",
     "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
     "웹클립/진보는 외부 자극에, 보수는 공포에 민감.md",

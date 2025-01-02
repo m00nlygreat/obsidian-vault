@@ -46,3 +46,7 @@
 
 ![](../attachments/ux-onething-per-page.png)
 
+## System-wide preferences
+
+- 유저의 시각적 선호도 등을 시스템에서 설정하고, 애플리케이션이 이를 따르도록 하는 트렌드
+- 다크모드, 텍스트 스케일 등
