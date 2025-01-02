@@ -194,14 +194,17 @@
 
 ## Screen / Page
 
-- 가장 큰 단위의 목적을 가진 UI의 단위
-- 페이지의 구분은 자의적임
-- One Page One Thing
-- Single Column
+- 페이지의 구분과 논리적 위계는 자의적임
 - 왼쪽 -> 오른쪽
 	- 이전 -> 이후
 	- 큰 것 -> 작은 것
 	- Public -> Private
+- 유저가 길을 잃지 않게 하기
+	- 논리적인 위계
+	- Breadcrumbs
+	- One Page One Thing
+	- Single Column
+	- 카드소팅(Card Sorting)
 
 ![](../attachments/Pasted%20image%2020240711151605.png)
 
