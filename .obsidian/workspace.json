@@ -11,10 +11,15 @@
             "id": "c78b8ed3aa9dfe3a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "강의/서비스기획/기타 UX 도구들.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "기타 UX 도구들"
             }
           }
         ]
@@ -125,9 +130,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "강의/서비스기획/기타 UX 도구들.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 기타 UX 도구들"
             }
           },
           {
