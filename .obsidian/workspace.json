@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스기획/UX 이모저모.md",
+                "file": "강의/서비스기획 재료.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "UX 이모저모"
+              "title": "서비스기획 재료"
             }
           }
         ]
@@ -131,10 +131,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획/UX 이모저모.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of UX 이모저모"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -206,6 +206,7 @@
   "active": "c9b8956077b6de5c",
   "lastOpenFiles": [
     "강의/서비스기획/UX 이모저모.md",
+    "강의/서비스기획/attachments/ux-toss-dark-mode.png",
     "강의/서비스기획 재료.md",
     "강의/서비스기획/UI 엘리먼트.md",
     "강의/서비스기획/서비스기획 개론.md",
@@ -230,7 +231,6 @@
     "아이디어/맥시멀리스트.md",
     "아이디어/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
     "아이디어/마인크래프트 성장형 RPG 시스템.md",
-    "아이디어/구독 관리 노션 템플릿.md",
     "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝/2020_024_003.jpg",
     "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝/2020_024_002.jpg",
     "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝",
@@ -242,7 +242,6 @@
     "강의/노코드 엔지니어링/attachments/framer-position.png",
     "강의/노코드 엔지니어링/attachments/framer-breakpoints.png",
     "강의/attachments/terms-for-api.png",
-    "강의/attachments/api-response-request.png",
     "attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝",
     "강의/서비스기획/attachments/신한카드 UX Writing 가이드북_v1.0.pdf",
     "강의/서비스기획/attachments",
