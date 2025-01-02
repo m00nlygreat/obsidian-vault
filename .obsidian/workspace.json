@@ -1,42 +1,73 @@
 {
   "main": {
-    "id": "9ac72e3f2a1da44a",
+    "id": "8b8070ed4a495cc7",
     "type": "split",
     "children": [
       {
-        "id": "f9fbcf8ed7a5d8dd",
+        "id": "b54ac36c6bc39087",
         "type": "tabs",
         "children": [
           {
-            "id": "4691f646667d891f",
+            "id": "d7e97717b2451289",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스기획/UI-UX 개론.md",
+                "file": "글/Dying Light 2 - Stay Human.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "UI-UX 개론"
+              "title": "Dying Light 2 - Stay Human"
+            }
+          },
+          {
+            "id": "74d2ee02e39e6c84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/노코드 엔지니어링/필살기 프레이머.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "필살기 프레이머"
+            }
+          },
+          {
+            "id": "d16c82de095532a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/기획 선배의 맞는 말 대잔치.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "기획 선배의 맞는 말 대잔치"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fb508bf35a5cba5b",
+    "id": "ab59f03934a02adc",
     "type": "split",
     "children": [
       {
-        "id": "175ca76bbb9f696c",
+        "id": "45bfd629ba921775",
         "type": "tabs",
         "children": [
           {
-            "id": "0ef2b4b022d7ac86",
+            "id": "d882dff4f3e14dff",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +79,7 @@
             }
           },
           {
-            "id": "7dabb426e7a09645",
+            "id": "ed03e785266d9f8d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +96,7 @@
             }
           },
           {
-            "id": "f79b2e9a1d8c16a0",
+            "id": "fa98336cee83e93c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,47 +104,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "fe63657c78a39fa9",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 347.5
   },
   "right": {
-    "id": "347bc8c266adcad6",
+    "id": "754bb3f6bae70b57",
     "type": "split",
     "children": [
       {
-        "id": "3cc01ac830c0bcc0",
+        "id": "da6c46f756e0c96b",
         "type": "tabs",
         "children": [
           {
-            "id": "26c325dbdf70b192",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "아이디어/감시사회.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 감시사회"
-            }
-          },
-          {
-            "id": "cbedafcca3f5d3ed",
+            "id": "69148f6cdd2b30f3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -126,24 +133,34 @@
             }
           },
           {
-            "id": "add325b5f570d310",
+            "id": "ac2a8cc2bb5f70a5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "6e7be19b029eca7b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획/UI-UX 개론.md"
+                "file": "강의/기획 선배의 맞는 말 대잔치.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of UI-UX 개론"
+              "title": "Outline of 기획 선배의 맞는 말 대잔치"
             }
           },
           {
-            "id": "1d7ec01d5e58e51a",
+            "id": "2811e36b9ad8fd83",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "아이디어/감시사회.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,21 +170,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 감시사회"
+              "title": "Backlinks for 아는 만큼 쓰는 ChatGPT.baked"
             }
           },
           {
-            "id": "9e1d77b4f8def889",
+            "id": "e582ed13c41f520f",
             "type": "leaf",
             "state": {
-              "type": "QUICKSHARE_SIDE_VIEW",
-              "state": {},
-              "icon": "cloud",
-              "title": "QuickShare"
+              "type": "outgoing-link",
+              "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 아는 만큼 쓰는 ChatGPT.baked"
             }
           },
           {
-            "id": "4726ab15cd8907af",
+            "id": "23acbe2ef3681bb9",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -179,78 +200,130 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "491b93e5c11905b3",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {},
+              "icon": "cloud",
+              "title": "QuickShare"
+            }
+          },
+          {
+            "id": "dca14328881d19ce",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "4e3995dbf096b2b7",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "e82b8ca11c5ecaee",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "b161a88202d222f5",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "copilot:Copilot Chat": false,
-      "terminal:Open terminal": false,
-      "publish:Publish changes...": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "obsidian-to-notion:Share to notion": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-to-notion:Share to notion": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "publish:Publish changes...": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "4691f646667d891f",
+  "active": "d16c82de095532a2",
   "lastOpenFiles": [
-    "강의/서비스기획/UX Writing.md",
-    "강의/서비스기획/UX 이모저모.md",
-    "강의/서비스기획/기타 UX 도구들.md",
     "강의/서비스기획 재료.md",
-    "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
-    "웹클립/진보는 외부 자극에, 보수는 공포에 민감.md",
-    "웹클립/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization.md",
-    "별자리/별자리 이야기 - 게자리의 성격 [6.22~7.22].md",
-    "conflict-files-obsidian-git.md",
-    "강의/강의 업데이트 초안.md",
-    "강의/강의 준비 체크포인트.md",
     "강의/기획 선배의 맞는 말 대잔치.md",
-    "아이디어/감시사회.md",
-    "아이디어/랜선집사.md",
-    "아이디어/나 살아있소.md",
-    "아이디어/링크 래퍼.md",
-    "아이디어/아이디어.md",
-    "아이디어/양손 스와이프 키보드.md",
-    "아이디어/블록코딩 앱.md",
-    "아이디어/맥시멀리스트.md",
-    "아이디어/마크다운의 헤딩은 가장 작은 단위에서 위로 올라가야 하지 않을까.md",
-    "아이디어/마인크래프트 성장형 RPG 시스템.md",
-    "아이디어/구독 관리 노션 템플릿.md",
-    "강의/포트폴리오.md",
+    "conflict-files-obsidian-git.md",
+    "강의/서비스기획/다양한 사용자를 고려하기.md",
+    "강의/서비스기획/UX 이모저모.md",
+    "강의/UX 이론.md",
+    "강의/강의 업데이트 초안.md",
+    "강의/서비스기획/UI 기타.md",
+    "강의/서비스기획/UI 엘리먼트.md",
+    "강의/서비스기획/UI-UX 개론.md",
+    "강의/서비스기획/UX Writing.md",
+    "강의/서비스기획/유저 퍼소나.md",
+    "강의/서비스기획/조작-인터랙션-피드백.md",
+    "강의/_기획 선배의 맞는 말 대잔치.md",
+    "강의/서비스기획/프로젝트 매니지먼트.md",
+    "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
+    "강의/노코드 엔지니어링/_노션 야무지게 쓰기.md",
+    "아이디어/유튜브 채널 구독 현황 비교.md",
+    "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
+    "강의/생성형AI/ChatGPT 예제.md",
+    "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
+    "강의/노코드 엔지니어링/필살기 프레이머.md",
+    "강의/노코드 엔지니어링/_Make와 백엔드 자동화.md",
+    "강의/노코드 엔지니어링/attachments/make-modules.png",
+    "강의/노코드 엔지니어링/attachments/make-functions.png",
+    "강의/노코드 엔지니어링/attachments/make-functions.png",
+    "웹클립/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization.md",
+    "강의/Topics/API.md",
     "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝/2020_024_003.jpg",
     "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝/2020_024_002.jpg",
     "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝",
-    "웹클립/attachments",
-    "글/Dying Light 2 - Stay Human.md",
-    "강의/노코드 엔지니어링/attachments/page-panel.png",
-    "강의/노코드 엔지니어링/attachments/make-modules.png",
-    "강의/노코드 엔지니어링/attachments/make-intro.png",
-    "강의/노코드 엔지니어링/attachments/make-functions.png",
-    "강의/노코드 엔지니어링/attachments/framer-position.png",
-    "강의/노코드 엔지니어링/attachments/framer-breakpoints.png",
-    "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
-    "강의/attachments/terms-for-api.png",
-    "강의/attachments/api-response-request.png",
+    "attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝/2020_024_002.jpg.md",
     "attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝",
-    "강의/서비스기획/attachments/신한카드 UX Writing 가이드북_v1.0.pdf",
+    "웹클립/attachments",
+    "강의/노코드 엔지니어링/attachments/make-intro.png",
+    "강의/노코드 엔지니어링/attachments/Create_without_limits___1.webp",
+    "강의/attachments/Pasted image 20240624184631.png",
+    "강의/attachments/Pasted image 20240624180948.png",
+    "강의/attachments/Pasted image 20240624163557.png",
+    "강의/Untitled.canvas",
     "강의/서비스기획/attachments",
-    "강의/서비스기획",
     "강의/Topics/attachments",
     "강의/Topics",
-    "notes/멘토링복붙.md.backup",
-    "notes/attachments",
-    "무제 파일.canvas"
+    "Untitled.canvas",
+    "강의/attachment",
+    "output",
+    "강의/강의.7z",
+    "강의/강의.zip",
+    "Untitled 1.canvas"
   ]
 }
