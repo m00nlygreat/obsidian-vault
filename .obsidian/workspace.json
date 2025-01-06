@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스기획/기타 UX 도구들.md",
-                "mode": "source",
+                "file": "강의/서비스기획/UX 이모저모.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "기타 UX 도구들"
+              "title": "UX 이모저모"
             }
           }
         ]
@@ -131,10 +131,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획/기타 UX 도구들.md"
+                "file": "강의/서비스기획/UX 이모저모.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 기타 UX 도구들"
+              "title": "Outline of UX 이모저모"
             }
           },
           {
@@ -205,6 +205,7 @@
   },
   "active": "c78b8ed3aa9dfe3a",
   "lastOpenFiles": [
+    "강의/서비스기획/기타 UX 도구들.md",
     "강의/서비스기획/attachments/ux-card-sorting.png",
     "강의/서비스기획 재료.md",
     "강의/서비스기획/UX 이모저모.md",
@@ -213,7 +214,6 @@
     "강의/서비스기획/서비스기획 개론.md",
     "강의/서비스기획/UI-UX 개론.md",
     "강의/서비스기획/UX Writing.md",
-    "강의/서비스기획/기타 UX 도구들.md",
     "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
     "웹클립/진보는 외부 자극에, 보수는 공포에 민감.md",
     "웹클립/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization.md",
@@ -242,7 +242,6 @@
     "강의/노코드 엔지니어링/attachments/make-functions.png",
     "강의/노코드 엔지니어링/attachments/framer-position.png",
     "강의/노코드 엔지니어링/attachments/framer-breakpoints.png",
-    "강의/attachments/terms-for-api.png",
     "attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝",
     "강의/서비스기획/attachments/신한카드 UX Writing 가이드북_v1.0.pdf",
     "강의/서비스기획/attachments",
