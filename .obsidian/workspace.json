@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/기획 선배의 맞는 말 대잔치.md",
+                "file": "강의/UX 이론.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "기획 선배의 맞는 말 대잔치"
+              "title": "UX 이론"
             }
           }
         ],
@@ -148,10 +148,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/기획 선배의 맞는 말 대잔치.md"
+                "file": "강의/UX 이론.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 기획 선배의 맞는 말 대잔치"
+              "title": "Outline of UX 이론"
             }
           },
           {
@@ -276,8 +276,8 @@
   },
   "active": "d16c82de095532a2",
   "lastOpenFiles": [
-    "강의/서비스기획 재료.md",
     "강의/기획 선배의 맞는 말 대잔치.md",
+    "강의/서비스기획 재료.md",
     "conflict-files-obsidian-git.md",
     "강의/서비스기획/다양한 사용자를 고려하기.md",
     "강의/서비스기획/UX 이모저모.md",
