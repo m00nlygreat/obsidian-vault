@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "UX 이론"
             }
+          },
+          {
+            "id": "7c5a36afa9445202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,10 +148,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/UX 이론.md"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of UX 이론"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -259,14 +274,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d16c82de095532a2",
+  "active": "7c5a36afa9445202",
   "lastOpenFiles": [
+    "강의/UX 이론.md",
+    "conflict-files-obsidian-git.md",
+    "강의/서비스기획/attachments/ux-toss-dark-mode.png",
+    "강의/서비스기획/attachments/ux-card-sorting.png",
     "강의/기획 선배의 맞는 말 대잔치.md",
     "강의/서비스기획 재료.md",
-    "conflict-files-obsidian-git.md",
     "강의/서비스기획/다양한 사용자를 고려하기.md",
     "강의/서비스기획/UX 이모저모.md",
-    "강의/UX 이론.md",
     "강의/강의 업데이트 초안.md",
     "강의/서비스기획/UI 기타.md",
     "강의/서비스기획/UI 엘리먼트.md",
@@ -292,14 +309,11 @@
     "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝/2020_024_003.jpg",
     "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝/2020_024_002.jpg",
     "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝",
-    "attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝/2020_024_002.jpg.md",
     "attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝",
     "웹클립/attachments",
     "강의/노코드 엔지니어링/attachments/make-intro.png",
     "강의/노코드 엔지니어링/attachments/Create_without_limits___1.webp",
     "강의/attachments/Pasted image 20240624184631.png",
-    "강의/attachments/Pasted image 20240624180948.png",
-    "강의/attachments/Pasted image 20240624163557.png",
     "강의/Untitled.canvas",
     "강의/서비스기획/attachments",
     "강의/Topics/attachments",
