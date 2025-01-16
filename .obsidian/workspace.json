@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "독서/나의 구체적 비전.md",
+                "file": "독서/뇌는 팩트에 끌리지 않는다.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "나의 구체적 비전"
+              "title": "뇌는 팩트에 끌리지 않는다"
             }
           }
         ],
@@ -133,10 +133,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "독서/나의 구체적 비전.md"
+                "file": "독서/뇌는 팩트에 끌리지 않는다.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 나의 구체적 비전"
+              "title": "Outline of 뇌는 팩트에 끌리지 않는다"
             }
           },
           {
@@ -261,8 +261,8 @@
   },
   "active": "afd0e1eefcf55512",
   "lastOpenFiles": [
-    "독서/뇌는 팩트에 끌리지 않는다.md",
     "독서/나의 구체적 비전.md",
+    "독서/뇌는 팩트에 끌리지 않는다.md",
     "강의/Topics/마크다운.md",
     "강의/Topics/서버는 무한루프다..md",
     "강의/Topics/서비스 기획 잔소리.md",
