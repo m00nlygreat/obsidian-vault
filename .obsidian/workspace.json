@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/Topics/API.md",
+                "file": "강의/Topics/마크다운.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "API"
+              "title": "마크다운"
             }
           }
         ],
@@ -133,10 +133,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/Topics/API.md"
+                "file": "강의/Topics/마크다운.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of API"
+              "title": "Outline of 마크다운"
             }
           },
           {
@@ -261,8 +261,9 @@
   },
   "active": "afd0e1eefcf55512",
   "lastOpenFiles": [
-    "강의/Topics/서비스 기획 잔소리.md",
     "강의/Topics/서버는 무한루프다..md",
+    "강의/Topics/서비스 기획 잔소리.md",
+    "강의/Topics/API.md",
     "강의/서비스기획 재료.md",
     "강의/강의 업데이트 초안.md",
     "강의/강사 소개.md",
@@ -289,7 +290,6 @@
     "강의/서비스기획/조작-인터랙션-피드백.md",
     "강의/_기획 선배의 맞는 말 대잔치.md",
     "강의/서비스기획/프로젝트 매니지먼트.md",
-    "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
     "강의/노코드 엔지니어링/attachments/make-modules.png",
     "강의/노코드 엔지니어링/attachments/make-functions.png",
     "강의/노코드 엔지니어링/attachments/make-functions.png",
