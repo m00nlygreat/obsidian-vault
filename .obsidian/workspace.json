@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "독서/뇌는 팩트에 끌리지 않는다.md",
+                "file": "독서/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "뇌는 팩트에 끌리지 않는다"
+              "title": "Untitled"
             }
           }
         ],
@@ -133,10 +133,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "독서/뇌는 팩트에 끌리지 않는다.md"
+                "file": "독서/Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 뇌는 팩트에 끌리지 않는다"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -261,6 +261,8 @@
   },
   "active": "afd0e1eefcf55512",
   "lastOpenFiles": [
+    "독서/뇌는 팩트에 끌리지 않는다.md",
+    "독서/Untitled.md",
     "강의/Topics/마크다운.md",
     "강의/Topics/서버는 무한루프다..md",
     "강의/Topics/서비스 기획 잔소리.md",
@@ -268,7 +270,6 @@
     "강의/서비스기획 재료.md",
     "강의/강의 업데이트 초안.md",
     "강의/강사 소개.md",
-    "독서/뇌는 팩트에 끌리지 않는다.md",
     "아이디어/마인크래프트 성장형 RPG 시스템.md",
     "아이디어/맥시멀리스트.md",
     "아이디어/얘기를 할 데가 없어요.md",
@@ -289,7 +290,6 @@
     "강의/서비스기획/UX Writing.md",
     "강의/서비스기획/유저 퍼소나.md",
     "강의/서비스기획/조작-인터랙션-피드백.md",
-    "강의/_기획 선배의 맞는 말 대잔치.md",
     "강의/노코드 엔지니어링/attachments/make-modules.png",
     "강의/노코드 엔지니어링/attachments/make-functions.png",
     "강의/노코드 엔지니어링/attachments/make-functions.png",
