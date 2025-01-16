@@ -36,24 +36,9 @@
               "icon": "lucide-file",
               "title": "UX 이론"
             }
-          },
-          {
-            "id": "7c5a36afa9445202",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,10 +133,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "강의/UX 이론.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of UX 이론"
             }
           },
           {
@@ -274,10 +259,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7c5a36afa9445202",
+  "active": "d16c82de095532a2",
   "lastOpenFiles": [
-    "강의/UX 이론.md",
     "conflict-files-obsidian-git.md",
+    "강의/UX 이론.md",
     "강의/서비스기획/attachments/ux-toss-dark-mode.png",
     "강의/서비스기획/attachments/ux-card-sorting.png",
     "강의/기획 선배의 맞는 말 대잔치.md",
