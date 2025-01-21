@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "독서/뇌는 팩트에 끌리지 않는다.md",
+                "file": "강의/서비스기획 재료.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "뇌는 팩트에 끌리지 않는다"
+              "title": "서비스기획 재료"
             }
           }
         ],
@@ -133,10 +133,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "독서/뇌는 팩트에 끌리지 않는다.md"
+                "file": "강의/서비스기획 재료.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 뇌는 팩트에 끌리지 않는다"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -261,8 +261,8 @@
   },
   "active": "afd0e1eefcf55512",
   "lastOpenFiles": [
-    "메모/김기석 강사의 강의 경험담.md",
     "독서/뇌는 팩트에 끌리지 않는다.md",
+    "메모/김기석 강사의 강의 경험담.md",
     "강의/서비스기획 재료.md",
     "독서/나의 구체적 비전.md",
     "강의/Topics/마크다운.md",
