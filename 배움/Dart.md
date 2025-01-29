@@ -14,3 +14,15 @@ formatter는 세미콜론을 자동으로 입력해주지 않는다. 세미콜�
 
 ### Cascade operator
 
+## 변수 (Variables)
+
+- `String name = 'moon';` 과 같이 타입 지정할 수 있음
+- 로컬 변수를 만들면 그냥 `var` 쓰면 됨
+	- 타입은 픽스됨
+	- 업데이트할 수 있음 (값을 변경할 수 있음)
+
+## Dynamic
+
+- 어떤 타입이든 될 수 있는
+- `dynamic name`r
+
