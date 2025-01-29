@@ -29,4 +29,7 @@ formatter는 세미콜론을 자동으로 입력해주지 않는다. 세미콜�
 
 ## Null Safety
 
-- 기본적으로 Null 값을 
+- 기본적으로 Null 값을 참조할 수 없도록 하는 것.
+- `String? name = 'moon'`과 같이 선언하면 nullable을 표현할 수 있다
+
+
