@@ -40,4 +40,8 @@ formatter는 세미콜론을 자동으로 입력해주지 않는다. 세미콜�
 
 ## `late` modifier
 
-- late final String name 
+- `late final String name name;`
+- 데이터 없이 변수를 생성하고자 할 때 late 수식어를 사용
+	- API로부터 받아온다든지
+- 값에 접근하기 전에 할당해야함
+
