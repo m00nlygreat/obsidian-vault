@@ -106,4 +106,16 @@ var string = 'hello, everyone my name is $name and I\'m ${age+2}';
 
 ### map
 
-d
+```dart
+	Map<String, Object> player = {
+		'name' : 'moon',
+		age : 37,
+	}
+```
+
+```dart
+Map<List<int>, bool> yes_or_nos = {
+	[1,2,3]: true,
+	[2,3,3]: false,
+}
+```
