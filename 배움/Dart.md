@@ -24,7 +24,7 @@ formatter는 세미콜론을 자동으로 입력해주지 않는다. 세미콜�
 ## Dynamic
 
 - 어떤 타입이든 될 수 있는 변수 타입
-- `dynamic name`과 같이 선언
+- `dynamic name;`과 같이 선언
 	- 코드 내에서 타입이 확인되면 IDE가 타입에 대한 자동완성을 지원함.
 
 ## Null Safety
