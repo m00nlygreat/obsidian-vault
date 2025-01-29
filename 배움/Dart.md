@@ -119,3 +119,11 @@ Map<List<int>, bool> yes_or_nos = {
 	[2,3,3]: false,
 }
 ```
+
+- 니코는 key/value pair의 구조를 만들 때 Map 대신 class를 사용할 거라고 한다.
+
+### set
+
+```dart
+Set<int> numbers = {1,2,3,4};
+```
