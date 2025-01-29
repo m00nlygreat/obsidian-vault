@@ -73,5 +73,21 @@ void main() {
 
 ```
 
-### collection for / collection if
+#### collection if
+
+```dart
+
+var numbers = [1,2,3,4, if(true) 5]
+
+```
+
+### string interpolation
+
+```dart
+
+var name = 'moon';
+var age = 37;
+var string = 'hello, everyone my name is $name and I'm ${age+2}';
+
+```
 
