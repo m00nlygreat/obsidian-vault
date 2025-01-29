@@ -89,7 +89,7 @@ var oldFriends = ['악어', '토끼', '붕어'];
 var newFriends = [
 	'풍수',
 	'지녕',
-	for (f in oldFriends) "😎 $f",
+	for (f in oldFriends) "😎${f}",
 ];
 
 ```
@@ -120,10 +120,15 @@ Map<List<int>, bool> yes_or_nos = {
 }
 ```
 
-- 니코는 key/value pair의 구조를 만들 때 Map 대신 class를 사용할 거라고 한다.
+- 니코는 key/value pair의 구조를 만들 때(API response를 받아오거나) Map 대신 class를 사용할 거라고 한다.
 
 ### set
 
 ```dart
 Set<int> numbers = {1,2,3,4};
 ```
+
+- 파이썬의 Set과 같다.
+
+# 함수 (Functions)
+
