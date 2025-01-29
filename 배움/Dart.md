@@ -45,3 +45,8 @@ formatter는 세미콜론을 자동으로 입력해주지 않는다. 세미콜�
 	- API로부터 받아온다든지
 - 값에 접근하기 전에 할당해야함
 
+## `const` keyword
+
+- TS/JS의 const는 final과 비슷하게 작동
+- dart의 `const`는 compile-time constant를 생성
+	- 따라서 컴파일 시 그 값을 알고 있어야 한다.
