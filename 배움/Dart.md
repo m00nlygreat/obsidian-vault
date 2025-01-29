@@ -60,3 +60,16 @@ formatter는 세미콜론을 자동으로 입력해주지 않는다. 세미콜�
 - num 
 	- int
 	- double
+
+## Complex types
+
+### list
+
+```dart
+
+void main() {
+	List<int> numbers = [1,2,3,4];
+}
+
+```
+
