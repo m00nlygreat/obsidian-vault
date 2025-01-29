@@ -31,5 +31,8 @@ formatter는 세미콜론을 자동으로 입력해주지 않는다. 세미콜�
 
 - 기본적으로 Null 값을 참조할 수 없도록 하는 것.
 - `String? name = 'moon'`과 같이 선언하면 nullable을 표현할 수 있다
+	- `name?.isNotEmpty;`와 같이 **null이 아니라면**을 표현할 수 있다
+
+
 
 
