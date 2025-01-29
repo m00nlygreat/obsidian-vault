@@ -104,3 +104,6 @@ var string = 'hello, everyone my name is $name and I\'m ${age+2}';
 
 ```
 
+### map
+
+d
