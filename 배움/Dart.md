@@ -85,7 +85,7 @@ var numbers = [1,2,3,4, if(true) 5]
 
 ```dart
 
-var list = 
+var oldFriends = ['ㅇ]
 
 ```
 
