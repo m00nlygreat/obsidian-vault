@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "독서/뇌는 팩트에 끌리지 않는다.md",
+                "file": "배움/Dart.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "뇌는 팩트에 끌리지 않는다"
+              "title": "Dart"
             }
           }
         ],
@@ -133,10 +133,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "독서/뇌는 팩트에 끌리지 않는다.md"
+                "file": "배움/Dart.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 뇌는 팩트에 끌리지 않는다"
+              "title": "Outline of Dart"
             }
           },
           {
@@ -261,8 +261,15 @@
   },
   "active": "afd0e1eefcf55512",
   "lastOpenFiles": [
-    "독서/나의 구체적 비전.md",
+    "메모/정규식 문법 정리.md",
+    "배움/Dart.md",
+    "배움",
+    "메모/Untitled.md",
+    "메모/m00nlygreat의 경우.md",
+    "메모/성공한 CEO가 되기 위한 조건.md",
+    "메모/버블 스크롤 애니메이션.md",
     "독서/뇌는 팩트에 끌리지 않는다.md",
+    "독서/나의 구체적 비전.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "강의/기획 선배의 맞는 말 대잔치.md",
     "강의/서비스기획 재료.md",
@@ -292,12 +299,6 @@
     "conflict-files-obsidian-git.md",
     "강의/서비스기획/attachments/ux-toss-dark-mode.png",
     "강의/서비스기획/attachments/ux-card-sorting.png",
-    "강의/서비스기획/다양한 사용자를 고려하기.md",
-    "강의/서비스기획/UX 이모저모.md",
-    "강의/서비스기획/UI 기타.md",
-    "강의/서비스기획/UI 엘리먼트.md",
-    "강의/서비스기획/UI-UX 개론.md",
-    "강의/서비스기획/UX Writing.md",
     "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝",
     "attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝",
     "웹클립/attachments",
@@ -308,7 +309,6 @@
     "Untitled.canvas",
     "강의/attachment",
     "output",
-    "강의/강의.7z",
     "Untitled 1.canvas"
   ]
 }
