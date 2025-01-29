@@ -85,7 +85,12 @@ var numbers = [1,2,3,4, if(true) 5]
 
 ```dart
 
-var oldFriends = ['ㅇ]
+var oldFriends = ['악어', '토끼', '붕어'];
+var newFriends = [
+	'풍수',
+	'지녕',
+	for (f in oldFriends) "😎 $f",
+];
 
 ```
 
