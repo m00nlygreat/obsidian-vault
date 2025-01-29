@@ -33,6 +33,11 @@ formatter는 세미콜론을 자동으로 입력해주지 않는다. 세미콜�
 - `String? name = 'moon'`과 같이 선언하면 nullable을 표현할 수 있다
 	- `name?.isNotEmpty;`와 같이 **null이 아니라면**을 표현할 수 있다
 
+## `final` keyword
 
+- `final String name = 'moon'` 수정할 수 없는 변수를 만든다.
+	- 어차피 수정할 수 없으니 타입지정은 안해도 된다.
 
+## `late` modifier
 
+- late final String name 
