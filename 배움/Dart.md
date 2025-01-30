@@ -336,3 +336,16 @@ void main() {
   });
 }
 ```
+
+## cascade notation
+
+```dart
+var moon = Player(name: "moon", xp: 1200, team: "red");
+var potato = moon
+  ..name = "hyung"
+  ..xp = 150000
+  ..team = "blue"
+  ..sayHello();
+```
+
+- 앞에 object를 지칭하는 statement가 있으면 가능한 것 같다. 
