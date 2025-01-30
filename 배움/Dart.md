@@ -230,3 +230,30 @@ pr
 
 # 클래스 (Classes)
 
+```dart
+class Player {
+  late final String name; // constructor가 줄 것이므로 late
+  late int xp = 1500;
+  
+  void sayHello(){
+    print("Hi my name is $name with $xp");
+  } // this는 필요없다.
+  
+  Player(String name, int xp) {
+    this.name = name;
+    this.xp = xp;
+  }
+}
+
+void main() {
+
+  var player = Player('moon', 1500);
+  var player2 = Player('agger', 900);
+  player.sayHello();
+  player2.sayHello();
+  
+}
+```
+
+### dart의 constructor
+
