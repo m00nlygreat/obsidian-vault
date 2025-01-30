@@ -357,4 +357,4 @@ var potato = moon
 enum Team { red, blue }
 ```
 
-- d
+- enum은 타입처럼 쓸 수 있다.
