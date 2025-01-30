@@ -206,6 +206,7 @@ name ??= 'moon' // name이 null이면 'moon'을 할당
 ## typedef
 
 - 타입의 alias를 생성하는 기능
+- 같은 타입이지만 다른 의미를 가질 때도 추상적인 의미로서 붙이면 좋음
 
 ```dart
 typedef ListOfInts = List<int>;
