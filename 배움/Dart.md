@@ -132,3 +132,13 @@ Set<int> numbers = {1,2,3,4};
 
 # 함수 (Functions)
 
+```dart
+void sayHello(String name) {
+	print ("Hello $name");
+}
+```
+```dart
+String sayHello(String name) {
+	return "Hello $name";
+}
+```
