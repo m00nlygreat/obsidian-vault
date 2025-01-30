@@ -186,15 +186,20 @@ String sayHello(
 print(sayHello('Moon', 37));
 ```
 
-## QQ operator
+## QQ operator (null-aware operator)
 
-`??`
-`?=`
+### `??`
 
 ```dart
 String capitalizeName(String? name) => name?.toUpperCase() ?? 'moon'
 ```
 
-- 좌항의 name 객체 호출에도 ?를 붙이는 것에 유의 (null일 수 있음을 컴파일러에게 알려주는 것임)
+- 좌항의 name 객체 호출에도 `?`를 붙이는 것에 유의 (null일 수 있음을 컴파일러에게 알려주는 것임)
 
+### `??=`
+
+```dart
+String? name
+name ??= 'moon' // name이 null이면 'moon'을 할당
+```
 
