@@ -395,4 +395,4 @@ void main() {
 }
 ```
 
-- Humanㅇ
+- Human을 
