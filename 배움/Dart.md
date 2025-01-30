@@ -176,5 +176,8 @@ print(sayHello(
 
 - Positional parameters를 고수하면서도 optional한 parameter를 받을 수 있는데
 
-```d
+```dart
+String sayHello(String name, int age, [String? country = 'Korea]) => return "Hello $name, you are $age y/o and came from $country";
+
+print(sayHello('Moon', 37));
 ```
