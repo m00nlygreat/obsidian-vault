@@ -277,18 +277,18 @@ class Player {
 	  this.age = age,
 	  this.team = 'blue',
 	  this.xp = 0;
-	Player.createRedPlayer(String name, int age) :
-		this.name = name,
-		this.age = age,
-		this.team = 'red',
-		this.xp = 0l
-		
-
+  Player.createRedPlayer(String name, int age) :
+    this.name = name,
+    this.age = age,
+    this.team = 'red',
+    this.xp = 0;
 }
 
 void main() {
 
-  var player = Player(name: 'moon', xp:1500, team:'happy', age:37,);
-  player.sayHello();
+  var moon = Player.createBluePlayer(name: 'moon', age:37,);
+  var agger = Player.createRedPlayer('agger', 32);
+  moon.sayHello();
+  agger.sayHello();
 }
 ```
