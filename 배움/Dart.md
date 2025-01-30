@@ -192,7 +192,9 @@ print(sayHello('Moon', 37));
 `?=`
 
 ```dart
-
 String capitalizeName(String? name) => name?.toUpperCase() ?? 'moon'
-
 ```
+
+- 좌항의 name 객체 호출에도 ?를 붙이는 것에 유의 (null일 수 있음을 컴파일러에게 알려주는 것임)
+
+
