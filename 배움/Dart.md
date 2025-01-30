@@ -171,3 +171,10 @@ print(sayHello(
 - 함수 선언부에 curly braces를 사용해 named parameter임을 밝히는 게 포인트
 - named parameter에 기본값 제공 
 - `requied` 키워드를 사용해 필수 파라미터를 밝힘
+
+## optional positional parameters
+
+- Positional parameters를 고수하면서도 optional한 parameter를 받을 수 있는데
+
+```d
+```
