@@ -250,7 +250,7 @@ class Player {
 
 ```dart
 class Player {
-  final String name; // 인스턴트 생성 즉시 선언되므로 late는 필요없는듯
+  final String name; // 인스턴트 생성 즉시 할당되므로 late는 필요없는듯
   int xp = 1500;
   
   void sayHello(){
