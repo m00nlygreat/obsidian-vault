@@ -362,5 +362,7 @@ enum Team { red, blue }
 	- [Enhanced Enums](https://dart.dev/language/enums#declaring-enhanced-enums) 참조
 	- Enum은 따로 공부할 것
 
+## abstract class
+
 
 
