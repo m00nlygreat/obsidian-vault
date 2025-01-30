@@ -61,6 +61,17 @@ formatter는 세미콜론을 자동으로 입력해주지 않는다. 세미콜�
 	- int
 	- double
 
+
+### string interpolation
+
+```dart
+
+var name = 'moon';
+var age = 37;
+var string = 'hello, everyone my name is $name and I\'m ${age+2}';
+
+```
+
 ## Complex types
 
 ### list
@@ -91,16 +102,6 @@ var newFriends = [
 	'지녕',
 	for (f in oldFriends) "😎${f}",
 ];
-
-```
-
-### string interpolation
-
-```dart
-
-var name = 'moon';
-var age = 37;
-var string = 'hello, everyone my name is $name and I\'m ${age+2}';
 
 ```
 
@@ -219,11 +220,3 @@ void main() {
 
 ```
 
-```dart
-typedef UserInfo = Map<String, String>;
-String sayHi(Map<String, String> userInfo) => "Hi ${userInfo['name']}"
-
-void main() {
-pr
-}
-```
