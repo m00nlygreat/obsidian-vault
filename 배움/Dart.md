@@ -261,7 +261,7 @@ class Player {
 }
 ```
 
-## named constructor parameters
+## named constructor
 ```dart
 class Player {
   final String name; // constructor가 줄 것이므로 late
