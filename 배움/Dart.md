@@ -192,5 +192,7 @@ print(sayHello('Moon', 37));
 `?=`
 
 ```dart
-String capitalizeName(String? name) => name ?? 
+
+String capitalizeName(String? name) => name?.toUpperCase() ?? 'moon'
+
 ```
