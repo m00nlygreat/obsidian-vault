@@ -357,4 +357,10 @@ var potato = moon
 enum Team { red, blue }
 ```
 
-- enum은 타입처럼 쓸 수 있다.
+- 만든 enum은 타입처럼 쓸 수 있다.
+- enum은 class처럼 멤버 변수를 갖거나 index, name과 같은 빌트인 멤버들이 있기도 하다.
+	- [Enhanced Enums](https://dart.dev/language/enums#declaring-enhanced-enums) 참조
+	- Enum은 따로 공부할 것
+
+
+
