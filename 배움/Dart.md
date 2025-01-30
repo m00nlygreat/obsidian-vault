@@ -294,4 +294,5 @@ void main() {
 ```
 
 - 기본적으로 positional parameters는 모두 required
+- constructor 역시 기본적으로 함수이기에, named parameter 역시 동일한 방법을 사용
 
