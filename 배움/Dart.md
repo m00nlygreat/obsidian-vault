@@ -438,11 +438,22 @@ void main() {
 ## mixins
 
 - 생성자가 없는 클래스
+	- 정해둔 값을 가지고 메서드나 프로퍼티를 가져오기 위해 사용
 
 ```dart
-mixin class Tall {
+mixin class Tall { // 또는 그냥 mixin
 	final double height = 180.5;
 }
 
+class Human with Tall {
+  final String name;
+  Human(this.name);
+    
+}
+
+void main(){
+  var human = Human('moon');
+  print("I'm ${human.name} and I'm ${human.height}cm tall");
+}
 
 ```
