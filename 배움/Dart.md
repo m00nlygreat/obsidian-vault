@@ -61,7 +61,6 @@ formatter는 세미콜론을 자동으로 입력해주지 않는다. 세미콜�
 	- int
 	- double
 
-
 ### string interpolation
 
 ```dart
@@ -219,4 +218,15 @@ void main() {
 }
 
 ```
+
+```dart
+typedef UserInfo = Map<String, String>;
+String sayHi(Map<String, String> userInfo) => "Hi ${userInfo['name']}"
+
+void main() {
+pr
+}
+```
+
+# 클래스 (Classes)
 
