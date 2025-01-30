@@ -218,3 +218,11 @@ void main() {
 
 ```
 
+```dart
+typedef UserInfo = Map<String, String>;
+String sayHi(Map<String, String> userInfo) => "Hi ${userInfo['name']}"
+
+void main() {
+pr
+}
+```
