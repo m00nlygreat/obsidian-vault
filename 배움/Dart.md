@@ -260,3 +260,29 @@ class Player {
   Player(this.name, this.xp);
 }
 ```
+
+## named constructor parameters
+```dart
+class Player {
+  final String name; // constructor가 줄 것이므로 late
+  int xp, age;
+  String team;
+  
+  void sayHello(){
+    print("Hi my name is $name from $team and $age y/o with $xp");
+  } // this는 필요없다.
+  
+  Player({
+    required this.name, 
+    required this.xp, 
+    required this.team, 
+    required this.age
+    });
+}
+
+void main() {
+
+  var player = Player(name: 'moon', xp:1500, team:'happy', age:37,);
+  player.sayHello();
+}
+```
