@@ -439,3 +439,10 @@ void main() {
 
 - 생성자가 없는 클래스
 
+```dart
+mixin class Tall {
+	final double height = 180.5;
+}
+
+
+```
