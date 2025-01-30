@@ -264,7 +264,7 @@ class Player {
 ## named constructor / constructor parameters
 ```dart
 class Player {
-  final String name; // constructor가 줄 것이므로 late
+  final String name;
   int xp, age;
   String team;
   
@@ -296,4 +296,43 @@ void main() {
 - 기본적으로 positional parameters는 모두 required
 - constructor 역시 기본적으로 함수이기에, named parameter 역시 동일한 방법을 사용
 
-### JSON data로부터 ㅇ
+### JSON data로부터 인스턴스 만들기
+
+```dart
+class Player {
+  final String name;
+  int xp;
+  String team;
+  
+  void sayHello(){
+    print("Hi my name is $name from $team with $xp");
+  }
+
+  Player.fromJson(Map<String, dynamic> playerJson) :
+    name = playerJson['name'],
+    team = playerJson['team'],
+    xp = playerJson['xp'];
+  
+ 
+}
+
+void main() {
+  var apiData = [
+    {
+      "name": "moon",
+      "team": "red",
+      "xp": 0,
+    },
+    {
+      "name": "agger",
+      "team": "blue",
+      "xp": 0,
+    },
+  ];
+  
+  apiData.forEach((playerJson) {
+    var player = Player.fromJson(playerJson);
+    player.sayHello();
+  });
+}
+```
