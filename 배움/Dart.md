@@ -348,4 +348,13 @@ var potato = moon
   ..sayHello();
 ```
 
-- 앞에 object를 지칭하는 statement가 있으면 가능한 것 같다. 
+- 앞에 object를 지칭하는 statement가 있으면 가능한 것 같다.
+- 여기서는 그냥 `potato` 또는 `moon`만 써도 cascade notation을 쓸 수 있다.
+
+## enums
+
+```dart
+enum Team { red, blue }
+```
+
+- d
