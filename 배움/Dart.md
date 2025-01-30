@@ -261,7 +261,7 @@ class Player {
 }
 ```
 
-## named constructor
+## named constructor / constructor parameters
 ```dart
 class Player {
   final String name; // constructor가 줄 것이므로 late
@@ -292,3 +292,6 @@ void main() {
   agger.sayHello();
 }
 ```
+
+- 기본적으로 positional parameters는 모두 required
+
