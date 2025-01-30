@@ -205,8 +205,16 @@ name ??= 'moon' // name이 null이면 'moon'을 할당
 
 ## typedef
 
+- 타입의 alias를 생성하는 기능
+
 ```dart
 typedef ListOfInts = List<int>;
 
+ListOfInts reverseListOfNumbers(ListOfInts list) => list.reversed.toList();
+
+void main() {
+	print(reverseListofNumbers([1,2,3]));
+}
 
 ```
+
