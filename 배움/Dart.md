@@ -154,11 +154,18 @@ JS의 arrow function과 같은 기능
 ## named parameters
 
 ```dart
-String sayHello({String name, int age, String country}) => return "Hello, $name. You are $age years old and you came from $country";
+String sayHello(
+		{
+			String name = 'moon', 
+			int age = 37, 
+			String country = 'Korea'
+		}
+	) => return "Hello, $name. You are $age years old and you came from $country";
 
 print(sayHello(
-	name: 'moon', 
-	age: 37, 
-	country: 'Korea',
+	name: 'agger', 
+	age: 32,
 	))
 ```
+
+- named parameter에 기본값 제공 
