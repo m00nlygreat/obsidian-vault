@@ -271,13 +271,19 @@ class Player {
   void sayHello(){
     print("Hi my name is $name from $team and $age y/o with $xp");
   } // this는 필요없다.
-  
-  Player({
-    required this.name, 
-    required this.xp, 
-    required this.team, 
-    required this.age
-    });
+
+  Player.createBluePlayer({required String name, required int age}) :
+	  this.name = name,
+	  this.age = age,
+	  this.team = 'blue',
+	  this.xp = 0;
+	Player.createRedPlayer(String name, int age) :
+		this.name = name,
+		this.age = age,
+		this.team = 'red',
+		this.xp = 0l
+		
+
 }
 
 void main() {
