@@ -396,3 +396,46 @@ void main() {
 ```
 
 - Human을 
+
+## inheritance
+
+```dart
+class Human {
+  final String name;
+  int age;
+  Human({required this.name, required this.age,});
+  void sayHi(){
+    print("Hi my name is $name and $age y/o");
+  } 
+}
+
+enum Team { blue, red}
+
+class Player extends Human {
+  final Team team;
+  
+  Player({
+    required this.team,
+    required String name,
+    required int age,
+  }) : super(name: name, age: age);
+  
+  @override
+  void sayHi(){
+    super.sayHi();
+    print("and I work for ${team.name}");
+  }
+}
+
+void main() {
+  var player = Player(team: Team.red, name: 'moon', age: 37,);
+  player.sayHi();
+}
+```
+
+- 익숙해지도록 다시 읽을 것
+
+## mixins
+
+- 생성자가 없는 클래스
+
