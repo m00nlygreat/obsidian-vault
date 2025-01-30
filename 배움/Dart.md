@@ -203,3 +203,10 @@ String? name
 name ??= 'moon' // name이 null이면 'moon'을 할당
 ```
 
+## typedef
+
+```dart
+typedef ListOfInts = List<int>;
+
+
+```
