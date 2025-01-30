@@ -156,8 +156,8 @@ JS의 arrow function과 같은 기능
 ```dart
 String sayHello(
 		{
-			String name = 'moon', 
-			int age = 37, 
+			required String name, 
+			required age, 
 			String country = 'Korea'
 		}
 	) => return "Hello, $name. You are $age years old and you came from $country";
@@ -169,3 +169,4 @@ print(sayHello(
 ```
 
 - named parameter에 기본값 제공 
+- `requied` 키워드를 사용해 필수 파라미터를 밝힘
