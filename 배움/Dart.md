@@ -244,16 +244,19 @@ class Player {
     this.xp = xp;
   }
 }
-
-void main() {
-
-  var player = Player('moon', 1500);
-  var player2 = Player('agger', 900);
-  player.sayHello();
-  player2.sayHello();
-  
-}
 ```
 
 ### dart의 constructor
 
+```dart
+class Player {
+  final String name; // 인스턴트 생성 즉시 선언되므로 late는 필요없는듯
+  int xp = 1500;
+  
+  void sayHello(){
+    print("Hi my name is $name with $xp");
+  }
+  
+  Player(this.name, this.xp);
+}
+```
