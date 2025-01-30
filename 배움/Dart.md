@@ -142,3 +142,14 @@ String sayHello(String name) {
 	return "Hello $name";
 }
 ```
+
+### fat arrow syntax
+
+```dart
+String sayHello(String potato) => return "Hello, $name";
+```
+
+JS의 arrow function과 같은 기능
+
+## named parameters
+
