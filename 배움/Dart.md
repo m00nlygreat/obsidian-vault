@@ -364,5 +364,35 @@ enum Team { red, blue }
 
 ## abstract class
 
+```dart
+abstract class Human {
+  void walk();
+}
 
+class Player extends Human {
+  final String name;
+  int xp;
+  String team;
+  
+  void sayHello(){
+    print("Hi my name is $name from $team with $xp");
+  }
 
+  Player({required this.name, required this.team, required this.xp});
+  
+  void walk(){
+    print("$name walks");
+    }
+  
+ 
+}
+
+void main() {
+  var moon = Player(name: 'moon', team: 'blue', xp: 15000);
+  moon.sayHello();
+  moon.walk();
+
+}
+```
+
+- Humanㅇ
