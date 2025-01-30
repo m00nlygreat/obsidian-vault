@@ -154,5 +154,11 @@ JS의 arrow function과 같은 기능
 ## named parameters
 
 ```dart
-String say
+String sayHello({String name, int age, String country}) => return "Hello, $name. You are $age years old and you came from $country";
+
+print(sayHello(
+	name: 'moon', 
+	age: 37, 
+	country: 'Korea',
+	))
 ```
