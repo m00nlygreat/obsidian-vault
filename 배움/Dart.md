@@ -153,3 +153,6 @@ JS의 arrow function과 같은 기능
 
 ## named parameters
 
+```dart
+String say
+```
