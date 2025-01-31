@@ -30,17 +30,8 @@
               "state": {
                 "file": "강의/개발 강의가 설명하지 않는 것들.md",
                 "mode": "source",
-                "source": true,
                 "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": true
               },
               "icon": "lucide-file",
               "title": "개발 강의가 설명하지 않는 것들"
@@ -66,8 +57,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -143,10 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/개발 강의가 설명하지 않는 것들.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "강의/개발 강의가 설명하지 않는 것들.md"
               },
               "icon": "lucide-list",
               "title": "Outline of 개발 강의가 설명하지 않는 것들"
