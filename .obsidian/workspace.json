@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "메모/어포던스.md",
+                "file": "배움/Dart/Data Types.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "어포던스"
+              "title": "Data Types"
             }
           }
         ],
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "메모/어포던스.md",
+                "file": "배움/Dart/Data Types.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 어포던스"
+              "title": "Outline of Data Types"
             }
           },
           {
@@ -274,8 +274,13 @@
   },
   "active": "afd0e1eefcf55512",
   "lastOpenFiles": [
-    "메모/김기석 강사의 강의 경험담.md",
+    "배움/Flutter.md",
+    "journal/2023-09-17.md",
+    "journal/2023-09-04.md",
+    "journal/2023-09-03.md",
+    "journal/2023-09-02.md",
     "메모/어포던스.md",
+    "메모/김기석 강사의 강의 경험담.md",
     "독서/나의 구체적 비전.md",
     "독서/뇌는 팩트에 끌리지 않는다.md",
     "메모/정규식 문법 정리.md",
@@ -295,11 +300,6 @@
     "강의/포트폴리오.md",
     "강의/채용 공통.md",
     "강의/서비스기획 재료.md",
-    "배움/Flutter.md",
-    "배움/Dart.md",
-    "배움/Dart/Data Types.md",
-    "배움/Dart/Classes.md",
-    "배움/Dart/Variables.md",
     "배움/Dart",
     "배움",
     "강의/attachments/design-atomic-design.png",
