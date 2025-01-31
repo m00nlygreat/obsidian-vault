@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "독서/나의 구체적 비전.md",
+                "file": "메모/어포던스.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "나의 구체적 비전"
+              "title": "어포던스"
             }
           }
         ],
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "독서/나의 구체적 비전.md",
+                "file": "메모/어포던스.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 나의 구체적 비전"
+              "title": "Outline of 어포던스"
             }
           },
           {
@@ -274,12 +274,14 @@
   },
   "active": "afd0e1eefcf55512",
   "lastOpenFiles": [
+    "메모/김기석 강사의 강의 경험담.md",
+    "메모/어포던스.md",
+    "독서/나의 구체적 비전.md",
     "독서/뇌는 팩트에 끌리지 않는다.md",
     "메모/정규식 문법 정리.md",
     "메모/m00nlygreat의 경우.md",
     "명리/(천간완벽정리) 신금론.md",
     "메모/9월 1주 Recap 공지.md",
-    "독서/나의 구체적 비전.md",
     "강의/면접 멘토링.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "강의/기획 선배의 맞는 말 대잔치.md",
@@ -300,8 +302,6 @@
     "배움/Dart/Variables.md",
     "배움/Dart",
     "배움",
-    "메모/Untitled.md",
-    "메모/성공한 CEO가 되기 위한 조건.md",
     "강의/attachments/design-atomic-design.png",
     "강의/attachments/design-color-schemes.png",
     "강의/attachments/design-hierarchy.png",
