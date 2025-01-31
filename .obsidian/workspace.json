@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "배움/Dart.md",
+                "file": "배움/Flutter.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dart"
+              "title": "Flutter"
             }
           }
         ],
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "배움/Dart.md",
+                "file": "배움/Flutter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dart"
+              "title": "Outline of Flutter"
             }
           },
           {
@@ -274,8 +274,9 @@
   },
   "active": "afd0e1eefcf55512",
   "lastOpenFiles": [
-    "배움/Dart/Classes.md",
     "배움/Dart.md",
+    "배움/Flutter.md",
+    "배움/Dart/Classes.md",
     "배움/Dart/Data Types.md",
     "배움/Dart/Variables.md",
     "배움/Dart",
@@ -309,7 +310,6 @@
     "아이디어/마인크래프트 성장형 RPG 시스템.md",
     "아이디어/맥시멀리스트.md",
     "아이디어/얘기를 할 데가 없어요.md",
-    "글/Dying Light 2 - Stay Human.md",
     "독서",
     "강의/서비스기획/attachments/ux-toss-dark-mode.png",
     "강의/서비스기획/attachments/ux-card-sorting.png",
