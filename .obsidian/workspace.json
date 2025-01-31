@@ -274,8 +274,10 @@
   },
   "active": "afd0e1eefcf55512",
   "lastOpenFiles": [
-    "강의/개발 강의가 설명하지 않는 것들.md",
+    "배움/Dart/Variables.md",
     "배움/Dart.md",
+    "배움/Dart",
+    "강의/개발 강의가 설명하지 않는 것들.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "메모/정규식 문법 정리.md",
     "배움",
@@ -309,7 +311,6 @@
     "독서",
     "글/Untitled.md",
     "강의/UX 이론.md",
-    "journal/2025-01-16.md",
     "강의/서비스기획/attachments/ux-toss-dark-mode.png",
     "강의/서비스기획/attachments/ux-card-sorting.png",
     "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝",
@@ -321,7 +322,6 @@
     "강의/Topics",
     "Untitled.canvas",
     "강의/attachment",
-    "output",
     "Untitled 1.canvas"
   ]
 }
