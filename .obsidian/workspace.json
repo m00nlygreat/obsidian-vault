@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/개발 강의가 설명하지 않는 것들.md",
+                "file": "강의/기획 선배의 맞는 말 대잔치.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -43,23 +43,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "개발 강의가 설명하지 않는 것들"
-            }
-          },
-          {
-            "id": "38fb9a56832dc5ea",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "기획 선배의 맞는 말 대잔치"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "강의/기획 선배의 맞는 말 대잔치.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 기획 선배의 맞는 말 대잔치"
             }
           },
           {
@@ -283,17 +272,26 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "38fb9a56832dc5ea",
+  "active": "afd0e1eefcf55512",
   "lastOpenFiles": [
+    "강의/개발 강의가 설명하지 않는 것들.md",
+    "강의/강의 준비 체크포인트.md",
+    "강의/강의 업데이트 초안.md",
+    "강의/UX 이론.md",
+    "강의/HTML-CSS 추가.md",
+    "강의/HTML-CSS.md",
+    "강의/포트폴리오 메모.md",
+    "강의/포트폴리오.md",
+    "강의/채용 공통.md",
+    "강의/서비스기획 재료.md",
+    "강의/면접 멘토링.md",
+    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "배움/Flutter.md",
     "배움/Dart.md",
     "배움/Dart/Data Types.md",
     "배움/Dart/Classes.md",
-    "강의/UX 이론.md",
     "배움/Dart/Variables.md",
     "배움/Dart",
-    "강의/개발 강의가 설명하지 않는 것들.md",
-    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "메모/정규식 문법 정리.md",
     "배움",
     "메모/Untitled.md",
@@ -303,7 +301,6 @@
     "독서/뇌는 팩트에 끌리지 않는다.md",
     "독서/나의 구체적 비전.md",
     "강의/기획 선배의 맞는 말 대잔치.md",
-    "강의/서비스기획 재료.md",
     "강의/attachments/design-atomic-design.png",
     "강의/attachments/design-color-schemes.png",
     "강의/attachments/design-hierarchy.png",
@@ -313,14 +310,6 @@
     "강의/attachments/design-balance.png",
     "강의/attachments/design-contrast.png",
     "메모/김기석 강사의 강의 경험담.md",
-    "강의/Topics/마크다운.md",
-    "강의/Topics/서버는 무한루프다..md",
-    "강의/Topics/서비스 기획 잔소리.md",
-    "강의/Topics/API.md",
-    "강의/강의 업데이트 초안.md",
-    "강의/강사 소개.md",
-    "아이디어/마인크래프트 성장형 RPG 시스템.md",
-    "아이디어/맥시멀리스트.md",
     "독서",
     "강의/서비스기획/attachments/ux-toss-dark-mode.png",
     "강의/서비스기획/attachments/ux-card-sorting.png",
