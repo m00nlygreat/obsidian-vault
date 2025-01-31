@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/기획 선배의 맞는 말 대잔치.md",
+                "file": "독서/나의 구체적 비전.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "기획 선배의 맞는 말 대잔치"
+              "title": "나의 구체적 비전"
             }
           }
         ],
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/기획 선배의 맞는 말 대잔치.md",
+                "file": "독서/나의 구체적 비전.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 기획 선배의 맞는 말 대잔치"
+              "title": "Outline of 나의 구체적 비전"
             }
           },
           {
@@ -274,6 +274,15 @@
   },
   "active": "afd0e1eefcf55512",
   "lastOpenFiles": [
+    "독서/뇌는 팩트에 끌리지 않는다.md",
+    "메모/정규식 문법 정리.md",
+    "메모/m00nlygreat의 경우.md",
+    "명리/(천간완벽정리) 신금론.md",
+    "메모/9월 1주 Recap 공지.md",
+    "독서/나의 구체적 비전.md",
+    "강의/면접 멘토링.md",
+    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
+    "강의/기획 선배의 맞는 말 대잔치.md",
     "강의/개발 강의가 설명하지 않는 것들.md",
     "강의/강의 준비 체크포인트.md",
     "강의/강의 업데이트 초안.md",
@@ -284,23 +293,15 @@
     "강의/포트폴리오.md",
     "강의/채용 공통.md",
     "강의/서비스기획 재료.md",
-    "강의/면접 멘토링.md",
-    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "배움/Flutter.md",
     "배움/Dart.md",
     "배움/Dart/Data Types.md",
     "배움/Dart/Classes.md",
     "배움/Dart/Variables.md",
     "배움/Dart",
-    "메모/정규식 문법 정리.md",
     "배움",
     "메모/Untitled.md",
-    "메모/m00nlygreat의 경우.md",
     "메모/성공한 CEO가 되기 위한 조건.md",
-    "메모/버블 스크롤 애니메이션.md",
-    "독서/뇌는 팩트에 끌리지 않는다.md",
-    "독서/나의 구체적 비전.md",
-    "강의/기획 선배의 맞는 말 대잔치.md",
     "강의/attachments/design-atomic-design.png",
     "강의/attachments/design-color-schemes.png",
     "강의/attachments/design-hierarchy.png",
@@ -309,7 +310,6 @@
     "강의/attachments/design-alignment.png",
     "강의/attachments/design-balance.png",
     "강의/attachments/design-contrast.png",
-    "메모/김기석 강사의 강의 경험담.md",
     "독서",
     "강의/서비스기획/attachments/ux-toss-dark-mode.png",
     "강의/서비스기획/attachments/ux-card-sorting.png",
