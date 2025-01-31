@@ -30,15 +30,36 @@
               "state": {
                 "file": "강의/개발 강의가 설명하지 않는 것들.md",
                 "mode": "source",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "개발 강의가 설명하지 않는 것들"
             }
+          },
+          {
+            "id": "38fb9a56832dc5ea",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -57,7 +78,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -133,10 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/개발 강의가 설명하지 않는 것들.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 개발 강의가 설명하지 않는 것들"
+              "title": "Outline"
             }
           },
           {
@@ -259,7 +283,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "afd0e1eefcf55512",
+  "active": "38fb9a56832dc5ea",
   "lastOpenFiles": [
     "배움/Flutter.md",
     "배움/Dart.md",
