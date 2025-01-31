@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/개발 강의가 설명하지 않는 것들.md",
+                "file": "배움/Dart.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "개발 강의가 설명하지 않는 것들"
+              "title": "Dart"
             }
           }
         ],
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/개발 강의가 설명하지 않는 것들.md",
+                "file": "배움/Dart.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 개발 강의가 설명하지 않는 것들"
+              "title": "Outline of Dart"
             }
           },
           {
@@ -274,8 +274,8 @@
   },
   "active": "afd0e1eefcf55512",
   "lastOpenFiles": [
-    "배움/Dart.md",
     "강의/개발 강의가 설명하지 않는 것들.md",
+    "배움/Dart.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "메모/정규식 문법 정리.md",
     "배움",
