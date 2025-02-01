@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "배움/Dart/Data Types.md",
+                "file": "강의/서비스기획 재료.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data Types"
+              "title": "서비스기획 재료"
             }
           }
         ],
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "배움/Dart/Data Types.md",
+                "file": "강의/서비스기획 재료.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Data Types"
+              "title": "Outline of 서비스기획 재료"
             }
           },
           {
@@ -274,6 +274,7 @@
   },
   "active": "afd0e1eefcf55512",
   "lastOpenFiles": [
+    "배움/Dart/Data Types.md",
     "배움/Flutter.md",
     "journal/2023-09-17.md",
     "journal/2023-09-04.md",
@@ -299,7 +300,6 @@
     "강의/포트폴리오 메모.md",
     "강의/포트폴리오.md",
     "강의/채용 공통.md",
-    "강의/서비스기획 재료.md",
     "배움/Dart",
     "배움",
     "강의/attachments/design-atomic-design.png",
