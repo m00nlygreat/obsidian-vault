@@ -208,6 +208,7 @@ void main() {
 
 - 생성자가 없는 클래스
 	- 정해둔 값을 가지고 메서드나 프로퍼티를 가져오기 위해 사용
+	- 여러 개를
 
 ```dart
 mixin class Tall { // 또는 그냥 mixin

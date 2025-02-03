@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "배움/Flutter.md",
+                "file": "배움/Dart/Classes.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Flutter"
+              "title": "Classes"
             }
           }
         ],
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "배움/Flutter.md",
+                "file": "배움/Dart/Classes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Flutter"
+              "title": "Outline of Classes"
             }
           },
           {
@@ -254,7 +254,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,10 +275,11 @@
   },
   "active": "afd0e1eefcf55512",
   "lastOpenFiles": [
+    "배움/Dart.md",
+    "배움/Flutter.md",
     "배움/Dart/Classes.md",
     "강의/서비스기획 재료.md",
     "배움/Dart/Data Types.md",
-    "배움/Flutter.md",
     "journal/2023-09-17.md",
     "journal/2023-09-04.md",
     "journal/2023-09-03.md",
@@ -299,7 +301,6 @@
     "강의/UX 이론.md",
     "강의/HTML-CSS 추가.md",
     "강의/HTML-CSS.md",
-    "강의/포트폴리오 메모.md",
     "배움/Dart",
     "배움",
     "강의/attachments/design-atomic-design.png",
