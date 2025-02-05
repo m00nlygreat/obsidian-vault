@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "배움/Dart/Classes.md",
+                "file": "배움/Dart/Data Types.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Classes"
+              "title": "Data Types"
             }
           }
         ],
@@ -275,10 +275,11 @@
   },
   "active": "afd0e1eefcf55512",
   "lastOpenFiles": [
+    "배움/Dart/Variables.md",
+    "배움/Dart/Classes.md",
     "배움/Dart/Data Types.md",
     "배움/Flutter.md",
     "배움/Dart.md",
-    "배움/Dart/Variables.md",
     "아이디어/감정노동 대신 해주는 챗봇.md",
     "아이디어/attachments/감정노동_사례.png",
     "아이디어/attachments",
@@ -286,7 +287,6 @@
     "강의/노코드 엔지니어링/필살기 프레이머.md",
     "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
     "아이디어/앱 스크린샷 공유 플랫폼.md",
-    "배움/Dart/Classes.md",
     "강의/서비스기획 재료.md",
     "journal/2023-09-17.md",
     "journal/2023-09-04.md",
