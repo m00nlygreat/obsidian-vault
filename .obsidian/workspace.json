@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/감정노동 대신 해주는 챗봇.md",
+                "file": "아이디어/구독 관리 노션 템플릿.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "감정노동 대신 해주는 챗봇"
+              "title": "구독 관리 노션 템플릿"
             }
           }
         ],
@@ -275,8 +275,8 @@
   },
   "active": "afd0e1eefcf55512",
   "lastOpenFiles": [
-    "강의/노코드 엔지니어링/필살기 프레이머.md",
     "아이디어/감정노동 대신 해주는 챗봇.md",
+    "강의/노코드 엔지니어링/필살기 프레이머.md",
     "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
     "아이디어/앱 스크린샷 공유 플랫폼.md",
     "배움/Dart/Classes.md",
