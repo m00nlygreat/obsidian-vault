@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/앱 스크린샷 공유 플랫폼.md",
+                "file": "강의/노코드 엔지니어링/필살기 프레이머.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "앱 스크린샷 공유 플랫폼"
+              "title": "필살기 프레이머"
             }
           }
         ],
@@ -275,8 +275,10 @@
   },
   "active": "afd0e1eefcf55512",
   "lastOpenFiles": [
-    "배움/Dart/Classes.md",
+    "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
+    "강의/노코드 엔지니어링/필살기 프레이머.md",
     "아이디어/앱 스크린샷 공유 플랫폼.md",
+    "배움/Dart/Classes.md",
     "배움/Dart.md",
     "배움/Flutter.md",
     "강의/서비스기획 재료.md",
@@ -299,8 +301,6 @@
     "강의/개발 강의가 설명하지 않는 것들.md",
     "강의/강의 준비 체크포인트.md",
     "강의/강의 업데이트 초안.md",
-    "강의/UX 이론.md",
-    "강의/HTML-CSS 추가.md",
     "배움/Dart",
     "배움",
     "강의/attachments/design-atomic-design.png",
