@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/구독 관리 노션 템플릿.md",
+                "file": "아이디어/감정노동 대신 해주는 챗봇.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "구독 관리 노션 템플릿"
+              "title": "감정노동 대신 해주는 챗봇"
             }
           }
         ],
@@ -275,6 +275,9 @@
   },
   "active": "afd0e1eefcf55512",
   "lastOpenFiles": [
+    "아이디어/attachments/감정노동_사례.png",
+    "아이디어/attachments",
+    "아이디어/구독 관리 노션 템플릿.md",
     "아이디어/감정노동 대신 해주는 챗봇.md",
     "강의/노코드 엔지니어링/필살기 프레이머.md",
     "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
@@ -299,8 +302,6 @@
     "강의/면접 멘토링.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "강의/기획 선배의 맞는 말 대잔치.md",
-    "강의/개발 강의가 설명하지 않는 것들.md",
-    "강의/강의 준비 체크포인트.md",
     "배움/Dart",
     "배움",
     "강의/attachments/design-atomic-design.png",
@@ -322,7 +323,6 @@
     "강의/Topics/attachments",
     "강의/Topics",
     "Untitled.canvas",
-    "강의/attachment",
     "Untitled 1.canvas"
   ]
 }
