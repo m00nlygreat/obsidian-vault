@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/감정노동 대신 해주는 챗봇.md",
+                "file": "배움/Dart/Classes.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "감정노동 대신 해주는 챗봇"
+              "title": "Classes"
             }
           }
         ],
@@ -275,18 +275,19 @@
   },
   "active": "afd0e1eefcf55512",
   "lastOpenFiles": [
+    "배움/Dart/Data Types.md",
+    "배움/Flutter.md",
+    "배움/Dart.md",
+    "배움/Dart/Variables.md",
+    "아이디어/감정노동 대신 해주는 챗봇.md",
     "아이디어/attachments/감정노동_사례.png",
     "아이디어/attachments",
     "아이디어/구독 관리 노션 템플릿.md",
-    "아이디어/감정노동 대신 해주는 챗봇.md",
     "강의/노코드 엔지니어링/필살기 프레이머.md",
     "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
     "아이디어/앱 스크린샷 공유 플랫폼.md",
     "배움/Dart/Classes.md",
-    "배움/Dart.md",
-    "배움/Flutter.md",
     "강의/서비스기획 재료.md",
-    "배움/Dart/Data Types.md",
     "journal/2023-09-17.md",
     "journal/2023-09-04.md",
     "journal/2023-09-03.md",
@@ -314,7 +315,6 @@
     "강의/attachments/design-contrast.png",
     "독서",
     "강의/서비스기획/attachments/ux-toss-dark-mode.png",
-    "강의/서비스기획/attachments/ux-card-sorting.png",
     "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝",
     "attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝",
     "웹클립/attachments",
