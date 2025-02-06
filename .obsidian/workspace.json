@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/개발 강의가 설명하지 않는 것들.md",
+                "file": "강의/서비스기획 재료.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "개발 강의가 설명하지 않는 것들"
+              "title": "서비스기획 재료"
             }
           },
           {
@@ -283,6 +283,12 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
+    "아이디어/감시사회.md",
+    "아이디어/attachments/감정노동_사례.png",
+    "아이디어/감정노동 대신 해주는 챗봇.md",
+    "아이디어/구독 관리 노션 템플릿.md",
+    "아이디어/나 살아있소.md",
+    "강의/개발 강의가 설명하지 않는 것들.md",
     "강의/기획 선배의 맞는 말 대잔치.md",
     "독서/뇌는 팩트에 끌리지 않는다.md",
     "배움/Dart/Classes.md",
@@ -290,10 +296,7 @@
     "배움/Dart/Variables.md",
     "배움/Flutter.md",
     "배움/Dart.md",
-    "아이디어/감정노동 대신 해주는 챗봇.md",
-    "아이디어/attachments/감정노동_사례.png",
     "아이디어/attachments",
-    "아이디어/구독 관리 노션 템플릿.md",
     "강의/노코드 엔지니어링/필살기 프레이머.md",
     "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
     "아이디어/앱 스크린샷 공유 플랫폼.md",
@@ -308,9 +311,6 @@
     "메모/정규식 문법 정리.md",
     "메모/m00nlygreat의 경우.md",
     "명리/(천간완벽정리) 신금론.md",
-    "메모/9월 1주 Recap 공지.md",
-    "강의/면접 멘토링.md",
-    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "배움/Dart",
     "배움",
     "강의/attachments/design-atomic-design.png",
