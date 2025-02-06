@@ -15,8 +15,17 @@
               "state": {
                 "file": "독서/뇌는 팩트에 끌리지 않는다.md",
                 "mode": "source",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "뇌는 팩트에 끌리지 않는다"
@@ -46,8 +55,7 @@
               "title": "Classes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,11 +281,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "afd0e1eefcf55512",
+  "active": "d7e97717b2451289",
   "lastOpenFiles": [
+    "배움/Dart/Classes.md",
     "배움/Dart/Data Types.md",
     "배움/Dart/Variables.md",
-    "배움/Dart/Classes.md",
     "배움/Flutter.md",
     "배움/Dart.md",
     "아이디어/감정노동 대신 해주는 챗봇.md",
