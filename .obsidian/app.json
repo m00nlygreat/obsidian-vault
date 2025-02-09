@@ -17,5 +17,8 @@
   },
   "vimMode": true,
   "newFileLocation": "current",
-  "showLineNumber": false
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "propertiesInDocument": "hidden"
 }

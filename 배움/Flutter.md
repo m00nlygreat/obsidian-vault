@@ -13,4 +13,5 @@ Stream<int>.periodic(
 )
 ```
 
-- Stream
+- Stream 타입을 선언할 때는 `periodic` 메서드를 사용
+	- Duration, Function을 argument로 주어야 한다
