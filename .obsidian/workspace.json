@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "메모/오수영.md",
+                "file": "메모/9월 1주 Recap 공지.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "오수영"
+              "title": "9월 1주 Recap 공지"
             }
           }
         ]
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "메모/오수영.md",
+                "file": "메모/9월 1주 Recap 공지.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 오수영"
+              "title": "Outline of 9월 1주 Recap 공지"
             }
           },
           {
@@ -248,7 +248,12 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
+    "메모/9월4일 업데이트 공지.md",
+    "메모/구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
     "메모/김기석 강사의 강의 경험담.md",
+    "메모/디스코드 스터디 봇.md",
+    "메모/버블 스크롤 애니메이션.md",
+    "메모/오수영.md",
     "독서/뇌는 팩트에 끌리지 않는다.md",
     "독서/나의 구체적 비전.md",
     "웹클립/Data is beautiful 10 of the best data visualization examples.md",
@@ -259,21 +264,16 @@
     "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
     "웹클립/보수와 진보는 뇌의 두께가 다르더라.md",
     "글/글은 비장한 마음으로 쓴다.md",
-    "메모/구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
-    "메모/버블 스크롤 애니메이션.md",
     "메모/성공한 CEO가 되기 위한 조건.md",
     "메모/수돌님 230709.md",
     "명리/신금일주 정리.md",
     "명리/배우자 운 좋고 자수성가하는 辛巳일생.md",
     "명리/대운-세운 관계.md",
     "명리/(천간완벽정리) 신금론.md",
-    "메모/오수영.md",
     "메모/정규식 문법 정리.md",
     "메모/헤어질 결심(2022).md",
     "강의/노코드 엔지니어링/필살기 프레이머.md",
     "강의/노코드 엔지니어링/풀스택 노코드 버블.md",
-    "강의/노코드 엔지니어링/디지텍고 강의.md",
-    "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
     "아이디어/attachments/감정노동_사례.png",
     "아이디어/attachments",
     "배움/Dart",
