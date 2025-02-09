@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/개발 강의가 설명하지 않는 것들.md",
+                "file": "배움/Flutter.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "개발 강의가 설명하지 않는 것들"
+              "title": "Flutter"
             }
           }
         ]
@@ -249,6 +249,7 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
+    "강의/개발 강의가 설명하지 않는 것들.md",
     "배움/Dart.md",
     "배움/Dart/Variables.md",
     "배움/Dart/Classes.md",
@@ -274,7 +275,6 @@
     "메모/오수영.md",
     "메모/어포던스.md",
     "메모/9월 1주 Recap 공지.md",
-    "웹클립/Data is beautiful 10 of the best data visualization examples.md",
     "아이디어/attachments/감정노동_사례.png",
     "아이디어/attachments",
     "배움/Dart",
