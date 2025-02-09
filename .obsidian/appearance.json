@@ -1,12 +1,13 @@
 {
-  "accentColor": "#0e14c4",
+  "accentColor": "",
   "theme": "moonstone",
   "interfaceFontFamily": "Input Mono",
   "baseFontSize": 14,
   "translucency": false,
-  "cssTheme": "Prism",
+  "cssTheme": "PLN",
   "enabledCssSnippets": [
-    "monospace"
+    "monospace",
+    "all-padded-vertically"
   ],
   "textFontFamily": "Input Mono",
   "monospaceFontFamily": "Input Mono",
