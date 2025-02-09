@@ -6,7 +6,8 @@
   "translucency": false,
   "cssTheme": "OneNice",
   "enabledCssSnippets": [
-    "monospace"
+    "monospace",
+    "all-padded-vertically"
   ],
   "textFontFamily": "Input Mono",
   "monospaceFontFamily": "Input Mono",
