@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
-                "mode": "source",
-                "source": true,
+                "file": "강의/기획 선배의 맞는 말 대잔치.md",
+                "mode": "preview",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "노코드를 시작하기 전에 알았으면 좋았을 것들"
-            }
-          },
-          {
-            "id": "afd0e1eefcf55512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "배움/Dart/Classes.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Classes"
+              "title": "기획 선배의 맞는 말 대잔치"
             }
           }
         ]
@@ -151,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/앱 스크린샷 공유 플랫폼.md",
+                "file": "강의/기획 선배의 맞는 말 대잔치.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 앱 스크린샷 공유 플랫폼"
+              "title": "Outline of 기획 선배의 맞는 말 대잔치"
             }
           },
           {
@@ -246,24 +222,13 @@
               "icon": "code-glyph",
               "title": "Shell commands: Custom variables"
             }
-          },
-          {
-            "id": "b161a88202d222f5",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,33 +248,33 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
+    "강의/서비스기획 재료.md",
+    "강의/기획 선배의 맞는 말 대잔치.md",
     "강의/강의 준비 체크포인트.md",
-    "강의/강사 소개.md",
+    "강의/개발 강의가 설명하지 않는 것들.md",
+    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
+    "강의/면접 멘토링.md",
     "강의/서비스기획/UI 기타.md",
+    "강의/서비스기획/서비스기획 Flow.md",
+    "강의/서비스기획/다양한 사용자를 고려하기.md",
+    "강의/서비스기획/다크패턴.md",
+    "강의/강사 소개.md",
     "강의/서비스기획/서비스기획 개론.md",
     "강의/강의 업데이트 초안.md",
     "강의/서비스기획/기획자의 무기.md",
-    "강의/서비스기획/다양한 사용자를 고려하기.md",
     "강의/서비스기획/사용자 여정 지도.md",
     "강의/서비스기획/기타 UX 도구들.md",
     "강의/포트폴리오 메모.md",
     "강의/채용 공통.md",
-    "강의/기획 선배의 맞는 말 대잔치.md",
-    "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
-    "강의/개발 강의가 설명하지 않는 것들.md",
     "메모/8월 4주 Recap.md",
     "메모/구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
     "메모/김기석 강사의 강의 경험담.md",
     "메모/버블 스크롤 애니메이션.md",
     "명리/신사(辛巳) 일주.md",
-    "강의/서비스기획 재료.md",
     "아이디어/감시사회.md",
     "아이디어/attachments/감정노동_사례.png",
     "아이디어/감정노동 대신 해주는 챗봇.md",
     "아이디어/구독 관리 노션 템플릿.md",
-    "아이디어/나 살아있소.md",
-    "독서/뇌는 팩트에 끌리지 않는다.md",
-    "배움/Dart/Classes.md",
     "아이디어/attachments",
     "배움/Dart",
     "배움",
