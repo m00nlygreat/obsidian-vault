@@ -4,7 +4,7 @@
   "interfaceFontFamily": "Input Mono",
   "baseFontSize": 14,
   "translucency": false,
-  "cssTheme": "Feather",
+  "cssTheme": "OneNice",
   "enabledCssSnippets": [
     "monospace",
     "all-padded-vertically"
