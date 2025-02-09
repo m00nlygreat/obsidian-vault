@@ -12,3 +12,5 @@ Stream<int>.periodic(
 	(count) => count
 )
 ```
+
+- Stream
