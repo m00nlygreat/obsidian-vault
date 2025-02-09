@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "메모/9월4일 업데이트 공지.md",
+                "file": "독서/뇌는 팩트에 끌리지 않는다.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "9월4일 업데이트 공지"
+              "title": "뇌는 팩트에 끌리지 않는다"
             }
           }
         ]
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "메모/9월4일 업데이트 공지.md",
+                "file": "독서/뇌는 팩트에 끌리지 않는다.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 9월4일 업데이트 공지"
+              "title": "Outline of 뇌는 팩트에 끌리지 않는다"
             }
           },
           {
@@ -248,15 +248,15 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
-    "메모/김기석 강사의 강의 경험담.md",
     "메모/9월4일 업데이트 공지.md",
     "메모/구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
     "메모/디스코드 스터디 봇.md",
-    "메모/수돌님 230709.md",
     "메모/성공한 CEO가 되기 위한 조건.md",
-    "메모/버블 스크롤 애니메이션.md",
-    "독서/나의 구체적 비전.md",
     "독서/뇌는 팩트에 끌리지 않는다.md",
+    "메모/버블 스크롤 애니메이션.md",
+    "메모/김기석 강사의 강의 경험담.md",
+    "메모/수돌님 230709.md",
+    "독서/나의 구체적 비전.md",
     "메모/오수영.md",
     "메모/어포던스.md",
     "메모/9월 1주 Recap 공지.md",

@@ -1,15 +1,14 @@
 {
   "accentColor": "",
   "theme": "moonstone",
-  "interfaceFontFamily": "KopubWorldDotum Medium,Input Mono",
-  "baseFontSize": 14,
+  "interfaceFontFamily": "Input Mono,KopubWorldDotum Medium,KopubWorldDotum Bold",
+  "baseFontSize": 16,
   "translucency": false,
-  "cssTheme": "",
+  "cssTheme": "Maple",
   "enabledCssSnippets": [
-    "monospace",
-    "all-padded-vertically"
+    "monospace"
   ],
-  "textFontFamily": "Input Mono,KopubWorldDotum Medium",
+  "textFontFamily": "Input Mono,KopubWorldDotum Medium,KopubWorldDotum Bold",
   "monospaceFontFamily": "Input Mono",
   "nativeMenus": false
 }
