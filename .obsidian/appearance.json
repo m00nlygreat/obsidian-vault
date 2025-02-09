@@ -4,10 +4,9 @@
   "interfaceFontFamily": "Input Mono",
   "baseFontSize": 14,
   "translucency": false,
-  "cssTheme": "Maple",
+  "cssTheme": "Things",
   "enabledCssSnippets": [
-    "monospace",
-    "all-padded-vertically"
+    "monospace"
   ],
   "textFontFamily": "Input Mono",
   "monospaceFontFamily": "Input Mono",
