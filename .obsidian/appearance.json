@@ -1,10 +1,10 @@
 {
-  "accentColor": "",
+  "accentColor": "#000000",
   "theme": "moonstone",
   "interfaceFontFamily": "Input Mono,KopubWorldDotum Medium,KopubWorldDotum Bold",
   "baseFontSize": 16,
   "translucency": false,
-  "cssTheme": "Maple",
+  "cssTheme": "OneNice",
   "enabledCssSnippets": [
     "monospace"
   ],
