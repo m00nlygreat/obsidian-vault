@@ -4,10 +4,9 @@
   "interfaceFontFamily": "Input Mono",
   "baseFontSize": 14,
   "translucency": false,
-  "cssTheme": "Simply Colorful",
+  "cssTheme": "Kanagawa",
   "enabledCssSnippets": [
-    "monospace",
-    "all-padded-vertically"
+    "monospace"
   ],
   "textFontFamily": "Input Mono",
   "monospaceFontFamily": "Input Mono",

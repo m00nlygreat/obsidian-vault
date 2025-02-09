@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "독서/뇌는 팩트에 끌리지 않는다.md",
+                "file": "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "뇌는 팩트에 끌리지 않는다"
+              "title": "프로그래밍을 처음 학습하는 이들에게"
             }
           }
         ]
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "독서/뇌는 팩트에 끌리지 않는다.md",
+                "file": "웹클립/프로그래밍을 처음 학습하는 이들에게.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 뇌는 팩트에 끌리지 않는다"
+              "title": "Outline of 프로그래밍을 처음 학습하는 이들에게"
             }
           },
           {
@@ -248,8 +248,8 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
-    "웹클립/보수와 진보는 뇌의 두께가 다르더라.md",
     "독서/뇌는 팩트에 끌리지 않는다.md",
+    "웹클립/보수와 진보는 뇌의 두께가 다르더라.md",
     "글/글은 비장한 마음으로 쓴다.md",
     "메모/김기석 강사의 강의 경험담.md",
     "메모/구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
