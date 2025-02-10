@@ -93,7 +93,7 @@ String sayHello(String name) {
 ### fat arrow syntax
 
 ```dart
-String sayHello(String potato) => return "Hello, $name";
+String sayHello(String potato) => "Hello, $name";
 ```
 
 JS의 arrow function과 같은 기능
