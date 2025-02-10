@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "배움/Dart/Data Types.md",
+                "file": "강의/개발 강의가 설명하지 않는 것들.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data Types"
+              "title": "개발 강의가 설명하지 않는 것들"
             }
           }
         ]
@@ -249,10 +249,10 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
+    "배움/Dart/Data Types.md",
     "배움/Dart/Variables.md",
     "배움/Flutter.md",
     "배움/Dart.md",
-    "배움/Dart/Data Types.md",
     "배움/Dart/Classes.md",
     "강의/UX 이론.md",
     "강의/개발 강의가 설명하지 않는 것들.md",
