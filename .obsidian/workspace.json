@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "배움/Dart.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "메모/m00nlygreat의 경우.md",
+                "file": "배움/Dart.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of m00nlygreat의 경우"
+              "title": "Outline of Dart"
             }
           },
           {
@@ -228,8 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
