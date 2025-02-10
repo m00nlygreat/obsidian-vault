@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "배움/Flutter.md",
-                "mode": "source",
+                "file": "배움/Dart/Classes.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Flutter"
+              "title": "Classes"
             }
           }
         ]
@@ -249,11 +249,12 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
+    "강의/UX 이론.md",
+    "배움/Flutter.md",
     "강의/개발 강의가 설명하지 않는 것들.md",
     "배움/Dart.md",
     "배움/Dart/Variables.md",
     "배움/Dart/Classes.md",
-    "배움/Flutter.md",
     "강의/기획 선배의 맞는 말 대잔치.md",
     "강의/서비스기획/서비스기획 개론.md",
     "메모/m00nlygreat의 경우.md",
@@ -274,7 +275,6 @@
     "메모/수돌님 230709.md",
     "메모/오수영.md",
     "메모/어포던스.md",
-    "메모/9월 1주 Recap 공지.md",
     "아이디어/attachments/감정노동_사례.png",
     "아이디어/attachments",
     "배움/Dart",
