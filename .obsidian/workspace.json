@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/Topics/데이터베이스.md",
+                "file": "강의/개발 강의가 설명하지 않는 것들.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "데이터베이스"
+              "title": "개발 강의가 설명하지 않는 것들"
             }
           }
         ]
@@ -50,7 +50,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/Topics/데이터베이스.md",
+                "file": "강의/개발 강의가 설명하지 않는 것들.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 데이터베이스"
+              "title": "Outline of 개발 강의가 설명하지 않는 것들"
             }
           },
           {
@@ -247,10 +247,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d882dff4f3e14dff",
+  "active": "d7e97717b2451289",
   "lastOpenFiles": [
-    "강의/서비스기획/기획자의 무기.md",
     "강의/Topics/데이터베이스.md",
+    "강의/서비스기획/기획자의 무기.md",
     "강의/Topics/마크다운.md",
     "강의/Topics/서버는 무한루프다..md",
     "강의/Topics/서비스 기획 잔소리.md",
