@@ -6,6 +6,7 @@
 
 ## Provider
 
+- Provider가 제공할 모델을 먼저 만들어야 한다. Provider는 ㅇ
 - 먼저 `Provider()` 위젯으로 `MaterialApp()`을 감싸줌
 
 ```dart
@@ -23,4 +24,6 @@ Provider(
 
 - Provider로 전달할 인스턴스의 클래스에 mixin으로 첨부할 수 있는 기능
 - 인스턴스가 변경되었을 때 위젯들에게 변경을 전파한다
-- addListner(), removeListener(),
+- addListner(), removeListener(), notifyListers()
+- 수동으로 Listner를 관리해야 하고, 여러 불편한 점이 있기 때문에, ChangeNotifierProvider를 사용하자
+
