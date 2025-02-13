@@ -18,3 +18,9 @@ Provider(
 하위 위젯에서는 `Provider.of<FishModel>(context).name` 의 형태로 데이터를 불러올 수 있다.
 
 - `of<T>(context)` 는 context를 거슬러 올라가 T에 해당하는 인스턴스를 찾아서 반환하는 메서드
+
+### ChangeNotifier
+
+- Provider로 전달할 인스턴스의 클래스에 mixin으로 첨부할 수 있는 기능
+- 인스턴스가 변경되었을 때 위젯들에게 변경을 전파한다
+- addListner(), removeListener(),
