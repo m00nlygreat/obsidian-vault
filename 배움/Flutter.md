@@ -17,4 +17,4 @@ Provider(
 
 하위 위젯에서는 `Provider.of<FishModel>(context).name` 의 형태로 데이터를 불러올 수 있다.
 
-- of<T>() 는 T
+- `of<T>(context)` 는 context를 거슬러 올라가 T에 해당하는 인스턴스를 찾아서 반환하는 메서드
