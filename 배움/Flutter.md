@@ -8,6 +8,13 @@
 
 - 먼저 `Provider()` 위젯으로 `MaterialApp()`을 감싸줌
 
+```dart
 Provider(
-	create: (context) {return}
+	create: (context) {return FishModel(name: 'Salmon', number: 10,);}
+	child: Widget
 )
+```
+
+하위 위젯에서는 `Provider.of<FishModel>(context).name` 의 형태로 데이터를 불러올 수 있다.
+
+- of<T>() 는 T
