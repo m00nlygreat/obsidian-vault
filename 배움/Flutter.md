@@ -32,7 +32,7 @@ Provider(
 ```dart
 ChangeNotifierProvider(
 	create: (context) {return FishModel(name: 'Salmon', number: 10,);}
-	child: Widget
+	child: Widget(),
 )
 ```
 
