@@ -74,3 +74,5 @@ MultiProvider(
 
 final counterProvider = StateProvider((ref) => 0); // 기본값의 의미가 있음.
 ```
+
+ref.watch();
