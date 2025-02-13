@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/Topics/인수-인자 vs 매개변수.md",
+                "file": "강의/Topics/서버는 무한루프다..md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "인수-인자 vs 매개변수"
+              "title": "서버는 무한루프다."
             }
           }
         ]
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/Topics/인수-인자 vs 매개변수.md",
+                "file": "강의/Topics/서버는 무한루프다..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 인수-인자 vs 매개변수"
+              "title": "Outline of 서버는 무한루프다."
             }
           },
           {
@@ -249,8 +249,9 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
-    "배움/Flutter.md",
+    "강의/Topics/서비스 기획 잔소리.md",
     "강의/Topics/인수-인자 vs 매개변수.md",
+    "배움/Flutter.md",
     "배움/Dart.md",
     "배움/Dart/Data Types.md",
     "강의/서비스기획 재료.md",
@@ -274,7 +275,6 @@
     "강의/노코드 엔지니어링/구글 시트로 업무자산 관리하기.md",
     "메모/9월4일 업데이트 공지.md",
     "메모/디스코드 스터디 봇.md",
-    "메모/구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md",
     "아이디어/attachments/감정노동_사례.png",
     "아이디어/attachments",
     "배움/Dart",
