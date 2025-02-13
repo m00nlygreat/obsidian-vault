@@ -56,3 +56,7 @@ MultiProvider(
 
 - Provider의 아나그램. Provider의 개발자 Remi가 새로 만들었다고 한다. 이유는
 
+### ProviderScope()
+
+- 최상위 위젯트리에 위치
+- 
