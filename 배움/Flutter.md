@@ -64,3 +64,8 @@ MultiProvider(
 ### ConsumerStatefulWidget
 
 - Stateful widget 대신 씀
+
+### StateProvider
+
+- int, string, boolean, enum 등의 단순한 상태관리를 위한 위젯으로 NotifierProvier의 단순화 버전
+
