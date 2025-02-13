@@ -75,8 +75,8 @@ MultiProvider(
 final counterProvider = StateProvider((ref) => 0); // 기본값의 의미가 있음.
 ```
 
-- ref.read()
-- ref.watch();
+- ref.read(provider)
+- ref.watch(provider)
 - Deprecate 될 예정이니 그냥 NotifierProvider를 사용하자
 
 ### NotifierProvider
