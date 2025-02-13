@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/API로 접근할 수 있는 전자상거래 플랫폼.md",
-                "mode": "source",
+                "file": "강의/개발 강의가 설명하지 않는 것들.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "API로 접근할 수 있는 전자상거래 플랫폼"
+              "title": "개발 강의가 설명하지 않는 것들"
             }
           }
         ]
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/API로 접근할 수 있는 전자상거래 플랫폼.md",
+                "file": "강의/개발 강의가 설명하지 않는 것들.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of API로 접근할 수 있는 전자상거래 플랫폼"
+              "title": "Outline of 개발 강의가 설명하지 않는 것들"
             }
           },
           {
@@ -249,6 +249,7 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
+    "아이디어/API로 접근할 수 있는 전자상거래 플랫폼.md",
     "아이디어/앱 스크린샷 공유 플랫폼.md",
     "아이디어/감정노동 대신 해주는 챗봇.md",
     "아이디어/얘기를 할 데가 없어요.md",
@@ -257,7 +258,6 @@
     "아이디어/랜선집사.md",
     "아이디어/옛한글을 복원시키기 위한 한글 입력 방식 개발.md",
     "아이디어/감시사회.md",
-    "아이디어/API로 접근할 수 있는 전자상거래 플랫폼.md",
     "강의/개발 강의가 설명하지 않는 것들.md",
     "강의/Topics/데이터베이스.md",
     "강의/서비스기획/기획자의 무기.md",
