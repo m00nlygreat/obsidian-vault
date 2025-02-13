@@ -69,3 +69,8 @@ MultiProvider(
 
 - int, string, boolean, enum 등의 단순한 상태관리를 위한 위젯으로 NotifierProvier의 단순화 버전
 
+```dart
+// 별개의 파일에 작성한다. 아마도 파일이 분리된 위젯에서도 사용할 수 있게 하기 위해서인듯?
+
+final counterProvider = StateProvider((ref) => 0); // 기본값의 의미가 있음.
+```
