@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "배움/Dart/Data Types.md",
-                "mode": "preview",
+                "file": "강의/개발 강의가 설명하지 않는 것들.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data Types"
+              "title": "개발 강의가 설명하지 않는 것들"
             }
           }
         ]
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "배움/Dart/Data Types.md",
+                "file": "강의/개발 강의가 설명하지 않는 것들.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Data Types"
+              "title": "Outline of 개발 강의가 설명하지 않는 것들"
             }
           },
           {
@@ -228,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,11 +249,11 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
+    "배움/Dart/Data Types.md",
     "배움/Dart.md",
     "배움/Flutter.md",
     "배움/Dart/Variables.md",
     "배움/Dart/Classes.md",
-    "배움/Dart/Data Types.md",
     "글/글은 비장한 마음으로 쓴다.md",
     "강의/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
     "강의/면접 멘토링.md",
