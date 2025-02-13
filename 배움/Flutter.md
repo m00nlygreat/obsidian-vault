@@ -40,6 +40,15 @@ ChangeNotifierProvider(
 
 ## MultiProvider
 
+- Provider를 중첩하면 더러우니까 한 번에 만들자
+
+```dart
 MultiProvider(
-providers:
+	providers: [
+		ChangeNotifierProvider(...),
+		ChangeNotifierProvider(...)
+	],
+	child: Widget(),
 )
+```
+
