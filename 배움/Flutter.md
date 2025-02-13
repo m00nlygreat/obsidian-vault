@@ -4,7 +4,7 @@
 - 각 플랫폼에 네이티브로 작성된 Runner 앱이 플러터 코드를 해석하여 화면을 렌더링
 - Material, Cupertino 등의 네이티브와 비슷한 스타일 Theme을 만들어놓긴 했지만 근본적으로 네이티브가 아님
 
-## Provider
+# Provider
 
 - Provider가 제공할 모델을 먼저 만들어야 한다. Provider는 이 클래스의 인스턴스를 하위 위젯트리에 전달한다. 여기서는 FishModel
 - 먼저 `Provider()` 위젯으로 `MaterialApp()`을 감싸줌
@@ -51,4 +51,8 @@ MultiProvider(
 	child: Widget(),
 )
 ```
+
+## Riverpod
+
+- Provider의 아나그램. Provider의 개발자 Remi가 새로 만들었다고 한다. 이유는
 
