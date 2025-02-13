@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/서비스기획/기획자의 무기.md",
+                "file": "강의/Topics/데이터베이스.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "기획자의 무기"
+              "title": "데이터베이스"
             }
           }
         ]
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/서비스기획/기획자의 무기.md",
+                "file": "강의/Topics/데이터베이스.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 기획자의 무기"
+              "title": "Outline of 데이터베이스"
             }
           },
           {
@@ -247,8 +247,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d7e97717b2451289",
+  "active": "d882dff4f3e14dff",
   "lastOpenFiles": [
+    "강의/서비스기획/기획자의 무기.md",
+    "강의/Topics/데이터베이스.md",
     "강의/Topics/마크다운.md",
     "강의/Topics/서버는 무한루프다..md",
     "강의/Topics/서비스 기획 잔소리.md",
@@ -273,8 +275,6 @@
     "독서/나의 구체적 비전.md",
     "독서/뇌는 팩트에 끌리지 않는다.md",
     "강의/강의 업데이트 초안.md",
-    "강의/강사 소개.md",
-    "강의/노코드 엔지니어링/구글 시트로 업무자산 관리하기.md",
     "아이디어/attachments/감정노동_사례.png",
     "아이디어/attachments",
     "배움/Dart",
