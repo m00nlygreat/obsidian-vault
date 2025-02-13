@@ -6,7 +6,7 @@
 
 ## Provider
 
-- Provider가 제공할 모델을 먼저 만들어야 한다. Provider는 ㅇ
+- Provider가 제공할 모델을 먼저 만들어야 한다. Provider는 이 클래스의 인스턴스를 하위 위젯트리에 전달한다. 여기서는 FishModel
 - 먼저 `Provider()` 위젯으로 `MaterialApp()`을 감싸줌
 
 ```dart
@@ -27,3 +27,11 @@ Provider(
 - addListner(), removeListener(), notifyListers()
 - 수동으로 Listner를 관리해야 하고, 여러 불편한 점이 있기 때문에, ChangeNotifierProvider를 사용하자
 
+### ChangeNotifierProvider
+
+```dart
+ChangeNotifierProvider(
+	create: (context) {return FishModel(name: 'Salmon', number: 10,);}
+	child: Widget
+)
+```
