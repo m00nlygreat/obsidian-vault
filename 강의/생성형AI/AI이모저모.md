@@ -72,6 +72,9 @@
 - 머스크 x.ai 설립
 - 샘 올트먼, 초정렬팀 해체
 	- 일리야 수츠케버 퇴사
+- [머스크 vs 올트먼 설전](https://www.chosun.com/economy/tech_it/2025/02/11/BWX6CAAL2RAAVCAZNYCMHMHXIQ/)
+	- OpenAI 140조에 사겠다
+	- 트위터 14조에 사겠다
 
  ![](attachments/chatgpt-elon_leaves_openAI.png)
 
@@ -82,6 +85,7 @@
 - 강인공지능과 약인공지능 (Strong vs. Weak AI)
 	- 특정한 분야의 일을 인간의 지시에 따라 수행하는 인공지능
 - 스스로를 업데이트하는 인공지능
+- [최초의 AGI를 자칭하는 o3 모델](https://www.aitimes.com/news/articleView.html?idxno=166425)
 
 ### AGI에 이르는 길은?
 
@@ -177,8 +181,8 @@
 
 ### GPT-4 o1
 
-- 스스로 회고(Self-reflect)하는 특성으로 추론 능력을 대폭 향상
+- 스스로 회고(Self-reflect)하는 특성으로 추론(Reasoning) 능력을 대폭 향상
 	- 인간으로 치면 IQ 120
 	- 박사 학위 수준
 
-![](attachments/Pasted%20image%2020240923163945.png)
+![](attachments/chatgpt-o1_reasoning.png)
