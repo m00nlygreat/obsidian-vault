@@ -28,7 +28,7 @@ author:
 	- ChatGPT 자신도 스스로 무슨 말을 하는지 모름!
 	- [앤스로픽, AI블랙박스 작동원리 밝혀냈다](https://www.mk.co.kr/news/it/11021534)
 
-![](attachments/image7.png)
+![](attachments/chatgpt-words-rate.png)
 
 ---
 
@@ -42,7 +42,7 @@ author:
 - GPT-3.5 는 불가하고, GPT-4(텍스트, 이미지)는 가능한 것
 - Gemini, GPT-4o 의 멀티모달
 
-![](attachments/image1.png)
+![](attachments/chatgpt-multi-modal.png)
 
 ---
 
@@ -66,7 +66,7 @@ author:
 
 ## 소개
 
-![](attachments/image6.png)
+![](attachments/chatgpt-the_gpt_family.png)
 
 ---
 
