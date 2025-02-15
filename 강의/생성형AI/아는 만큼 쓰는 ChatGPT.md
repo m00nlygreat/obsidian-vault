@@ -169,22 +169,22 @@ author:
 
 언어모델을 다그치거나 회유하는 어조를 사용해 답변 결과의 품질을 높일 수 있다는 연구결과
 
-- 협박하기, 도발하기, 강조하기, 애원하기, 보상하기/벌하기
+- *협박하기, 도발하기, 강조하기, 애원하기, 보상하기/벌하기*
+- 그러나 **미안해하거나 고마워하는 등 저자세를 취할 경우** 답변 품질이 낮아질 수도 있다고 한다.
 
-그러나 
 
-
-![](attachments/Pasted%20image%2020240323171759.png)
+![](attachments/chatgpt-puppet.png)
 
 ---
 
 ### few-shot
 
 - 예시를 밝혀 답변의 구조 또는 여러 측면을 제한하는 방법
+- 언어모델이 어떤 지시사항의 자세한 의미를 파악하거나 추론하기 위해 연산력을 사용할 필요가 없게되어 답변의 품질이 높아진다. 
 - [일정 묻기](https://chat.openai.com/share/a74f8ea7-9f7a-43f0-8bdc-4dbfb86cd3ba)
 
 
-![](attachments/image4.png)
+![](attachments/chatgpt-few_shot.png)
 
 ---
 
