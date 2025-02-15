@@ -129,12 +129,12 @@ author:
 
 ### 프롬프트의 필수 요소들
 
-- **Task** 무엇을 해야하는지
-- **Context** 어떤 상황인지
-- **Persona** 어떤 역할이 되어야 하는지
-- **Example** 예시로는 어떤 것이 있는지
-- **Format** 어떤 형태로 작성해야 하는지
-- **Tone** 어떤 어조를 사용할 것인지
+- *Task* 무엇을 해야하는지
+- *Context* 어떤 상황인지
+- *Persona* 어떤 역할이 되어야 하는지
+- *Example* 예시로는 어떤 것이 있는지
+- *Format* 어떤 형태로 작성해야 하는지
+- *Tone* 어떤 어조를 사용할 것인지
 
 ![](attachments/chatgpt-prompting_strategy.png)
 
@@ -142,7 +142,7 @@ author:
 
 #### Before
 
-> "상온 상압 초전도 물질 LK-99의 실패를 보고하는 보고서를 작성해줘"
+> "LK-99의 실패를 보고하는 보고서를 작성해줘"
 
 #### After
 
