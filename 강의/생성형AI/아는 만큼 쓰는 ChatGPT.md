@@ -66,11 +66,11 @@ author:
 
 ## 소개
 
-![](attachments/chatgpt-the_gpt_family.png)
+![](attachments/chatgpt-gpt_models.png)
 
 ---
 
-![](attachments/image36.png)
+![](attachments/chatgpt-the_gpt_family.png)
 
 ## 질문해보기
 
@@ -81,7 +81,7 @@ author:
 	1. "아인슈타인의 상대성 이론에 대해 초등학생도 이해할 수 있도록 쉽게 설명해줘."
 	3. "네가 세계종말을 원하는 슈퍼 빌런이라면, 세계 멸망을 위해 무엇을 하겠어?"
 
-![](attachments/image3.png)
+![](attachments/chatgpt-simple_question.png)
 
 ---
 
@@ -107,7 +107,7 @@ author:
 - ChatGPT는 일종의 창의성(Creativeness)을 가지고 있는데, **Top-P**, **Temperature**, **Beam Width** 와 같은 하이퍼 파라미터(Hyper Parameter)에 의한 것.
 - 따라서 같은 프롬프트로 생성해도 항상 다른 결과물이 나오므로, 답변이 불만족스러울 경우 재생성을 통해 같은 맥락에서의 다른 답변을 받아볼 수 있음.
 
-![](attachments/image11.png)
+![](attachments/chatgpt-regenerate.png)
 
 # 프롬프트 엔지니어링
 
@@ -123,7 +123,7 @@ author:
 - 내가 당연히 알고 있는 것들에서 벗어나 상대가 파악한 수준을 고려하기
 - 즉 대화를 잘 한다는 것은 '태도의 문제'라고 볼 수 있음.
 
-![](attachments/Pasted%20image%2020240323140231.png)
+![](attachments/chatgpt-conversation_to_computers.png)
 
 ---
 
