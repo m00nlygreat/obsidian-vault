@@ -6,8 +6,6 @@ author:
 
 # 들어가며
 
-![ChatGPT 강의를 안하고 싶은 이유](ChatGPT%20강의를%20안하고%20싶은%20이유.md)
-
 ## ChatGPT
 
 - OpenAI 가 발표한 Generative Pre-trained Transformer 모델의 생성형 AI
