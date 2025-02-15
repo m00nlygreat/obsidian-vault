@@ -73,8 +73,8 @@
 - 샘 올트먼, 초정렬팀 해체
 	- 일리야 수츠케버 퇴사
 - [머스크 vs 올트먼 설전](https://www.chosun.com/economy/tech_it/2025/02/11/BWX6CAAL2RAAVCAZNYCMHMHXIQ/)
-	- OpenAI 140조에 사겠다
-	- 트위터 14조에 사겠다
+	- "OpenAI 141조에 사겠다"
+	- "트위터 14조에 사겠다"
 
  ![](attachments/chatgpt-elon_leaves_openAI.png)
 
