@@ -121,6 +121,9 @@
 - 온디바이스 AI
 	- 갤럭시?
 	- 개인화의 측면, 비용의 측면
+
+***
+
 - OpenAI, 동영상 생성 AI Sora 발표
 	- 중국판 Sora, Vidu와 Kling
 - AI 에이전트
@@ -141,7 +144,7 @@
 - [Say Hello to GPT-4o](https://www.youtube.com/watch?v=vgYi3Wr7v_g)
 - [Be My Eyes Accessibility](https://www.youtube.com/watch?v=KwNUJ69RbwY)
 
-![](attachments/Pasted%20image%2020240614023735.png)
+![](attachments/chatgpt-4o_announce.png)
 
 ---
 
@@ -152,7 +155,7 @@
 - AI 에이전트: 시스템과의 Integration
 	- 애플 2024 WWDC, Siri와 ChatGPT의 통합
 
-![](attachments/Pasted%20image%2020240609231252.png)
+![](attachments/chatgpt-apple_inteligence.png)
 
 ---
 
