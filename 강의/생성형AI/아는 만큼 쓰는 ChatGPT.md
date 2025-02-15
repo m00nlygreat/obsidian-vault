@@ -191,26 +191,28 @@ author:
 ### chain-of-thought
 
 - 연쇄적 사고. 단계를 풀어헤쳐 자연스럽게 답을 유도하기
-	- step by step
+	- *step by step*과 같은 키워드를 써주는 것만으로도 답변의 품질이 높아질 수 있다.
+	- 의식적으로 단계를 지정해주고 사용자의 '다음' 키워드 입력으로 넘어가도록 지시해서 각 단계에 언어모델이 집중하도록 유도할 수 있다.
 
-![](attachments/Pasted%20image%2020240324023859.png)
+![](attachments/chatgpt-chain_of_thought.png)
 
 ---
 
 ### '해줘'
 
-- 목적을 제시하고, 이를 위한 정보를 GPT가 사용자에게 질문하게 하여 맥락을 채워나가는 방법
-	- "다음 두 개 프로젝트 중 하나를 골라서 다음 주 임원 회의에 기획안을 제출해야 해. 둘 중 하나를 선택하는 데에 도움을 줄래? 필요한 것들을 나에게 물어봐 줘"
-		1. 이벤트성 점보 고향만두 냉동식품 출시
-		2. [첵스나라 대통령 선거](https://namu.wiki/w/%ED%8C%8C%EB%A7%9B%20%EC%B2%B5%EC%8A%A4%20%EC%82%AC%EA%B1%B4#s-3.2)
-	- [프로젝트 선택 도움](https://chat.openai.com/share/614216da-4661-4eae-9518-c6cb5140e80f)
+목적을 제시하고, 이를 위한 정보를 GPT가 사용자에게 질문하게 하여 맥락을 채워나가는 방법
+
+- "다음 두 개 프로젝트 중 하나를 골라서 다음 주 임원 회의에 기획안을 제출해야 해. 둘 중 하나를 선택하는 데에 도움을 줄래? 필요한 것들을 나에게 물어봐 줘"
+	1. 이벤트성 점보 고향만두 냉동식품 출시
+	2. [첵스나라 대통령 선거](https://namu.wiki/w/%ED%8C%8C%EB%A7%9B%20%EC%B2%B5%EC%8A%A4%20%EC%82%AC%EA%B1%B4#s-3.2)
+- [프로젝트 선택 도움](https://chat.openai.com/share/614216da-4661-4eae-9518-c6cb5140e80f)
 - 우리가 처음 언어를 배울 때 자신의 필요만을 얘기하는 것처럼. 주도권 자체를 GPT에게 줘버리기
 - "이 결과가 맘에 들어. 다음에 다른 텍스트로도 동일한 결과를 낼 수 있도록 너에게 보낼 프롬프트를 작성해줘"
-- [프롬프트 엔지니어 회의론 증가](https://www.aitimes.com/news/articleView.html?idxno=158070)
+	- [프롬프트 엔지니어 회의론 증가](https://www.aitimes.com/news/articleView.html?idxno=158070)
 
 ---
 
-![](attachments/image12.png)
+![](attachments/chatgpt-mini_projects.png)
 
 ![마크다운](../Topics/마크다운.md)
 
