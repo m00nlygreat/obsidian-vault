@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "강의/생성형AI/AI이모저모.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "아는 만큼 쓰는 ChatGPT"
+              "title": "AI이모저모"
             }
           }
         ]
@@ -249,9 +249,12 @@
   },
   "active": "d7e97717b2451289",
   "lastOpenFiles": [
+    "강의/생성형AI/attachments/image2.png",
+    "강의/생성형AI/AI이모저모.md",
+    "강의/생성형AI/attachments/chatgpt-perceptron.png",
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/attachments/chatgpt-mini_projects.png",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/attachments/chatgpt-chain_of_thought.png",
     "강의/생성형AI/attachments/chatgpt-few_shot.png",
     "강의/생성형AI/attachments/chatgpt-puppet.png",
@@ -260,8 +263,6 @@
     "강의/생성형AI/attachments/chatgpt-prompting_strategy.png",
     "강의/생성형AI/attachments/chatgpt-conversation_to_computers.png",
     "강의/생성형AI/attachments/chatgpt-regenerate.png",
-    "강의/생성형AI/attachments/gpt-super-villain.png",
-    "강의/생성형AI/AI이모저모.md",
     "강의/생성형AI/왜 내 GPT는 대답을 이상하게 할까.md",
     "강의/HTML-CSS.md",
     "강의/test.md",
