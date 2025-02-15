@@ -73,7 +73,7 @@
 - 샘 올트먼, 초정렬팀 해체
 	- 일리야 수츠케버 퇴사
 
- ![](attachments/image5.png)
+ ![](attachments/chatgpt-elon_leaves_openAI.png)
 
 ## AI의 미래
 
@@ -98,7 +98,7 @@
 - 로마시대 콜로세움의 이야기
 - Genuine, authentic한 인간에의 선호
 
-![](attachments/image32.png)
+![](attachments/chatgpt-future_of_AI.png)
 
 
 ## AI 이모저모
