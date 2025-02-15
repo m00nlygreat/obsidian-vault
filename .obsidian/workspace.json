@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "강의/test.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "아는 만큼 쓰는 ChatGPT"
+              "title": "test"
             }
           }
         ],
@@ -274,6 +274,7 @@
   },
   "active": "613634e489c2d5d4",
   "lastOpenFiles": [
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.md",
     "강의/test.md",
     "강의/_test.md",
@@ -282,7 +283,6 @@
     "강의/강의 업데이트 초안.md",
     "강의/포트폴리오 메모.md",
     "강의/서비스기획 재료.md",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "아이디어/플러터 기반 스니펫 에디터.md",
     "아이디어/OBS용 마우스-키보드 하이라이트 플러그인.md",
     "아이디어/얘기를 할 데가 없어요.md",
