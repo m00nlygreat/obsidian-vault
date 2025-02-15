@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/Untitled.md",
+                "file": "강의/test.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "test"
             }
           }
         ],
@@ -274,8 +274,9 @@
   },
   "active": "613634e489c2d5d4",
   "lastOpenFiles": [
+    "강의/_test.md",
     "강의/HTML-CSS.md",
-    "강의/Untitled.md",
+    "강의/test.md",
     "강의/포트폴리오.md",
     "강의/강의 업데이트 초안.md",
     "강의/포트폴리오 메모.md",
@@ -299,7 +300,6 @@
     "강의/Topics/서버는 무한루프다..md",
     "강의/Topics/서비스 기획 잔소리.md",
     "강의/Topics/인수-인자 vs 매개변수.md",
-    "배움/Flutter.md",
     "아이디어/attachments/감정노동_사례.png",
     "아이디어/attachments",
     "배움/Dart",
