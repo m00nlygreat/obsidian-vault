@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/HTML-CSS.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "HTML-CSS"
-            }
-          },
-          {
-            "id": "613634e489c2d5d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "mode": "source",
                 "source": true,
@@ -55,8 +31,7 @@
               "title": "아는 만큼 쓰는 ChatGPT"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,13 +247,17 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "613634e489c2d5d4",
+  "active": "d7e97717b2451289",
   "lastOpenFiles": [
+    "강의/생성형AI/attachments/image1.png",
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+    "강의/생성형AI/attachments/chatgpt-pearl-earrings.png",
+    "강의/생성형AI/attachments/image7.png",
+    "강의/HTML-CSS.md",
+    "강의/생성형AI/attachments/chatgpt-lego.png",
     "강의/test.md",
     "강의/_test.md",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.md",
-    "강의/HTML-CSS.md",
     "강의/포트폴리오.md",
     "강의/강의 업데이트 초안.md",
     "강의/포트폴리오 메모.md",
@@ -299,7 +278,6 @@
     "강의/Topics/마크다운.md",
     "강의/Topics/서버는 무한루프다..md",
     "강의/Topics/서비스 기획 잔소리.md",
-    "강의/Topics/인수-인자 vs 매개변수.md",
     "아이디어/attachments/감정노동_사례.png",
     "아이디어/attachments",
     "배움/Dart",
@@ -310,10 +288,7 @@
     "강의/attachments/design-proximity.png",
     "강의/attachments/design-repetition.png",
     "강의/attachments/design-alignment.png",
-    "강의/attachments/design-balance.png",
-    "강의/attachments/design-contrast.png",
     "독서",
-    "강의/서비스기획/attachments/ux-toss-dark-mode.png",
     "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝",
     "attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝",
     "웹클립/attachments",

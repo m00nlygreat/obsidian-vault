@@ -15,7 +15,7 @@ author:
 
 - 완성된 그림, 음악, 글 등을 작은 조각으로 나누어서 가지고 있는 거대한 레고블럭 박스
 
-![](attachments/file-mqBlhyrMG4ynB1uCWsFq5m3r.png)
+![](attachments/chatgpt-lego.png)
 
 ---
 
@@ -31,7 +31,7 @@ author:
 
 ---
 
-![](attachments/1678583134640d255e2f927.png)
+![](attachments/chatgpt-pearl-earrings.png)
 
 ---
 
