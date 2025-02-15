@@ -39,11 +39,11 @@
 
 ## LLM의 종류
 
-![](attachments/image2.png)
+![](attachments/chatgpt-LLMs.png)
 
 ## 오픈 AI와 일론 머스크
 
-![](attachments/image31.png)
+![](attachments/chatgpt-larry_vs_elon.png)
 
 ::: notes
 
