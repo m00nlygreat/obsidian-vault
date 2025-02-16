@@ -2,7 +2,11 @@
 
 ### Custom Instruction 
 
-- ChatGPT가 좀 더 사용자 친화적으로 대답할 수 있도록 사용자의 정보나 답변에 있어서의 희망사항을 미리 알려주기
+- ChatGPT가 좀 더 사용자 친화적인 맥락으로 대답할 수 있도록 사용자의 정보나 답변에 있어서의 희망사항을 미리 알려주기
+
+### Memory
+
+- ChatGPT는 대화 도중 사용자에 대한 정보가 감지되면 그 사실을 
 
 ![](attachments/chatgpt-custom_instruction.png)
 

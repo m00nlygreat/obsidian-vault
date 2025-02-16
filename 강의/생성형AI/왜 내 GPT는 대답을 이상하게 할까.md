@@ -39,6 +39,7 @@
 	- 가짜 뉴스
 	- 딥페이크
 	- 반인륜적 주제
-- 이러한 제한사항은 탈옥(Jailbreak)이라 불리는 적대적 프롬프팅에 의해 해제되기도 함.
+- 이러한 제한사항은 탈옥(Jailbreak)이라 불리는 적대적 프롬프팅에 의해 해제되기도 함
+	- 개발자가 LLM을 완전히 통제할 수 없기에
 
 ![](attachments/gpt-deep-fake-trump-got-caught.png)
