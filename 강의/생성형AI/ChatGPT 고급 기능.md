@@ -53,7 +53,7 @@
 
 ## ChatGPT App Mobile/Mac
 
-- 설치형ChatGPT 앱
+- 설치형 ChatGPT 앱
 - ChatGPT와 음성대화 가능!
 - 백그라운드 대화
 
