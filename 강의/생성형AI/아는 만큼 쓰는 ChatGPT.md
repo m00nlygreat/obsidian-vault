@@ -1,5 +1,6 @@
 ---
 title: 아는 만큼 쓰는 ChatGPT
+type: text
 ---
 
 # 들어가며
