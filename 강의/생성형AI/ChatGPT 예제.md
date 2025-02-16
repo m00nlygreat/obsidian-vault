@@ -63,6 +63,11 @@
 	- 기가채드 밈과 함께, 최근 한국에서 유독 영어권 밈이 유행하는 이유에 대한 분석 포함
 - 줄글을 알맞게 슬라이드로 구분하기
 - 테마 적용해서 디자인 완성하기
+
+```markdown
+> PPT 작성은 Python 코드로 하기 때문에 실망스러운 것이 사실
+```
+
 - [슬라이드 만들기](https://chat.openai.com/share/32212d7c-c30a-45ff-bf3e-fe0b39b0c2ff)
 
 ![](attachments/image23.png)
