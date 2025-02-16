@@ -94,6 +94,8 @@ type: text
 
 ![ChatGPT 예제](ChatGPT%20예제.md)
 
+![GPT를 엑셀 안에서 사용하기](GPT를%20엑셀%20안에서%20사용하기.md)
+
 ![VBA with GPT](VBA%20with%20GPT.md)
 
 # 감사합니다
