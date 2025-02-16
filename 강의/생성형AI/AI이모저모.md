@@ -200,8 +200,12 @@ AI를 통해 노동에서 해방된 후 인간은 어떻게 될 것인가
 - 중국의 AI 스타트업이 개발한 오픈소스 LLM 모델 Deepseek V3와 R1
 - NVIDIA의 저가형 *H800*칩을 사용해 훈련, 추론에는 화웨이 *어센드 910C*
 	- NVIDIA의 하드웨어 패권에 대한 회의론 확산
-- MoE(Mixture of Experts) 기법과 강화학습 위주의 
-- 
+	- 그러나 여전히 CUDA 생태계에 의존하고 있음
+- MoE(Mixture of Experts) 기법과 강화학습 위주의 학습 방식으로 저비용 고효율 달성
+	- GPT-4
 
+#### OpenAI o3 모델 출시
+
+- 
 
 ![](attachments/chatgpt-deepseek-o3.png)
