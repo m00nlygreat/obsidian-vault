@@ -6,7 +6,7 @@
 
 ### Memory
 
-- ChatGPT는 대화 도중 사용자에 대한 정보가 감지되면 그 사실을 
+- ChatGPT는 대화 도중 사용자의 선호나 배경에 대한 정보가 감지되면 그 사실을 자신의 *메모리*에 업데이트하여 답변에 반영한다.
 
 ![](attachments/chatgpt-custom_instruction.png)
 
