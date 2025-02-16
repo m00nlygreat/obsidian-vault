@@ -202,10 +202,10 @@ AI를 통해 노동에서 해방된 후 인간은 어떻게 될 것인가
 	- NVIDIA의 하드웨어 패권에 대한 회의론 확산
 	- 그러나 여전히 CUDA 생태계에 의존하고 있음
 - MoE(Mixture of Experts) 기법과 강화학습 위주의 학습 방식으로 저비용 고효율 달성
-	- GPT-4
+	- 
 
-#### OpenAI o3 모델 출시
+#### OpenAI o3 출시
 
-- 
+- AGI 시대에 진입했다
 
 ![](attachments/chatgpt-deepseek-o3.png)
