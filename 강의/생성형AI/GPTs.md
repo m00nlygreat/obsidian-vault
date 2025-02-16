@@ -15,7 +15,7 @@
 ## 구성(Instruction)
 
 - Chatbot Builder를 통해 생성된 지시사항은 이곳에 기록된다. 
-- 실질적으로 GPT가 답변을 생성할 때 포함되는 프롬프트에 가까운 텍스트가 이곳에 표시됨
+	- 실질적으로 GPT가 답변을 생성할 때 포함되는 프롬프트에 가까운 텍스트가 이곳에 표시됨
 
 ### 지식(Knowledge)
 
@@ -25,7 +25,7 @@
 ### 기능(Capabilities)
 
 - GPT-4 부터 지원되는 고급 기능을 GPTs가 사용할 수 있을지 설정하는 영역
-- Browsing, Canvas, DALL-E, Code Interpreter를 모두 이용할 수 있다.
+	- Browsing, Canvas, DALL-E, Code Interpreter를 모두 이용할 수 있다.
 
 ![](attachments/chatgpt-gpt_instruction.png)
 
@@ -34,9 +34,13 @@
 ### 작업(Actions)
 
 - 필요한 경우 GPTs 챗봇의 판단에 의해 HTTP 요청을 통해 외부 API를 이용할 수 있고, 이를 통해 다양한 자동화를 수행할 수 있다.
+	- HTTP 헤더를 1개 밖에 지원하지 않아 복잡한 API 사용은 어려움
+	- 따라서 make.com / Zapier 등의 백엔드 자동화 도구를 이용하는 것이 좋음
 
 #### *OpenAPI 스키마*
 
 - API의 사용법을 나타낸 문서. Swagger 3.0이라고도 부름
-- 직접 작성하지 않아도 OpenAI가 마련한 ActionsGPT가 생성해줄 수 있다.
-	- 그러나 API 사용법을 충부
+- 직접 작성하지 않아도 OpenAI가 마련한 [ActionsGPT](https://chatgpt.com/g/g-TYEliDU6A-actionsgpt)가 생성해줄 수 있다.
+	- 그러나 API 사용법을 충분히 잘 설명해주어야 함
+
+![](attachments/chatgpt-gpts_action.png)
