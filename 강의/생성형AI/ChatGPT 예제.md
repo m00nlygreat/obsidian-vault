@@ -79,6 +79,7 @@
 
 - 엑셀에서 사용하기 위한 샘플 데이터를 생성
 - 테이블 형태로 반환된 [데이터](https://chat.openai.com/share/cca1a314-d09f-4ec5-8aac-aca52131b16a)는 엑셀, 구글 시트 등에 붙여넣어서 사용
+	- 또는 csv, xlsx 형태로 달라고 요청해도 됨
 
 ![](attachments/image24.png)
 
