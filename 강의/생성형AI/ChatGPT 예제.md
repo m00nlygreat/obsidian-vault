@@ -70,7 +70,8 @@
 
 - [슬라이드 만들기](https://chat.openai.com/share/32212d7c-c30a-45ff-bf3e-fe0b39b0c2ff)
 
-![](attachments/image23.png)
+![](attachments/chatgpt-ppt_chill_guy.png)
+
 
 ## 엑셀에서 ChatGPT 활용하기
 
