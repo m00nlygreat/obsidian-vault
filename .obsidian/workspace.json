@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/AI이모저모.md",
+                "file": "강의/생성형AI/ChatGPT를 대하는 우리의 자세.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AI이모저모"
+              "title": "ChatGPT를 대하는 우리의 자세"
             }
           }
         ],
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/AI이모저모.md",
+                "file": "강의/생성형AI/ChatGPT를 대하는 우리의 자세.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI이모저모"
+              "title": "Outline of ChatGPT를 대하는 우리의 자세"
             }
           },
           {
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/AI이모저모.md",
+                "file": "강의/생성형AI/ChatGPT를 대하는 우리의 자세.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI이모저모"
+              "title": "Backlinks for ChatGPT를 대하는 우리의 자세"
             }
           },
           {
@@ -266,6 +266,9 @@
   },
   "active": "7546e2170459a949",
   "lastOpenFiles": [
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+    "강의/생성형AI/AI이모저모.md",
+    "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/생성형AI/attachments/image35.png",
     "강의/생성형AI/생성형AI/attachments/image34.png",
     "강의/생성형AI/생성형AI/attachments/image33.png",
@@ -276,19 +279,15 @@
     "강의/생성형AI/생성형AI/attachments/image27.png",
     "강의/생성형AI/생성형AI/attachments/image24.png",
     "강의/생성형AI/생성형AI/attachments/image25.png",
-    "강의/생성형AI/생성형AI/attachments/image23.png",
     "강의/생성형AI/생성형AI/attachments",
     "강의/생성형AI/생성형AI",
     "강의/생성형AI/ChatGPT 고급 기능.md",
-    "강의/생성형AI/AI이모저모.md",
     "강의/Topics/마크다운.md",
     "강의/Topics/서비스 기획 잔소리.md",
     "강의/Topics/API.md",
     "강의/Topics/인수-인자 vs 매개변수.md",
     "강의/강사 소개.md",
     "강의/강의 업데이트 초안.md",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
-    "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/ChatGPT를 대하는 우리의 자세.md",
     "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
     "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
