@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/ChatGPT를 대하는 우리의 자세.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ChatGPT를 대하는 우리의 자세"
+              "title": "아는 만큼 쓰는 ChatGPT"
             }
           }
         ],
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/ChatGPT를 대하는 우리의 자세.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ChatGPT를 대하는 우리의 자세"
+              "title": "Outline of 아는 만큼 쓰는 ChatGPT"
             }
           },
           {
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/ChatGPT를 대하는 우리의 자세.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ChatGPT를 대하는 우리의 자세"
+              "title": "Backlinks for 아는 만큼 쓰는 ChatGPT"
             }
           },
           {
@@ -266,12 +266,13 @@
   },
   "active": "7546e2170459a949",
   "lastOpenFiles": [
+    "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.md",
+    "강의/생성형AI/ChatGPT를 대하는 우리의 자세.md",
+    "강의/생성형AI/attachments/image33.png",
     "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
     "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
-    "강의/생성형AI/ChatGPT를 대하는 우리의 자세.md",
     "강의/생성형AI/왜 내 GPT는 대답을 이상하게 할까.md",
     "강의/생성형AI/생성형 AI 교안 조각.md",
-    "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/_왜 내 GPT는 대답을 이상하게 할까.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/AI이모저모.md",
@@ -299,10 +300,8 @@
     "강의/생성형AI/attachments/chatgpt-4o_announce.png",
     "강의/생성형AI/attachments/chatgpt-elon_leaves_openAI.png",
     "강의/생성형AI/attachments/chatgpt-larry_vs_elon.png",
-    "강의/생성형AI/attachments/chatgpt-LLMs.png",
     "강의/HTML-CSS.md",
     "강의/test.md",
-    "강의/_test.md",
     "아이디어/attachments",
     "배움/Dart",
     "배움",

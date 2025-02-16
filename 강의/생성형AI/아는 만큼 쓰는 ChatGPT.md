@@ -65,6 +65,8 @@ author:
 
 ![](attachments/gpt-hallucination.jpg)
 
+![ChatGPT를 대하는 우리의 자세](ChatGPT를%20대하는%20우리의%20자세.md)
+
 ![왜 내 GPT는 대답을 이상하게 할까](왜%20내%20GPT는%20대답을%20이상하게%20할까.md)
 
 # AI 이모저모
