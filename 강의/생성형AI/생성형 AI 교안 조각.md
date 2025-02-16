@@ -24,3 +24,4 @@
 - 요금제
 	- ChatGPT Pro
 - Deep Research
+- @GPTs 부르기
