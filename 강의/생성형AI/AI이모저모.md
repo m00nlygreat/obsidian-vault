@@ -174,16 +174,19 @@ AI를 통해 노동에서 해방된 후 인간은 어떻게 될 것인가
 ### 대규모 언어모델 경쟁심화
 
 - 언어모델 자체의 성능은 상향평준화 되는 추세
-	- Llama 3.1 
+	- Llama 3.3
 	- Claude 3.5
-	- Mistral 2 Large
-	- Gemini 1.5 Pro
+	- Gemini 2.0
 - ChatGPT는 유틸리티, 애플리케이션 측면에서 선두
 	- GPT-4o / mini / long output
 	- Structured Output
-- 새로운 전장, AI 에이전트
-	- Anthropic "Claude 3.5 Computer Use"
-	- OpenAI
+
+***
+
+#### 새로운 전장, AI 에이전트
+
+- Anthropic "Claude 3.5 Computer Use"
+- OpenAI
 
 ---
 
