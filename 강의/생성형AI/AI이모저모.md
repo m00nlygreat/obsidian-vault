@@ -117,30 +117,32 @@ AI를 통해 노동에서 해방된 후 인간은 어떻게 될 것인가
 
 ### AI 전쟁에서 승리하기 위한 키는 무엇일까?
 
-- 하드웨어 vs 소프트웨어?
-	- H100, H200, B200 .. 
-	- NVIDIA의 승리는 어디까지인가
-		- [짐 켈러 "엔비디아 시대는 결국 끝난다.."](https://www.youtube.com/watch?v=2pw-YZ7KuFY)
-		- [짐켈러 인터뷰](https://www.youtube.com/watch?v=iwXr1IRaqWA)
+#### 하드웨어 vs 소프트웨어?
+
+- H100, H200, B200 .. 
+- NVIDIA의 승리는 어디까지인가
+	- [짐 켈러 "엔비디아 시대는 결국 끝난다.."](https://www.youtube.com/watch?v=2pw-YZ7KuFY)
+	- [짐켈러 인터뷰](https://www.youtube.com/watch?v=iwXr1IRaqWA)
 - 딥시크가 다시 불붙인 소프트웨어 경쟁
 
 ---
 
-- Data 보유
-	- 빠르면 2025년 학습시킬 데이터 고갈
-	- AGI 달성을 위한 키
+#### Data 보유
+
+- 빠르면 2025년 학습시킬 데이터 고갈
+- AGI 달성을 위한 키
+
+***
+
+#### AI 에이전트
+
+- Anthropic, 'Claude 3.5 Computer Use'
+- OpenAI는 ChatGPT의 Native App과 iOS 통합 등으로 꾀하는 중
+- NotionAI
 - 온디바이스 AI
 	- 갤럭시?
 	- 개인화의 측면, 비용의 측면
 
-***
-
-- OpenAI, 동영상 생성 AI Sora 발표
-	- 중국판 Sora, Vidu와 Kling
-- AI 에이전트
-	- Anthropic, 'Claude 3.5 Computer Use'
-	- OpenAI는 ChatGPT의 Native App과 iOS 통합 등으로 꾀하는 중
-	- NotionAI
 
 ---
 
