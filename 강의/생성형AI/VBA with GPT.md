@@ -40,6 +40,10 @@
 ## ChatGPT를 엑셀에서 사용할 수 있도록 커스텀 함수 만들기
 
 - GPT API를 사용해서 답변을 셀에 적어주는 `GPT()` 함수 만들기
-	- 다음과 같은 엑셀 사용자 함수를 생성하는 VBA 코드를 작성해줘. OpenAI의 API를 사용해서 ChatGPT의 Chat Completion을 수행하고 그 결과를 셀에 적어주는 사용자 함수. API에 사용할 모델명을 상수로 맨 앞에 선언하고, 사용자 프롬프트, 참조 범위, Temperature를 매개변수로 받을 것.
+	- 다음과 같은 엑셀 사용자 함수를 생성하는 VBA 코드를 작성해줘. OpenAI의 API를 사용해서 ChatGPT의 Chat Completion을 수행하고 그 응답을 셀에 적어주는 사용자 함수. API에 사용할 모델명과 API키를 상수로 맨 앞에 선언하고, 사용자 프롬프트, 참조 범위, Temperature를 매개변수로 받을 것. 참조 범위와 Temperature는 Optional한 매개변수야. 
+
+```markdown
+> 엑셀에 내장된 VBA는 JSON을 처리할 수 없기 때문에 VBA-JSON이라는 모듈을 설치해야 한다. GPT가 따로 언급해주지 않으면 'JSON' 모듈 설치에 관해 물어보고 시키는 대로 할 것.
+```
 
 ![](attachments/chatgpt-gpt_function_vba.png)
