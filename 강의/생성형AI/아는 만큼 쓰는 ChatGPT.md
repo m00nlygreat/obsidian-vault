@@ -83,6 +83,8 @@ author:
 
 ![마크다운](../Topics/마크다운.md)
 
+![](attachments/chatgpt-obsidian_integration.png)
+
 # ChatGPT 고급 기능 소개
 
 ![ChatGPT 고급 기능](ChatGPT%20고급%20기능.md)
