@@ -21,4 +21,6 @@
 
 
 
-
+- 요금제
+	- ChatGPT Pro
+- Deep Research
