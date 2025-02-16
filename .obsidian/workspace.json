@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/modules/경위서 쓰기.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "경위서 쓰기"
+              "title": "아는 만큼 쓰는 ChatGPT"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/modules/경위서 쓰기.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 경위서 쓰기"
+              "title": "Outline of 아는 만큼 쓰는 ChatGPT"
             }
           },
           {
@@ -151,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 아는 만큼 쓰는 ChatGPT.baked"
+              "title": "Outgoing links from 아는 만큼 쓰는 ChatGPT"
             }
           },
           {
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/modules/경위서 쓰기.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 경위서 쓰기"
+              "title": "Backlinks for 아는 만큼 쓰는 ChatGPT"
             }
           },
           {
@@ -193,16 +193,6 @@
             }
           },
           {
-            "id": "491b93e5c11905b3",
-            "type": "leaf",
-            "state": {
-              "type": "QUICKSHARE_SIDE_VIEW",
-              "state": {},
-              "icon": "cloud",
-              "title": "QuickShare"
-            }
-          },
-          {
             "id": "0252b34d9c13fb51",
             "type": "leaf",
             "state": {
@@ -211,9 +201,21 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "d077a4dde7457cdd",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 아는 만큼 쓰는 ChatGPT"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -235,16 +237,19 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "491b93e5c11905b3",
+  "active": "e3b57cab7b0a65ac",
   "lastOpenFiles": [
-    "강의/생성형AI/ChatGPT 예제.md",
+    "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.md",
+    "강의/생성형AI/AI이모저모.md",
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+    "강의/생성형AI/왜 내 GPT는 대답을 이상하게 할까.md",
+    "강의/생성형AI/생성형 AI 교안 조각.md",
+    "강의/생성형AI/사전 평가 질문지.md",
     "강의/생성형AI/modules/경위서 쓰기.md",
+    "강의/생성형AI/ChatGPT 예제.md",
     "강의/생성형AI/ChatGPT 기초 사용법.md",
     "강의/생성형AI/ChatGPT를 대하는 우리의 자세.md",
     "강의/생성형AI/GPTs.md",
-    "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.md",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
-    "강의/생성형AI/왜 내 GPT는 대답을 이상하게 할까.md",
     "강의/생성형AI/ChatGPT 고급 기능.md",
     "강의/생성형AI/_GPTs.md",
     "강의/생성형AI/attachments/chatgpt-gpts_action.png",
@@ -252,12 +257,10 @@
     "강의/생성형AI/attachments/chatgpt-gpts_creation.png",
     "강의/생성형AI/attachments/chatgpt-gps_creation.png",
     "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
-    "강의/생성형AI/생성형 AI 교안 조각.md",
     "강의/생성형AI/사전 평가 질문지 - 노코드 엔지니어링.md",
     "강의/생성형AI/attachments/chatgpt-obsidian_integration.png",
     "copilot-conversations/LLM이_무엇인지_알려줘@20250217_000212.md",
     "copilot-conversations",
-    "강의/생성형AI/AI이모저모.md",
     "강의/생성형AI/attachments/chatgpt-expectation.png",
     "강의/생성형AI/생성형AI/attachments/image35.png",
     "강의/생성형AI/생성형AI/attachments/image34.png",
@@ -276,7 +279,6 @@
     "강의/생성형AI/프롬프트 엔지니어링.md",
     "강의/생성형AI/modules",
     "강의/생성형AI/이미지 생성.md",
-    "강의/Topics/_마크다운.md",
     "아이디어/attachments",
     "배움/Dart",
     "배움",

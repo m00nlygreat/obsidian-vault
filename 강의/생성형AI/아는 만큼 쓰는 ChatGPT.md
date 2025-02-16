@@ -1,7 +1,5 @@
 ---
 title: 아는 만큼 쓰는 ChatGPT
-author:
-	- 배문형
 ---
 
 # 들어가며
