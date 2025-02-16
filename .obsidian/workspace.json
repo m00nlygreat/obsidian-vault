@@ -11,15 +11,12 @@
             "id": "8211d5f7cb686395",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "강의/생성형AI/ChatGPT를 대하는 우리의 자세.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
+                "file": "강의/attachments/profile-aigen.png"
               },
-              "icon": "lucide-file",
-              "title": "ChatGPT를 대하는 우리의 자세"
+              "icon": "lucide-image",
+              "title": "profile-aigen"
             }
           },
           {
@@ -105,13 +102,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/ChatGPT를 대하는 우리의 자세.md",
+                "file": "강의/attachments/profile-aigen.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ChatGPT를 대하는 우리의 자세"
+              "title": "Outline of profile-aigen"
             }
           },
           {
@@ -145,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/생성형AI/ChatGPT를 대하는 우리의 자세.md",
+                "file": "강의/attachments/profile-aigen.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ChatGPT를 대하는 우리의 자세"
+              "title": "Backlinks for profile-aigen"
             }
           },
           {
@@ -164,10 +161,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "강의/생성형AI/ChatGPT를 대하는 우리의 자세.md"
+                "file": "강의/attachments/profile-aigen.png"
               },
               "icon": "lucide-info",
-              "title": "File properties for ChatGPT를 대하는 우리의 자세"
+              "title": "File properties for profile-aigen"
             }
           },
           {
@@ -205,6 +202,10 @@
   },
   "active": "8211d5f7cb686395",
   "lastOpenFiles": [
+    "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.md",
+    "강의/생성형AI/ChatGPT를 대하는 우리의 자세.md",
+    "강의/강사 소개.md",
+    "강의/attachments/profile-aigen.png",
     "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
     "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
     "강의/생성형AI/ChatGPT 예제.md",
@@ -212,8 +213,6 @@
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/프롬프트 엔지니어링.md",
     "강의/생성형AI/왜 내 GPT는 대답을 이상하게 할까.md",
-    "강의/생성형AI/ChatGPT를 대하는 우리의 자세.md",
-    "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/ChatGPT 고급 기능.md",
     "강의/생성형AI/ChatGPT 기초 사용법.md",
     "강의/생성형AI/attachments/image21.png",
@@ -234,14 +233,12 @@
     "copilot-conversations/LLM이_무엇인지_알려줘@20250217_000212.md",
     "copilot-conversations",
     "강의/생성형AI/attachments/chatgpt-expectation.png",
-    "강의/생성형AI/생성형AI/attachments/image35.png",
     "강의/생성형AI/생성형AI/attachments",
     "강의/생성형AI/생성형AI",
     "강의/Topics/마크다운.md",
     "강의/Topics/서비스 기획 잔소리.md",
     "강의/Topics/API.md",
     "강의/Topics/인수-인자 vs 매개변수.md",
-    "강의/강사 소개.md",
     "강의/강의 업데이트 초안.md",
     "강의/생성형AI/modules",
     "아이디어/attachments",
