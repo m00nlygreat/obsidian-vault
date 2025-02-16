@@ -54,10 +54,12 @@ author:
 
 - 세종대왕 맥북 던짐 사건
 - 환각은 AI의 실수가 아니라 단순히 확률적으로 언어를 생성할 뿐인 LLM의 자연스러운 동작.
+	- 같은 원리에 따라 LLM으로 하여금 반드시 명령에 따르게 하는 것도 불가능
 
 ### RAG (Retrieval-Augmented Generation)
 
 - 범용으로 제작된 LLM에 특정 목적의 데이터를 첨부하여 정확하고 전문성 있는 답변을 생성하는 기술
+- 환각 현상을 줄이는 테크닉 중 하나
 
 ![](attachments/gpt-hallucination.jpg)
 
