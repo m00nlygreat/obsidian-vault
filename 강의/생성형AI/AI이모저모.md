@@ -112,6 +112,7 @@
 - Genuine, authentic한 인간에의 선호
 	- AI가 생성한 예술보다는 **진짜 인간**이 작성한 예술을 찾고 검증하려는 시도
 - 기본 소득에 대한 활발한 논의
+	- [샘 올트먼의 기본 소득 실험](https://lilys.ai/digest/2645038?s=1&nid=786925)
 
 ![](attachments/chatgpt-future_of_AI.png)
 
