@@ -65,6 +65,6 @@
 - 내장된 마이크를 통해 ChatGPT와 음성대화 가능!
 	- 원어민급 영어 회화 연습 가능
 	- 중간에 끊기(interrupt) 가능한 자연스러운 대화
-- 향후 OS와 AI Agent 통합이 연결로가 될 수 있음
+- 향후 OS와 AI Agent 통합의 전초기지가 될 전망
 
 ![](attachments/image35.png)
