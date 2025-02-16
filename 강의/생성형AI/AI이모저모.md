@@ -115,15 +115,14 @@ AI를 통해 노동에서 해방된 후 인간은 어떻게 될 것인가
 
 ## AI 이모저모
 
-### AI 전쟁에서 승리하기 위한 키는?
+### AI 전쟁에서 승리하기 위한 키는 무엇일까?
 
 - 하드웨어 vs 소프트웨어?
 	- H100, H200, B200 .. 
-		- NVIDIA, AI Saas 
 	- NVIDIA의 승리는 어디까지인가
-		- 인텔, 메타, Groq 등 빅테크 들의 탈NVIDIA를 위한 노력
 		- [짐 켈러 "엔비디아 시대는 결국 끝난다.."](https://www.youtube.com/watch?v=2pw-YZ7KuFY)
 		- [짐켈러 인터뷰](https://www.youtube.com/watch?v=iwXr1IRaqWA)
+- 딥시크가 다시 불붙인 소프트웨어 경쟁
 
 ---
 
