@@ -27,3 +27,4 @@
 - @GPTs 부르기
 - PPT 내용 바꾸기
 
+[프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
