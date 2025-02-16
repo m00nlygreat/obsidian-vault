@@ -17,14 +17,24 @@
 - Chatbot Builder를 통해 생성된 지시사항은 이곳에 기록된다. 
 - 실질적으로 GPT가 답변을 생성할 때 포함되는 프롬프트에 가까운 텍스트가 이곳에 표시됨
 
-### Knowledge
+### 지식(Knowledge)
 
 - PDF, PPT, XLS 등의 파일을 제공하면 지식(Knowledge)으로써 GPTs 답변에 이용
 - 전문 지식이나 특정 내용을 참고하여 답변을 생성하는 RAG 기능을 GPTs에 첨부할 수 있음
 
-### 기능
+### 기능(Capabilities)
 
-
+- GPT-4 부터 지원되는 고급 기능을 GPTs가 사용할 수 있을지 설정하는 영역
+- Browsing, Canvas, DALL-E, Code Interpreter를 모두 이용할 수 있다.
 
 ![](attachments/chatgpt-gpt_instruction.png)
 
+---
+
+### 작업(Actions)
+
+- 필요한 경우 GPTs 챗봇의 판단 하, HTTP 요청을 통해 외부 API를 이용할 수 있고, 이를 통해 다양한 자동화를 수행할 수 있다.
+
+#### *OpenAPI 스키마*
+
+- GPT
