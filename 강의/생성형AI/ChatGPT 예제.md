@@ -112,16 +112,24 @@
 - `GPT()` 함수 사용하기
 
 ```ruby
-GPT(프롬프트, [참조값], [온도])
+GPT(프롬프트, [참조데이터], [온도])
 ```
- 
-![](attachments/image27.png)
+
+- 온도는 ChatGPT의 창의성을 의미하는 하이퍼 파라미터 (optional)
+
+![](attachments/chatgpt-gpt_function.png)
 
 ---
 
 ### 알맞은 해시태그 달기
 
 - 여행코스에서 여행지와 체험하는 문화를 꺼내어서 해시태그 형태로 표현.
+	- 무엇을 해시태그로 뽑아내야 할지 정확히 알려주기
+- 드래그 핸들을 잡고 채우기(Fill) 기능을 사용해 `GPT()` 함수 반복하기
+
+```markdown
+> 채우기를 사용해서 GPT() 함수를 반복할 경우 그 수만큼 API 호출이 이뤄지니 주의
+```
 
 ![](attachments/image28.png)
 
