@@ -85,23 +85,24 @@
 
 ---
 
-### 함수 대신 만들어주기
+### 수식 대신 만들어주기
 
-- 함수를 텍스트로 설명하면 대신 생성
-- 파라미터로 제공되어야 하는 데이터의 위치와 형식을 설명할 필요 있음
+- 필요한 수식을 텍스트로 설명하면 대신 생성해줌
+- 사용할 함수, 파라미터로 제공되어야 하는 데이터의 위치와 형식을 설명할 필요 있음
 
 ```markdown
-> 기본적으로 함수의 구성과 동작을 이해해야 정확하게 설명할 수 있다. 만약 어렵다면 스크린샷을 첨부하고 상황과 목적을 침착하게 설명해볼 수 있다
+> 기본적으로 수식과 함수의 동작을 이해해야 정확하게 설명할 수 있다. 만약 어렵다면 스크린샷을 첨부하고 상황과 목적을 침착하게 설명해볼 수 있다
 ```
  
-![](attachments/image25.png)
+![](attachments/chatgpt-generate_formula.png)
 
 ## GPT를 엑셀 안에서 사용하기
 
 - ChatGPT API를 사용하여 엑셀 안에서 함수를 통해 GPT를 사용하게끔 도와주는 추가기능
-- [gptforwork.com](https://gptforwork.com)
+	- [gptforwork.com](https://gptforwork.com)
+- 기본적으로 유료이나, 가입시 약간의 크레딧을 제공하여 테스트해볼 수 있다
 
-![](attachments/image26.png)
+![](attachments/chatgpt-gpt_for_excel_word.png)
 
 ---
 
