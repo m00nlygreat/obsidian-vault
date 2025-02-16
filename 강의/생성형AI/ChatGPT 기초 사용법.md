@@ -47,6 +47,8 @@
 
 ![](attachments/chatgpt-regenerate.png)
 
+---
+
 ### 답변 재생성하기 
 
 - ChatGPT는 일종의 창의성(Creativeness)을 가지고 있는데, *Top-P*, *Temperature*, *Beam Width* 와 같은 하이퍼 파라미터(Hyper Parameter)에 의한 것.
