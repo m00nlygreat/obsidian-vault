@@ -8,7 +8,23 @@
 	- 수정 사항을 다시 왼쪽의 채팅에서 지시하면 알아서 업데이트함
 - *만들기* 버튼을 눌러 GPT 저장 완료
 
+---
+
 ![](attachments/chatgpt-gps_creation.png)
 
 ## 구성(Instruction)
+
+- Chatbot Builder를 통해 생성된 지시사항은 이곳에 기록된다. 
+- 실질적으로 GPT가 답변을 생성할 때 포함되는 프롬프트에 가까운 텍스트가 이곳에 표시됨
+
+### Knowledge
+
+- PDF, PPT, XLS 등의 파일을 제공하면 지식(Knowledge)으로써 GPTs 답변에 이용
+- 전문 지식이나 특정 내용을 참고하여 답변을 생성하는 RAG 기능을 GPTs에 첨부할 수 있음
+
+### 기능
+
+
+
+![](attachments/chatgpt-gpt_instruction.png)
 
