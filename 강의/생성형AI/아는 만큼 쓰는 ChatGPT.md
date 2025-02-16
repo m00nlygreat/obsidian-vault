@@ -6,6 +6,8 @@ author:
 
 # 들어가며
 
+![강사소개](../강사%20소개.md)
+
 ## ChatGPT
 
 - OpenAI 가 발표한 *Generative Pre-trained Transformer* 모델의 생성형 AI
