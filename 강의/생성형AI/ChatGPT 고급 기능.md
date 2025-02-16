@@ -62,7 +62,7 @@
 - iOS/Android/Windows/Mac 을 지원하는 네이티브 앱
 - 내장된 마이크를 통해 ChatGPT와 음성대화 가능!
 	- 영어 회화 연습
-	- 
-- 백그라운드 대화
+	- 중간에 끊기(interrupt) 가능한 자연스러운 대화
+- 향후 OS와 AI Agent 통합이 연결로가 될 수 있음
 
 ![](attachments/image35.png)
