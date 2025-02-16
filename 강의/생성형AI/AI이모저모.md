@@ -120,7 +120,7 @@ AI를 통해 노동에서 해방된 후 인간은 어떻게 될 것인가
 	- [짐 켈러 "엔비디아 시대는 결국 끝난다.."](https://www.youtube.com/watch?v=2pw-YZ7KuFY)
 	- [짐켈러 인터뷰](https://www.youtube.com/watch?v=iwXr1IRaqWA)
 - 딥시크가 다시 불붙인 소프트웨어 경쟁
-	- 하드웨어의 병목(bottleneck) 현상을 소프트웨어
+	- 하드웨어의 병목(bottleneck) 현상을 소프트웨어로 뚫고 나가려는 시도
 
 ---
 
@@ -128,20 +128,9 @@ AI를 통해 노동에서 해방된 후 인간은 어떻게 될 것인가
 
 - 학습시킬 데이터의 양이 AI 전쟁의 키라고 보는 입장
 	- 빠르면 [2026년 학습시킬 데이터 고갈](https://www.hankyung.com/article/202401220871i)될 수 있다
-	- 인간이 생산해낸 텍스트, 그림, 음악을 학습해야 하는데, AI의 빠른 학습속도 때문에 인간이 생산해낸 콘텐츠가 고갈되면 더 이상 모델을 발전시키기 어렵다
+	- AI의 빠른 학습속도 때문에 인간이 생산해낸 콘텐츠가 고갈되면 더 이상 모델을 발전시키기 어렵다
 - 구글, 메타 등 소셜 미디어/사용자 데이터를 가진 회사들이 강점을 가진 영역
-
-***
-
-#### AI 에이전트
-
-- Anthropic, 'Claude 3.5 Computer Use'
-- OpenAI는 ChatGPT의 Native App과 iOS 통합 등으로 꾀하는 중
-- NotionAI
-- 온디바이스 AI
-	- 갤럭시?
-	- 개인화의 측면, 비용의 측면
-
+- 머스크가 트위터를 인수해 X로 개조한 이유도 여기에 있다는 관측
 
 ---
 
@@ -185,8 +174,9 @@ AI를 통해 노동에서 해방된 후 인간은 어떻게 될 것인가
 
 #### 새로운 전장, AI 에이전트
 
-- Anthropic "Claude 3.5 Computer Use"
-- OpenAI
+- Anthropic "Claude 3.5 Computer Use"로 가상환경에서 컴퓨터를 직접 조작하는 기능 선봬
+- OpenAI는 macOS / iOS 등의 OS 통합(integration)으로 대응
+	- Apple Inteligence 발표와 ChatGPT 통합에서 예견됨
 
 ---
 
