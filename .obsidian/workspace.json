@@ -8,61 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7e97717b2451289",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/생성형AI/왜 내 GPT는 대답을 이상하게 할까.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "왜 내 GPT는 대답을 이상하게 할까"
-            }
-          },
-          {
-            "id": "d9e47479f5402e9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/생성형AI/AI이모저모.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AI이모저모"
-            }
-          },
-          {
             "id": "8211d5f7cb686395",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "강의/생성형AI/ChatGPT 기초 사용법.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -91,7 +43,21 @@
       {
         "id": "45bfd629ba921775",
         "type": "tabs",
+        "dimension": 52.34042553191489,
         "children": [
+          {
+            "id": "caff1bbdd46b55f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
           {
             "id": "ed03e785266d9f8d",
             "type": "leaf",
@@ -118,22 +84,30 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b91d4ac740d417c1",
+        "type": "tabs",
+        "dimension": 47.65957446808511,
+        "children": [
           {
-            "id": "caff1bbdd46b55f4",
+            "id": "6e7be19b029eca7b",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "outline",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "file": "강의/생성형AI/ChatGPT 기초 사용법.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "icon": "lucide-list",
+              "title": "Outline of ChatGPT 기초 사용법"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,21 +142,6 @@
               "state": {},
               "icon": "spreadsheet",
               "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "6e7be19b029eca7b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "강의/개발 강의가 설명하지 않는 것들.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 개발 강의가 설명하지 않는 것들"
             }
           },
           {
@@ -306,16 +265,17 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "caff1bbdd46b55f4",
+  "active": "8211d5f7cb686395",
   "lastOpenFiles": [
-    "강의/생성형AI/attachments/chatgpt-reply.png",
+    "강의/생성형AI/사전 평가 질문지 - 노코드 엔지니어링.md",
     "강의/생성형AI/생성형 AI 교안 조각.md",
     "강의/생성형AI/ChatGPT 기초 사용법.md",
+    "강의/생성형AI/AI이모저모.md",
+    "강의/생성형AI/왜 내 GPT는 대답을 이상하게 할까.md",
+    "강의/생성형AI/attachments/chatgpt-reply.png",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/프롬프트 엔지니어링.md",
     "강의/생성형AI/ChatGPT 예제.md",
-    "강의/생성형AI/AI이모저모.md",
-    "강의/생성형AI/왜 내 GPT는 대답을 이상하게 할까.md",
     "강의/UX 이론.md",
     "강의/기획 선배의 맞는 말 대잔치.md",
     "강의/Topics/기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다.md",
@@ -332,7 +292,6 @@
     "강의/생성형AI/attachments/chatgpt-LLMs.png",
     "강의/생성형AI/attachments/chatgpt-perceptron.png",
     "강의/생성형AI/attachments/chatgpt-mini_projects.png",
-    "강의/생성형AI/attachments/chatgpt-chain_of_thought.png",
     "강의/HTML-CSS.md",
     "강의/test.md",
     "강의/_test.md",
