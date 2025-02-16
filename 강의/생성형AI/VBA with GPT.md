@@ -15,17 +15,17 @@
 
 - 출근/퇴근 버튼을 누르면 근태 시트에 자동으로 출퇴근 시간이 적히도록 엑셀 매크로 작성
 
-![](attachments/Pasted%20image%2020240815040614.png)
+![](attachments/chatgpt-vba_shift.png)
 
 ## 파일명 변경 엑셀 만들기
 
 - 폴더 내 파일명을 일괄 변경해주는 엑셀 매크로 만들기
 
-![](attachments/Pasted%20image%2020240815035928.png)
+![](attachments/chatgpt-rename.png)
 
 ## ChatGPT를 엑셀에서 사용할 수 있도록 커스텀 함수 만들기
 
 - `GPT()` 함수 만들기
 - 패키지 설치
 
-![](attachments/Pasted%20image%2020240815042447.png)
+![](attachments/chatgpt-gpt_function_vba.png)
