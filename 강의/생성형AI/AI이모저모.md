@@ -96,6 +96,7 @@
 - 얀 르쿤, 메타 인공지능 수석 과학자
 	- "Transformer 모델로는 AGI 달성 못해"
 	- "o1은 Transformer가 아냐"
+	- AGI는 2040년 -> 2030년에 올 것
 
 ---
 
@@ -105,6 +106,7 @@ AI를 통해 노동에서 해방된 후 인간은 어떻게 될 것인가
 
 - 로마시대 콜로세움의 이야기
 - Genuine, authentic한 인간에의 선호
+- 기본 소득 논의
 
 ![](attachments/chatgpt-future_of_AI.png)
 
