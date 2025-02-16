@@ -6,5 +6,9 @@
 	- 지시사항 -> 챗봇 이름 설정 -> 프로필 아이콘 설정의 단계로 수행
 - 이후 오른쪽의 화면에서 이 챗봇을 테스트하고, 
 	- 수정 사항을 다시 왼쪽의 채팅에서 지시하면 알아서 업데이트함
+- *만들기* 버튼을 눌러 GPT 저장 완료
 
-![](attachments/chatgpt-gpts_creation.png)
+![](attachments/chatgpt-gps_creation.png)
+
+## 구성(Instruction)
+
