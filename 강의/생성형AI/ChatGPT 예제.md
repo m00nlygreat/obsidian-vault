@@ -81,7 +81,7 @@
 - 테이블 형태로 반환된 [데이터](https://chat.openai.com/share/cca1a314-d09f-4ec5-8aac-aca52131b16a)는 엑셀, 구글 시트 등에 붙여넣어서 사용
 	- 또는 csv, xlsx 형태로 달라고 요청해도 됨
 
-![](attachments/image24.png)
+![](attachments/chatgpt-sample_data_excel.png)
 
 ---
 
@@ -89,6 +89,10 @@
 
 - 함수를 텍스트로 설명하면 대신 생성
 - 파라미터로 제공되어야 하는 데이터의 위치와 형식을 설명할 필요 있음
+
+```markdown
+> 기본적으로 함수의 구성과 동작을 이해해야 정확하게 설명할 수 있다. 만약 어렵다면 스크린샷을 첨부하고 상황과 목적을 침착하게 설명해볼 수 있다
+```
  
 ![](attachments/image25.png)
 
