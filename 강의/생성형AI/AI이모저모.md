@@ -70,7 +70,7 @@
 
 - 오픈AI, CEO 샘 올트먼 해임 및 복직
 - 머스크 x.ai 설립
-- 샘 올트먼, 초정렬팀 해체
+- 오픈AI, 초정렬팀 해체
 	- 일리야 수츠케버 퇴사
 - [머스크 vs 올트먼 설전](https://www.chosun.com/economy/tech_it/2025/02/11/BWX6CAAL2RAAVCAZNYCMHMHXIQ/)
 	- "OpenAI 141조에 사겠다"
