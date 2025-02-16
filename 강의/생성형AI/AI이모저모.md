@@ -87,6 +87,8 @@
 - 스스로를 업데이트하는 인공지능
 - [최초의 AGI를 자칭하는 o3 모델](https://www.aitimes.com/news/articleView.html?idxno=166425)
 
+***
+
 ### AGI에 이르는 길은?
 
 - Transformer 모델의 최종형태
@@ -206,6 +208,6 @@ AI를 통해 노동에서 해방된 후 인간은 어떻게 될 것인가
 
 #### OpenAI o3 출시
 
-- AGI 시대에 진입했다
+- AGI 시대에 진입했다는 반응
 
 ![](attachments/chatgpt-deepseek-o3.png)
