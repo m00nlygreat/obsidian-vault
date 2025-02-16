@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/Topics/마크다운.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "마크다운"
+              "title": "아는 만큼 쓰는 ChatGPT"
             }
           }
         ]
@@ -43,7 +43,6 @@
       {
         "id": "45bfd629ba921775",
         "type": "tabs",
-        "dimension": 64.46808510638297,
         "children": [
           {
             "id": "caff1bbdd46b55f4",
@@ -86,28 +85,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "b91d4ac740d417c1",
-        "type": "tabs",
-        "dimension": 35.53191489361702,
-        "children": [
-          {
-            "id": "6e7be19b029eca7b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "강의/Topics/마크다운.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 마크다운"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -120,6 +97,7 @@
       {
         "id": "da6c46f756e0c96b",
         "type": "tabs",
+        "dimension": 69.70684039087948,
         "children": [
           {
             "id": "69148f6cdd2b30f3",
@@ -135,6 +113,21 @@
             }
           },
           {
+            "id": "6e7be19b029eca7b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 아는 만큼 쓰는 ChatGPT"
+            }
+          },
+          {
             "id": "ac2a8cc2bb5f70a5",
             "type": "leaf",
             "state": {
@@ -142,25 +135,6 @@
               "state": {},
               "icon": "spreadsheet",
               "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "2811e36b9ad8fd83",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.baked.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 아는 만큼 쓰는 ChatGPT.baked"
             }
           },
           {
@@ -243,11 +217,36 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "6ca87e047217980d",
+        "type": "tabs",
+        "dimension": 30.293159609120522,
+        "children": [
+          {
+            "id": "2811e36b9ad8fd83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 아는 만큼 쓰는 ChatGPT"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 448.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,6 +268,9 @@
   "lastOpenFiles": [
     "강의/생성형AI/생성형 AI 교안 조각.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+    "강의/생성형AI/이미지 생성.md",
+    "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.md",
+    "강의/Topics/마크다운.md",
     "강의/생성형AI/ChatGPT 기초 사용법.md",
     "강의/생성형AI/사전 평가 질문지 - 노코드 엔지니어링.md",
     "강의/생성형AI/AI이모저모.md",
@@ -279,10 +281,8 @@
     "강의/UX 이론.md",
     "강의/기획 선배의 맞는 말 대잔치.md",
     "강의/Topics/기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다.md",
-    "강의/Topics/마크다운.md",
     "강의/Topics/LLM을 UX에 통합하기.md",
     "강의/Topics/서버는 무한루프다..md",
-    "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/attachments/chatgpt-deepseek-o3.png",
     "강의/생성형AI/attachments/chatgpt-o1_reasoning.png",
     "강의/생성형AI/attachments/chatgpt-apple_inteligence.png",
@@ -302,7 +302,6 @@
     "아이디어/플러터 기반 스니펫 에디터.md",
     "아이디어/OBS용 마우스-키보드 하이라이트 플러그인.md",
     "아이디어/얘기를 할 데가 없어요.md",
-    "아이디어/앱 스크린샷 공유 플랫폼.md",
     "아이디어/attachments",
     "배움/Dart",
     "배움",
