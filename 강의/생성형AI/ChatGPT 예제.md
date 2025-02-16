@@ -1,5 +1,3 @@
-# 실전 ChatGPT
-
 ## 경위서 쓰기
 
 - [제가 왜 늦었냐면요 - 티키틱](https://www.youtube.com/watch?v=aODhSiEI9qM)
