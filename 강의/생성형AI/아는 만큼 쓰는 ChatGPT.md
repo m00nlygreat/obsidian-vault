@@ -83,6 +83,8 @@ author:
 
 ![마크다운](../Topics/마크다운.md)
 
+## Obsidian과 GPT를 사용한 개인 지식DB 구축
+
 ![](attachments/chatgpt-obsidian_integration.png)
 
 # ChatGPT 고급 기능 소개
