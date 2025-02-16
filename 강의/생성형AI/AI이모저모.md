@@ -199,8 +199,8 @@ AI를 통해 노동에서 해방된 후 인간은 어떻게 될 것인가
 - MoE(Mixture of Experts) 기법과 강화학습 위주의 학습 방식으로 저비용 고효율 달성
 	- 
 
-#### OpenAI o3 출시
+#### OpenAI o3 / o3 mini 출시
 
-- AGI 시대에 진입했다는 반응
+- 최초로 AGI에 진입했다는 의견
 
 ![](attachments/chatgpt-deepseek-o3.png)
