@@ -41,7 +41,7 @@
 
 - PDF로 된 신입사원 매뉴얼을 학습하고, 신입사원의 질문에 답하는 GPT 만들기
 	- 친절한 말투를 사용하고 긍정적인 답변을 해야함 (Tone, Attitude)
-	- 신입사원 매뉴얼에 없는 내용, 곤란한 내용은 인사팀장에게 안내
+	- 신입사원 매뉴얼에 없는 내용, 곤란한 내용에 대해서는 인사팀장의 이메일 주소 안내
 	- [친절한 김대리](https://chat.openai.com/g/g-bEYIII6S6-cinjeolhan-gimdaeri)
 
 ![](attachments/image22.png)
