@@ -1,5 +1,3 @@
-[경위서 쓰기](modules/경위서%20쓰기.md)
-
 ## 이력서를 주고 물어보기
 
 - PDF, PPT, XLS, DOC, TXT, MD 등 다양한 포맷의 파일을 제공하고 내용에 대해 질문하거나, 내용을 기반으로 추론하거나, 데이터 분석 등을 의뢰
@@ -52,6 +50,7 @@
 
 - [원본](https://getgpt.app/play/1drEpYwXhT?list=d9926747-7a55-4b38-a80d-2982de281d5f)
 - 어떤 Instruction을 주었을까? 생각해보기
+	1. 불합리하거나 억울하거나 불행한 상황에서 긍정적인 포인트를 발견할 것
 - [까칠한 그녀 GPT](https://chatgpt.com/g/g-wIpN0ihcQ-ggacilhan-geunyeo)
 
 ![](attachments/gpt-wonyoung-thinking.png)
