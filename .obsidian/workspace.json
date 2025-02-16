@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "강의/생성형AI/생성형 AI 교안 조각.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "아는 만큼 쓰는 ChatGPT"
+              "title": "생성형 AI 교안 조각"
             }
           }
         ]
@@ -98,13 +98,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "강의/생성형AI/생성형 AI 교안 조각.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 아는 만큼 쓰는 ChatGPT"
+              "title": "Outline of 생성형 AI 교안 조각"
             }
           }
         ]
@@ -267,13 +267,13 @@
   },
   "active": "8211d5f7cb686395",
   "lastOpenFiles": [
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/ChatGPT 기초 사용법.md",
     "강의/생성형AI/생성형 AI 교안 조각.md",
     "강의/생성형AI/사전 평가 질문지 - 노코드 엔지니어링.md",
     "강의/생성형AI/AI이모저모.md",
     "강의/생성형AI/왜 내 GPT는 대답을 이상하게 할까.md",
     "강의/생성형AI/attachments/chatgpt-reply.png",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/프롬프트 엔지니어링.md",
     "강의/생성형AI/ChatGPT 예제.md",
     "강의/UX 이론.md",

@@ -25,3 +25,5 @@
 	- ChatGPT Pro
 - Deep Research
 - @GPTs 부르기
+- PPT 내용 바꾸기
+
