@@ -11,12 +11,15 @@
             "id": "8211d5f7cb686395",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "강의/attachments/profile-aigen.png"
+                "file": "강의/생성형AI/VBA with GPT.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "profile-aigen"
+              "icon": "lucide-file",
+              "title": "VBA with GPT"
             }
           },
           {
@@ -102,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/attachments/profile-aigen.png",
+                "file": "강의/생성형AI/VBA with GPT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of profile-aigen"
+              "title": "Outline of VBA with GPT"
             }
           },
           {
@@ -142,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/attachments/profile-aigen.png",
+                "file": "강의/생성형AI/VBA with GPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for profile-aigen"
+              "title": "Backlinks for VBA with GPT"
             }
           },
           {
@@ -161,10 +164,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "강의/attachments/profile-aigen.png"
+                "file": "강의/생성형AI/VBA with GPT.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for profile-aigen"
+              "title": "File properties for VBA with GPT"
             }
           },
           {
@@ -202,10 +205,10 @@
   },
   "active": "8211d5f7cb686395",
   "lastOpenFiles": [
+    "강의/attachments/profile-aigen.png",
     "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/ChatGPT를 대하는 우리의 자세.md",
     "강의/강사 소개.md",
-    "강의/attachments/profile-aigen.png",
     "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
     "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
     "강의/생성형AI/ChatGPT 예제.md",
