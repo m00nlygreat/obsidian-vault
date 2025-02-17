@@ -1,3 +1,6 @@
+---
+type: module
+---
 ## 소개
 
 ![](attachments/chatgpt-gpt_models.png)
