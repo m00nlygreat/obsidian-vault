@@ -9,7 +9,7 @@ type: module
 	- 우리 팀에 들어왔을 때 문제가 될 수 있을만한 가능성?
 - [채용 후보 관리 엑셀 파일을 작성](https://chat.openai.com/share/3ece436c-e7d3-4123-8974-5a2bd4af6caf)하고, 후보자를 추가시키기
 
-![](attachments/image17.png)
+![](attachments/chatgpt-read_resume.png)
 
 ## 회사의 재무제표 분석
 
@@ -19,7 +19,7 @@ type: module
 	- 한국의 현 상황과 관련하여 투자의견 제안
 - 재무제표 분석 결과, 투자 관련 의견을 작성하여 보고하기
 
-![](attachments/image18.png)
+![](attachments/read_finance.png)
 
 ## 아보카도 가격 분석
 
@@ -28,7 +28,7 @@ type: module
 	- 같은 기간 동안 가장 많이 오른 지역은?
 	- 아보카도 가격에 가장 많이 영향을 주는 요소는?
 
-![](attachments/image19.png)
+![](attachments/chatgpt-avocado_prices.png)
 
 ## 스포티파이 곡 재생 데이터 분석
 
@@ -38,7 +38,7 @@ type: module
 	- 2023년의 전체적인 무드는?
 	- 스포티파이에 진출한 K팝 아티스트들의 비중을 파이차트로 그리기
 
-![](attachments/image20.png)
+![](attachments/chatgpt-spotify_songs.png)
 
 ## GPTs
 

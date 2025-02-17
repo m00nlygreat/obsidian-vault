@@ -36,7 +36,7 @@ type: module
 	- GPT-4: 2023년 12월 까지
 	- GPT-4o: 2023년 9월 까지
 
-![](attachments/image13.png)
+![](attachments/chatgpt-browsing.png)
 
 ## Data Analysis
 
@@ -48,7 +48,7 @@ type: module
 - 기본적으로 파이썬으로 수행가능한 데이터 분석, 파일 관련, 수학 등의 요청을 받아들이나, API콜, 크롤링 등 시스템에 영향을 주거나 부담스러운 작업은 거절
 	- [ChatGPT로 동영상 만들기](https://www.clien.net/service/board/lecture/18553432)
 
-![](attachments/image14.png)
+![](attachments/chatgpt-data_analysis.png)
 
 ## GPTs
 
@@ -58,7 +58,7 @@ type: module
 - 액션: 요청 받은 텍스트의 내용에 따라, 외부 API를 사용해서 전용 기능을 실행하고 그 응답결과를 답변 처리에 사용가능
 - 만든 GPT는 스토어에 올려 누구나 쓸 수 있게 만들거나, 향후 유료화할 수도 있을 것
 
-![](attachments/image15.png)
+![](attachments/chatgpt-gpts.png)
 
 ![GPTs](./GPTs.md)
 
@@ -70,4 +70,4 @@ type: module
 	- 중간에 끊기(interrupt) 가능한 자연스러운 대화
 - 향후 OS와 AI Agent 통합의 전초기지가 될 전망
 
-![](attachments/image35.png)
+![](attachments/chatgpt-native_app.png)
