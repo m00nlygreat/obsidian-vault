@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "강의/생성형AI/GPTs.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "아는 만큼 쓰는 ChatGPT"
+              "title": "GPTs"
             }
           }
         ]
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "강의/생성형AI/GPTs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 아는 만큼 쓰는 ChatGPT"
+              "title": "Outline of GPTs"
             }
           },
           {
@@ -176,12 +176,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "file": "강의/생성형AI/GPTs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 아는 만큼 쓰는 ChatGPT"
+              "title": "Outgoing links from GPTs"
             }
           },
           {
@@ -234,6 +234,8 @@
   },
   "active": "8211d5f7cb686395",
   "lastOpenFiles": [
+    "강의/생성형AI/Untitled.canvas",
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/왜 내 GPT는 대답을 이상하게 할까.md",
     "강의/노코드 엔지니어링/구글 시트로 업무자산 관리하기.md",
     "글/우리가족은 반려동물과는 연이 없다.md",
@@ -241,7 +243,6 @@
     "강의/노코드 엔지니어링/교안 개선사항.md",
     "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
     "강의/노코드 엔지니어링/_Make와 백엔드 자동화.md",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/GPTs.md",
     "강의/생성형AI/GPT를 엑셀 안에서 사용하기.md",
     "강의/생성형AI/ChatGPT 예제.md",
@@ -263,7 +264,6 @@
     "강의/생성형AI/사전 평가 질문지 - 노코드 엔지니어링.md",
     "강의/생성형AI/사전 평가 질문지.md",
     "강의/생성형AI/AI이모저모.md",
-    "강의/생성형AI/생성형 AI 교안 조각.md",
     "강의/생성형AI/attachments/chatgpt-gpts_action.png",
     "강의/생성형AI/attachments/chatgpt-gpt_instruction.png",
     "강의/생성형AI/attachments/chatgpt-gpts_creation.png",
