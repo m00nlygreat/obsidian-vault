@@ -47,7 +47,7 @@ type: module
 	- 신입사원 매뉴얼에 없는 내용, 곤란한 내용에 대해서는 인사팀장의 이메일 주소 안내
 	- [친절한 김대리](https://chat.openai.com/g/g-bEYIII6S6-cinjeolhan-gimdaeri)
 
-![](attachments/image22.png)
+![](attachments/chatgpt-miss_kim.png)
 
 ## 원영적사고 GPT 만들기
 
