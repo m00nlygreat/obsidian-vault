@@ -115,6 +115,18 @@
             }
           },
           {
+            "id": "d077a4dde7457cdd",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "강의/생성형AI/GPTs.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for GPTs"
+            }
+          },
+          {
             "id": "69148f6cdd2b30f3",
             "type": "leaf",
             "state": {
@@ -146,18 +158,6 @@
               },
               "icon": "links-coming-in",
               "title": "Backlinks for 구글 시트로 업무자산 관리하기"
-            }
-          },
-          {
-            "id": "d077a4dde7457cdd",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "강의/노코드 엔지니어링/구글 시트로 업무자산 관리하기.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for 구글 시트로 업무자산 관리하기"
             }
           },
           {
@@ -209,11 +209,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,7 +232,7 @@
       "find-orphaned-images:Find orphaned images": false
     }
   },
-  "active": "8211d5f7cb686395",
+  "active": "d077a4dde7457cdd",
   "lastOpenFiles": [
     "강의/생성형AI/Untitled.canvas",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
