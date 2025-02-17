@@ -23,7 +23,7 @@ type: module
 - 풍경 사진, 이미지에서 도표, 이미지로 된 텍스트까지
 :::
 
-![](attachments/image10.png)
+![](attachments/chatgpt-vision.png)
 
 ## Browsing
 
