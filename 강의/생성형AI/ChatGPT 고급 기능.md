@@ -1,3 +1,6 @@
+---
+type: module
+---
 ## Custom Instruction & Memory
 
 ### Custom Instruction 

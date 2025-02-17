@@ -1,3 +1,6 @@
+---
+type: module
+---
 ## VBA
 
 - Visual Basic for Applications

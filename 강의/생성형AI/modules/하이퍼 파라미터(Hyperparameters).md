@@ -1,3 +1,6 @@
+---
+type: module
+---
 ## 하이퍼 파라미터(Hyperparameters)
 
 - ChatGPT의 답변 설정을 더 높은 층위에서 조절하는 매개변수들.
