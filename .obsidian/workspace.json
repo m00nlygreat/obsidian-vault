@@ -13,23 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/구글 시트로 업무자산 관리하기.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "구글 시트로 업무자산 관리하기"
-            }
-          },
-          {
-            "id": "e3b57cab7b0a65ac",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "아는 만큼 쓰는 ChatGPT"
             }
           }
         ]
@@ -105,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/노코드 엔지니어링/구글 시트로 업무자산 관리하기.md",
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 구글 시트로 업무자산 관리하기"
+              "title": "Outline of 아는 만큼 쓰는 ChatGPT"
             }
           },
           {
@@ -179,12 +169,51 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "729c9414cf4886c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 아는 만큼 쓰는 ChatGPT"
+            }
+          },
+          {
+            "id": "a9b09a0dc0a4a433",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9f97938ec34f5ce3",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {},
+              "icon": "cloud",
+              "title": "QuickShare"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 483.5
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,6 +234,9 @@
   },
   "active": "8211d5f7cb686395",
   "lastOpenFiles": [
+    "강의/생성형AI/왜 내 GPT는 대답을 이상하게 할까.md",
+    "강의/노코드 엔지니어링/구글 시트로 업무자산 관리하기.md",
+    "글/우리가족은 반려동물과는 연이 없다.md",
     "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.md",
     "강의/노코드 엔지니어링/교안 개선사항.md",
     "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
@@ -223,7 +255,6 @@
     "강의/생성형AI/ChatGPT로 코딩하기 (부록).md",
     "강의/생성형AI/ChatGPT 채팅 공유 링크.md",
     "강의/생성형AI/프롬프트 엔지니어링.md",
-    "강의/생성형AI/왜 내 GPT는 대답을 이상하게 할까.md",
     "강의/생성형AI/ChatGPT 고급 기능.md",
     "강의/생성형AI/ChatGPT 기초 사용법.md",
     "강의/생성형AI/attachments/image21.png",
@@ -233,8 +264,6 @@
     "강의/생성형AI/사전 평가 질문지.md",
     "강의/생성형AI/AI이모저모.md",
     "강의/생성형AI/생성형 AI 교안 조각.md",
-    "강의/생성형AI/modules/경위서 쓰기.md",
-    "강의/생성형AI/_GPTs.md",
     "강의/생성형AI/attachments/chatgpt-gpts_action.png",
     "강의/생성형AI/attachments/chatgpt-gpt_instruction.png",
     "강의/생성형AI/attachments/chatgpt-gpts_creation.png",
