@@ -16,7 +16,7 @@ type: module
 
 ---
 
-![](attachments/Neuron.png)
+![](attachments/chatgpt-Neuron.png)
 
 ---
 
@@ -204,7 +204,7 @@ type: module
 ### 딥시크(Deepseek) 충격
 
 - 중국의 AI 스타트업이 개발한 오픈소스 LLM 모델 Deepseek V3와 R1
-- NVIDIA의 저가형 *H800*칩을 사용해 훈련, 추론에는 화웨이 *어센드 910C*
+- NVIDIA의 저가형 *H800* 칩을 사용해 훈련, 추론에는 화웨이 *어센드 910C*
 	- NVIDIA의 하드웨어 패권에 대한 회의론 확산
 	- 그러나 여전히 CUDA 생태계에 의존하고 있음
 - MoE(Mixture of Experts) 기법과 강화학습 위주의 학습 방식으로 저비용 고효율 달성
@@ -213,5 +213,6 @@ type: module
 #### OpenAI o3 / o3 mini 출시
 
 - 최초로 AGI에 진입했다는 의견
+- o3 출시 취소
 
 ![](attachments/chatgpt-deepseek-o3.png)
