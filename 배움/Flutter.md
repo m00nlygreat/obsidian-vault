@@ -52,7 +52,7 @@ MultiProvider(
 )
 ```
 
-## Riverpod
+# Riverpod
 
 - Provider의 아나그램. Provider의 개발자 Remi가 새로 만들었다고 한다. 이유는
 - Riverpod snippets 확장을 설치하자
@@ -89,3 +89,7 @@ final counterProvider = StateProvider((ref) => 0); // 기본값의 의미가 있
 
 ### NotifierProvider
 
+### StreamProvider
+
+- Future 대신 Stream을 제공하는 프로바이더다.
+- 
