@@ -95,4 +95,4 @@ final counterProvider = StateProvider((ref) => 0); // 기본값의 의미가 있
 
 - Future 대신 Stream을 제공하는 프로바이더다.
 - 근데 ref.watch를 return 바깥에 넣는데?
-- `AsyncValue.when(data(data){}, loading(){}, error(err, stack){})`, 는 StreamBuilder 대신 쓸 수 있는데, `ref.watch`가 값이 변할 때 자동으로 화면을 리빌드 할 수 있고 여러모로 좋음.
+- `AsyncValue.when(data(data){}, loading(){}, error(err, stack){})`, 는 `StreamBuilder()` 대신 쓸 수 있는데, `ref.watch`가 값이 변할 때 자동으로 화면을 리빌드 할 수 있고 여러모로 좋음.
