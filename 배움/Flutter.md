@@ -92,4 +92,4 @@ final counterProvider = StateProvider((ref) => 0); // 기본값의 의미가 있
 ### StreamProvider
 
 - Future 대신 Stream을 제공하는 프로바이더다.
-- 
+- 근데 ref.watch를 
