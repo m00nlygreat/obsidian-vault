@@ -58,7 +58,9 @@ MultiProvider(
 - Riverpod snippets 확장을 설치하자
 
 1. Riverpod snippets 확장을 설치할 것
-2. Provider 클래스를 생성 
+2. Provider 클래스를 생성
+3. MaterialApp()을 ProviderScope()로 감싼다
+4. 
 
 
 ### ProviderScope()
