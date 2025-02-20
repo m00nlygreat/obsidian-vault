@@ -61,9 +61,11 @@ MultiProvider(
 
 1. Riverpod snippets 확장을 설치할 것
 2. Provider 클래스를 생성
+	- 기본 값과 이 값을 변경하는 메서드를 선언한다.
 3. `MaterialApp()`을 `ProviderScope()`로 감싼다
 4. 위젯이 상속하는 부모 클래스를 `ConsumerWidget` 또는 `ConsumerStatefulWidget` 으로 변경
-
+5. build 메서드에는 `WidgetRef ref` 를 파라미터로 선언
+6. ref.watch(provider)로 값을 사용할 수 있음.
 
 ### ProviderScope()
 
