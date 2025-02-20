@@ -51,3 +51,7 @@ Stream<T> optionalMap<T>(Stream<T> source, [T Function(T)? convert]) async* {
   }
 }
 ```
+
+## dart - import
+
+- dart의 import 구문은 신기하네. 그냥 코드가 하나로 합쳐진 것처럼 작동.
