@@ -57,10 +57,12 @@ MultiProvider(
 - Provider의 아나그램. Provider의 개발자 Remi가 새로 만들었다고 한다. 이유는
 - Riverpod snippets 확장을 설치하자
 
+### Riverpod 사용하기
+
 1. Riverpod snippets 확장을 설치할 것
 2. Provider 클래스를 생성
-3. MaterialApp()을 ProviderScope()로 감싼다
-4. 
+3. `MaterialApp()`을 `ProviderScope()`로 감싼다
+4. 위젯이 상속하는 부모 클래스를 `ConsumerWidget` 또는 `ConsumerStatefulWidget` 으로 변경
 
 
 ### ProviderScope()
