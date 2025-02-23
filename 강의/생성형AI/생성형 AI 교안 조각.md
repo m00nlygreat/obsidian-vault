@@ -27,5 +27,6 @@
 - LLM 해킹
 - 작업(Tasks?)
 - 프로젝트
+- 질문 수정하기
 
 [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
