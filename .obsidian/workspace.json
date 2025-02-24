@@ -34,7 +34,7 @@
       {
         "id": "45bfd629ba921775",
         "type": "tabs",
-        "dimension": 78.76857749469215,
+        "dimension": 78.76857749469214,
         "children": [
           {
             "id": "caff1bbdd46b55f4",
@@ -81,7 +81,7 @@
       {
         "id": "d748ebb92ac7cc1f",
         "type": "tabs",
-        "dimension": 21.231422505307858,
+        "dimension": 21.23142250530786,
         "children": [
           {
             "id": "7032ebcdc5a02593",
@@ -235,7 +235,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "copilot:Copilot Chat": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
