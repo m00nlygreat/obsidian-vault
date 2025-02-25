@@ -1,3 +1,6 @@
+---
+type: module
+---
 ## OpenAI API Key 발급
 
 ```markdown

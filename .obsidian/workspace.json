@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/GPT를 엑셀 안에서 사용하기.md",
+                "file": "강의/생성형AI/modules/OpenAI API Key 발급.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "GPT를 엑셀 안에서 사용하기"
+              "title": "OpenAI API Key 발급"
             }
           }
         ],
@@ -153,9 +153,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "강의/생성형AI/modules/OpenAI API Key 발급.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for OpenAI API Key 발급"
             }
           },
           {
@@ -245,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5,
-    "collapsed": true
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,9 +266,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "38653ef8f7387e36",
+  "active": "d077a4dde7457cdd",
   "lastOpenFiles": [
+    "강의/생성형AI/GPT를 엑셀 안에서 사용하기.md",
+    "강의/생성형AI/ChatGPT 예제.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+    "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/modules/OpenAI API Key 발급.md",
     "강의/생성형AI/attachments/chatgpt-api_key.png",
     "웹클립/커뮤니티 만드는 법.md",
@@ -279,7 +283,6 @@
     "강의/생성형AI/이미지 생성.md",
     "강의/생성형AI/프롬프트 엔지니어링.md",
     "강의/생성형AI/AI이모저모.md",
-    "강의/생성형AI/_아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/사전 평가.md",
     "강의/생성형AI/attachments/chatgpt-words-rate.png",
     "메모/김기석 강사의 강의 경험담.md",
@@ -293,7 +296,6 @@
     "아이디어/블록코딩 앱.md",
     "아이디어/아이디어.md",
     "아이디어/맥시멀리스트.md",
-    "아이디어/마인크래프트 성장형 RPG 시스템.md",
     "강의/생성형AI/Untitled.canvas",
     "강의/attachments/profile-aigen.png",
     "강의/생성형AI/attachments/image21.png",
