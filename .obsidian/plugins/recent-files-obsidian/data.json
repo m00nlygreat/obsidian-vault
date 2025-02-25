@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "OpenAI API Key 발급",
+      "path": "강의/생성형AI/modules/OpenAI API Key 발급.md"
+    },
+    {
+      "basename": "아는 만큼 쓰는 ChatGPT",
+      "path": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
+    },
+    {
       "basename": "커뮤니티 만드는 법",
       "path": "웹클립/커뮤니티 만드는 법.md"
     },
     {
       "basename": "비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization",
       "path": "웹클립/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization.md"
-    },
-    {
-      "basename": "아는 만큼 쓰는 ChatGPT",
-      "path": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
     },
     {
       "basename": "사전 평가 질문지 - 노코드 엔지니어링",
