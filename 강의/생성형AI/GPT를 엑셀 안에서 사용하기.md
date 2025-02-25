@@ -70,3 +70,5 @@ GPT_FILL(패턴 범위, 입력 범위, [온도])
 	- 문제 범위를 헷갈리지 않도록 주의
 
 ![](attachments/chatgpt-gpt_fill.png)
+
+![OpenAI API Key 발급](modules/OpenAI%20API%20Key%20발급.md)
