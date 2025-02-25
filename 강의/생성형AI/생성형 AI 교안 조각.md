@@ -30,3 +30,14 @@
 - 질문 수정하기
 
 [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
+
+---
+
+### 2024 애플 WWDC
+
+- 애플 인텔리전스
+	- 10 TOPS, 1.5GB 의 성능으로 온디바이스로 작동
+- AI 에이전트: 시스템과의 Integration
+	- 애플 2024 WWDC, Siri와 ChatGPT의 통합
+
+![](attachments/chatgpt-apple_inteligence.png)
