@@ -36,21 +36,9 @@
               "icon": "lucide-file",
               "title": "구글 시트로 업무자산 관리하기"
             }
-          },
-          {
-            "id": "74c34fd251d2c5b5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -278,7 +266,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "74c34fd251d2c5b5",
+  "active": "38653ef8f7387e36",
   "lastOpenFiles": [
     "강의/노코드 엔지니어링/노션 야무지게 쓰기.md",
     "강의/노코드 엔지니어링/노코드 유즈케이스.md",
