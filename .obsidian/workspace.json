@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹클립/Untitled.md",
+                "file": "웹클립/부모님이 치매에 걸렸을 때 해야할 것.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "부모님이 치매에 걸렸을 때 해야할 것"
             }
           }
         ],
@@ -169,10 +169,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "웹클립/Untitled.md"
+                "file": "웹클립/부모님이 치매에 걸렸을 때 해야할 것.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled"
+              "title": "File properties for 부모님이 치매에 걸렸을 때 해야할 것"
             }
           },
           {
@@ -284,7 +284,7 @@
   "active": "76a21460349be9a1",
   "lastOpenFiles": [
     "강의/modules/모든 프로그램의 작동 방식.md",
-    "웹클립/Untitled.md",
+    "웹클립/부모님이 치매에 걸렸을 때 해야할 것.md",
     "강의/노코드 엔지니어링/구글 시트로 업무자산 관리하기.md",
     "강의/modules/스프레드시트 예제.md",
     "강의/modules/마크다운.md",
