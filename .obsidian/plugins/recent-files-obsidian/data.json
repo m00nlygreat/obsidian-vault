@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "GPT를 엑셀 안에서 사용하기",
+      "path": "강의/생성형AI/GPT를 엑셀 안에서 사용하기.md"
+    },
+    {
+      "basename": "서비스기획 Flow",
+      "path": "강의/서비스기획/서비스기획 Flow.md"
+    },
+    {
+      "basename": "서버는 무한루프다.",
+      "path": "강의/modules/서버는 무한루프다..md"
+    },
+    {
+      "basename": "서비스 기획 잔소리",
+      "path": "강의/modules/서비스 기획 잔소리.md"
+    },
+    {
       "basename": "부모님이 치매에 걸렸을 때 해야할 것",
       "path": "웹클립/부모님이 치매에 걸렸을 때 해야할 것.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "마크다운",
       "path": "강의/modules/마크다운.md"
-    },
-    {
-      "basename": "서버는 무한루프다.",
-      "path": "강의/modules/서버는 무한루프다..md"
     },
     {
       "basename": "강의 업데이트 초안",
@@ -47,10 +59,6 @@
     {
       "basename": "OpenAI API Key 발급",
       "path": "강의/생성형AI/modules/OpenAI API Key 발급.md"
-    },
-    {
-      "basename": "GPT를 엑셀 안에서 사용하기",
-      "path": "강의/생성형AI/GPT를 엑셀 안에서 사용하기.md"
     },
     {
       "basename": "VBA with GPT",
