@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/modules/노션 예제.md",
+                "file": "강의/노코드 엔지니어링/modules/타입과 연산-프로퍼티.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "노션 예제"
+              "title": "타입과 연산-프로퍼티"
             }
           }
         ],
@@ -184,10 +184,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "강의/노코드 엔지니어링/modules/노션 예제.md"
+                "file": "강의/노코드 엔지니어링/modules/타입과 연산-프로퍼티.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 노션 예제"
+              "title": "File properties for 타입과 연산-프로퍼티"
             }
           },
           {
@@ -298,8 +298,8 @@
   },
   "active": "ae6ea89170874be9",
   "lastOpenFiles": [
-    "강의/노코드 엔지니어링/modules/스프레드시트 예제.md",
     "강의/노코드 엔지니어링/modules/노션 예제.md",
+    "강의/노코드 엔지니어링/modules/스프레드시트 예제.md",
     "강의/modules/모든 프로그램의 작동 방식.md",
     "코드/스프레드시트 상대적 시간 수식.md",
     "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
