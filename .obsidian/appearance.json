@@ -4,10 +4,11 @@
   "interfaceFontFamily": "Input Mono,KopubWorldDotum Medium,KopubWorldDotum Bold",
   "baseFontSize": 16,
   "translucency": false,
-  "cssTheme": "Minimal",
+  "cssTheme": "OneNice",
   "enabledCssSnippets": [
     "monospace",
-    "all-padded-vertically"
+    "all-padded-vertically",
+    "resize-handle"
   ],
   "textFontFamily": "Input Mono,KopubWorldDotum Medium,KopubWorldDotum Bold",
   "monospaceFontFamily": "Input Mono",
