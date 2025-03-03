@@ -1,4 +1,4 @@
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.webp)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.webp)
 
 레노버 리전(레기온?) Y700 태블릿을 구매하였습니다.
 
@@ -10,7 +10,7 @@
 
 #### 부팅 시 설정
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.png)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.1.png)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.png)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.1.png)
 
 최초 기기를 부팅하면 중국어가 나옵니다.
 
@@ -18,41 +18,41 @@
 
 약관에 동의하고 'Start Settings'를 누릅니다.
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.2.png)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.2.png)
 
 와이파이를 잡아줍니다.
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.3.png)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.4.png)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.5.png)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.6.png)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.3.png)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.4.png)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.5.png)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.6.png)
 
 게임모드 및 PC 모드에 대한 안내가 있습니다.
 
 이후 클라우드와 대륙의 추천 앱까지 전부 'Skip'해줍니다.
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.7.png)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.jpg)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.7.png)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.jpg)
 
 사용할 내비게이션 방식을 선택하고 'Go'를 누르면 바탕화면에 진입하게 됩니다.
 
 #### 반글화
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.1.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.2.jpg)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.1.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.2.jpg)
 
 설정 앱으로 들어가 'My Devices' > 'ZUI Version'을 연타하면 개발자 옵션이 활성화됩니다.
 
 개발자 옵션이 활성화되면 'General Settings' > 'Developer options' > 'USB debugging'을 활성화해줍니다.
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.3.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.4.jpg)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.3.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.4.jpg)
 
 바탕화면으로 나와 웹브라우저를 실행해줍니다.
 
 약관에 동의하라고 나오는데, 선택의 여지가 없으니 체크박스를 체크하고 'Agree'를 눌러줍니다.
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.5.jpg)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.5.jpg)
 
 [https://apkpure.com/kr/setedit-settings-database-edi/by4a.setedit22](https://apkpure.com/kr/setedit-settings-database-edi/by4a.setedit22)
 
 위의 바로가기를 태블릿의 웹브라우저로 방문하여 SetEdit 앱의 설치 파일을 내려받습니다.
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.6.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.7.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.8.jpg)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.6.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.7.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.8.jpg)
 
 설치 파일의 내려받기가 완료되면 첫 번째 스샷의 다운로드 아이콘을 눌러 내려받은 파일을 터치해주면 설치가 시작됩니다.
 
@@ -62,7 +62,7 @@
 
 ~(앱의 이름이 다르다고 느끼는 것은 기분 탓입니다.)~
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.9.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.10.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.11.jpg)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.9.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.10.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.11.jpg)
 
 SetEdit 앱을 실행한 후 '+ Add new setting'를 터치하여 새로운 값을 입력해줍니다.
 
@@ -86,7 +86,7 @@ ko-KR
 
 #### 플레이스토어 설치
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.12.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.13.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.14.jpg)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.12.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.13.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.14.jpg)
 
 기기가 재시작되면 바탕화면의 앱스토어로 진입합니다.
 
@@ -96,13 +96,13 @@ ko-KR
 
 세 번째 사진의 주황색 부분을 누르면 플레이스토어가 설치됩니다.
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.15.jpg)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.15.jpg)
 
 이제 설치된 플레이스토어에서 구글키보드등을 설치하면 한글 입력도 가능합니다.
 
 #### 기본 앱 삭제 스크립트
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.16.jpg)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.16.jpg)
 
 대륙의 앱들을 삭제하기 위해 스크립트를 작성하였습니다.
 
@@ -160,7 +160,7 @@ Y700 기본앱 목록.xlsx
 
 #### 기능 - ZUI 소프트웨어 둘러보기
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.17.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.18.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.19.jpg)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.17.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.18.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.19.jpg)
 
 신기하게도 두 개의 와이파이를 잡을 수 있습니다.
 
@@ -168,13 +168,13 @@ Y700 기본앱 목록.xlsx
 
 두드려 깨우기 기능도 존재하며, 간단한 테마 기능도 존재합니다.
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.20.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.21.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.22.jpg)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.20.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.21.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.22.jpg)
 
 진동을 지원하지 않는 게임에서 진동을 지원하는 기능도 있는데, 대륙의 3개의 앱만 지원하니 무쓸모입니다.
 
 순정 상태에서 상태 표시줄의 아이콘을 숨길 수도 있으며, 배터리 잔량 및 네트워크 속도 표시가 가능합니다.
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.23.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.24.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.25.jpg)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.23.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.24.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.25.jpg)
 
 세 손가락 제스처의 추가 기능을 지원하는데, 스샷과 바로 분할화면으로 띄우기 등 잘 활용하면 아이패드의 제스처처럼 꽤 편리하게 사용할 수 있겠다는 생각이 듭니다.
 
@@ -188,19 +188,19 @@ Y700 기본앱 목록.xlsx
 
 충전 관련하여서는 iOS의 '최적화된 배터리 충전'과 비슷한 기능 및 레노버의 리전 노트북과 P11 태블릿에도 들어가 있는, 40~60%로 충전 잔량을 유지하는 기능도 있습니다.
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.26.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.27.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.28.jpg)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.26.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.27.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.28.jpg)
 
 추가로 배터리 소모를 줄이기 위해 취침 시간 등... 자동으로 태블릿의 전원을 꺼고 켜는 기능도 들어있습니다.
 
 이 태블릿의 주목적이 게임용이다 보니 그런지... 스크린샷 뿐 아니라 화면 녹화도 물리 버튼의 조합에 할당할 수 있습니다.
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.29.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.30.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.31.jpg)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.29.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.30.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.31.jpg)
 
 외장 메모리를 지원하며 스펙상 1TB까지 용량을 확장할 수 있습니다.
 
 마우스 연결 시 오토 클릭을 하는 오토마우스 기능도 지원합니다.
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.32.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.33.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.34.jpg)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.32.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.33.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.34.jpg)
 
 생체인식은 고전적인 방식의 보안 기능이 전무하다고 볼 수 있는 얼굴인식 잠금해제가 존재합니다.
 
@@ -212,13 +212,13 @@ Y700 기본앱 목록.xlsx
 
 그리고 물리적인 게임 버튼은 HUD 화면 켜고 끄기 외에도 자동 밝기 조절이나, 자동 화면 회전으로 기능은 변경하여 사용할 수도 있습니다.
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.35.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.36.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.37.jpg)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.35.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.36.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.37.jpg)
 
 게이밍 태블릿에 어울리지 않는 학습 도우미도 있으며, 'Peripheral Mode'라는 것이 존재하는데 키보드나 마우스 연결 관련 기능인듯합니다.
 
 'ZUI lab'이라는 항목도 보입니다. PIP 등의 기능이 보입니다.
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.38.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.39.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.40.jpg)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.38.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.39.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.40.jpg)
 
 PIP 기능은 지원하는 앱이 위와 같아 무쓸모 느낌입니다.
 
@@ -226,13 +226,13 @@ PIP 기능은 지원하는 앱이 위와 같아 무쓸모 느낌입니다.
 
 Legion Wiki라고 하여 설명서도 체계적으로 잘 들어가 있는 느낌입니다.
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.41.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.8.png)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.41.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.8.png)
 
 Security 앱과 Legion Realm이라고 설치된 게임을 한눈에 볼 수 있는 앱도 있습니다.
 
 게임인데 태블릿에서 게임으로 인식하지 않는 앱의 경우 Realm에서 추가하여 사용이 가능해 보입니다.
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.42.jpg)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.9.png)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.42.jpg)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.9.png)
 
 게임 구동 중에는 제어센터(??)가 오른쪽처럼 멋들어지게 바뀝니다.
 
@@ -240,11 +240,11 @@ Security 앱과 Legion Realm이라고 설치된 게임을 한눈에 볼 수 있�
 
 게임용 제어센터의 토글 버튼들도 사용자화가 가능합니다.
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.10.png)![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.11.png)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.10.png)![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.11.png)
 
 금수 모드나, 배터리 절약 모드 등 모드 변경뿐 아니라 우측 사진처럼 좀 더 디테일하게 그래픽 옵션을 설정할 수도 있습니다.
 
-![](attachments/Lenovo%20Legion%20Y700%20%EA%B0%84%EB%8B%A8%EC%82%AC%EC%9A%A9%EA%B8%B0%20%EB%B0%8F%20(%EB%B0%98)%ED%95%9C%EA%B8%80%ED%99%94%20+%20Play%20Store%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95,%20%EA%B8%B0%EB%B3%B8%EC%95%B1%20%EC%82%AD%EC%A0%9C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/img.12.png)
+![](attachments/Lenovo%20Legion%20Y700%20간단사용기%20및%20(반)한글화%20+%20Play%20Store%20설치방법,%20기본앱%20삭제%20스크립트/img.12.png)
 
 긱벤치5 점수는 위와 같이 나옵니다.
 

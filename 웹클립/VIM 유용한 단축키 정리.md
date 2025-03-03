@@ -12,7 +12,7 @@ source: https://gmlwjd9405.github.io/2019/05/14/vim-shortkey.html
   - 검색
   - 기타 (매크로, 이어 붙이기, 취소하기/되돌리기 및 들여쓰기/내어쓰기, 대소문자 전환, 숫자 증감, 창 열기/탭 이동 등 )
 
-![](attachments/VIM%20vim%20%EC%9C%A0%EC%9A%A9%ED%95%9C%20%EB%8B%A8%EC%B6%95%ED%82%A4%20%EC%A0%95%EB%A6%AC%20-%20Heee's%20Development%20Blog/vim-shortkey-keyboard.png)
+![](attachments/VIM%20vim%20유용한%20단축키%20정리%20-%20Heee's%20Development%20Blog/vim-shortkey-keyboard.png)
 
 ## 이동
 
