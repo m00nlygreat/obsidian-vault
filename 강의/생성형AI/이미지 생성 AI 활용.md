@@ -35,6 +35,8 @@
 - 언어모델의 멀티모달 기능을 활용 (GPT4-Vision)
 - 미드저니에서는 `/describe`를 사용
 
+![](attachments/genAI-midjourney_describe.png)
+
 ## style reference
 
 - 스타일 레퍼런스 사용하기
