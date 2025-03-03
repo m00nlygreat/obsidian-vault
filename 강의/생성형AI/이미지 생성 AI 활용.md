@@ -27,6 +27,8 @@
 - 전경, 배경, 피사체, 스타일로 구분해 프롬프트 쓰기
 - GPTs 사용하기
 
+![](attachments/genAI-txt2img.png)
+
 ## img2txt
 
 - Image 2 Text 사용해서 이미지 설명하고 프롬프트에 참고하기
