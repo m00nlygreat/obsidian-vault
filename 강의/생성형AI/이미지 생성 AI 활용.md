@@ -31,6 +31,8 @@ type: text
 - 전경, 배경, 피사체, 스타일로 구분해 프롬프트 쓰기
 - GPTs 사용하기
 
+> 다른 모든 AI가 그렇지만, 끈기와 반복이 필요
+
 ![](attachments/genAI-txt2img.png)
 
 ## img2txt
@@ -41,9 +43,10 @@ type: text
 
 ![](attachments/genAI-midjourney_describe.png)
 
-## reference
+## Image Prompt (img2img)
 
-- 스타일 및 캐릭터 레퍼런스 사용하기
+- 이미지 프롬프트 사용하기
+- 
 
 ![](attachments/genAI-mj_style_ref.png)
 
