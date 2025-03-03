@@ -45,3 +45,7 @@
 -
 
 프롬프트를 입력할 때는 지시가 아니라 의도를 설명하세요
+
+
+- Perplexity/ GenSpark / AI Search Agent
+- 
