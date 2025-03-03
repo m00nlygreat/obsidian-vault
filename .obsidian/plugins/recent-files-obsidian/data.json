@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "ChatGPT 기초 사용법",
+      "path": "강의/생성형AI/ChatGPT 기초 사용법.md"
+    },
+    {
+      "basename": "ChatGPT 고급 기능",
+      "path": "강의/생성형AI/ChatGPT 고급 기능.md"
+    },
+    {
+      "basename": "VBA with GPT",
+      "path": "강의/생성형AI/VBA with GPT.md"
+    },
+    {
+      "basename": "생성형 AI 교안 조각",
+      "path": "강의/생성형AI/생성형 AI 교안 조각.md"
+    },
+    {
+      "basename": "이미지 생성 AI 활용",
+      "path": "강의/생성형AI/이미지 생성 AI 활용.md"
+    },
+    {
+      "basename": "GPT를 엑셀 안에서 사용하기",
+      "path": "강의/생성형AI/GPT를 엑셀 안에서 사용하기.md"
+    },
+    {
+      "basename": "GPTs",
+      "path": "강의/생성형AI/GPTs.md"
+    },
+    {
       "basename": "기타 UX 도구들",
       "path": "강의/서비스기획/기타 UX 도구들.md"
     },
     {
       "basename": "기획자의 무기",
       "path": "강의/서비스기획/기획자의 무기.md"
-    },
-    {
-      "basename": "이미지 생성 AI 활용",
-      "path": "강의/생성형AI/이미지 생성 AI 활용.md"
     },
     {
       "basename": "이미지 생성 프롬프트",
@@ -105,10 +129,6 @@
       "path": "강의/생성형AI/attachments/rapture_20240429064717.png"
     },
     {
-      "basename": "생성형 AI 교안 조각",
-      "path": "강의/생성형AI/생성형 AI 교안 조각.md"
-    },
-    {
       "basename": "The-DALL·E-2-prompt-book-v1.02",
       "path": "강의/자료/The-DALL·E-2-prompt-book-v1.02.pdf"
     },
@@ -179,22 +199,6 @@
     {
       "basename": "필살기 프레이머",
       "path": "강의/노코드 엔지니어링/필살기 프레이머.md"
-    },
-    {
-      "basename": "피그마 그래픽스",
-      "path": "강의/노코드 엔지니어링/피그마 그래픽스.md"
-    },
-    {
-      "basename": "버블",
-      "path": "강의/노코드 엔지니어링/버블.md"
-    },
-    {
-      "basename": "디지텍고 강의",
-      "path": "강의/노코드 엔지니어링/디지텍고 강의.md"
-    },
-    {
-      "basename": "노코드 유즈케이스",
-      "path": "강의/노코드 엔지니어링/노코드 유즈케이스.md"
     }
   ],
   "omittedPaths": [],
