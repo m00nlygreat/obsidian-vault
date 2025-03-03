@@ -28,6 +28,5 @@
 ## 고급 편집
 
 - InPainting
-- OutPainting
-- Uncrop
+- OutPainting(Uncrop)
 
