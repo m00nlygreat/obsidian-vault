@@ -37,9 +37,11 @@
 
 ![](attachments/genAI-midjourney_describe.png)
 
-## style reference
+## reference
 
-- 스타일 레퍼런스 사용하기
+- 스타일 및 캐릭터 레퍼런스 사용하기
+
+![](attachments/genAI-mj_style_ref.png)
 
 ## 고급 편집 기술
 
