@@ -12,7 +12,6 @@ type: text
 - [Dall-E](https://openai.com/index/dall-e-3/): ChatGPT에 통합(Integrated)된 이미지 모델. 텍스트 이해가 뛰어남 
 - [Imagen](https://deepmind.google/technologies/imagen-3/): 구글 Deepmind의 이미지 생성 모델
 
-
 ***
 
 ### 응용 서비스
@@ -45,8 +44,12 @@ type: text
 
 ## Image Prompt (img2img)
 
-- 이미지 프롬프트 사용하기
-- 
+- 텍스트 대신 이미지를 프롬프트로 사용하기
+
+### 캐릭터 및 스타일 레퍼런스
+
+- 캐릭터: 피사체를 참고해서 그리기
+- 스타일: 스타일을 참고해서 그리기
 
 ![](attachments/genAI-mj_style_ref.png)
 
