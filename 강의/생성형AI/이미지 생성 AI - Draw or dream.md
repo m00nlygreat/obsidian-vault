@@ -4,9 +4,10 @@
 
 ### 종류
 
-- MidJourney: 스테이블 디퓨전 기반의 
-- Dall-E
+- MidJourney: Stable Diffusion 기반의 이미지 생성 모델/서비스
+- Dall-E: ChatGPT에 통합(Integrated)된 이미지 모델. 텍스트 이해도가 뛰어남. 현재 버전 3
 - Imagen
+	- Whisk
 
 ## 프롬프팅
 
