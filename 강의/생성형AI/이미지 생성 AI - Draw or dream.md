@@ -4,8 +4,8 @@
 
 ### 종류
 
-- MidJourney: Diffusion 기반의 이미지 생성 모델/서비스 현재 버전 6
-- Leonardo.ai: 다양한 이미지 생성 모델을 제공하는 웹 기반 이미지 생성 서비스. Flow State라는 혁신적인 UI 제공
+- MidJourney: Diffusion 기반의 이미지 생성 모델/서비스. 현재 버전 6
+- Leonardo.ai: 다양한 이미지 생성 모델을 제공하는 웹 기반 이미지 생성 서비스
 - Replicate: LORA 등의 개발자 수준 기능을 지원하는 GPU 대여 이미지 생성 서비스
 - Nordy.ai: 국산 Comfy UI 웹 서비스
 - Dall-E: ChatGPT에 통합(Integrated)된 이미지 모델. 텍스트 이해가 뛰어남. 현재 버전 3
@@ -29,7 +29,7 @@
 
 - 스타일 레퍼런스 사용하기
 
-## 고급 편집
+## 고급 편집 기술
 
 - InPainting
 - OutPainting(Uncrop)
