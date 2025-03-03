@@ -32,21 +32,18 @@
     "type": "split",
     "children": [
       {
-        "id": "45bfd629ba921775",
+        "id": "668e128970c9f6d8",
         "type": "tabs",
-        "dimension": 72.04884667571235,
+        "dimension": 28.330522765598655,
         "children": [
           {
-            "id": "caff1bbdd46b55f4",
+            "id": "7032ebcdc5a02593",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -79,18 +76,21 @@
         ]
       },
       {
-        "id": "d748ebb92ac7cc1f",
+        "id": "e03a58dc4fa1d7c2",
         "type": "tabs",
-        "dimension": 27.951153324287652,
+        "dimension": 71.66947723440134,
         "children": [
           {
-            "id": "7032ebcdc5a02593",
+            "id": "caff1bbdd46b55f4",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ]
