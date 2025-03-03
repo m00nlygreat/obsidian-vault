@@ -41,3 +41,7 @@
 	- 애플 2024 WWDC, Siri와 ChatGPT의 통합
 
 ![](attachments/chatgpt-apple_inteligence.png)
+
+-
+
+프롬프트를 입력할 때는 지시가 아니라 의도를 설명하세요
