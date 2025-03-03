@@ -2,10 +2,10 @@
 
 ### 종류
 
-- Stable Diffusion
-- Flux
-- MidJourney: Diffusion 기반의 이미지 생성 모델/서비스. 현재 버전 6
-- Dall-E: ChatGPT에 통합(Integrated)된 이미지 모델. 텍스트 이해가 뛰어남. 현재 버전 3
+- Stable Diffusion: 오픈소스 이미지 생성 모델
+- Flux: SD로부터 분사한 인력이 만든 오픈소스 모델
+- MidJourney: Diffusion 기반의 이미지 생성 모델/서비스
+- Dall-E: ChatGPT에 통합(Integrated)된 이미지 모델. 텍스트 이해가 뛰어남
 - Imagen: 구글 Deepmind의 이미지 생성 모델
 
 
