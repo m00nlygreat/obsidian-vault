@@ -42,4 +42,6 @@
 - InPainting
 - OutPainting(Uncrop)
 
+# 이미지 생성 프롬프트
+
 ![이미지 생성 프롬프트](modules/이미지%20생성%20프롬프트.md)
