@@ -42,6 +42,8 @@
 - InPainting
 - OutPainting(Uncrop)
 
+![](attachments/genAI-in_out_paint.png)
+
 # 이미지 생성 프롬프트
 
 ![이미지 생성 프롬프트](modules/이미지%20생성%20프롬프트.md)
