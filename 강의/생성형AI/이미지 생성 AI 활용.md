@@ -14,9 +14,9 @@
 ### 응용 서비스
 
 - [Leonardo.ai](https://leonardo.ai/): 다양한 이미지 생성 모델을 제공하는 웹 기반 이미지 생성 서비스
-- Replicate: LORA 등의 개발자 수준 기능을 지원하는 GPU 대여 이미지 생성 서비스
-- Whisk: Imagen 모델을 활용, 전경, 배경, 스타일을 이미지로 입력받아 이미지를 생성하는 UI가 특징
-- Nordy.ai: 국산 Comfy UI 웹 서비스
+- [Replicate](https://replicate.com/): LORA 등의 개발자 수준 기능을 지원하는 GPU 대여 이미지 생성 서비스
+- [Whisk](https://labs.google/fx/tools/whisk): Imagen 모델을 활용, 전경, 배경, 스타일을 이미지로 입력받아 이미지를 생성하는 UI가 특징
+- [Nordy.ai](https://nordy.ai/): 국산 Comfy UI 웹 서비스
 
 ## txt2img
 
