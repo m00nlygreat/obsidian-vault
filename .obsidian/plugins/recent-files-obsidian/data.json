@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "스프레드시트 상대적 시간 수식",
+      "path": "코드/스프레드시트 상대적 시간 수식.md"
+    },
+    {
       "basename": "ChatGPT 기초 사용법",
       "path": "강의/생성형AI/ChatGPT 기초 사용법.md"
     },
@@ -187,10 +191,6 @@
     {
       "basename": "모든 프로그램의 작동 방식",
       "path": "강의/modules/모든 프로그램의 작동 방식.md"
-    },
-    {
-      "basename": "스프레드시트 상대적 시간 수식",
-      "path": "코드/스프레드시트 상대적 시간 수식.md"
     },
     {
       "basename": "Make와 백엔드 자동화",
