@@ -195,10 +195,6 @@
     {
       "basename": "Make와 백엔드 자동화",
       "path": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
-    },
-    {
-      "basename": "필살기 프레이머",
-      "path": "강의/노코드 엔지니어링/필살기 프레이머.md"
     }
   ],
   "omittedPaths": [],
