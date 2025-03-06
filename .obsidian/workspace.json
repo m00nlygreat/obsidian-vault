@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "ChatGPT로 코딩하기"
             }
+          },
+          {
+            "id": "a978539835f14a42",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,11 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "강의/생성형AI/ChatGPT로 코딩하기.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for ChatGPT로 코딩하기"
+              "title": "File properties"
             }
           },
           {
@@ -250,7 +261,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "2d4d817490e21e18",
+  "active": "a978539835f14a42",
   "lastOpenFiles": [
     "강의/노코드 엔지니어링/modules/노션 예제.md",
     "강의/modules/터미널 사용하기.md",
