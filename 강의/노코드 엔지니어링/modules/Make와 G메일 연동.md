@@ -1,2 +1,8 @@
 - G메일과 같은 개인정보에 민감한 서비스에 대한 API 사용은 까다로워서, 회사 단위의 Google Workspace(전 G Suites)를 구독하지 않는 한 기본적으로 Make와의 연동되지 않음
+	- 전사적으로 G메일을 사용하고 이메일 주소가 gmail.com 이 아닌 것
+- 따라서 구글 클라우드 플랫폼(이하 GCP)에서 프로젝트를 등록하고, API의 허용 범위와 사용 신청을 해주어야 함
+
+![](../../attachments/make-gmail_inte.png)
+
+## GCP 프로젝트 등록하기
 
