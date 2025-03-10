@@ -3,6 +3,33 @@
 - ChatGPT는 텍스트를 생성할 수 있는 모델
 - 즉 **코드를 작성하는 것 외의 모든 일**은 우리가 해줘야 한다.
 
+![터미널 사용하기](../modules/터미널%20사용하기.md)
+
+## 파이썬 설치하기
+
+### Windows
+
+터미널에서 아래 명령어 입력
+
+```ruby
+winget install -e --id Python.Python.3.10
+```
+
+---
+
+### mac OS
+
+- 맥에는 기본적으로 파이썬이 설치돼있다.
+
+Homebrew 설치
+
+```ruby
+bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+
+
 
 
 ## noti.py
