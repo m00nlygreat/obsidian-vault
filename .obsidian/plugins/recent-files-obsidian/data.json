@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "사전 평가",
-      "path": "강의/생성형AI/사전 평가.md"
-    },
-    {
       "basename": "Make 예제",
       "path": "강의/노코드 엔지니어링/modules/Make 예제.md"
+    },
+    {
+      "basename": "Make와 백엔드 자동화",
+      "path": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
+    },
+    {
+      "basename": "사전 평가",
+      "path": "강의/생성형AI/사전 평가.md"
     },
     {
       "basename": "노션 예제",
@@ -15,10 +19,6 @@
     {
       "basename": "스프레드시트 예제",
       "path": "강의/노코드 엔지니어링/modules/스프레드시트 예제.md"
-    },
-    {
-      "basename": "Make와 백엔드 자동화",
-      "path": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
     },
     {
       "basename": "구글 시트로 업무자산 관리하기",
