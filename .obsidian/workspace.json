@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84f9fee3bf82805e",
+        "id": "1f060c99dc8d7644",
         "type": "tabs",
         "children": [
           {
-            "id": "2d4d817490e21e18",
+            "id": "d429a0e4239de09a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,24 +20,6 @@
               },
               "icon": "lucide-file",
               "title": "ChatGPT로 코딩하기"
-            }
-          }
-        ]
-      },
-      {
-        "id": "43a9b94e2cb8fb6a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ecd016d1f2e44555",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "강의/생성형AI/attachments/notipy-ui_ver4.png"
-              },
-              "icon": "lucide-image",
-              "title": "notipy-ui_ver4"
             }
           }
         ]
@@ -268,20 +250,21 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "2d4d817490e21e18",
+  "active": "d429a0e4239de09a",
   "lastOpenFiles": [
-    "강의/생성형AI/attachments/notipy-ui_ver4.png",
+    "강의/생성형AI/_ChatGPT로 코딩하기.md",
+    "강의/생성형AI/attachments/notipy/notipy-ui_ver4.png",
+    "강의/생성형AI/attachments/notipy/notipy-ui_ver2.png",
+    "강의/생성형AI/attachments/notipy/notipy-ui_ver1.png",
+    "강의/생성형AI/attachments/notipy",
     "강의/생성형AI/ChatGPT로 코딩하기.md",
-    "강의/생성형AI/attachments/notipy-ui_ver3.png",
+    "강의/생성형AI/attachments/notipy/notipy-ui_ver3.png",
     "attachments/rapture_20240429064739.png.md",
     "attachments",
     "강의/생성형AI/attachments/read_finance.png",
     "강의/생성형AI/attachments/rapture_20240429064739.png",
     "강의/생성형AI/attachments/rapture_20240429064756.png",
-    "강의/생성형AI/attachments/notipy-ui_ver2.png",
-    "강의/생성형AI/attachments/notipy-ui_ver1.png",
     "강의/생성형AI/attachments/notipy-cli.png",
-    "강의/생성형AI/_ChatGPT로 코딩하기.md",
     "강의/modules/터미널 사용하기.md",
     "강의/modules/attachments/code-open_terminal_at_folder.png",
     "강의/modules/attachments/code-mac_terminal.png",
@@ -315,7 +298,6 @@
     "웹클립/attachments/Steam Community  Guide  Steam Deck Controller Guide - A Visual Introduction",
     "강의/노코드 엔지니어링/modules",
     "강의/생성형AI/Untitled.canvas",
-    "copilot-conversations",
     "강의/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"

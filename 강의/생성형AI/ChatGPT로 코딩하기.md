@@ -34,20 +34,24 @@ bash
 brew install python
 ```
 
+## 파이썬 실행하기
+
+### 아무 경로에서
+
+```ruby
+python
+```
+
+
+
 ## noti.py
 
 - 매 시각 정해진 시간(분)에 시작, 종료 알림음을 재생하는 프로그램
 - 재생 디바이스 선택 가능
-- [noti.py 생성](https://chat.openai.com/share/cc7f22e6-a41d-4f3b-9a2d-c61a51ebc526)
+- [noti.py 대화기록](https://chat.openai.com/share/cc7f22e6-a41d-4f3b-9a2d-c61a51ebc526)
 
 ![](attachments/notipy-cli.png)
 
 ---
 
-![](attachments/notipy-ui_ver1.png)
-
-![](attachments/notipy-ui_ver2.png)
-
-![](attachments/notipy-ui_ver3.png)
-
-![](attachments/notipy-ui_ver4.png)
+![](attachments/notipy/notipy-ui_ver4.png)
