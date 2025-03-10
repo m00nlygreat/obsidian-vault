@@ -38,7 +38,7 @@ brew install python
 
 ### Python REPL 실행
 
-- 아무 경로에서 별다른 파라미터 없이 `python`을 입력하면 입력한 코드의 결과가 바로 실행되는 Python REPL(Read-Eval-Print-Loop)이 실행된다.
+- 아무 경로에서 별다른 파라미터 없이 `python`을 입력하면 입력한 코드의 결과가 즉시 실행되는 Python REPL(Read-Eval-Print-Loop)이 실행된다.
 
 ```ruby
 python
