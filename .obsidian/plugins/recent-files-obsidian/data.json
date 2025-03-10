@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "사전 평가",
+      "path": "강의/생성형AI/사전 평가.md"
+    },
+    {
       "basename": "Make 예제",
       "path": "강의/노코드 엔지니어링/modules/Make 예제.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "인수-인자 vs 매개변수",
       "path": "강의/modules/인수-인자 vs 매개변수.md"
-    },
-    {
-      "basename": "API",
-      "path": "강의/modules/API.md"
     }
   ],
   "omittedPaths": [],
