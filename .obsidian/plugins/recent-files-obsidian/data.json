@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "ChatGPT로 코딩하기",
-      "path": "강의/생성형AI/ChatGPT로 코딩하기.md"
+      "basename": "터미널 사용하기",
+      "path": "강의/modules/터미널 사용하기.md"
+    },
+    {
+      "basename": "ChatGPT와 코딩하기",
+      "path": "강의/생성형AI/ChatGPT와 코딩하기.md"
     },
     {
       "basename": "notipy-ui_ver4",
@@ -27,10 +31,6 @@
     {
       "basename": "notipy-cli",
       "path": "강의/생성형AI/attachments/notipy-cli.png"
-    },
-    {
-      "basename": "터미널 사용하기",
-      "path": "강의/modules/터미널 사용하기.md"
     },
     {
       "basename": "Make 예제",

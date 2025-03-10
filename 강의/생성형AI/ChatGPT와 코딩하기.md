@@ -1,3 +1,7 @@
+---
+title: ChatGPT와 코딩하기
+type: text
+---
 ## ChatGPT로 코딩하기
 
 - ChatGPT는 텍스트를 생성할 수 있는 모델
