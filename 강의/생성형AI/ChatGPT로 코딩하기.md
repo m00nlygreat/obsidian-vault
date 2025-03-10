@@ -3,6 +3,8 @@
 - ChatGPT는 텍스트를 생성할 수 있는 모델
 - 즉 **코드를 작성하는 것 외의 모든 일**은 우리가 해줘야 한다.
 
+![](attachments/code-gpt_only_code.png)
+
 ![터미널 사용하기](../modules/터미널%20사용하기.md)
 
 ## 파이썬 설치하기
