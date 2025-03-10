@@ -44,14 +44,10 @@ brew install python
 
 ---
 
-![](attachments/rapture_20240429064743.png)
+![](attachments/notipy-ui_ver1.png)
 
-![](attachments/rapture_20240429064756.png)
+![](attachments/notipy-ui_ver2.png)
 
-![](attachments/rapture_20240429064759.png)
+![](attachments/notipy-ui_ver3.png)
 
-![](attachments/rapture_20240429064828.png)
-
-![](attachments/rapture_20240429064739.png)
-
-![](attachments/rapture_20240429064843.png)
+![](attachments/notipy-ui_ver4.png)
