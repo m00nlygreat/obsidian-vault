@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/노코드 엔지니어링/modules/Make와 G메일 연동.md",
-                "mode": "source",
+                "file": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Make와 G메일 연동"
+              "title": "Make와 백엔드 자동화"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "강의/노코드 엔지니어링/modules/Make와 G메일 연동.md"
+                "file": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Make와 G메일 연동"
+              "title": "File properties for Make와 백엔드 자동화"
             }
           },
           {
@@ -252,9 +252,9 @@
   },
   "active": "d429a0e4239de09a",
   "lastOpenFiles": [
+    "강의/노코드 엔지니어링/modules/Make와 G메일 연동.md",
     "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
     "강의/노코드 엔지니어링/attachments/G메일과 make 연동하기.pdf",
-    "강의/노코드 엔지니어링/modules/Make와 G메일 연동.md",
     "강의/attachments/make-modules.png",
     "강의/attachments/make-gmail_inte.png",
     "modules",
