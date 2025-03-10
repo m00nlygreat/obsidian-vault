@@ -9,7 +9,11 @@ type: text
 
 ![](attachments/code-gpt_only_code.png)
 
+# 터미널 사용하기
+
 ![터미널 사용하기](../modules/터미널%20사용하기.md)
+
+# ChatGPT와 파이썬 코딩
 
 ## 파이썬 설치하기
 
