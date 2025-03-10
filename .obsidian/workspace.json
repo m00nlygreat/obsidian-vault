@@ -23,6 +23,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "823f60f12d8bfaab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3116d54fde494c25",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "강의/생성형AI/attachments/notipy-cli.png"
+              },
+              "icon": "lucide-image",
+              "title": "notipy-cli"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,10 +270,12 @@
   },
   "active": "2d4d817490e21e18",
   "lastOpenFiles": [
+    "강의/생성형AI/attachments/notipy-cli.png",
+    "강의/생성형AI/ChatGPT로 코딩하기.md",
+    "강의/생성형AI/_ChatGPT로 코딩하기.md",
     "강의/modules/터미널 사용하기.md",
     "강의/modules/attachments/code-open_terminal_at_folder.png",
     "강의/modules/attachments/code-mac_terminal.png",
-    "강의/생성형AI/ChatGPT로 코딩하기.md",
     "강의/노코드 엔지니어링/modules/Make 예제.md",
     "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
     "강의/생성형AI/사전 평가.md",
@@ -286,9 +306,7 @@
     "강의/생성형AI/GPTs.md",
     "강의/서비스기획/기타 UX 도구들.md",
     "강의/서비스기획/기획자의 무기.md",
-    "강의/생성형AI/_이미지 생성 AI 활용.md",
     "강의/attachments/Pasted image 20240711164257.png",
-    "강의/attachments/Pasted image 20240712222211.png",
     "modules",
     "강의/자료/The-DALL·E-2-prompt-book-v1.02.pdf",
     "강의/자료",

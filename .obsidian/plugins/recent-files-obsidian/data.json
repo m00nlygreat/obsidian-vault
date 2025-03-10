@@ -5,6 +5,10 @@
       "path": "강의/생성형AI/ChatGPT로 코딩하기.md"
     },
     {
+      "basename": "notipy-cli",
+      "path": "강의/생성형AI/attachments/notipy-cli.png"
+    },
+    {
       "basename": "터미널 사용하기",
       "path": "강의/modules/터미널 사용하기.md"
     },
@@ -167,10 +171,6 @@
     {
       "basename": "rapture_20240429064739",
       "path": "강의/생성형AI/attachments/rapture_20240429064739.png"
-    },
-    {
-      "basename": "rapture_20240429064717",
-      "path": "강의/생성형AI/attachments/rapture_20240429064717.png"
     },
     {
       "basename": "The-DALL·E-2-prompt-book-v1.02",

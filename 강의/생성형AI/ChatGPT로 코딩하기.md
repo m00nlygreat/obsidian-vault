@@ -15,7 +15,7 @@
 winget install -e --id Python.Python.3.10
 ```
 
----
+***
 
 ### mac OS
 
@@ -28,9 +28,11 @@ bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+파이썬 설치
 
-
-
+```ruby
+brew install python
+```
 
 ## noti.py
 
@@ -38,7 +40,9 @@ bash
 - 재생 디바이스 선택 가능
 - [noti.py 생성](https://chat.openai.com/share/cc7f22e6-a41d-4f3b-9a2d-c61a51ebc526)
 
-![](attachments/rapture_20240429064717.png)
+![](attachments/notipy-cli.png)
+
+---
 
 ![](attachments/rapture_20240429064743.png)
 
