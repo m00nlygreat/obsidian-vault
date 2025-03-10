@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Make와 G메일 연동",
-      "path": "modules/Make와 G메일 연동.md"
-    },
-    {
       "basename": "Make와 백엔드 자동화",
       "path": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
+    },
+    {
+      "basename": "Make와 G메일 연동",
+      "path": "강의/노코드 엔지니어링/modules/Make와 G메일 연동.md"
     },
     {
       "basename": "ChatGPT와 코딩하기",
