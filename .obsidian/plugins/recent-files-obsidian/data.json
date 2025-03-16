@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "메모/Untitled.md"
+    },
+    {
       "basename": "백서-json2slide 변환 규칙",
       "path": "메모/백서-json2slide 변환 규칙.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "기획 선배의 맞는 말 대잔치",
       "path": "강의/기획 선배의 맞는 말 대잔치.md"
-    },
-    {
-      "basename": "강의 업데이트 초안",
-      "path": "강의/강의 업데이트 초안.md"
     }
   ],
   "omittedPaths": [],
