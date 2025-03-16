@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "메모/Untitled.md",
+                "file": "메모/json2slide 변환 규칙.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "json2slide 변환 규칙"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "메모/Untitled.md"
+                "file": "메모/json2slide 변환 규칙.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled"
+              "title": "File properties for json2slide 변환 규칙"
             }
           },
           {
@@ -266,10 +266,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d8bcbd660f7af561",
+  "active": "caff1bbdd46b55f4",
   "lastOpenFiles": [
     "메모/백서-json2slide 변환 규칙.md",
-    "메모/Untitled.md",
+    "메모/json2slide 변환 규칙.md",
     "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
     "강의/노코드 엔지니어링/_Make와 백엔드 자동화.md",
     "강의/노코드 엔지니어링/modules/Make와 G메일 연동.md",

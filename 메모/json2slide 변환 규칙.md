@@ -1,5 +1,3 @@
-# 백서: json2slide 변환 규칙
-
 ## 1. 개요
 
 - **md2json.py**는 마크다운 파일을 분석해 YAML frontmatter와 본문을 파싱하여,  
@@ -376,6 +374,33 @@ JSON에서도 **run 단위**로 스타일을 지정한다.
 
 ---
 
+## 11. 레이아웃 결정 (추가 규칙)
+
+아래 규칙에 따라 **슬라이드 변환이 끝난 후** placeholder의 개수와 미디어 구성요소를 분석하여 최종 `layout` 값을 설정할 수 있습니다. 만약 `comment_block`에 의해 layout이 이미 지정되어 있으면 그 값을 우선 사용합니다.
+
+1. **Heading 1(H1)을 만난 경우** → `layout = "section_header"`
+    
+    - 섹션 표지(간지) 역할을 하는 슬라이드.
+2. **텍스트와 다른 미디어(차트, 이미지, 테이블 등)가 있는 경우** → `layout = "content_with_caption"`
+    
+    - 텍스트 일부와 미디어가 함께 존재하여 설명/캡션이 필요한 경우.
+3. **placeholder가 2개인 경우** → `layout = "two_content"`
+    
+    - 예: `wildcard_break`로 인해 정확히 두 구역으로 분할된 경우.
+4. **title과 하나의 placeholder만 있는 경우** → `layout = "title_and_content"`
+    
+    - 일반적인 단일 본문 PPT.
+
+### 레이아웃 우선순위 예시
+
+- **H1 발견 시**: 해당 슬라이드는 무조건 `section_header`로.
+- **이미 layout이 comment_block으로 지정**되었다면 → 해당 layout 사용.
+- placeholder 개수 2개라면 → `two_content`.
+- 텍스트+미디어 혼합이라면 → `content_with_caption`.
+- 그 외(placeholder 1개) → `title_and_content`.
+
+---
+
 ## 맺음말
 
 이 백서는 **마크다운에서 JSON**을 거쳐 **PPT**로 변환하기 위해 필요한 **json2slide.py** 규칙을 총망라했습니다.
@@ -385,6 +410,7 @@ JSON에서도 **run 단위**로 스타일을 지정한다.
 - **텍스트 스타일** (run 단위)
 - **이미지, 표, 차트 등 비텍스트 요소** 처리
 - **comment_block**을 통한 layout 강제 지정
+- **최종 레이아웃 결정** (section_header / content_with_caption / two_content / title_and_content 등)
 
 이 규칙을 기반으로 구현하면,
 
