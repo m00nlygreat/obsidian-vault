@@ -26,12 +26,15 @@
             "id": "d8bcbd660f7af561",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "메모/Untitled.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -150,9 +153,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "메모/Untitled.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Untitled"
             }
           },
           {
@@ -263,6 +268,7 @@
   },
   "active": "d8bcbd660f7af561",
   "lastOpenFiles": [
+    "메모/Untitled.md",
     "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
     "강의/노코드 엔지니어링/_Make와 백엔드 자동화.md",
     "강의/노코드 엔지니어링/modules/Make와 G메일 연동.md",
