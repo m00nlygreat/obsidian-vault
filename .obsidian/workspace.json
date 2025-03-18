@@ -11,15 +11,12 @@
             "id": "d429a0e4239de09a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
+                "file": "강의/서비스기획/attachments/신한카드 UX Writing 가이드북_v1.0.pdf"
               },
-              "icon": "lucide-file",
-              "title": "아는 만큼 쓰는 ChatGPT"
+              "icon": "lucide-file-text",
+              "title": "신한카드 UX Writing 가이드북_v1.0"
             }
           }
         ]
@@ -52,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pdf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e03a58dc4fa1d7c2",
@@ -138,10 +136,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
+                "file": "강의/서비스기획/attachments/신한카드 UX Writing 가이드북_v1.0.pdf"
               },
               "icon": "lucide-info",
-              "title": "File properties for 아는 만큼 쓰는 ChatGPT"
+              "title": "File properties for 신한카드 UX Writing 가이드북_v1.0"
             }
           },
           {
@@ -252,6 +250,7 @@
   },
   "active": "d429a0e4239de09a",
   "lastOpenFiles": [
+    "강의/서비스기획/UX Writing.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT_flattened.md",
     "output/아는 만큼 쓰는 ChatGPT_flattened/아는 만큼 쓰는 ChatGPT_flattened.md",
@@ -293,7 +292,6 @@
     "modules",
     "강의/생성형AI/_ChatGPT와 코딩하기.md",
     "강의/modules/터미널 사용하기.md",
-    "강의/생성형AI/_ChatGPT로 코딩하기.md",
     "강의/생성형AI/attachments/notipy",
     "attachments",
     "output/ChatGPT 기초 사용법/attachments",
