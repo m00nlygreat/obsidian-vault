@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/생성형AI/이미지 생성 AI 활용.md",
+                "file": "강의/생성형AI/ChatGPT와 코딩하기.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "이미지 생성 AI 활용"
+              "title": "ChatGPT와 코딩하기"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "강의/생성형AI/이미지 생성 AI 활용.md"
+                "file": "강의/생성형AI/ChatGPT와 코딩하기.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 이미지 생성 AI 활용"
+              "title": "File properties for ChatGPT와 코딩하기"
             }
           },
           {
@@ -268,6 +268,7 @@
   },
   "active": "d8bcbd660f7af561",
   "lastOpenFiles": [
+    "강의/생성형AI/이미지 생성 AI 활용.md",
     "강의/노코드 엔지니어링/modules/타입과 연산-프로퍼티.md",
     "메모/백서-json2slide 변환 규칙.md",
     "메모/json2slide 변환 규칙.md",
@@ -309,7 +310,6 @@
     "output/ChatGPT 기초 사용법/attachments",
     "output/ChatGPT 기초 사용법",
     "강의/생성형AI/VBA with GPT.md",
-    "강의/생성형AI/생성형 AI 교안 조각.md",
     "강의/자료/The-DALL·E-2-prompt-book-v1.02.pdf",
     "강의/자료",
     "강의/생성형AI/modules/attachments",
