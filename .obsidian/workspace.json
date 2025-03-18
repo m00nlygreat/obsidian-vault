@@ -23,6 +23,54 @@
             }
           }
         ]
+      },
+      {
+        "id": "4e829635a6943933",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "837b3d255fd34830",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "D:\\vault\\강의\\생성형AI",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": {
+                    "columns": 57,
+                    "data": "Microsoft Windows [Version 10.0.19045.5608]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\vault\\강의\\생성형AI>^C",
+                    "rows": 46
+                  }
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: cmd"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,11 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 아는 만큼 쓰는 ChatGPT"
+              "title": "File properties"
             }
           },
           {
@@ -250,8 +296,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d429a0e4239de09a",
+  "active": "837b3d255fd34830",
   "lastOpenFiles": [
+    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT_flattened.md",
     "output/아는 만큼 쓰는 ChatGPT_flattened/아는 만큼 쓰는 ChatGPT_flattened.md",
     "output/아는 만큼 쓰는 ChatGPT_flattened/attachments/8f276d6461e88f846b234db5129cbee1.png",
@@ -266,7 +313,6 @@
     "output/아는 만큼 쓰는 ChatGPT_flattened/attachments/ac4db0c14b9126bb274ec3adb0fa163e.png",
     "output/아는 만큼 쓰는 ChatGPT_flattened/attachments",
     "output/아는 만큼 쓰는 ChatGPT_flattened",
-    "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
     "강의/생성형AI/ChatGPT와 코딩하기.md",
     "output/아는 만큼 쓰는 ChatGPT/attachments/8c8f5538359ceea408e92e5f46275c40.md",
     "output/아는 만큼 쓰는 ChatGPT/아는 만큼 쓰는 ChatGPT.md",

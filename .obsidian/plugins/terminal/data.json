@@ -14,6 +14,19 @@
   "pinNewInstance": true,
   "preferredRenderer": "webgl",
   "profiles": {
+    "41384110-5557-4978-8c8f-5187bf0c10d3": {
+      "name": "",
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {
+        "documentOverride": null
+      },
+      "type": ""
+    },
     "darwinExternalDefault": {
       "args": [
         "\"$PWD\""
