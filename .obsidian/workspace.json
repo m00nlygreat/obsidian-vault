@@ -11,12 +11,15 @@
             "id": "d429a0e4239de09a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "강의/서비스기획/attachments/신한카드 UX Writing 가이드북_v1.0.pdf"
+                "file": "강의/생성형AI/modules/이미지 생성 프롬프트.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "신한카드 UX Writing 가이드북_v1.0"
+              "icon": "lucide-file",
+              "title": "이미지 생성 프롬프트"
             }
           }
         ]
@@ -136,10 +139,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "강의/서비스기획/attachments/신한카드 UX Writing 가이드북_v1.0.pdf"
+                "file": "강의/생성형AI/modules/이미지 생성 프롬프트.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 신한카드 UX Writing 가이드북_v1.0"
+              "title": "File properties for 이미지 생성 프롬프트"
             }
           },
           {
@@ -250,8 +253,11 @@
   },
   "active": "d429a0e4239de09a",
   "lastOpenFiles": [
-    "강의/서비스기획/UX Writing.md",
+    "강의/생성형AI/이미지 생성 AI 활용.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md",
+    "강의/생성형AI/생성형 AI 교안 조각.md",
+    "강의/서비스기획/attachments/신한카드 UX Writing 가이드북_v1.0.pdf",
+    "강의/서비스기획/UX Writing.md",
     "강의/생성형AI/아는 만큼 쓰는 ChatGPT_flattened.md",
     "output/아는 만큼 쓰는 ChatGPT_flattened/아는 만큼 쓰는 ChatGPT_flattened.md",
     "output/아는 만큼 쓰는 ChatGPT_flattened/attachments/8f276d6461e88f846b234db5129cbee1.png",
@@ -281,7 +287,6 @@
     "output/아는 만큼 쓰는 ChatGPT/attachments/dfda22879f174fda0822b8df825528f5.md",
     "output/아는 만큼 쓰는 ChatGPT/attachments",
     "output/아는 만큼 쓰는 ChatGPT",
-    "강의/생성형AI/이미지 생성 AI 활용.md",
     "강의/노코드 엔지니어링/modules/타입과 연산-프로퍼티.md",
     "메모/백서-json2slide 변환 규칙.md",
     "메모/json2slide 변환 규칙.md",
@@ -291,11 +296,9 @@
     "강의/노코드 엔지니어링/attachments/G메일과 make 연동하기.pdf",
     "modules",
     "강의/생성형AI/_ChatGPT와 코딩하기.md",
-    "강의/modules/터미널 사용하기.md",
     "강의/생성형AI/attachments/notipy",
     "attachments",
     "output/ChatGPT 기초 사용법/attachments",
-    "output/ChatGPT 기초 사용법",
     "강의/생성형AI/Untitled.canvas",
     "강의/Untitled.canvas",
     "Untitled.canvas",
