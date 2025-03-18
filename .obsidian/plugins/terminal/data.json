@@ -145,7 +145,7 @@
     },
     "2364b090-0ed5-43ed-b7e3-94db37ba3c9b": {
       "args": [],
-      "executable": "\"C:\\Users\\holyc\\AppData\\Local\\Programs\\nu\\bin\\nu.exe\"",
+      "executable": "C:\\Users\\holyc\\AppData\\Local\\Programs\\nu\\bin\\nu.exe",
       "name": "NuShell Windows",
       "platforms": {
         "win32": true
