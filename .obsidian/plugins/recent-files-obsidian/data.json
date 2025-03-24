@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "gitignore",
+      "path": "메모/gitignore.md"
+    },
+    {
       "basename": "Make와 백엔드 자동화",
       "path": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-09-02",
       "path": "journal/2023-09-02.md"
-    },
-    {
-      "basename": "2020_024_002",
-      "path": "웹클립/attachments/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization  아웃풋 트레이닝/2020_024_002.jpg"
     }
   ],
   "omittedPaths": [],
