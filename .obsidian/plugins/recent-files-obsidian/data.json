@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Make와 백엔드 자동화",
+      "path": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
+    },
+    {
       "basename": "포트폴리오 메모",
       "path": "강의/포트폴리오 메모.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "json2slide 변환 규칙",
       "path": "메모/json2slide 변환 규칙.md"
-    },
-    {
-      "basename": "Make와 백엔드 자동화",
-      "path": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
     },
     {
       "basename": "Make와 G메일 연동",
