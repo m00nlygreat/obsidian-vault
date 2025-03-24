@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"created\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e03a58dc4fa1d7c2",
@@ -165,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의/기획 선배의 맞는 말 대잔치.md",
+                "file": "메모/gitignore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 기획 선배의 맞는 말 대잔치"
+              "title": "Backlinks for gitignore"
             }
           },
           {
@@ -227,7 +228,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -250,7 +251,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d429a0e4239de09a",
+  "active": "ed03e785266d9f8d",
   "lastOpenFiles": [
     "강의/노코드 엔지니어링/Make와 백엔드 자동화.md",
     "메모/gitignore.md",
