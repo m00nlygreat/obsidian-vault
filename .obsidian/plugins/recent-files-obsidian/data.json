@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Make와 백엔드 자동화",
+      "path": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
+    },
+    {
+      "basename": "ChatGPT와 코딩하기",
+      "path": "강의/생성형AI/ChatGPT와 코딩하기.md"
+    },
+    {
       "basename": "UI-UX 개론",
       "path": "강의/서비스기획/UI-UX 개론.md"
     },
@@ -33,10 +41,6 @@
       "path": "강의/서비스기획/UX Writing.md"
     },
     {
-      "basename": "ChatGPT와 코딩하기",
-      "path": "강의/생성형AI/ChatGPT와 코딩하기.md"
-    },
-    {
       "basename": "타입과 연산-프로퍼티",
       "path": "강의/노코드 엔지니어링/modules/타입과 연산-프로퍼티.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "json2slide 변환 규칙",
       "path": "메모/json2slide 변환 규칙.md"
-    },
-    {
-      "basename": "Make와 백엔드 자동화",
-      "path": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
     },
     {
       "basename": "Make와 G메일 연동",
