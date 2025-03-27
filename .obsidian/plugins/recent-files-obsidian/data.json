@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "설문조사",
+      "path": "강의/서비스기획/설문조사.md"
+    },
+    {
+      "basename": "서비스기획 Flow",
+      "path": "강의/서비스기획/서비스기획 Flow.md"
+    },
+    {
       "basename": "gitignore",
       "path": "메모/gitignore.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "2023-09-04",
       "path": "journal/2023-09-04.md"
-    },
-    {
-      "basename": "2023-09-03",
-      "path": "journal/2023-09-03.md"
     }
   ],
   "omittedPaths": [],
