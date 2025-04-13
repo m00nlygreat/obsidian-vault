@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "잡페어복붙",
+      "path": "notes/잡페어복붙.md"
+    },
+    {
       "basename": "옵시디언 daily notes 전용 앱",
       "path": "아이디어/옵시디언 daily notes 전용 앱.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "genAI-mj_style_ref",
       "path": "강의/생성형AI/attachments/genAI-mj_style_ref.png"
-    },
-    {
-      "basename": "부모님이 치매에 걸렸을 때 해야할 것",
-      "path": "웹클립/부모님이 치매에 걸렸을 때 해야할 것.md"
-    },
-    {
-      "basename": "그 애",
-      "path": "웹클립/그 애.md"
     }
   ],
   "omittedPaths": [],
