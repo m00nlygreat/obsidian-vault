@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "API 허브",
+      "path": "아이디어/API 허브.md"
+    },
+    {
+      "basename": "감정노동 대신 해주는 챗봇",
+      "path": "아이디어/감정노동 대신 해주는 챗봇.md"
+    },
+    {
+      "basename": "옵시디언 daily notes 전용 앱",
+      "path": "아이디어/옵시디언 daily notes 전용 앱.md"
+    },
+    {
       "basename": "신금일주 정리",
       "path": "명리/신금일주 정리.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "그 애",
       "path": "웹클립/그 애.md"
-    },
-    {
-      "basename": "비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization",
-      "path": "웹클립/비슷해보이지만 다른 두 친구를 소개합니다. Authentication vs Authorization.md"
-    },
-    {
-      "basename": "desktop-todolist",
-      "path": "웹클립/attachments/desktop-todolist.jpg"
-    },
-    {
-      "basename": "2024-10-경남ICT-생산성",
-      "path": "notes/2024-10-경남ICT-생산성.md"
     }
   ],
   "omittedPaths": [],
