@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "fc2cb206b03f9f2ff90d791faea2fb5d",
+      "path": "output/기획 선배의 맞는 말 대잔치/attachments/fc2cb206b03f9f2ff90d791faea2fb5d.md"
+    },
+    {
+      "basename": "기획 선배의 맞는 말 대잔치",
+      "path": "output/기획 선배의 맞는 말 대잔치/기획 선배의 맞는 말 대잔치.md"
+    },
+    {
+      "basename": "기획 선배의 맞는 말 대잔치",
+      "path": "강의/기획 선배의 맞는 말 대잔치.md"
+    },
+    {
+      "basename": "서비스기획 개론",
+      "path": "강의/서비스기획/서비스기획 개론.md"
+    },
+    {
       "basename": "스프레드시트 상대적 시간 수식",
       "path": "코드/스프레드시트 상대적 시간 수식.md"
     },
@@ -183,18 +199,6 @@
     {
       "basename": "VBA with GPT",
       "path": "강의/생성형AI/VBA with GPT.md"
-    },
-    {
-      "basename": "GPT를 엑셀 안에서 사용하기",
-      "path": "강의/생성형AI/GPT를 엑셀 안에서 사용하기.md"
-    },
-    {
-      "basename": "GPTs",
-      "path": "강의/생성형AI/GPTs.md"
-    },
-    {
-      "basename": "genAI-mj_style_ref",
-      "path": "강의/생성형AI/attachments/genAI-mj_style_ref.png"
     }
   ],
   "omittedPaths": [],
