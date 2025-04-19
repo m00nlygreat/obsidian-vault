@@ -73,7 +73,7 @@ type: module
 	- "OpenAI 141조에 사겠다"
 	- "트위터 14조에 사겠다"
 
- ![](../attachments/chatgpt-elon_leaves_openAI.png)
+![](../attachments/chatgpt-elon_leaves_openAI.png)
 
 ## AI의 미래
 
