@@ -46,7 +46,7 @@ type: module
 
 ![](../attachments/chatgpt-larry_vs_elon.png)
 
-- AI에 대해 상반된 두 가지 입장
+[notes- AI에 대해 상반된 두 가지 입장
 	- AI는 위험하며 투명하게 공개되고 통제되어야 함 (허사비스, 머스크)
 	- AI는 인류의 발전을 가져올 중요한 파트너 (페이지)
 - 일론 머스크, AI 발전을 감시하기 위해 딥마인드 지분 구입
