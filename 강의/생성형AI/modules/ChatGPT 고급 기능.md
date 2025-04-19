@@ -15,13 +15,11 @@ type: module
 
 ## Vision & DALL-E
 
-::: notes
 - GPT-4 Vision: 사진을 보고 해석하는 능력
 	- 프롬프트에 사진 파일을 첨부
 - DALL-E 3: 프롬프트 기반으로 이미지를 생성하는 능력 (Midjourney와 같은)
 	- '그림을 그려줘.', '이미지를 생성해줘.' 등의 표현 사용
 - 풍경 사진, 이미지에서 도표, 이미지로 된 텍스트까지
-:::
 
 ![](../attachments/chatgpt-vision.png)
 

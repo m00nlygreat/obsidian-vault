@@ -67,9 +67,7 @@ type: module
 - 줄글을 알맞게 슬라이드로 구분하기
 - 테마 적용해서 디자인 완성하기
 
-```markdown
 > PPT 작성은 Python 코드로 하기 때문에 실망스러운 것이 사실
-```
 
 - [슬라이드 만들기](https://chat.openai.com/share/32212d7c-c30a-45ff-bf3e-fe0b39b0c2ff)
 
@@ -93,8 +91,6 @@ type: module
 - 필요한 수식을 텍스트로 설명하면 대신 생성해줌
 - 사용할 함수, 파라미터로 제공되어야 하는 데이터의 위치와 형식을 설명할 필요 있음
 
-```markdown
 > 기본적으로 수식과 함수의 동작을 이해해야 정확하게 설명할 수 있다. 만약 어렵다면 스크린샷을 첨부하고 상황과 목적을 침착하게 설명해볼 수 있다
-```
  
 ![](../attachments/chatgpt-generate_formula.png)

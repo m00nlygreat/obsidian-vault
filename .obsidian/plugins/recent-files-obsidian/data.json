@@ -1,68 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "사전 평가",
-      "path": "강의/생성형AI/사전 평가.md"
-    },
-    {
-      "basename": "ChatGPT 예제",
-      "path": "강의/생성형AI/modules/ChatGPT 예제.md"
-    },
-    {
-      "basename": "이미지 생성 AI 활용",
-      "path": "강의/생성형AI/이미지 생성 AI 활용.md"
-    },
-    {
-      "basename": "ChatGPT 채팅 공유 링크",
-      "path": "강의/생성형AI/ChatGPT 채팅 공유 링크.md"
-    },
-    {
-      "basename": "생성형 AI 교안 조각",
-      "path": "강의/생성형AI/생성형 AI 교안 조각.md"
-    },
-    {
-      "basename": "아는 만큼 쓰는 ChatGPT",
-      "path": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
-    },
-    {
-      "basename": "AI이모저모",
-      "path": "강의/생성형AI/modules/AI이모저모.md"
-    },
-    {
-      "basename": "chatgpt-elon_leaves_openAI",
-      "path": "강의/생성형AI/attachments/chatgpt-elon_leaves_openAI.png"
-    },
-    {
       "basename": "GPT를 엑셀 안에서 사용하기",
       "path": "강의/생성형AI/modules/GPT를 엑셀 안에서 사용하기.md"
-    },
-    {
-      "basename": "ChatGPT와 코딩하기",
-      "path": "강의/생성형AI/modules/ChatGPT와 코딩하기.md"
     },
     {
       "basename": "ChatGPT 기초 사용법",
       "path": "강의/생성형AI/modules/ChatGPT 기초 사용법.md"
     },
     {
-      "basename": "왜 내 GPT는 대답을 이상하게 할까",
-      "path": "강의/생성형AI/modules/왜 내 GPT는 대답을 이상하게 할까.md"
-    },
-    {
       "basename": "VBA with GPT",
       "path": "강의/생성형AI/modules/VBA with GPT.md"
-    },
-    {
-      "basename": "하이퍼 파라미터(Hyperparameters)",
-      "path": "강의/생성형AI/modules/하이퍼 파라미터(Hyperparameters).md"
     },
     {
       "basename": "ChatGPT를 대하는 우리의 자세",
       "path": "강의/생성형AI/modules/ChatGPT를 대하는 우리의 자세.md"
     },
     {
+      "basename": "GPTs",
+      "path": "강의/생성형AI/modules/GPTs.md"
+    },
+    {
       "basename": "프롬프트 엔지니어링",
       "path": "강의/생성형AI/modules/프롬프트 엔지니어링.md"
+    },
+    {
+      "basename": "ChatGPT와 코딩하기",
+      "path": "강의/생성형AI/modules/ChatGPT와 코딩하기.md"
     },
     {
       "basename": "이미지 생성 프롬프트",
@@ -73,12 +37,60 @@
       "path": "강의/생성형AI/modules/OpenAI API Key 발급.md"
     },
     {
-      "basename": "GPTs",
-      "path": "강의/생성형AI/modules/GPTs.md"
+      "basename": "하이퍼 파라미터(Hyperparameters)",
+      "path": "강의/생성형AI/modules/하이퍼 파라미터(Hyperparameters).md"
     },
     {
       "basename": "ChatGPT 고급 기능",
       "path": "강의/생성형AI/modules/ChatGPT 고급 기능.md"
+    },
+    {
+      "basename": "경위서 쓰기",
+      "path": "강의/생성형AI/modules/경위서 쓰기.md"
+    },
+    {
+      "basename": "image16",
+      "path": "강의/생성형AI/attachments/image16.png"
+    },
+    {
+      "basename": "ChatGPT 예제",
+      "path": "강의/생성형AI/modules/ChatGPT 예제.md"
+    },
+    {
+      "basename": "AI이모저모",
+      "path": "강의/생성형AI/modules/AI이모저모.md"
+    },
+    {
+      "basename": "아는 만큼 쓰는 ChatGPT",
+      "path": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
+    },
+    {
+      "basename": "이미지 생성 AI 활용",
+      "path": "강의/생성형AI/이미지 생성 AI 활용.md"
+    },
+    {
+      "basename": "생성형 AI 교안 조각",
+      "path": "강의/생성형AI/생성형 AI 교안 조각.md"
+    },
+    {
+      "basename": "사전 평가",
+      "path": "강의/생성형AI/사전 평가.md"
+    },
+    {
+      "basename": "ChatGPT 채팅 공유 링크",
+      "path": "강의/생성형AI/ChatGPT 채팅 공유 링크.md"
+    },
+    {
+      "basename": "사전 평가 질문지 - 노코드 엔지니어링",
+      "path": "강의/생성형AI/사전 평가 질문지 - 노코드 엔지니어링.md"
+    },
+    {
+      "basename": "chatgpt-elon_leaves_openAI",
+      "path": "강의/생성형AI/attachments/chatgpt-elon_leaves_openAI.png"
+    },
+    {
+      "basename": "왜 내 GPT는 대답을 이상하게 할까",
+      "path": "강의/생성형AI/modules/왜 내 GPT는 대답을 이상하게 할까.md"
     },
     {
       "basename": "기획 선배의 맞는 말 대잔치",
@@ -95,10 +107,6 @@
     {
       "basename": "사전 평가 질문지",
       "path": "강의/생성형AI/사전 평가 질문지.md"
-    },
-    {
-      "basename": "사전 평가 질문지 - 노코드 엔지니어링",
-      "path": "강의/생성형AI/사전 평가 질문지 - 노코드 엔지니어링.md"
     },
     {
       "basename": "교안 조각",
@@ -191,14 +199,6 @@
     {
       "basename": "백서-json2slide 변환 규칙",
       "path": "메모/백서-json2slide 변환 규칙.md"
-    },
-    {
-      "basename": "json2slide 변환 규칙",
-      "path": "메모/json2slide 변환 규칙.md"
-    },
-    {
-      "basename": "Make와 G메일 연동",
-      "path": "강의/노코드 엔지니어링/modules/Make와 G메일 연동.md"
     }
   ],
   "omittedPaths": [],
