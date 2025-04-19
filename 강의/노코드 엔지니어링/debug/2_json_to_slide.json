@@ -1,0 +1,2531 @@
+{
+    "frontmatter": {
+        "title": "노션 야무지게 쓰기",
+        "type": "text"
+    },
+    "slides": [
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "노션 알아보기"
+                    }
+                ]
+            },
+            "layout": "section_header",
+            "placeholders": [
+                []
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "노션?"
+                    }
+                ]
+            },
+            "layout": "two_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "heading",
+                        "level": 3,
+                        "runs": [
+                            {
+                                "text": "노션이란"
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "Ivan Zhao가 설립한 주식회사 Notion Labs가 2016년 발표한 노트 및 프로젝트 관리 도구"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "클라우드 기반으로 노트 간의 연결과 데이터베이스를 사용해 데이터를 기록관리하고 동료와 협업하는 일에 강점"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "예쁜 디자인의 문서를 만들 수 있고 이를 웹으로 배포할 수 있어서 비교적 IT 친화적이지 않은 일반인에게도 널리 사용됨"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ],
+                [
+                    {
+                        "type": "paragraph",
+                        "runs": [
+                            {
+                                "text": "!"
+                            },
+                            {
+                                "text": "["
+                            },
+                            {
+                                "text": "](D:/vault/강의/노코드 엔지니어링/attachments/Notion_app_logo.png)"
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "노션으로 무엇을?"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "paragraph",
+                        "runs": [
+                            {
+                                "text": "::: notes"
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "여러가지 기록 용도: 일기, 독후감상, 자료 수집 등"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "웹페이지 배포 용도: 랜딩 페이지, 정보 전달 페이지 등"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "프로젝트 관리 도구"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "구글 시트, 에어테이블과 같은 간이 데이터베이스로 사용"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "hyperlink": "https://www.notion.so/ko-kr/customers",
+                                        "text": "노션 사용사례"
+                                    },
+                                    {
+                                        "text": ":::"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "paragraph",
+                        "runs": [
+                            {
+                                "text": "!"
+                            },
+                            {
+                                "text": "["
+                            },
+                            {
+                                "text": "](D:/vault/강의/노코드 엔지니어링/attachments/notion1.png)"
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "노션의 구조"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "워크스페이스 ⊃ 스페이스 ⊃ 페이지 ⊃ 하위페이지 ⊃ 블록"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "노션은 블록을 아래로 쌓아서 문서를 구성"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "heading",
+                        "level": 3,
+                        "runs": [
+                            {
+                                "text": "계정"
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "개인 워크스페이스"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "페이지"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 2,
+                                "runs": [
+                                    {
+                                        "text": "블록"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 2,
+                                "runs": [
+                                    {
+                                        "text": "페이지"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "팀스페이스"
+                                    },
+                                    {
+                                        "text": "- 페이지"
+                                    },
+                                    {
+                                        "text": "- 블록"
+                                    },
+                                    {
+                                        "text": "- 페이지"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "paragraph",
+                        "runs": [
+                            {
+                                "text": "!"
+                            },
+                            {
+                                "text": "["
+                            },
+                            {
+                                "text": "](D:/vault/강의/노코드 엔지니어링/attachments/notion2.png)"
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "블록"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "노션을 구성하는 최소의 단위"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "텍스트의 경우 하나의 문단 (엔터로 줄바꿈)이 하나의 블록"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "블록끼리는 순서를 바꿀 수 있다."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "블록 단위에 댓글 작성 가능"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "heading",
+                        "level": 3,
+                        "runs": [
+                            {
+                                "text": "슬래시 커맨드"
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "monospace": true,
+                                        "text": "/"
+                                    },
+                                    {
+                                        "text": " 를 눌러 다양한 레이아웃, 블록, 기능 사용하기"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "monospace": true,
+                                        "text": "@"
+                                    },
+                                    {
+                                        "text": " 를 사용해 날짜, 친구 등 언급하기"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "paragraph",
+                        "runs": [
+                            {
+                                "text": "!"
+                            },
+                            {
+                                "text": "["
+                            },
+                            {
+                                "text": "](D:/vault/강의/노코드 엔지니어링/attachments/notion3.png)"
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "댓글"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "페이지와 블록에 댓글달기 가능"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "해결(Resolve)처리해서 숨길 수 있다."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "이슈 관리를 위한 기능"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "paragraph",
+                        "runs": [
+                            {
+                                "text": "!"
+                            },
+                            {
+                                "text": "["
+                            },
+                            {
+                                "text": "](D:/vault/강의/노코드 엔지니어링/attachments/notion-comments.png)"
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "마크다운(Markdown)"
+                    }
+                ]
+            },
+            "layout": "content_with_caption",
+            "placeholders": [
+                [
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "HTML의 Subset인, 리치 텍스트를 표현하기 위한 간이 문법"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "이름은 HTML(Hypertext Markup Language)의 말장난"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "hyperlink": "https://m00nlygreat.notion.site/ba2a279ebbf94484b4bdfa42105935a0",
+                                        "text": "마크다운 가이드"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "heading",
+                        "level": 3,
+                        "runs": [
+                            {
+                                "text": "플레인 텍스트와 리치 텍스트"
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "플레인 텍스트: 메모장"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "리치 텍스트: 워드패드"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "heading",
+                        "level": 3,
+                        "runs": [
+                            {
+                                "text": "사용처"
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "디스코드, 슬랙, 노션, Github"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "Obsidian, LogSeq, Github, ChatGPT, StackEdit, Joplin"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ],
+                [
+                    {
+                        "type": "image",
+                        "url": "D:/vault/강의/attachments/markdown-preview.png",
+                        "consume": "monopoly"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "마크다운(Markdown)"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "image",
+                        "url": "D:/vault/강의/attachments/markdown-example.png",
+                        "consume": "monopoly"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "마크다운의 문법 소개"
+                    }
+                ]
+            },
+            "layout": "two_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "code",
+                        "lang": "markdown",
+                        "raw": "＃ 제목\n＃＃ 제목 2\n＃＃＃ 제목 3\n",
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "code",
+                        "lang": "markdown",
+                        "raw": "**굵게**\n*이탤릭*\n~~취소선~~\n",
+                        "consume": "shared"
+                    }
+                ],
+                [
+                    {
+                        "type": "code",
+                        "lang": "markdown",
+                        "raw": "> 인용\n",
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "code",
+                        "lang": "markdown",
+                        "raw": "- 순서 없는 리스트 항목\n- 순서 없는 리스트 항목\n\n1. 순서 있는 리스트 항목\n2. 순서 있는 리스트 항목\n",
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "마크다운의 문법 소개"
+                    }
+                ]
+            },
+            "layout": "two_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "code",
+                        "lang": "markdown",
+                        "raw": "```\n코드 블록\n```\n",
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "code",
+                        "lang": "markdown",
+                        "raw": "[링크 텍스트](URL)\n",
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "code",
+                        "lang": "markdown",
+                        "raw": "![대체 텍스트](URL)\n",
+                        "consume": "shared"
+                    }
+                ],
+                [
+                    {
+                        "type": "code",
+                        "lang": "markdown",
+                        "raw": "ㅡㅡㅡ\n",
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "code",
+                        "lang": "markdown",
+                        "raw": "| 헤더1 | 헤더2 |\n|------|------|\n| 셀1   | 셀2   |\n",
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "code",
+                        "lang": "markdown",
+                        "raw": "- [x] 완료 항목\n- [ ] 미완료 항목\n",
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "Markdown is the new MS Word"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "마크다운은 생각과 아이디어를 "
+                                    },
+                                    {
+                                        "bold": true,
+                                        "text": "최소한의 서식으로 보존하고 정리"
+                                    },
+                                    {
+                                        "text": "하는 데에 도움을 줍니다."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "마크다운은 여러 포맷으로 변환될 수 있습니다. 따라서 레이아웃이나 서식과 같은 장치보다도 "
+                                    },
+                                    {
+                                        "bold": true,
+                                        "text": "원본 콘텐츠를 지키고 더욱 개선하는 일"
+                                    },
+                                    {
+                                        "text": "에 적당합니다."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "마크다운은 글의 구조를 표현하는 데에 필요한 모든 규칙을 가지고 있습니다. 따라서 "
+                                    },
+                                    {
+                                        "bold": true,
+                                        "text": "구조적 글쓰기 훈련"
+                                    },
+                                    {
+                                        "text": "을 하는 데에도 도움이 됩니다."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "ChatGPT와 같은 대부분의 거대언어모델 역시 마크다운 호환 형식으로 답변하며, 마크다운을 읽고 쓰는 데에 능숙합니다. 말하자면 AI와 대화할 때도 최적화되어 있는 것이죠."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "마크다운은 점차 더 많은 현세대 애플리케이션에 통합되고 있습니다. 곧 더 많은 곳에서 마크다운을 보게 될 것입니다."
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "옵시디언 (Obsidian)"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "마크다운과 노트의 연결을 근간으로 하는 개인 지식 DB 구축 도구"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "제텔카스텐(Zettelkasten), 세컨드브레인"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "RAG를 통해 생성형 AI와 내 지식 데이터베이스를 사용한 챗봇 구축"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "지식의 연결을 시각화하는 Graph View"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "paragraph",
+                        "runs": [
+                            {
+                                "text": "!"
+                            },
+                            {
+                                "text": "["
+                            },
+                            {
+                                "text": "](D:/vault/강의/노코드 엔지니어링/attachments/obsidian-graph.gif)"
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "Mermaid.js"
+                    }
+                ]
+            },
+            "layout": "content_with_caption",
+            "placeholders": [
+                [
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "마크다운을 채택한 많은 에디터에서 호환되는 다이어그램/차트 작성 도구"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "간단한 플레인 텍스트 문법으로 차트 또는 다이어그램 작성"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "hyperlink": "https://mermaid.live/edit",
+                                        "text": "Mermaid.js Live Editor"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "code",
+                        "lang": "markdown",
+                        "raw": "> GPT등의 언어모델은 스스로는 다이어그램을 그리지 못하지만 mermaid.js 문법의 코드를 작성할 수 있다!\n",
+                        "consume": "shared"
+                    }
+                ],
+                [
+                    {
+                        "type": "image",
+                        "url": "D:/vault/강의/modules/attachments/mermaid-example.png",
+                        "consume": "monopoly"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "멘션"
+                    }
+                ]
+            },
+            "layout": "two_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "monospace": true,
+                                        "text": "@"
+                                    },
+                                    {
+                                        "text": " 를 사용해서 멘션"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "날짜 또는 사용자, 페이지를 멘션"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "페이지를 멘션하는 경우, 페이지에서는 백링크로 취급되어 등록된다."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "사용자는 워크스페이스 안에 추가된 사용자를 멘션 가능"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 2,
+                                "runs": [
+                                    {
+                                        "text": "사용자를 멘션하는 경우, 해당 유저에게 알림이 제공된다."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "페이지를 멘션하는 것으로 위키와 같은 사용방식을 구현할 수 있다."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 2,
+                                "runs": [
+                                    {
+                                        "monospace": true,
+                                        "text": "[["
+                                    },
+                                    {
+                                        "text": " 대괄호 두 개로도 할 수 있음"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "특정 날짜, 시간에 리마인더 설정"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ],
+                [
+                    {
+                        "type": "paragraph",
+                        "runs": [
+                            {
+                                "text": "!"
+                            },
+                            {
+                                "text": "["
+                            },
+                            {
+                                "text": "](D:/vault/강의/노코드 엔지니어링/attachments/notion-mention.png)"
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "페이지"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "heading",
+                        "level": 3,
+                        "runs": [
+                            {
+                                "text": "페이지 구성"
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "제목: 페이지의 제목. 상위 페이지에서는 블록으로 취급됨."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "아이콘: 노션의 상징."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "커버 사진: 노션의 상징2. 별 것 아닌데 페이지를 예뻐보이게 만드는 것."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "블록들, 댓글"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "heading",
+                        "level": 3,
+                        "runs": [
+                            {
+                                "text": "하위 페이지 만들기"
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "블록을 선택해서 ‘페이지로 전환’"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "슬래시 커맨드 "
+                                    },
+                                    {
+                                        "monospace": true,
+                                        "text": "/page"
+                                    },
+                                    {
+                                        "text": " 사용"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "paragraph",
+                        "runs": [
+                            {
+                                "text": "!"
+                            },
+                            {
+                                "text": "["
+                            },
+                            {
+                                "text": "](D:/vault/강의/노코드 엔지니어링/attachments/notion-page.png)"
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "페이지"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "heading",
+                        "level": 3,
+                        "runs": [
+                            {
+                                "text": "페이지 기록(Page History)"
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "페이지를 특정 시점으로 원상복구 할 수 있음."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "monospace": true,
+                                        "text": "Ctrl + Z"
+                                    },
+                                    {
+                                        "text": "를 눌러서 되돌리기 할 수 있음."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "monospace": true,
+                                        "text": "Ctrl + Shift + Z"
+                                    },
+                                    {
+                                        "text": " 를 눌러서 다시 하기?"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "paragraph",
+                        "runs": [
+                            {
+                                "text": "!"
+                            },
+                            {
+                                "text": "["
+                            },
+                            {
+                                "text": "](D:/vault/강의/노코드 엔지니어링/attachments/notion-page-history.png)"
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "노트 간 연결하기"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "하위 페이지"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "기본적으로 하위 페이지를 생성하면 상위 페이지에 연결됨."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "페이지 멘션"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "페이지를 언급하여 관련 문서를 링크할 수 있음."
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "paragraph",
+                        "runs": [
+                            {
+                                "text": "!"
+                            },
+                            {
+                                "text": "["
+                            },
+                            {
+                                "text": "](D:/vault/강의/노코드 엔지니어링/attachments/notion-link-pages.png)"
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "데이터베이스"
+                    }
+                ]
+            },
+            "layout": "section_header",
+            "placeholders": [
+                []
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "데이터베이스(Database)"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "다양하고 복잡한 구조의 정보를 정리하는 방법"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "엑셀, 구글 시트와 같은 스프레드 시트를 떠올리면 쉬움."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "가로로 또는 세로로 무한인 2차원 형식의 데이터"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "bold": true,
+                                        "text": "테이블"
+                                    },
+                                    {
+                                        "text": "(Tables), "
+                                    },
+                                    {
+                                        "bold": true,
+                                        "text": "시트"
+                                    },
+                                    {
+                                        "text": "(Spreadsheets), "
+                                    },
+                                    {
+                                        "bold": true,
+                                        "text": "데이터베이스"
+                                    },
+                                    {
+                                        "text": "(Databases)"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "특정 엔티티를 주제로 한 데이터베이스"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "bold": true,
+                                        "text": "엔트리"
+                                    },
+                                    {
+                                        "text": "(Entries), "
+                                    },
+                                    {
+                                        "bold": true,
+                                        "text": "레코드"
+                                    },
+                                    {
+                                        "text": "(Records), "
+                                    },
+                                    {
+                                        "bold": true,
+                                        "text": "행"
+                                    },
+                                    {
+                                        "text": "(Rows), "
+                                    },
+                                    {
+                                        "bold": true,
+                                        "text": "페이지"
+                                    },
+                                    {
+                                        "text": "(Pages)"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "표에서 한 줄(행)에 들어가는 일련된 데이터"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "bold": true,
+                                        "text": "속성"
+                                    },
+                                    {
+                                        "text": "(Properties), "
+                                    },
+                                    {
+                                        "bold": true,
+                                        "text": "필드"
+                                    },
+                                    {
+                                        "text": "(Fields), "
+                                    },
+                                    {
+                                        "bold": true,
+                                        "text": "열"
+                                    },
+                                    {
+                                        "text": "(Columns)"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "어떤 개체에 대한 질문의 모음"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "bold": true,
+                                        "text": "객체"
+                                    },
+                                    {
+                                        "text": "(Objects), "
+                                    },
+                                    {
+                                        "bold": true,
+                                        "text": "엔티티"
+                                    },
+                                    {
+                                        "text": "(개체, Entities)"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "속성으로 설명되는 구조화된 정보"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "데이터베이스(Database)"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "데이터베이스의 형식으로 저장된 정보들은 여러가지 가공이 가능"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "검색(Search)"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "필터(Filter)"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "정렬(Sorting)"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "여러 엔트리에 대한 계산"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "연결된 정보들에 대한 참조"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "데이터베이스 연결(관계, Relation)"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "데이터베이스(Database)"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "heading",
+                        "level": 3,
+                        "runs": [
+                            {
+                                "text": "새 데이터베이스 생성"
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "테이블을 추가한다. 시트를 새로 만든다."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "노션에서 데이터베이스는 하나의 페이지로 취급"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "노션의 데이터베이스 엔트리 또한 페이지로 취급"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "heading",
+                        "level": 3,
+                        "runs": [
+                            {
+                                "text": "속성에 유형 지정"
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "유형을 지정하는 이유"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "정보를 어떻게 써야 하는지 컴퓨터에게 알려줌."
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "paragraph",
+                        "runs": [
+                            {
+                                "text": "!"
+                            },
+                            {
+                                "text": "["
+                            },
+                            {
+                                "text": "](D:/vault/강의/노코드 엔지니어링/attachments/notion4.png)"
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "노션 데이터베이스를 사용하는 이유"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "검색, 정렬 등의 사무적인 용도로 엑셀보다 편리할 수 있음"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "동료들과 실시간으로 함께 편집할 수 있음."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "보기(View) 방식을 지정해 적절한 용도의 레이아웃으로 변경할 수 있음."
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ],
+                []
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "보기 (View)"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "같은 데이터베이스의 내용으로, 목적에 맞는 레이아웃과 속성만을 보여주도록 하는 방법"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "특정 보기와 필터, 정렬을 사용해 노션 페이지에 삽입(임베드) 가능"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "대쉬보드"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "또는 반복되는 어떤 개념을 예쁘게 표시할 때 좋음."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "하위 그룹화는 보드 보기(Board view)에서만 가능"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "디폴트 페이지(템플릿) 설정"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "숨겨진 속성(Hidden Fields)"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "사람이 입력하기는 조금 귀찮고 어렵지만, 사무에 활용하기 좋은, 노션이 대신 입력해주는 속성들"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "생성일시"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "생성자"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "최종편집 일시"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "최종편집자"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "ID"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "paragraph",
+                        "runs": [
+                            {
+                                "text": "!"
+                            },
+                            {
+                                "text": "["
+                            },
+                            {
+                                "text": "](D:/vault/강의/노코드 엔지니어링/attachments/notion-hidden-fields.png)"
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "필터"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "데이터베이스의 필드(속성)를 기준으로 아이템을 필터"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "필터는 임시보기 상태로 추가되며, 모두에게 보기로 저장을 해야 적용됨."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "고급 필터"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "AND/OR 연산으로 조건을 결합"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "paragraph",
+                        "runs": [
+                            {
+                                "text": "!"
+                            },
+                            {
+                                "text": "["
+                            },
+                            {
+                                "text": "](D:/vault/강의/노코드 엔지니어링/attachments/notion-filters.png)"
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "관계(Relation)"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "heading",
+                        "level": 3,
+                        "runs": [
+                            {
+                                "text": "관계형 데이터베이스"
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "레코드에 고유한 ID(키)를 부여하고 ID로서 테이블 간에 정보를 연결하는 방법"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "heading",
+                        "level": 3,
+                        "runs": [
+                            {
+                                "text": "노션의 관계형 속성"
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "다른 데이터베이스의 항목을 연결"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "쌍방향 연결: 쌍방향으로 연결을 하면 각 속성에서도 반대편 속성의 값들을 참조할 수 있음."
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "heading",
+                        "level": 3,
+                        "runs": [
+                            {
+                                "text": "롤업(Roll-ups)"
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "기존의 관계형 속성의 데이터베이스 항목 중 이름을 제외한 다른 속성을 불러오는 방법"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "paragraph",
+                        "runs": [
+                            {
+                                "text": "!"
+                            },
+                            {
+                                "text": "["
+                            },
+                            {
+                                "text": "](D:/vault/강의/노코드 엔지니어링/attachments/notion-relation.png)"
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "할 일 관리"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "데이터베이스를 만들 때 가장 중요한 건, 어떤 엔티티를 다룰지에 관한 것."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "주도면밀하게 데이터베이스를 설계해야 개발 과정, 또는 이후 사용에서도 예상치 못한 문제들을 미리 방어하거나 대비할 수 있음."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "언제까지 해야하는지"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "정확한 일자는 아니더라도, 언제까지는 해야된다."
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "heading",
+                        "level": 3,
+                        "runs": [
+                            {
+                                "text": "할 일 관리 템플릿 만들기"
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "고급 필터"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "완료일시가 이번 주인 것"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "완료일시가 비어있는 것"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "AND/OR 연산"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "text": "수식"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "엑셀, 구글 시트의 수식과 비슷한 노션의 수식"
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 1,
+                                "runs": [
+                                    {
+                                        "text": "데이터베이스에 동적(dynamic)인 값을 넣는 것."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "노션 데이터베이스에서는 수식 속성으로 구현됨."
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "paragraph",
+                        "runs": [
+                            {
+                                "text": "!"
+                            },
+                            {
+                                "text": "["
+                            },
+                            {
+                                "text": "](D:/vault/강의/노코드 엔지니어링/attachments/notion-formula.png)"
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        },
+        {
+            "title": {
+                "runs": [
+                    {
+                        "monospace": true,
+                        "text": "@오늘"
+                    },
+                    {
+                        "text": "과 "
+                    },
+                    {
+                        "monospace": true,
+                        "text": "@지금"
+                    },
+                    {
+                        "text": "의 차이"
+                    }
+                ]
+            },
+            "layout": "title_and_content",
+            "placeholders": [
+                [
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "monospace": true,
+                                        "text": "@오늘"
+                                    },
+                                    {
+                                        "text": "은 시간을 포함하지 않음."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "monospace": true,
+                                        "text": "@지금"
+                                    },
+                                    {
+                                        "text": "은 시간을 포함함."
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "heading",
+                        "level": 3,
+                        "runs": [
+                            {
+                                "text": "구글 시트가 날짜를 처리하는 방식"
+                            }
+                        ],
+                        "consume": "shared"
+                    },
+                    {
+                        "type": "list",
+                        "children": [
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "하루를 숫자 1로 처리함."
+                                    }
+                                ],
+                                "ordered": false
+                            },
+                            {
+                                "type": "list_item",
+                                "depth": 0,
+                                "runs": [
+                                    {
+                                        "text": "1은 24시간"
+                                    }
+                                ],
+                                "ordered": false
+                            }
+                        ],
+                        "consume": "shared"
+                    }
+                ]
+            ],
+            "notes": []
+        }
+    ]
+}
