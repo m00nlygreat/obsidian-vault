@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "아는 만큼 쓰는 ChatGPT",
+      "path": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
+    },
+    {
+      "basename": "chatgpt-reply",
+      "path": "강의/생성형AI/attachments/chatgpt-reply.png"
+    },
+    {
+      "basename": "chatgpt-api_key",
+      "path": "강의/생성형AI/attachments/chatgpt-api_key.png"
+    },
+    {
       "basename": "생성형 AI 교안 조각",
       "path": "강의/생성형AI/생성형 AI 교안 조각.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "왜 내 GPT는 대답을 이상하게 할까",
       "path": "강의/생성형AI/modules/왜 내 GPT는 대답을 이상하게 할까.md"
-    },
-    {
-      "basename": "아는 만큼 쓰는 ChatGPT",
-      "path": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
     },
     {
       "basename": "프롬프트 엔지니어링",
@@ -191,14 +199,6 @@
     {
       "basename": "UX Writing",
       "path": "강의/서비스기획/UX Writing.md"
-    },
-    {
-      "basename": "타입과 연산-프로퍼티",
-      "path": "강의/노코드 엔지니어링/modules/타입과 연산-프로퍼티.md"
-    },
-    {
-      "basename": "백서-json2slide 변환 규칙",
-      "path": "메모/백서-json2slide 변환 규칙.md"
     }
   ],
   "omittedPaths": [],
