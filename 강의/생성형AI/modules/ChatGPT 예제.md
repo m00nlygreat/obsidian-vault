@@ -9,7 +9,7 @@ type: module
 	- 우리 팀에 들어왔을 때 문제가 될 수 있을만한 가능성?
 - [채용 후보 관리 엑셀 파일을 작성](https://chat.openai.com/share/3ece436c-e7d3-4123-8974-5a2bd4af6caf)하고, 후보자를 추가시키기
 
-![](attachments/chatgpt-read_resume.png)
+![](../attachments/chatgpt-read_resume.png)
 
 ## 회사의 재무제표 분석
 
@@ -19,7 +19,7 @@ type: module
 	- 한국의 현 상황과 관련하여 투자의견 제안
 - 재무제표 분석 결과, 투자 관련 의견을 작성하여 보고하기
 
-![](attachments/read_finance.png)
+![](../attachments/read_finance.png)
 
 ## 아보카도 가격 분석
 
@@ -28,7 +28,7 @@ type: module
 	- 같은 기간 동안 가장 많이 오른 지역은?
 	- 아보카도 가격에 가장 많이 영향을 주는 요소는?
 
-![](attachments/chatgpt-avocado_prices.png)
+![](../attachments/chatgpt-avocado_prices.png)
 
 ## 스포티파이 곡 재생 데이터 분석
 
@@ -38,7 +38,7 @@ type: module
 	- 2023년의 전체적인 무드는?
 	- 스포티파이에 진출한 K팝 아티스트들의 비중을 파이차트로 그리기
 
-![](attachments/chatgpt-spotify_songs.png)
+![](../attachments/chatgpt-spotify_songs.png)
 
 ## GPTs
 
@@ -47,7 +47,7 @@ type: module
 	- 신입사원 매뉴얼에 없는 내용, 곤란한 내용에 대해서는 인사팀장의 이메일 주소 안내
 	- [친절한 김대리](https://chat.openai.com/g/g-bEYIII6S6-cinjeolhan-gimdaeri)
 
-![](attachments/chatgpt-miss_kim.png)
+![](../attachments/chatgpt-miss_kim.png)
 
 ## 원영적사고 GPT 만들기
 
@@ -57,7 +57,7 @@ type: module
 	2. 마지막은 반드시 '완전 럭키비키잔앙🍀'으로 끝낼 것
 - [까칠한 그녀 GPT](https://chatgpt.com/g/g-wIpN0ihcQ-ggacilhan-geunyeo)
 
-![](attachments/gpt-wonyoung-thinking.png)
+![](../attachments/gpt-wonyoung-thinking.png)
 
 ## 텍스트를 파워포인트 슬라이드로 만들기
 
@@ -73,7 +73,7 @@ type: module
 
 - [슬라이드 만들기](https://chat.openai.com/share/32212d7c-c30a-45ff-bf3e-fe0b39b0c2ff)
 
-![](attachments/chatgpt-ppt_chill_guy.png)
+![](../attachments/chatgpt-ppt_chill_guy.png)
 
 
 ## 엑셀에서 ChatGPT 활용하기
@@ -84,7 +84,7 @@ type: module
 - 테이블 형태로 반환된 [데이터](https://chat.openai.com/share/cca1a314-d09f-4ec5-8aac-aca52131b16a)는 엑셀, 구글 시트 등에 붙여넣어서 사용
 	- 또는 csv, xlsx 형태로 달라고 요청해도 됨
 
-![](attachments/chatgpt-sample_data_excel.png)
+![](../attachments/chatgpt-sample_data_excel.png)
 
 ---
 
@@ -97,4 +97,4 @@ type: module
 > 기본적으로 수식과 함수의 동작을 이해해야 정확하게 설명할 수 있다. 만약 어렵다면 스크린샷을 첨부하고 상황과 목적을 침착하게 설명해볼 수 있다
 ```
  
-![](attachments/chatgpt-generate_formula.png)
+![](../attachments/chatgpt-generate_formula.png)

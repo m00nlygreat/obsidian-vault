@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "사전 평가",
+      "path": "강의/생성형AI/사전 평가.md"
+    },
+    {
+      "basename": "ChatGPT 예제",
+      "path": "강의/생성형AI/modules/ChatGPT 예제.md"
+    },
+    {
+      "basename": "이미지 생성 AI 활용",
+      "path": "강의/생성형AI/이미지 생성 AI 활용.md"
+    },
+    {
+      "basename": "ChatGPT 채팅 공유 링크",
+      "path": "강의/생성형AI/ChatGPT 채팅 공유 링크.md"
+    },
+    {
+      "basename": "생성형 AI 교안 조각",
+      "path": "강의/생성형AI/생성형 AI 교안 조각.md"
+    },
+    {
+      "basename": "아는 만큼 쓰는 ChatGPT",
+      "path": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
+    },
+    {
       "basename": "AI이모저모",
       "path": "강의/생성형AI/modules/AI이모저모.md"
     },
@@ -15,10 +39,6 @@
     {
       "basename": "ChatGPT와 코딩하기",
       "path": "강의/생성형AI/modules/ChatGPT와 코딩하기.md"
-    },
-    {
-      "basename": "아는 만큼 쓰는 ChatGPT",
-      "path": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
     },
     {
       "basename": "ChatGPT 기초 사용법",
@@ -71,22 +91,6 @@
     {
       "basename": "노션 야무지게 쓰기",
       "path": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md"
-    },
-    {
-      "basename": "생성형 AI 교안 조각",
-      "path": "강의/생성형AI/생성형 AI 교안 조각.md"
-    },
-    {
-      "basename": "사전 평가",
-      "path": "강의/생성형AI/사전 평가.md"
-    },
-    {
-      "basename": "ChatGPT 예제",
-      "path": "강의/생성형AI/ChatGPT 예제.md"
-    },
-    {
-      "basename": "ChatGPT 채팅 공유 링크",
-      "path": "강의/생성형AI/ChatGPT 채팅 공유 링크.md"
     },
     {
       "basename": "사전 평가 질문지",
@@ -171,10 +175,6 @@
     {
       "basename": "유저 퍼소나",
       "path": "강의/서비스기획/유저 퍼소나.md"
-    },
-    {
-      "basename": "이미지 생성 AI 활용",
-      "path": "강의/생성형AI/이미지 생성 AI 활용.md"
     },
     {
       "basename": "신한카드 UX Writing 가이드북_v1.0",

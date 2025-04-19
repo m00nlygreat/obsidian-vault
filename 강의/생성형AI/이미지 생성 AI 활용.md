@@ -30,9 +30,7 @@ type: text
 - 전경, 배경, 피사체, 스타일로 구분해 프롬프트 쓰기
 - GPTs 사용하기
 
-```markdown
 > 다른 모든 AI가 그렇지만, 끈기와 반복이 필요
-```
 
 ![](attachments/genAI-txt2img.png)
 

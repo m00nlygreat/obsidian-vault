@@ -43,9 +43,7 @@ type: text
 - GPT 4: 텍스트, 이미지
 - GPT 4o: 텍스트, 이미지, 오디오
 
-```markdown
 > 이는 단순히 텍스트, 이미지, 오디오를 따로 처리한다는 의미가 아니며 텍스트를 이미지로, 이미지를 텍스트로, 텍스트를 음악으로 상호 변환하며 서로 어떤 의미와 관계를 갖는지를 아는 것
-```
 
 ![](attachments/chatgpt-multi-modal.png)
 
@@ -92,7 +90,7 @@ type: text
 
 # 실전 ChatGPT
 
-![ChatGPT 예제](./ChatGPT%20예제.md)
+![ChatGPT 예제](modules/ChatGPT%20예제.md)
 
 ![GPT를 엑셀 안에서 사용하기](modules/GPT를%20엑셀%20안에서%20사용하기.md)
 
