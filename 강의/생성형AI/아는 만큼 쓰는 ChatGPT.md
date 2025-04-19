@@ -74,7 +74,7 @@ type: text
 
 # ChatGPT 사용해보기
 
-![ChatGPT 기초 사용법](./ChatGPT%20기초%20사용법.md)
+![ChatGPT 기초 사용법](modules/ChatGPT%20기초%20사용법.md)
 
 # 프롬프트 엔지니어링
 

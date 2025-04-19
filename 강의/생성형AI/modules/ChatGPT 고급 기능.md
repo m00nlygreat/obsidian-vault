@@ -60,7 +60,7 @@ type: module
 
 ![](attachments/chatgpt-gpts.png)
 
-![GPTs](../GPTs.md)
+![GPTs](GPTs.md)
 
 ## ChatGPT App
 
