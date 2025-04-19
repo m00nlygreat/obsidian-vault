@@ -34,7 +34,7 @@ type: module
 > 왕도(Royal road)가 없다!
 ```
 
-![](attachments/chatgpt-expectation.png)
+![](../attachments/chatgpt-expectation.png)
 
 ---
 
@@ -56,4 +56,4 @@ type: module
 	- 직업 -> 스킬
 		- 직군으로서의 역할보다 어떠한 능력을 가지고 있는지가 중요
 
-![](attachments/gpt-star-framework.png)
+![](../attachments/gpt-star-framework.png)

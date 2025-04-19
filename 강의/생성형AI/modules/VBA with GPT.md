@@ -23,7 +23,7 @@ type: module
 > 코드를 요청하는 프롬프트보다 사실은 버튼을 배치하고 그 버튼의 동작을 구상하는 것이 훨씬 중요하다.
 ```
 
-![](attachments/chatgpt-vba_shift.png)
+![](../attachments/chatgpt-vba_shift.png)
 
 ## 파일명 변경 엑셀 만들기
 
@@ -38,7 +38,7 @@ type: module
 
 - [파일명 변경 매크로](https://m.blog.naver.com/dowahn/130114764344)
 
-![](attachments/chatgpt-rename.png)
+![](../attachments/chatgpt-rename.png)
 
 ## ChatGPT를 엑셀에서 사용할 수 있도록 커스텀 함수 만들기
 
@@ -49,4 +49,4 @@ type: module
 > 엑셀에 내장된 VBA는 JSON을 처리할 수 없기 때문에 VBA-JSON이라는 모듈을 설치해야 한다. GPT가 따로 언급해주지 않으면 'JSON' 모듈 설치에 관해 물어보고 시키는 대로 할 것.
 ```
 
-![](attachments/chatgpt-gpt_function_vba.png)
+![](../attachments/chatgpt-gpt_function_vba.png)

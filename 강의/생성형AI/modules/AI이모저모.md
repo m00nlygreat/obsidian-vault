@@ -16,11 +16,11 @@ type: module
 
 ---
 
-![](attachments/chatgpt-Neuron.png)
+![](../attachments/chatgpt-Neuron.png)
 
 ---
 
-![](attachments/nnet2.png)
+![](../attachments/nnet2.png)
 
 ---
 
@@ -36,15 +36,15 @@ type: module
 
 ---
 
-![](attachments/chatgpt-perceptron.png)
+![](../attachments/chatgpt-perceptron.png)
 
 ## LLM의 종류
 
-![](attachments/chatgpt-LLMs.png)
+![](../attachments/chatgpt-LLMs.png)
 
 ## 오픈 AI와 일론 머스크
 
-![](attachments/chatgpt-larry_vs_elon.png)
+![](../attachments/chatgpt-larry_vs_elon.png)
 
 ::: notes
 
@@ -77,7 +77,7 @@ type: module
 	- "OpenAI 141조에 사겠다"
 	- "트위터 14조에 사겠다"
 
- ![](attachments/chatgpt-elon_leaves_openAI.png)
+ ![](../attachments/chatgpt-elon_leaves_openAI.png)
 
 ## AI의 미래
 
@@ -115,7 +115,7 @@ type: module
 - 기본 소득에 대한 활발한 논의
 	- [샘 올트먼의 기본 소득 실험](https://lilys.ai/digest/2645038?s=1&nid=786925)
 
-![](attachments/chatgpt-future_of_AI.png)
+![](../attachments/chatgpt-future_of_AI.png)
 
 
 ## AI 이모저모
@@ -156,7 +156,7 @@ type: module
 - [Say Hello to GPT-4o](https://www.youtube.com/watch?v=vgYi3Wr7v_g)
 - [Be My Eyes Accessibility](https://www.youtube.com/watch?v=KwNUJ69RbwY)
 
-![](attachments/chatgpt-4o_announce.png)
+![](../attachments/chatgpt-4o_announce.png)
 
 ---
 
@@ -186,7 +186,7 @@ type: module
 	- 인간으로 치면 IQ 120
 	- 박사 학위 수준
 
-![](attachments/chatgpt-o1_reasoning.png)
+![](../attachments/chatgpt-o1_reasoning.png)
 
 ---
 
@@ -204,4 +204,4 @@ type: module
 - 최초로 AGI에 진입했다는 의견
 - o3 출시 취소
 
-![](attachments/chatgpt-deepseek-o3.png)
+![](../attachments/chatgpt-deepseek-o3.png)
