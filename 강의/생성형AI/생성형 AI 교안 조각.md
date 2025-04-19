@@ -1,3 +1,8 @@
+### MCP
+
+- Model-Context protocol
+- AI 에이전트
+
 ### o3, o4-mini, o4-nano, o4-mini-high
 
 - 아이큐 136

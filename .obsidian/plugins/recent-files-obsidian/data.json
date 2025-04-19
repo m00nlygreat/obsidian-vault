@@ -1,16 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "노션 야무지게 쓰기",
+      "path": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md"
+    },
+    {
+      "basename": "교안 조각",
+      "path": "강의/노코드 엔지니어링/교안 조각.md"
+    },
+    {
+      "basename": "Make와 백엔드 자동화",
+      "path": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
+    },
+    {
+      "basename": "UI 기타",
+      "path": "강의/서비스기획/UI 기타.md"
+    },
+    {
+      "basename": "소프트웨어 분류",
+      "path": "강의/서비스기획/소프트웨어 분류.md"
+    },
+    {
+      "basename": "서비스기획 재료",
+      "path": "강의/서비스기획 재료.md"
+    },
+    {
+      "basename": "기획 선배의 맞는 말 대잔치",
+      "path": "강의/기획 선배의 맞는 말 대잔치.md"
+    },
+    {
+      "basename": "아는 만큼 쓰는 ChatGPT",
+      "path": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
+    },
+    {
       "basename": "생성형 AI 교안 조각",
       "path": "강의/생성형AI/생성형 AI 교안 조각.md"
     },
     {
-      "basename": "ChatGPT 고급 기능",
-      "path": "강의/생성형AI/modules/ChatGPT 고급 기능.md"
+      "basename": "프롬프트 엔지니어링",
+      "path": "강의/생성형AI/modules/프롬프트 엔지니어링.md"
+    },
+    {
+      "basename": "ChatGPT를 대하는 우리의 자세",
+      "path": "강의/생성형AI/modules/ChatGPT를 대하는 우리의 자세.md"
     },
     {
       "basename": "VBA with GPT",
       "path": "강의/생성형AI/modules/VBA with GPT.md"
+    },
+    {
+      "basename": "GPT를 엑셀 안에서 사용하기",
+      "path": "강의/생성형AI/modules/GPT를 엑셀 안에서 사용하기.md"
     },
     {
       "basename": "왜 내 GPT는 대답을 이상하게 할까",
@@ -25,8 +65,8 @@
       "path": "강의/생성형AI/modules/OpenAI API Key 발급.md"
     },
     {
-      "basename": "아는 만큼 쓰는 ChatGPT",
-      "path": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
+      "basename": "ChatGPT 고급 기능",
+      "path": "강의/생성형AI/modules/ChatGPT 고급 기능.md"
     },
     {
       "basename": "chatgpt-reply",
@@ -37,24 +77,12 @@
       "path": "강의/생성형AI/attachments/chatgpt-api_key.png"
     },
     {
-      "basename": "프롬프트 엔지니어링",
-      "path": "강의/생성형AI/modules/프롬프트 엔지니어링.md"
-    },
-    {
       "basename": "ChatGPT 기초 사용법",
       "path": "강의/생성형AI/modules/ChatGPT 기초 사용법.md"
     },
     {
-      "basename": "ChatGPT를 대하는 우리의 자세",
-      "path": "강의/생성형AI/modules/ChatGPT를 대하는 우리의 자세.md"
-    },
-    {
       "basename": "경위서 쓰기",
       "path": "강의/생성형AI/modules/경위서 쓰기.md"
-    },
-    {
-      "basename": "GPT를 엑셀 안에서 사용하기",
-      "path": "강의/생성형AI/modules/GPT를 엑셀 안에서 사용하기.md"
     },
     {
       "basename": "GPTs",
@@ -101,24 +129,12 @@
       "path": "강의/생성형AI/attachments/chatgpt-elon_leaves_openAI.png"
     },
     {
-      "basename": "기획 선배의 맞는 말 대잔치",
-      "path": "강의/기획 선배의 맞는 말 대잔치.md"
-    },
-    {
       "basename": "구글 시트로 업무자산 관리하기",
       "path": "강의/노코드 엔지니어링/구글 시트로 업무자산 관리하기.md"
     },
     {
-      "basename": "노션 야무지게 쓰기",
-      "path": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md"
-    },
-    {
       "basename": "사전 평가 질문지",
       "path": "강의/생성형AI/사전 평가 질문지.md"
-    },
-    {
-      "basename": "교안 조각",
-      "path": "강의/노코드 엔지니어링/교안 조각.md"
     },
     {
       "basename": "서비스기획 개론",
@@ -149,14 +165,6 @@
       "path": "명리/신금일주 정리.md"
     },
     {
-      "basename": "서비스기획 재료",
-      "path": "강의/서비스기획 재료.md"
-    },
-    {
-      "basename": "UI 기타",
-      "path": "강의/서비스기획/UI 기타.md"
-    },
-    {
       "basename": "기획자의 무기",
       "path": "강의/서비스기획/기획자의 무기.md"
     },
@@ -177,10 +185,6 @@
       "path": "메모/gitignore.md"
     },
     {
-      "basename": "Make와 백엔드 자동화",
-      "path": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
-    },
-    {
       "basename": "포트폴리오 메모",
       "path": "강의/포트폴리오 메모.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "신한카드 UX Writing 가이드북_v1.0",
       "path": "강의/서비스기획/attachments/신한카드 UX Writing 가이드북_v1.0.pdf"
-    },
-    {
-      "basename": "UX Writing",
-      "path": "강의/서비스기획/UX Writing.md"
     }
   ],
   "omittedPaths": [],
