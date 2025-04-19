@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "생성형 AI 교안 조각",
+      "path": "강의/생성형AI/생성형 AI 교안 조각.md"
+    },
+    {
+      "basename": "ChatGPT 고급 기능",
+      "path": "강의/생성형AI/modules/ChatGPT 고급 기능.md"
+    },
+    {
+      "basename": "VBA with GPT",
+      "path": "강의/생성형AI/modules/VBA with GPT.md"
+    },
+    {
+      "basename": "왜 내 GPT는 대답을 이상하게 할까",
+      "path": "강의/생성형AI/modules/왜 내 GPT는 대답을 이상하게 할까.md"
+    },
+    {
+      "basename": "AI이모저모",
+      "path": "강의/생성형AI/modules/AI이모저모.md"
+    },
+    {
       "basename": "OpenAI API Key 발급",
       "path": "강의/생성형AI/modules/OpenAI API Key 발급.md"
     },
@@ -17,18 +37,6 @@
       "path": "강의/생성형AI/attachments/chatgpt-api_key.png"
     },
     {
-      "basename": "생성형 AI 교안 조각",
-      "path": "강의/생성형AI/생성형 AI 교안 조각.md"
-    },
-    {
-      "basename": "AI이모저모",
-      "path": "강의/생성형AI/modules/AI이모저모.md"
-    },
-    {
-      "basename": "왜 내 GPT는 대답을 이상하게 할까",
-      "path": "강의/생성형AI/modules/왜 내 GPT는 대답을 이상하게 할까.md"
-    },
-    {
       "basename": "프롬프트 엔지니어링",
       "path": "강의/생성형AI/modules/프롬프트 엔지니어링.md"
     },
@@ -41,20 +49,12 @@
       "path": "강의/생성형AI/modules/ChatGPT를 대하는 우리의 자세.md"
     },
     {
-      "basename": "ChatGPT 고급 기능",
-      "path": "강의/생성형AI/modules/ChatGPT 고급 기능.md"
-    },
-    {
       "basename": "경위서 쓰기",
       "path": "강의/생성형AI/modules/경위서 쓰기.md"
     },
     {
       "basename": "GPT를 엑셀 안에서 사용하기",
       "path": "강의/생성형AI/modules/GPT를 엑셀 안에서 사용하기.md"
-    },
-    {
-      "basename": "VBA with GPT",
-      "path": "강의/생성형AI/modules/VBA with GPT.md"
     },
     {
       "basename": "GPTs",
