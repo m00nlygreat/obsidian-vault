@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "데이터베이스",
+      "path": "강의/modules/데이터베이스.md"
+    },
+    {
       "basename": "노션 야무지게 쓰기",
       "path": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "유저 퍼소나",
       "path": "강의/서비스기획/유저 퍼소나.md"
-    },
-    {
-      "basename": "신한카드 UX Writing 가이드북_v1.0",
-      "path": "강의/서비스기획/attachments/신한카드 UX Writing 가이드북_v1.0.pdf"
     }
   ],
   "omittedPaths": [],
