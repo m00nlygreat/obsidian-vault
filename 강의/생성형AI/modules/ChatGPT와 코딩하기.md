@@ -7,7 +7,7 @@ type: text
 - ChatGPT는 텍스트를 생성할 수 있는 모델
 - 즉 **코드를 작성하는 것 외의 모든 일**은 우리가 해줘야 한다.
 
-![](attachments/code-gpt_only_code.png)
+![](../attachments/code-gpt_only_code.png)
 
 # 터미널 사용하기
 
@@ -66,8 +66,8 @@ python {실행할 코드의 경로와 파일명} [파라미터1] [파라미터2]
 - 재생 디바이스 선택 가능
 - [noti.py 대화기록](https://chat.openai.com/share/cc7f22e6-a41d-4f3b-9a2d-c61a51ebc526)
 
-![](attachments/notipy-cli.png)
+![](../attachments/notipy-cli.png)
 
 ---
 
-![](attachments/notipy/notipy-ui_ver4.png)
+![](../attachments/notipy/notipy-ui_ver4.png)

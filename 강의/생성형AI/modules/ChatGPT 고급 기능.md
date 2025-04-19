@@ -11,7 +11,7 @@ type: module
 
 - ChatGPT는 대화 도중 사용자의 선호나 배경에 대한 정보가 감지되면 그 사실을 자신의 *메모리*에 업데이트하여 답변에 반영한다.
 
-![](attachments/chatgpt-custom_instruction.png)
+![](../attachments/chatgpt-custom_instruction.png)
 
 ## Vision & DALL-E
 
@@ -23,7 +23,7 @@ type: module
 - 풍경 사진, 이미지에서 도표, 이미지로 된 텍스트까지
 :::
 
-![](attachments/chatgpt-vision.png)
+![](../attachments/chatgpt-vision.png)
 
 ## Browsing
 
@@ -36,7 +36,7 @@ type: module
 	- GPT-4: 2023년 12월 까지
 	- GPT-4o: 2023년 9월 까지
 
-![](attachments/chatgpt-browsing.png)
+![](../attachments/chatgpt-browsing.png)
 
 ## Data Analysis
 
@@ -48,7 +48,7 @@ type: module
 - 기본적으로 파이썬으로 수행가능한 데이터 분석, 파일 관련, 수학 등의 요청을 받아들이나, API콜, 크롤링 등 시스템에 영향을 주거나 부담스러운 작업은 거절
 	- [ChatGPT로 동영상 만들기](https://www.clien.net/service/board/lecture/18553432)
 
-![](attachments/chatgpt-data_analysis.png)
+![](../attachments/chatgpt-data_analysis.png)
 
 ## GPTs
 
@@ -58,7 +58,7 @@ type: module
 - 액션: 요청 받은 텍스트의 내용에 따라, 외부 API를 사용해서 전용 기능을 실행하고 그 응답결과를 답변 처리에 사용가능
 - 만든 GPT는 스토어에 올려 누구나 쓸 수 있게 만들거나, 향후 유료화할 수도 있을 것
 
-![](attachments/chatgpt-gpts.png)
+![](../attachments/chatgpt-gpts.png)
 
 ![GPTs](GPTs.md)
 

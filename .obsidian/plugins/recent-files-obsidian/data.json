@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "ChatGPT 고급 기능",
+      "path": "강의/생성형AI/modules/ChatGPT 고급 기능.md"
+    },
+    {
+      "basename": "ChatGPT와 코딩하기",
+      "path": "강의/생성형AI/modules/ChatGPT와 코딩하기.md"
+    },
+    {
+      "basename": "프롬프트 엔지니어링",
+      "path": "강의/생성형AI/modules/프롬프트 엔지니어링.md"
+    },
+    {
+      "basename": "OpenAI API Key 발급",
+      "path": "강의/생성형AI/modules/OpenAI API Key 발급.md"
+    },
+    {
+      "basename": "아는 만큼 쓰는 ChatGPT",
+      "path": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
+    },
+    {
       "basename": "기획 선배의 맞는 말 대잔치",
       "path": "강의/기획 선배의 맞는 말 대잔치.md"
     },
@@ -17,10 +37,6 @@
       "path": "강의/생성형AI/modules/이미지 생성 프롬프트.md"
     },
     {
-      "basename": "프롬프트 엔지니어링",
-      "path": "강의/생성형AI/modules/프롬프트 엔지니어링.md"
-    },
-    {
       "basename": "GPTs",
       "path": "강의/생성형AI/modules/GPTs.md"
     },
@@ -29,16 +45,8 @@
       "path": "강의/생성형AI/modules/GPT를 엑셀 안에서 사용하기.md"
     },
     {
-      "basename": "아는 만큼 쓰는 ChatGPT",
-      "path": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
-    },
-    {
       "basename": "생성형 AI 교안 조각",
       "path": "강의/생성형AI/생성형 AI 교안 조각.md"
-    },
-    {
-      "basename": "ChatGPT와 코딩하기",
-      "path": "강의/생성형AI/modules/ChatGPT와 코딩하기.md"
     },
     {
       "basename": "사전 평가",
@@ -71,10 +79,6 @@
     {
       "basename": "AI이모저모",
       "path": "강의/생성형AI/modules/AI이모저모.md"
-    },
-    {
-      "basename": "ChatGPT 고급 기능",
-      "path": "강의/생성형AI/modules/ChatGPT 고급 기능.md"
     },
     {
       "basename": "교안 조각",
@@ -195,10 +199,6 @@
     {
       "basename": "notipy-ui_ver2",
       "path": "강의/생성형AI/attachments/notipy/notipy-ui_ver2.png"
-    },
-    {
-      "basename": "notipy-ui_ver1",
-      "path": "강의/생성형AI/attachments/notipy/notipy-ui_ver1.png"
     }
   ],
   "omittedPaths": [],
