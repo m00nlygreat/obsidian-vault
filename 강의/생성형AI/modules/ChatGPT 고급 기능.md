@@ -70,4 +70,4 @@ type: module
 	- 중간에 끊기(interrupt) 가능한 자연스러운 대화
 - 향후 OS와 AI Agent 통합의 전초기지가 될 전망
 
-![](attachments/chatgpt-native_app.png)
+![](../attachments/chatgpt-native_app.png)

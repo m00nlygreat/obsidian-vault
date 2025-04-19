@@ -16,7 +16,7 @@ type: module
 
 ---
 
-![](attachments/chatgpt-gps_creation.png)
+![](../attachments/chatgpt-gps_creation.png)
 
 ## 구성(Instruction)
 
@@ -32,7 +32,7 @@ type: module
 
 - GPT-4 부터 지원되는 고급 기능을 GPTs가 사용할 수 있을지 설정하는 영역
 
-![](attachments/chatgpt-gpt_instruction.png)
+![](../attachments/chatgpt-gpt_instruction.png)
 
 ---
 
@@ -48,4 +48,4 @@ type: module
 - 직접 작성하지 않아도 OpenAI가 마련한 [ActionsGPT](https://chatgpt.com/g/g-TYEliDU6A-actionsgpt)가 생성해줄 수 있다.
 	- 그러나 API 사용법을 충분히 잘 설명해주어야 함
 
-![](attachments/chatgpt-gpts_action.png)
+![](../attachments/chatgpt-gpts_action.png)
