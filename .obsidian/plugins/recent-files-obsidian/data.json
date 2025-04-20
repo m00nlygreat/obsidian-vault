@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "기획 선배의 맞는 말 대잔치",
-      "path": "강의/기획 선배의 맞는 말 대잔치.md"
-    },
-    {
-      "basename": "포트폴리오",
-      "path": "강의/포트폴리오.md"
+      "basename": "개발 강의가 설명하지 않는 것들",
+      "path": "강의/개발 강의가 설명하지 않는 것들.md"
     },
     {
       "basename": "강사 소개",
@@ -15,6 +11,18 @@
     {
       "basename": "강의 업데이트 초안",
       "path": "강의/강의 업데이트 초안.md"
+    },
+    {
+      "basename": "포트폴리오",
+      "path": "강의/포트폴리오.md"
+    },
+    {
+      "basename": "포트폴리오 메모",
+      "path": "강의/포트폴리오 메모.md"
+    },
+    {
+      "basename": "기획 선배의 맞는 말 대잔치",
+      "path": "강의/기획 선배의 맞는 말 대잔치.md"
     },
     {
       "basename": "서비스기획 재료",
@@ -191,14 +199,6 @@
     {
       "basename": "설문조사",
       "path": "강의/서비스기획/설문조사.md"
-    },
-    {
-      "basename": "서비스기획 Flow",
-      "path": "강의/서비스기획/서비스기획 Flow.md"
-    },
-    {
-      "basename": "gitignore",
-      "path": "메모/gitignore.md"
     }
   ],
   "omittedPaths": [],
