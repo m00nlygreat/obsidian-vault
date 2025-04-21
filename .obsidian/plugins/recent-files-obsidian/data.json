@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-09-17",
+      "path": "journal/2023-09-17.md"
+    },
+    {
+      "basename": "2023-09-10",
+      "path": "journal/2023-09-10.md"
+    },
+    {
+      "basename": "2023-09-03",
+      "path": "journal/2023-09-03.md"
+    },
+    {
+      "basename": "2023-09-02",
+      "path": "journal/2023-09-02.md"
+    },
+    {
       "basename": "포트폴리오 메모",
       "path": "강의/포트폴리오 메모.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "감정노동 대신 해주는 챗봇",
       "path": "아이디어/감정노동 대신 해주는 챗봇.md"
-    },
-    {
-      "basename": "신금일주 정리",
-      "path": "명리/신금일주 정리.md"
-    },
-    {
-      "basename": "기획자의 무기",
-      "path": "강의/서비스기획/기획자의 무기.md"
-    },
-    {
-      "basename": "기타 UX 도구들",
-      "path": "강의/서비스기획/기타 UX 도구들.md"
-    },
-    {
-      "basename": "설문조사",
-      "path": "강의/서비스기획/설문조사.md"
     }
   ],
   "omittedPaths": [],
