@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-04-21",
+      "path": "journal/2025-04-21.md"
+    },
+    {
       "basename": "2023-09-17",
       "path": "journal/2023-09-17.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "API 허브",
       "path": "아이디어/API 허브.md"
-    },
-    {
-      "basename": "감정노동 대신 해주는 챗봇",
-      "path": "아이디어/감정노동 대신 해주는 챗봇.md"
     }
   ],
   "omittedPaths": [],
