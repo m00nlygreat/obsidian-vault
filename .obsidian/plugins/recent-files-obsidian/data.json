@@ -5,6 +5,10 @@
       "path": "강의/생성형AI/prompts/팩트체크.md"
     },
     {
+      "basename": "사고 분석 및 조언",
+      "path": "강의/생성형AI/prompts/사고 분석 및 조언.md"
+    },
+    {
       "basename": "2023-09-02",
       "path": "journal/2023-09-02.md"
     },
