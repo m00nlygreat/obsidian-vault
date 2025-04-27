@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "API 허브",
-      "path": "아이디어/API 허브.md"
+      "basename": "감정노동 대신 해주는 챗봇",
+      "path": "아이디어/감정노동 대신 해주는 챗봇.md"
+    },
+    {
+      "basename": "앱 스크린샷 공유 플랫폼",
+      "path": "아이디어/앱 스크린샷 공유 플랫폼.md"
+    },
+    {
+      "basename": "얘기를 할 데가 없어요",
+      "path": "아이디어/얘기를 할 데가 없어요.md"
     },
     {
       "basename": "유튜브 구독 시점을 기준으로 투자 포트폴리오처럼 보여주는",
       "path": "아이디어/유튜브 구독 시점을 기준으로 투자 포트폴리오처럼 보여주는.md"
+    },
+    {
+      "basename": "API 허브",
+      "path": "아이디어/API 허브.md"
+    },
+    {
+      "basename": "옵시디언 daily notes 전용 앱",
+      "path": "아이디어/옵시디언 daily notes 전용 앱.md"
+    },
+    {
+      "basename": "VR 컨트롤러를 사용한 오버워치 중계",
+      "path": "아이디어/VR 컨트롤러를 사용한 오버워치 중계.md"
     },
     {
       "basename": "zapier",
@@ -179,26 +199,6 @@
     {
       "basename": "GPTs",
       "path": "강의/생성형AI/modules/GPTs.md"
-    },
-    {
-      "basename": "이미지 생성 프롬프트",
-      "path": "강의/생성형AI/modules/이미지 생성 프롬프트.md"
-    },
-    {
-      "basename": "하이퍼 파라미터(Hyperparameters)",
-      "path": "강의/생성형AI/modules/하이퍼 파라미터(Hyperparameters).md"
-    },
-    {
-      "basename": "image16",
-      "path": "강의/생성형AI/attachments/image16.png"
-    },
-    {
-      "basename": "ChatGPT 예제",
-      "path": "강의/생성형AI/modules/ChatGPT 예제.md"
-    },
-    {
-      "basename": "사전 평가 질문지 - 노코드 엔지니어링",
-      "path": "강의/생성형AI/사전 평가 질문지 - 노코드 엔지니어링.md"
     }
   ],
   "omittedPaths": [],
