@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Make와 백엔드 자동화",
+      "path": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
+    },
+    {
+      "basename": "필살기 프레이머",
+      "path": "강의/노코드 엔지니어링/필살기 프레이머.md"
+    },
+    {
+      "basename": "아는 만큼 쓰는 ChatGPT",
+      "path": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
+    },
+    {
       "basename": "기획 선배의 맞는 말 대잔치",
       "path": "강의/기획 선배의 맞는 말 대잔치.md"
     },
@@ -9,24 +21,12 @@
       "path": "강의/서비스기획 재료.md"
     },
     {
-      "basename": "아는 만큼 쓰는 ChatGPT",
-      "path": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
-    },
-    {
       "basename": "풀스택 노코드 버블",
       "path": "강의/노코드 엔지니어링/풀스택 노코드 버블.md"
     },
     {
       "basename": "피그마 그래픽스",
       "path": "강의/노코드 엔지니어링/피그마 그래픽스.md"
-    },
-    {
-      "basename": "Make와 백엔드 자동화",
-      "path": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
-    },
-    {
-      "basename": "필살기 프레이머",
-      "path": "강의/노코드 엔지니어링/필살기 프레이머.md"
     },
     {
       "basename": "구글 시트로 업무자산 관리하기",
