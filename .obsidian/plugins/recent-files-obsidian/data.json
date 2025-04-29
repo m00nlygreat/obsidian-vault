@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "필살기 프레이머",
-      "path": "강의/노코드 엔지니어링/필살기 프레이머.md"
+      "basename": "피그마 그래픽스",
+      "path": "강의/노코드 엔지니어링/피그마 그래픽스.md"
+    },
+    {
+      "basename": "풀스택 노코드 버블",
+      "path": "강의/노코드 엔지니어링/풀스택 노코드 버블.md"
+    },
+    {
+      "basename": "디지텍고 강의",
+      "path": "강의/노코드 엔지니어링/디지텍고 강의.md"
     },
     {
       "basename": "노션 야무지게 쓰기",
       "path": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md"
+    },
+    {
+      "basename": "기획 선배의 맞는 말 대잔치",
+      "path": "강의/기획 선배의 맞는 말 대잔치.md"
+    },
+    {
+      "basename": "면접 멘토링",
+      "path": "강의/면접 멘토링.md"
+    },
+    {
+      "basename": "HTML-CSS 추가",
+      "path": "강의/HTML-CSS 추가.md"
+    },
+    {
+      "basename": "HTML-CSS",
+      "path": "강의/HTML-CSS.md"
+    },
+    {
+      "basename": "필살기 프레이머",
+      "path": "강의/노코드 엔지니어링/필살기 프레이머.md"
     },
     {
       "basename": "구글 시트로 업무자산 관리하기",
@@ -21,20 +49,8 @@
       "path": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
     },
     {
-      "basename": "기획 선배의 맞는 말 대잔치",
-      "path": "강의/기획 선배의 맞는 말 대잔치.md"
-    },
-    {
       "basename": "서비스기획 재료",
       "path": "강의/서비스기획 재료.md"
-    },
-    {
-      "basename": "풀스택 노코드 버블",
-      "path": "강의/노코드 엔지니어링/풀스택 노코드 버블.md"
-    },
-    {
-      "basename": "피그마 그래픽스",
-      "path": "강의/노코드 엔지니어링/피그마 그래픽스.md"
     },
     {
       "basename": "UX 이론",
@@ -183,22 +199,6 @@
     {
       "basename": "ChatGPT를 대하는 우리의 자세",
       "path": "강의/생성형AI/modules/ChatGPT를 대하는 우리의 자세.md"
-    },
-    {
-      "basename": "VBA with GPT",
-      "path": "강의/생성형AI/modules/VBA with GPT.md"
-    },
-    {
-      "basename": "GPT를 엑셀 안에서 사용하기",
-      "path": "강의/생성형AI/modules/GPT를 엑셀 안에서 사용하기.md"
-    },
-    {
-      "basename": "왜 내 GPT는 대답을 이상하게 할까",
-      "path": "강의/생성형AI/modules/왜 내 GPT는 대답을 이상하게 할까.md"
-    },
-    {
-      "basename": "AI이모저모",
-      "path": "강의/생성형AI/modules/AI이모저모.md"
     }
   ],
   "omittedPaths": [],
