@@ -38,7 +38,7 @@ HTML 문서의 루트
 
 #### 오픈 그래프(Open Graph)
 
-```
+```html
 <head>
   <meta property="og:title" content="웹페이지 제목" />
   <meta property="og:description" content="웹페이지 설명" />
@@ -122,7 +122,7 @@ HTML의 예약어로 사용되는 문자를 표시하는 방법
 - 테이블 관련 태그는 표 형식의 데이터를 표시할 때만 쓴다.
 - `rowspan`, `colspan` attribute를 사용해 셀 병합
 
-```
+```html
 <table>
 	<thead> 
 		<tr>
@@ -371,7 +371,7 @@ HTML 요소들을 꾸미는 방법을 정의하는 규칙
 
 ## Margin, Padding
 
-```
+```CSS
 div {
 	margin: 10px 0 10px 10px;
 	margin: 10px 10px;
@@ -396,7 +396,7 @@ div {
 
 - Border의 굵기만큼 Box의 영역을 차지함
 
-```
+```css
 div {
 	border: 10px solid blue;
 }
