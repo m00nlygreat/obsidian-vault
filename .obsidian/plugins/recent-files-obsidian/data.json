@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "HTML-CSS",
+      "path": "강의/HTML-CSS.md"
+    },
+    {
+      "basename": "노션 야무지게 쓰기",
+      "path": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md"
+    },
+    {
+      "basename": "구글 시트로 업무자산 관리하기",
+      "path": "강의/노코드 엔지니어링/구글 시트로 업무자산 관리하기.md"
+    },
+    {
       "basename": "기획 선배의 맞는 말 대잔치",
       "path": "강의/기획 선배의 맞는 말 대잔치.md"
     },
     {
       "basename": "서비스기획 재료",
       "path": "강의/서비스기획 재료.md"
-    },
-    {
-      "basename": "HTML-CSS",
-      "path": "강의/HTML-CSS.md"
     },
     {
       "basename": "UI-UX 개론",
@@ -33,20 +41,12 @@
       "path": "강의/노코드 엔지니어링/디지텍고 강의.md"
     },
     {
-      "basename": "노션 야무지게 쓰기",
-      "path": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md"
-    },
-    {
       "basename": "면접 멘토링",
       "path": "강의/면접 멘토링.md"
     },
     {
       "basename": "HTML-CSS 추가",
       "path": "강의/HTML-CSS 추가.md"
-    },
-    {
-      "basename": "구글 시트로 업무자산 관리하기",
-      "path": "강의/노코드 엔지니어링/구글 시트로 업무자산 관리하기.md"
     },
     {
       "basename": "Make와 백엔드 자동화",
