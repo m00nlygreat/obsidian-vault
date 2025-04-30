@@ -377,7 +377,6 @@ div {
 	margin: 10px 10px;
 	margin 10px;
 }
- 
 ```
 
 - `top`, `right`, `bottom`, `left`의 순서
