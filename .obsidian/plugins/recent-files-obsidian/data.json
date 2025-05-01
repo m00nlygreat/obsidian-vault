@@ -45,10 +45,6 @@
       "path": "강의/서비스기획/UX Writing.md"
     },
     {
-      "basename": "ChatGPT와 코딩하기",
-      "path": "강의/생성형AI/ChatGPT와 코딩하기.md"
-    },
-    {
       "basename": "타입과 연산-프로퍼티",
       "path": "강의/노코드 엔지니어링/modules/타입과 연산-프로퍼티.md"
     },
@@ -117,36 +113,12 @@
       "path": "강의/노코드 엔지니어링/구글 시트로 업무자산 관리하기.md"
     },
     {
-      "basename": "ChatGPT 고급 기능",
-      "path": "강의/생성형AI/ChatGPT 고급 기능.md"
-    },
-    {
-      "basename": "ChatGPT 예제",
-      "path": "강의/생성형AI/ChatGPT 예제.md"
-    },
-    {
       "basename": "노션 야무지게 쓰기",
       "path": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md"
     },
     {
       "basename": "스프레드시트 상대적 시간 수식",
       "path": "코드/스프레드시트 상대적 시간 수식.md"
-    },
-    {
-      "basename": "ChatGPT 기초 사용법",
-      "path": "강의/생성형AI/ChatGPT 기초 사용법.md"
-    },
-    {
-      "basename": "VBA with GPT",
-      "path": "강의/생성형AI/VBA with GPT.md"
-    },
-    {
-      "basename": "GPT를 엑셀 안에서 사용하기",
-      "path": "강의/생성형AI/GPT를 엑셀 안에서 사용하기.md"
-    },
-    {
-      "basename": "GPTs",
-      "path": "강의/생성형AI/GPTs.md"
     },
     {
       "basename": "기타 UX 도구들",
@@ -183,18 +155,6 @@
     {
       "basename": "links",
       "path": "notes/links.md"
-    },
-    {
-      "basename": "2023-09-17",
-      "path": "journal/2023-09-17.md"
-    },
-    {
-      "basename": "2023-09-04",
-      "path": "journal/2023-09-04.md"
-    },
-    {
-      "basename": "2023-09-03",
-      "path": "journal/2023-09-03.md"
     }
   ],
   "omittedPaths": [],

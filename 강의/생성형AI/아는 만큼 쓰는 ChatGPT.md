@@ -43,9 +43,7 @@ type: text
 - GPT 4: 텍스트, 이미지
 - GPT 4o: 텍스트, 이미지, 오디오
 
-```markdown
 > 이는 단순히 텍스트, 이미지, 오디오를 따로 처리한다는 의미가 아니며 텍스트를 이미지로, 이미지를 텍스트로, 텍스트를 음악으로 상호 변환하며 서로 어떤 의미와 관계를 갖는지를 아는 것
-```
 
 ![](attachments/chatgpt-multi-modal.png)
 
@@ -64,21 +62,21 @@ type: text
 
 ![](attachments/gpt-hallucination.jpg)
 
-![ChatGPT를 대하는 우리의 자세](./ChatGPT를%20대하는%20우리의%20자세.md)
+![ChatGPT를 대하는 우리의 자세](modules/ChatGPT를%20대하는%20우리의%20자세.md)
 
-![왜 내 GPT는 대답을 이상하게 할까](./왜%20내%20GPT는%20대답을%20이상하게%20할까.md)
+![왜 내 GPT는 대답을 이상하게 할까](modules/왜%20내%20GPT는%20대답을%20이상하게%20할까.md)
 
 # AI 이모저모
 
-![AI이모저모](./AI이모저모.md)
+![AI이모저모](modules/AI이모저모.md)
 
 # ChatGPT 사용해보기
 
-![ChatGPT 기초 사용법](./ChatGPT%20기초%20사용법.md)
+![ChatGPT 기초 사용법](modules/ChatGPT%20기초%20사용법.md)
 
 # 프롬프트 엔지니어링
 
-![프롬프트 엔지니어링](./프롬프트%20엔지니어링.md)
+![프롬프트 엔지니어링](modules/프롬프트%20엔지니어링.md)
 
 ![마크다운](../modules/마크다운.md)
 
@@ -88,14 +86,14 @@ type: text
 
 # ChatGPT 고급 기능 소개
 
-![ChatGPT 고급 기능](./ChatGPT%20고급%20기능.md)
+![ChatGPT 고급 기능](modules/ChatGPT%20고급%20기능.md)
 
 # 실전 ChatGPT
 
-![ChatGPT 예제](./ChatGPT%20예제.md)
+![ChatGPT 예제](modules/ChatGPT%20예제.md)
 
-![GPT를 엑셀 안에서 사용하기](./GPT를%20엑셀%20안에서%20사용하기.md)
+![GPT를 엑셀 안에서 사용하기](modules/GPT를%20엑셀%20안에서%20사용하기.md)
 
-![VBA with GPT](./VBA%20with%20GPT.md)
+![VBA with GPT](modules/VBA%20with%20GPT.md)
 
 # 감사합니다
