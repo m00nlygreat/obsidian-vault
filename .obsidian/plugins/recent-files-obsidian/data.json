@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "gitignore",
-      "path": "메모/gitignore.md"
-    },
-    {
       "basename": "Make와 백엔드 자동화",
       "path": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
+    },
+    {
+      "basename": "gitignore",
+      "path": "메모/gitignore.md"
     },
     {
       "basename": "포트폴리오 메모",
