@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "HTML-CSS",
+      "path": "강의/HTML-CSS.md"
+    },
+    {
+      "basename": "HTML-CSS 추가",
+      "path": "강의/HTML-CSS 추가.md"
+    },
+    {
       "basename": "아는 만큼 쓰는 ChatGPT",
       "path": "강의/생성형AI/아는 만큼 쓰는 ChatGPT.md"
     },
     {
       "basename": "프롬프트 엔지니어링",
       "path": "강의/생성형AI/modules/프롬프트 엔지니어링.md"
-    },
-    {
-      "basename": "HTML-CSS",
-      "path": "강의/HTML-CSS.md"
     },
     {
       "basename": "노션 야무지게 쓰기",
@@ -51,10 +55,6 @@
     {
       "basename": "면접 멘토링",
       "path": "강의/면접 멘토링.md"
-    },
-    {
-      "basename": "HTML-CSS 추가",
-      "path": "강의/HTML-CSS 추가.md"
     },
     {
       "basename": "Make와 백엔드 자동화",
