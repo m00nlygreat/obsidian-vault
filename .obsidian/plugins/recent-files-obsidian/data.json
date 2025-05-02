@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "HTML-CSS",
+      "path": "강의/HTML-CSS.md"
+    },
+    {
       "basename": "서비스기획 재료",
       "path": "강의/서비스기획 재료.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "포트폴리오 메모",
       "path": "강의/포트폴리오 메모.md"
-    },
-    {
-      "basename": "HTML-CSS",
-      "path": "강의/HTML-CSS.md"
     },
     {
       "basename": "Make와 백엔드 자동화",
