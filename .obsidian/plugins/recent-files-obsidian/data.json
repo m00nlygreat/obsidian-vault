@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-05-05 23.28.05.excalidraw",
+      "path": "메모/Drawing 2025-05-05 23.28.05.excalidraw.md"
+    },
+    {
+      "basename": "수돌님 230709",
+      "path": "메모/수돌님 230709.md"
+    },
+    {
+      "basename": "성공한 CEO가 되기 위한 조건",
+      "path": "메모/성공한 CEO가 되기 위한 조건.md"
+    },
+    {
+      "basename": "오수영",
+      "path": "메모/오수영.md"
+    },
+    {
       "basename": "김기석 강사의 강의 경험담",
       "path": "메모/김기석 강사의 강의 경험담.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "노션 예제",
       "path": "강의/노코드 엔지니어링/modules/노션 예제.md"
-    },
-    {
-      "basename": "스프레드시트 예제",
-      "path": "강의/노코드 엔지니어링/modules/스프레드시트 예제.md"
-    },
-    {
-      "basename": "구글 시트로 업무자산 관리하기",
-      "path": "강의/노코드 엔지니어링/구글 시트로 업무자산 관리하기.md"
-    },
-    {
-      "basename": "노션 야무지게 쓰기",
-      "path": "강의/노코드 엔지니어링/노션 야무지게 쓰기.md"
-    },
-    {
-      "basename": "기타 UX 도구들",
-      "path": "강의/서비스기획/기타 UX 도구들.md"
     }
   ],
   "omittedPaths": [],
