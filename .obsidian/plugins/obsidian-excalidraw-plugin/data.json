@@ -1,4 +1,5 @@
 {
+  "disableDoubleClickTextEditing": false,
   "folder": "Excalidraw",
   "cropFolder": "",
   "annotateFolder": "",
@@ -100,7 +101,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.9.2",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.11.0",
     "libraryItems": [
       {
         "status": "unpublished",
@@ -127,8 +128,6 @@
             "groupIds": [
               "7KrlZnMUUGqKlPT1bKVdh"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -216,8 +215,6 @@
             "groupIds": [
               "7KrlZnMUUGqKlPT1bKVdh"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -293,8 +290,6 @@
             "groupIds": [
               "7KrlZnMUUGqKlPT1bKVdh"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -385,8 +380,6 @@
             "groupIds": [
               "c4UQW_Rg-P5IRKl420Awn"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -486,8 +479,6 @@
             "groupIds": [
               "c4UQW_Rg-P5IRKl420Awn"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a1",
             "frameId": null,
             "roundness": null,
@@ -518,8 +509,6 @@
             "groupIds": [
               "c4UQW_Rg-P5IRKl420Awn"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -623,8 +612,6 @@
             "groupIds": [
               "c4UQW_Rg-P5IRKl420Awn"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -735,8 +722,6 @@
             "groupIds": [
               "7vtP_hutIc0mrM8HvbZ1H"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -888,8 +873,6 @@
             "groupIds": [
               "7vtP_hutIc0mrM8HvbZ1H"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a1",
             "frameId": null,
             "roundness": null,
@@ -920,8 +903,6 @@
             "groupIds": [
               "7vtP_hutIc0mrM8HvbZ1H"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a2",
             "frameId": null,
             "roundness": null,
@@ -952,8 +933,6 @@
             "groupIds": [
               "7vtP_hutIc0mrM8HvbZ1H"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a3",
             "frameId": null,
             "roundness": null,
@@ -984,8 +963,6 @@
             "groupIds": [
               "7vtP_hutIc0mrM8HvbZ1H"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a4",
             "frameId": null,
             "roundness": null,
@@ -1016,8 +993,6 @@
             "groupIds": [
               "7vtP_hutIc0mrM8HvbZ1H"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a5",
             "frameId": null,
             "roundness": null,
@@ -1048,8 +1023,6 @@
             "groupIds": [
               "7vtP_hutIc0mrM8HvbZ1H"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a6",
             "frameId": null,
             "roundness": null,
@@ -1080,8 +1053,6 @@
             "groupIds": [
               "7vtP_hutIc0mrM8HvbZ1H"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a7",
             "frameId": null,
             "roundness": null,
@@ -1112,8 +1083,6 @@
             "groupIds": [
               "7vtP_hutIc0mrM8HvbZ1H"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a8",
             "frameId": null,
             "roundness": null,
@@ -1144,8 +1113,6 @@
             "groupIds": [
               "7vtP_hutIc0mrM8HvbZ1H"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a9",
             "frameId": null,
             "roundness": null,
@@ -1183,8 +1150,6 @@
             "groupIds": [
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -1257,8 +1222,6 @@
               "olFooLWWiEvhU9pvkxqLW",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -1307,8 +1270,6 @@
               "olFooLWWiEvhU9pvkxqLW",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -1357,8 +1318,6 @@
               "olFooLWWiEvhU9pvkxqLW",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -1407,8 +1366,6 @@
               "olFooLWWiEvhU9pvkxqLW",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -1457,8 +1414,6 @@
               "olFooLWWiEvhU9pvkxqLW",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -1506,8 +1461,6 @@
             "groupIds": [
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -1607,8 +1560,6 @@
             "groupIds": [
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "fontSize": 77.50710975666918,
             "fontFamily": 1,
             "text": "JSON",
@@ -1653,8 +1604,6 @@
               "U9KepCtsttfUOMlwdmkLs",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -1703,8 +1652,6 @@
               "U9KepCtsttfUOMlwdmkLs",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -1753,8 +1700,6 @@
               "U9KepCtsttfUOMlwdmkLs",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -1803,8 +1748,6 @@
               "U9KepCtsttfUOMlwdmkLs",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -1853,8 +1796,6 @@
               "U9KepCtsttfUOMlwdmkLs",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -1909,8 +1850,6 @@
             "groupIds": [
               "8eVB2Wix9vlSTCYVxb81J"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -1980,8 +1919,6 @@
             "groupIds": [
               "8eVB2Wix9vlSTCYVxb81J"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -2249,8 +2186,6 @@
             "groupIds": [
               "8eVB2Wix9vlSTCYVxb81J"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -2322,8 +2257,6 @@
             "groupIds": [
               "8eVB2Wix9vlSTCYVxb81J"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -2395,8 +2328,6 @@
             "groupIds": [
               "8eVB2Wix9vlSTCYVxb81J"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -2468,8 +2399,6 @@
             "groupIds": [
               "8eVB2Wix9vlSTCYVxb81J"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -2541,8 +2470,6 @@
             "groupIds": [
               "8eVB2Wix9vlSTCYVxb81J"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -2614,8 +2541,6 @@
             "groupIds": [
               "8eVB2Wix9vlSTCYVxb81J"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -2687,8 +2612,6 @@
             "groupIds": [
               "8eVB2Wix9vlSTCYVxb81J"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -2760,8 +2683,6 @@
             "groupIds": [
               "8eVB2Wix9vlSTCYVxb81J"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a9",
             "frameId": null,
             "roundness": null,
@@ -2799,8 +2720,6 @@
             "groupIds": [
               "XoJzrLVX5goJ59V2gYbyd"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a0",
             "frameId": null,
             "roundness": null,
@@ -2831,8 +2750,6 @@
             "groupIds": [
               "XoJzrLVX5goJ59V2gYbyd"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -2932,8 +2849,6 @@
             "groupIds": [
               "XoJzrLVX5goJ59V2gYbyd"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -3033,8 +2948,6 @@
             "groupIds": [
               "XoJzrLVX5goJ59V2gYbyd"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a3",
             "frameId": null,
             "roundness": null,
@@ -3065,8 +2978,6 @@
             "groupIds": [
               "XoJzrLVX5goJ59V2gYbyd"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a4",
             "frameId": null,
             "roundness": null,
@@ -3097,8 +3008,6 @@
             "groupIds": [
               "XoJzrLVX5goJ59V2gYbyd"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -3198,8 +3107,6 @@
             "groupIds": [
               "XoJzrLVX5goJ59V2gYbyd"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a6",
             "frameId": null,
             "roundness": null,
@@ -3230,8 +3137,6 @@
             "groupIds": [
               "XoJzrLVX5goJ59V2gYbyd"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -3285,8 +3190,6 @@
             "groupIds": [
               "XoJzrLVX5goJ59V2gYbyd"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -3368,8 +3271,6 @@
             "groupIds": [
               "XoJzrLVX5goJ59V2gYbyd"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -3431,8 +3332,6 @@
             "groupIds": [
               "XoJzrLVX5goJ59V2gYbyd"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -3485,8 +3384,6 @@
             "groupIds": [
               "evoUEfPqPwyf2IZBg9-h5"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -3552,8 +3449,6 @@
             "groupIds": [
               "evoUEfPqPwyf2IZBg9-h5"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -3664,8 +3559,6 @@
             "groupIds": [
               "pB-vHLwmjYcu5kqjK0JjH"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -3813,8 +3706,6 @@
             "groupIds": [
               "pB-vHLwmjYcu5kqjK0JjH"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -3913,8 +3804,6 @@
             "groupIds": [
               "qUIY0kbRivHuToDt8OYEf"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -3982,8 +3871,6 @@
             "groupIds": [
               "qUIY0kbRivHuToDt8OYEf"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -4051,8 +3938,6 @@
             "groupIds": [
               "qUIY0kbRivHuToDt8OYEf"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -4120,8 +4005,6 @@
             "groupIds": [
               "qUIY0kbRivHuToDt8OYEf"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -4189,8 +4072,6 @@
             "groupIds": [
               "qUIY0kbRivHuToDt8OYEf"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -4258,8 +4139,6 @@
             "groupIds": [
               "qUIY0kbRivHuToDt8OYEf"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -4327,8 +4206,6 @@
             "groupIds": [
               "qUIY0kbRivHuToDt8OYEf"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -4396,8 +4273,6 @@
             "groupIds": [
               "qUIY0kbRivHuToDt8OYEf"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -4465,8 +4340,6 @@
             "groupIds": [
               "qUIY0kbRivHuToDt8OYEf"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -4534,8 +4407,6 @@
             "groupIds": [
               "qUIY0kbRivHuToDt8OYEf"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -4603,8 +4474,6 @@
             "groupIds": [
               "qUIY0kbRivHuToDt8OYEf"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -4672,8 +4541,6 @@
             "groupIds": [
               "qUIY0kbRivHuToDt8OYEf"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -4741,8 +4608,6 @@
             "groupIds": [
               "qUIY0kbRivHuToDt8OYEf"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -4873,8 +4738,6 @@
             "groupIds": [
               "s1plQWgFxozMXtpnTEdXP"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -5002,8 +4865,6 @@
             "groupIds": [
               "s1plQWgFxozMXtpnTEdXP"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a1",
             "frameId": null,
             "roundness": null,
@@ -5034,8 +4895,6 @@
             "groupIds": [
               "s1plQWgFxozMXtpnTEdXP"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -5139,8 +4998,6 @@
             "groupIds": [
               "s1plQWgFxozMXtpnTEdXP"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -5235,8 +5092,6 @@
             "groupIds": [
               "r9IeEadZp4PLdZBYBGOde"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a0",
             "frameId": null,
             "roundness": null,
@@ -5267,8 +5122,6 @@
             "groupIds": [
               "r9IeEadZp4PLdZBYBGOde"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -5469,8 +5322,6 @@
             "groupIds": [
               "cqYnOm_4eHUveiZz9Qe37"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -5540,8 +5391,6 @@
             "groupIds": [
               "cqYnOm_4eHUveiZz9Qe37"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -5611,8 +5460,6 @@
             "groupIds": [
               "cqYnOm_4eHUveiZz9Qe37"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -5677,8 +5524,6 @@
             "groupIds": [
               "zGbIiK1lH7W871H7tLbFx"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -5854,8 +5699,6 @@
             "groupIds": [
               "zGbIiK1lH7W871H7tLbFx"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -5939,8 +5782,6 @@
             "groupIds": [
               "zGbIiK1lH7W871H7tLbFx"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -6008,8 +5849,6 @@
             "groupIds": [
               "zGbIiK1lH7W871H7tLbFx"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -6089,8 +5928,6 @@
             "groupIds": [
               "zGbIiK1lH7W871H7tLbFx"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -6158,8 +5995,6 @@
             "groupIds": [
               "zGbIiK1lH7W871H7tLbFx"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -6219,8 +6054,6 @@
             "groupIds": [
               "zGbIiK1lH7W871H7tLbFx"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -6291,8 +6124,6 @@
             "groupIds": [
               "iJgtyyRIOQWP8F5YTFsjN"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a0",
             "frameId": null,
             "roundness": null,
@@ -6323,8 +6154,6 @@
             "groupIds": [
               "iJgtyyRIOQWP8F5YTFsjN"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -6559,8 +6388,6 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -6668,8 +6495,6 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -6749,8 +6574,6 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -6826,8 +6649,6 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -6903,8 +6724,6 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -7012,8 +6831,6 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -7093,8 +6910,6 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -7170,8 +6985,6 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -7247,8 +7060,6 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -7356,8 +7167,6 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -7437,8 +7246,6 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -7514,8 +7321,6 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -7598,8 +7403,6 @@
             "groupIds": [
               "3nMx1YsL8v7EPcW--hPUj"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -7763,8 +7566,6 @@
             "groupIds": [
               "3nMx1YsL8v7EPcW--hPUj"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -7928,8 +7729,6 @@
             "groupIds": [
               "3nMx1YsL8v7EPcW--hPUj"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a2",
             "frameId": null,
             "roundness": null,
@@ -7960,8 +7759,6 @@
             "groupIds": [
               "3nMx1YsL8v7EPcW--hPUj"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a3",
             "frameId": null,
             "roundness": null,
@@ -7999,8 +7796,6 @@
             "groupIds": [
               "2k3W2FWmwKDORmizybD8j"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -8048,8 +7843,6 @@
             "groupIds": [
               "2k3W2FWmwKDORmizybD8j"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "index": "a1",
             "frameId": null,
             "roundness": {
@@ -8082,8 +7875,6 @@
             "groupIds": [
               "2k3W2FWmwKDORmizybD8j"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "index": "a2",
             "frameId": null,
             "roundness": {
@@ -8116,8 +7907,6 @@
             "groupIds": [
               "2k3W2FWmwKDORmizybD8j"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "index": "a3",
             "frameId": null,
             "roundness": {
@@ -8150,8 +7939,6 @@
             "groupIds": [
               "2k3W2FWmwKDORmizybD8j"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -8283,8 +8070,6 @@
             "groupIds": [
               "2k3W2FWmwKDORmizybD8j"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -8375,8 +8160,6 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "index": "a0",
             "frameId": null,
             "roundness": null,
@@ -8407,8 +8190,6 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -8468,8 +8249,6 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -8529,8 +8308,6 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "sharp",
-            "boundElementIds": [],
             "fontSize": 73.64194950091176,
             "fontFamily": 1,
             "text": "DNS",
@@ -8572,8 +8349,6 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -8629,8 +8404,6 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -8686,8 +8459,6 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -8743,8 +8514,6 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -8800,8 +8569,6 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -8849,8 +8616,6 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -8898,8 +8663,6 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -8947,8 +8710,6 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
-            "boundElementIds": [],
             "startBinding": null,
             "endBinding": null,
             "points": [
@@ -8989,7 +8750,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
-  "previousRelease": "2.9.2",
+  "previousRelease": "2.11.0",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
@@ -9344,6 +9105,7 @@
   "markdownNodeOneClickEditing": false,
   "canvasImmersiveEmbed": true,
   "startupScriptPath": "",
+  "aiEnabled": true,
   "openAIAPIToken": "",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
   "openAIDefaultVisionModel": "gpt-4o",

@@ -1,5 +1,5 @@
 {
-  "settings_version": "0.23.0",
+  "settings_version": "0.22.0",
   "debug": false,
   "obsidian_command_palette_prefix": "Execute: ",
   "preview_variables_in_command_palette": true,
@@ -30,7 +30,7 @@
       },
       "shells": {},
       "alias": "",
-      "icon": "lucide-activity",
+      "icon": "activity",
       "confirm_execution": false,
       "ignore_error_codes": [],
       "input_contents": {
