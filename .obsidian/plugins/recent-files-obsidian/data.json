@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "테스트드로잉",
-      "path": "메모/테스트드로잉.md"
+      "basename": "테스트드로잉.excalidraw",
+      "path": "메모/테스트드로잉.excalidraw.md"
     },
     {
       "basename": "수돌님 230709",
       "path": "메모/수돌님 230709.md"
+    },
+    {
+      "basename": "백서-json2slide 변환 규칙",
+      "path": "메모/백서-json2slide 변환 규칙.md"
     },
     {
       "basename": "성공한 CEO가 되기 위한 조건",
@@ -143,10 +147,6 @@
     {
       "basename": "타입과 연산-프로퍼티",
       "path": "강의/노코드 엔지니어링/modules/타입과 연산-프로퍼티.md"
-    },
-    {
-      "basename": "백서-json2slide 변환 규칙",
-      "path": "메모/백서-json2slide 변환 규칙.md"
     },
     {
       "basename": "json2slide 변환 규칙",
