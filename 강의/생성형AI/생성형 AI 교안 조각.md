@@ -1,3 +1,7 @@
+### NotebookLM
+
+- 소스에 절대적으로 의존
+
 ### MCP
 
 - Model-Context protocol
