@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "오수영",
+      "path": "메모/오수영.md"
+    },
+    {
+      "basename": "m00nlygreat의 경우",
+      "path": "메모/m00nlygreat의 경우.md"
+    },
+    {
+      "basename": "김기석 강사의 강의 경험담",
+      "path": "메모/김기석 강사의 강의 경험담.md"
+    },
+    {
+      "basename": "성공한 CEO가 되기 위한 조건",
+      "path": "메모/성공한 CEO가 되기 위한 조건.md"
+    },
+    {
+      "basename": "9월4일 업데이트 공지",
+      "path": "메모/9월4일 업데이트 공지.md"
+    },
+    {
+      "basename": "9월 1주 Recap 공지",
+      "path": "메모/9월 1주 Recap 공지.md"
+    },
+    {
+      "basename": "8월 4주 Recap",
+      "path": "메모/8월 4주 Recap.md"
+    },
+    {
+      "basename": "수돌님 230709",
+      "path": "메모/수돌님 230709.md"
+    },
+    {
       "basename": "구글 폼 기획안을 구현하는 것이 옳지 않은 이유",
       "path": "메모/구글 폼 기획안을 구현하는 것이 옳지 않은 이유.md"
     },
@@ -53,24 +85,8 @@
       "path": "강의/포트폴리오 메모.md"
     },
     {
-      "basename": "수돌님 230709",
-      "path": "메모/수돌님 230709.md"
-    },
-    {
       "basename": "백서-json2slide 변환 규칙",
       "path": "메모/백서-json2slide 변환 규칙.md"
-    },
-    {
-      "basename": "성공한 CEO가 되기 위한 조건",
-      "path": "메모/성공한 CEO가 되기 위한 조건.md"
-    },
-    {
-      "basename": "오수영",
-      "path": "메모/오수영.md"
-    },
-    {
-      "basename": "김기석 강사의 강의 경험담",
-      "path": "메모/김기석 강사의 강의 경험담.md"
     },
     {
       "basename": "생성형 AI 교안 조각",
@@ -183,22 +199,6 @@
     {
       "basename": "Make와 G메일 연동",
       "path": "강의/노코드 엔지니어링/modules/Make와 G메일 연동.md"
-    },
-    {
-      "basename": "G메일과 make 연동하기",
-      "path": "강의/노코드 엔지니어링/attachments/G메일과 make 연동하기.pdf"
-    },
-    {
-      "basename": "터미널 사용하기",
-      "path": "강의/modules/터미널 사용하기.md"
-    },
-    {
-      "basename": "notipy-ui_ver4",
-      "path": "강의/생성형AI/attachments/notipy/notipy-ui_ver4.png"
-    },
-    {
-      "basename": "notipy-ui_ver2",
-      "path": "강의/생성형AI/attachments/notipy/notipy-ui_ver2.png"
     }
   ],
   "omittedPaths": [],
