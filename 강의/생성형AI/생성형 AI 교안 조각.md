@@ -1,3 +1,6 @@
+![](attachments/chatgpt-toon-1.png)
+![](attachments/chatgpt-toon-2.png)
+
 ### NotebookLM
 
 - 소스에 절대적으로 의존
