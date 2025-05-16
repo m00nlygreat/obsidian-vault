@@ -1,5 +1,6 @@
 ![](attachments/chatgpt-toon-1.png)
 ![](attachments/chatgpt-toon-2.png)
+![](attachments/chatgpt-toon-3.png)
 
 ### NotebookLM
 
