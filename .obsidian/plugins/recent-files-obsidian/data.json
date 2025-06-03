@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "make-gmail 연동 가이드",
+      "path": "journal/make-gmail 연동 가이드.md"
+    },
+    {
+      "basename": "G메일 POP-SMTP 서버 설정",
+      "path": "journal/G메일 POP-SMTP 서버 설정.md"
+    },
+    {
       "basename": "Flutter",
       "path": "배움/Flutter.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "기획 선배의 맞는 말 대잔치",
       "path": "강의/기획 선배의 맞는 말 대잔치.md"
-    },
-    {
-      "basename": "G메일 POP-SMTP 서버 설정",
-      "path": "journal/G메일 POP-SMTP 서버 설정.md"
     },
     {
       "basename": "오수영",
@@ -195,10 +199,6 @@
     {
       "basename": "타입과 연산-프로퍼티",
       "path": "강의/노코드 엔지니어링/modules/타입과 연산-프로퍼티.md"
-    },
-    {
-      "basename": "json2slide 변환 규칙",
-      "path": "메모/json2slide 변환 규칙.md"
     }
   ],
   "omittedPaths": [],
