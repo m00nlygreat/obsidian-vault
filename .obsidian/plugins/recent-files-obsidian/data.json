@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central",
+      "path": "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md"
+    },
+    {
+      "basename": "Lenovo Legion Y700 ZUI 14에 구글 플레이 결제 연동하기.  클리앙",
+      "path": "웹클립/Lenovo Legion Y700 ZUI 14에 구글 플레이 결제 연동하기.  클리앙.md"
+    },
+    {
+      "basename": "Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트",
+      "path": "웹클립/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트.md"
+    },
+    {
+      "basename": "HTTP의 Stateless, 비연결성",
+      "path": "웹클립/HTTP의 Stateless, 비연결성.md"
+    },
+    {
+      "basename": "Data is beautiful 10 of the best data visualization examples",
+      "path": "웹클립/Data is beautiful 10 of the best data visualization examples.md"
+    },
+    {
       "basename": "make-gmail 연동 가이드",
       "path": "journal/make-gmail 연동 가이드.md"
     },
@@ -129,24 +149,8 @@
       "path": "웹클립/프로그래밍을 처음 학습하는 이들에게.md"
     },
     {
-      "basename": "Data is beautiful 10 of the best data visualization examples",
-      "path": "웹클립/Data is beautiful 10 of the best data visualization examples.md"
-    },
-    {
       "basename": "부모님이 치매에 걸렸을 때 해야할 것",
       "path": "웹클립/부모님이 치매에 걸렸을 때 해야할 것.md"
-    },
-    {
-      "basename": "HTTP의 Stateless, 비연결성",
-      "path": "웹클립/HTTP의 Stateless, 비연결성.md"
-    },
-    {
-      "basename": "Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트",
-      "path": "웹클립/Lenovo Legion Y700 간단사용기 및 (반)한글화 + Play Store 설치방법, 기본앱 삭제 스크립트.md"
-    },
-    {
-      "basename": "Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central",
-      "path": "웹클립/Pro Tip Assign specific processor cores for certain apps in Windows 10  Windows Central.md"
     },
     {
       "basename": "VIM 유용한 단축키 정리",
@@ -195,10 +199,6 @@
     {
       "basename": "UX Writing",
       "path": "강의/서비스기획/UX Writing.md"
-    },
-    {
-      "basename": "타입과 연산-프로퍼티",
-      "path": "강의/노코드 엔지니어링/modules/타입과 연산-프로퍼티.md"
     }
   ],
   "omittedPaths": [],
