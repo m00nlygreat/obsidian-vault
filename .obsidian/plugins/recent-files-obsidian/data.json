@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "komorebi",
+      "path": "postmortems/komorebi.md"
+    },
+    {
       "basename": "서비스기획 재료",
       "path": "강의/서비스기획 재료.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "신한카드 UX Writing 가이드북_v1.0",
       "path": "강의/서비스기획/attachments/신한카드 UX Writing 가이드북_v1.0.pdf"
-    },
-    {
-      "basename": "UX Writing",
-      "path": "강의/서비스기획/UX Writing.md"
     }
   ],
   "omittedPaths": [],

@@ -1,0 +1,4 @@
+- komorebi를 포터블처럼 (재설치 시 별도 설정 하지 않고 바로 실행)하려면 두 가지 env에 경로가 있어야 한다
+	- `KOMOREBI_CONFIG_HOME`
+	- `KOMOREBI_AHK_EXE`
+- 본래 `USERPROFILE`을 사용하지만, config
