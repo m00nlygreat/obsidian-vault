@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "rsync 기반 월드 증분 백업",
+      "path": "postmortems/rsync 기반 월드 증분 백업.md"
+    },
+    {
       "basename": "itzg-minecraft docker image",
       "path": "postmortems/itzg-minecraft docker image.md"
     },
