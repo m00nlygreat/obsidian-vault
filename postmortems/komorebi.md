@@ -1,4 +1,5 @@
 - komorebi를 포터블처럼 (재설치 시 별도 설정 하지 않고 바로 실행)하려면 두 가지 env에 경로가 있어야 한다
 	- `KOMOREBI_CONFIG_HOME`
 	- `KOMOREBI_AHK_EXE`
-- 본래 `USERPROFILE`을 사용하지만, config
+- 본래 `USERPROFILE`을 사용하지만, config home을 설정함으로써 해당 폴더의 설정을 사용하도록 함.
+- AutoHotkeyV2가 Win 키 리매핑을 위해 필요함. 
