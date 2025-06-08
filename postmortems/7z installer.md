@@ -21,4 +21,10 @@ InstallPath="C:\\MyApp"       ; ← 여기 지정 가능!
 ;!@InstallEnd@!
 ```
 
-- 
+- 다음 명령어 실행
+	- sfx, config.txt, *.7z 파일이 모두 cwd 에 있다고 가정
+	- cmd 로 실행해야됨. powershell, wt 안됨
+```
+copy /b 7z.sfx + config.txt + files.7z my_installer.exe
+```
+
