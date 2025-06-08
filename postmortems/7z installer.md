@@ -7,7 +7,7 @@
 7z a compressed.7z @list.txt
 
 ## 실행파일 만들기
-
+ 
 - 7zr로는 안되고 7z로만 가능
 - 우선 `config.txt` 를 만들자
 
