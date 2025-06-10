@@ -25,3 +25,5 @@ services:
       - ./data:/data
     restart: unless-stopped
 ```
+
+up한 이후엔 해당 인스턴스를 변경하는 것으로 추가한다
