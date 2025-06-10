@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ChatGPT 고급 기능",
+      "path": "강의/생성형AI/modules/ChatGPT 고급 기능.md"
+    },
+    {
+      "basename": "서비스기획.index",
+      "path": "강의/서비스기획/서비스기획.index.md"
+    },
+    {
       "basename": "rsync 기반 월드 증분 백업",
       "path": "postmortems/rsync 기반 월드 증분 백업.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Make와 백엔드 자동화",
       "path": "강의/노코드 엔지니어링/Make와 백엔드 자동화.md"
-    },
-    {
-      "basename": "gitignore",
-      "path": "메모/gitignore.md"
-    },
-    {
-      "basename": "UI-UX 개론",
-      "path": "강의/서비스기획/UI-UX 개론.md"
     }
   ],
   "omittedPaths": [],
