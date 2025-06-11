@@ -2,6 +2,11 @@
 ![](attachments/chatgpt-toon-2.png)
 ![](attachments/chatgpt-toon-3.png)
 
+### 인지적 깃발 꽂기
+
+https://chatgpt.com/share/68493a71-0e4c-8008-b064-cff7e9764059
+
+
 ### NotebookLM
 
 - 소스에 절대적으로 의존
