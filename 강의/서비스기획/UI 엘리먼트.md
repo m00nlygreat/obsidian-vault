@@ -5,7 +5,7 @@
 - Interact: 어떤 인터랙션을 가지는지
 - Data: 어떤 데이터가 암시되어 있는지
 
-![](../attachments/uxdesign03.png)
+![](../attachments/uxdesign-ui_status.png)
 
 # Primitives
 
