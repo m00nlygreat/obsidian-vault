@@ -40,7 +40,7 @@
 - A/B 테스트 결과는 절대적이거나 항구적이지 않다
 - 지역최적점에 머물게 될 위험
 
-![](../attachments/Pasted%20image%2020241119032229.png)
+![](../attachments/uxdesign-netflix_ab_test.png)
 
 ## UX 히트맵
 
