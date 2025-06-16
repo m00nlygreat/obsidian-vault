@@ -20,5 +20,37 @@
   "editor:toggle-italics": [],
   "make-md:mk-blink": [],
   "obsidian-outliner:unfold": [],
-  "obsidian-outliner:fold": []
+  "obsidian-outliner:fold": [],
+  "cursor-jump:jump-to-next": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "cursor-jump:jump-to-previous": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "cursor-jump:jump-to-lower-level": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "cursor-jump:jump-to-upper-level": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ]
 }
