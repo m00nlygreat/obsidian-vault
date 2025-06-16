@@ -18,5 +18,7 @@
   "editor:open-search": [],
   "editor:toggle-checklist-status": [],
   "editor:toggle-italics": [],
-  "make-md:mk-blink": []
+  "make-md:mk-blink": [],
+  "obsidian-outliner:unfold": [],
+  "obsidian-outliner:fold": []
 }
