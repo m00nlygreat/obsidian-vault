@@ -162,7 +162,7 @@
 - items: Item[]
 - selected: Item
 
-![](../attachments/Pasted%20image%2020240711151934.png)
+![](../attachments/uxdesign-selectBox.png)
 
 # Composites
 
@@ -170,13 +170,13 @@
 
 - 특정 목적의 데이터들을 입력받는 인풋들의 집합 (예: 회원가입)
 
-![](../attachments/Pasted%20image%2020240711135853.png)
+![](../attachments/uxdesign-forms.png)
 
 ## Tab
 
 - 여러 페이지들을 묶어 버튼으로 전환할 수 있도록 추상화한 컨테이너 요소
 
-![](../attachments/uxdesign01.png)
+![](../attachments/uxdesign-tabs.png)
 
 ## Dialog
 
