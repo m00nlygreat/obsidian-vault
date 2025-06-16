@@ -6,7 +6,6 @@
   "easy-bake",
   "obsidian-shellcommands",
   "obsidian-mindmap-nextgen",
-  "obsidian-to-notion",
   "obsidian-vimrc-support",
   "copilot",
   "obsidian-markdown-export-plugin",
@@ -14,5 +13,6 @@
   "obsidian-style-settings",
   "find-orphaned-images",
   "recent-files-obsidian",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-icon-folder"
 ]
