@@ -32,7 +32,7 @@
 
 ---
 
-![](../attachments/Pasted%20image%2020240711122706.png)
+![](../attachments/uxdesign-buttons.png)
 
 ## Radio Button
 
@@ -51,7 +51,7 @@
 - items: Item[]
 - selected: Item
 
-![](../attachments/Pasted%20image%2020240711131815.png)
+![](../attachments/uxdesign-radio_buttons.png)
 
 ## Checkbox
 
