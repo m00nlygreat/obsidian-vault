@@ -1,5 +1,5 @@
-- GCP Free tier 인스턴스에 n8n 설치하고 
-	- cloudflare 가변 SSL 적용을 사용
+- GCP Free tier 인스턴스에 n8n 설치하고
+	- 별도 인증서 등 없이 cloudflare 가변(Flexible) SSL 적용
 	- SSL 적용을 위해 `nginx` 필요함
 - n8n은 소켓 통신을 사용해서 연결유지하므로 소켓 통신을 위한 설정 필요
 
@@ -9,6 +9,8 @@
 ```bash
 sudo vi /etc/nginx/sites-available/n8n
 ```
+
+### nginx 설정
 
 ```nginx
 server {
@@ -32,4 +34,5 @@ server {
 
 ### extract from pdf 관련
 
-- 1.98 버전에서 `pdfjs` 업데이트로 인한 DOMMatrix 오류 발생 
+- Extract from PDF 노드 사용 시 1.98 버전에서 `pdfjs` 업데이트로 인한 `DOMMatrix is not defined` 오류 발생
+- 1.93 등 하위버전에서는 Code 노드를 사용해 다수의 binary를 여러개 item으로 분할한 경우 
