@@ -35,4 +35,26 @@ server {
 ### extract from pdf 관련
 
 - Extract from PDF 노드 사용 시 1.98 버전에서 `pdfjs` 업데이트로 인한 `DOMMatrix is not defined` 오류 발생
-- 1.93 등 하위버전에서는 Code 노드를 사용해 다수의 binary를 여러개 item으로 분할한 경우 
+- 1.93 등 하위버전에서는 Code 노드를 사용해 다수의 binary를 여러개 item으로 분할한 경우 다음 오류 발생
+	- ERROR: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object.
+	- 이 오류는 binary data 저장을 메모리가 아닌 파일 시스템으로 바꿔주고 파일을 읽을 수 있도록 허용해주면 됨.
+
+#### docker-compose.yml 설정
+
+```yaml
+services:
+  n8n:
+    image: docker.n8n.io/n8nio/n8n:1.93.0
+    container_name: n8n
+    ports:
+      - "5678:5678"
+    volumes:
+      - n8n_data:/home/node/.n8n
+    environment:
+      - WEBHOOK_URL=https://n8n.sites.address/
+      - N8N_DEFAULT_BINARY_DATA_MODE=filesystem
+      - N8N_BLOCK_FILE_ACCESS_TO_N8N_FILES=false
+    restart: unless-stopped
+volumes:
+  n8n_data:
+```
