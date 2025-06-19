@@ -1,3 +1,9 @@
+---
+type: practice
+participants:
+  - indivisual
+practice_type: project
+---
 ## 실습 개요
 
 내가 자주 사용하거나, 좋아하는 서비스 및 프로그램을 골라서 사용해보고, 불편한 점, 버그, 제안사항 등을 리포팅해봅시다.
