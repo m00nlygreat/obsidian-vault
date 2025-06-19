@@ -3,7 +3,6 @@
 - 구글 [Material Design Guide](https://m3.material.io/)
 - 애플 [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines)
 - [닐슨 노먼 그룹](https://www.nngroup.com/)
-- [Funny Worst Input Fields](https://www.boredpanda.com/funny-worst-input-fields/)
 
 ## 디자인 시스템
 
