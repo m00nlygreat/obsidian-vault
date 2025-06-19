@@ -1,5 +1,6 @@
-- SSL 적용을 위해 nginx 필요함
-	- 이 경우 cloudflare 가변 SSL 적용을 사용
+- GCP Free tier 인스턴스에 n8n 설치하고 
+	- cloudflare 가변 SSL 적용을 사용
+	- SSL 적용을 위해 `nginx` 필요함
 - n8n은 소켓 통신을 사용해서 연결유지하므로 소켓 통신을 위한 설정 필요
 
 - `/etc/nginx/sites-available/n8n`
@@ -31,6 +32,4 @@ server {
 
 ### extract from pdf 관련
 
-- 
-
-
+- 1.98 버전에서 `pdfjs` 업데이트로 인한 DOMMatrix 오류 발생 
