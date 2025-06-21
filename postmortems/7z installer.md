@@ -4,7 +4,7 @@
 
 ### 명령어 쓰기
 
-7z a compressed.7z @list.txt
+7z a -r compressed.7z @list.txt
 
 ## 실행파일 만들기
  
