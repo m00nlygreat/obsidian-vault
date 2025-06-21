@@ -2,9 +2,17 @@
 
 ### 상대경로로 파일 이름이 적힌 list.txt 만들기
 
+```
+AppData\Local\Kakao\KakaoTalk\pref.ini
+AppData\Local\Kakao\KakaoTalk\users\01b55173c6a37708cb3f1a9e0dd9ef2d579b2add\user_pref.ini
+AppData\Local\Kakao\KakaoTalk\users\01b55173c6a37708cb3f1a9e0dd9ef2d579b2add\lab_pref.ini
+```
+
 ### 명령어 쓰기
 
-7z a -r compressed.7z @list.txt
+```cmd
+"C:\Program Files\7-Zip\7z.exe" a -r compressed.7z @list.txt
+```
 
 ## 실행파일 만들기
  
