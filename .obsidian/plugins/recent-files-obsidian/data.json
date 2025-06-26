@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "면접 멘토링",
+      "path": "강의/면접 멘토링.md"
+    },
+    {
+      "basename": "노코드를 시작하기 전에 알았으면 좋았을 것들",
+      "path": "강의/notes/노코드를 시작하기 전에 알았으면 좋았을 것들.md"
+    },
+    {
+      "basename": "노코드 유즈케이스",
+      "path": "강의/notes/노코드 유즈케이스.md"
+    },
+    {
+      "basename": "노코드 개론",
+      "path": "강의/노코드 개론.md"
+    },
+    {
+      "basename": "기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다",
+      "path": "강의/modules/기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다.md"
+    },
+    {
+      "basename": "LLM을 UX에 통합하기",
+      "path": "강의/LLM을 UX에 통합하기.md"
+    },
+    {
+      "basename": "Make와 백엔드 자동화",
+      "path": "강의/Make와 백엔드 자동화.md"
+    },
+    {
       "basename": "데이터베이스",
       "path": "강의/modules/데이터베이스.md"
     },
@@ -25,16 +53,12 @@
       "path": "강의/modules/ChatGPT 기능 일람.md"
     },
     {
-      "basename": "LLM을 UX에 통합하기",
-      "path": "강의/LLM을 UX에 통합하기.md"
-    },
-    {
       "basename": "HTML-CSS",
       "path": "강의/HTML-CSS.md"
     },
     {
       "basename": "HTML-CSS 추가",
-      "path": "강의/HTML-CSS 추가.md"
+      "path": "강의/notes/HTML-CSS 추가.md"
     },
     {
       "basename": "터미널 사용하기",
@@ -78,7 +102,7 @@
     },
     {
       "basename": "교안 조각",
-      "path": "강의/교안 조각.md"
+      "path": "강의/notes/교안 조각.md"
     },
     {
       "basename": "신한카드 UX Writing 가이드북_v1.0",
@@ -98,7 +122,7 @@
     },
     {
       "basename": "강의 업데이트 초안",
-      "path": "강의/강의 업데이트 초안.md"
+      "path": "강의/notes/강의 업데이트 초안.md"
     },
     {
       "basename": "설문조사.project",
@@ -175,30 +199,6 @@
     {
       "basename": "누군가의 인생을 망가뜨릴 용기",
       "path": "글/누군가의 인생을 망가뜨릴 용기.md"
-    },
-    {
-      "basename": "글은 비장한 마음으로 쓴다",
-      "path": "글/글은 비장한 마음으로 쓴다.md"
-    },
-    {
-      "basename": "국뽕",
-      "path": "글/국뽕.md"
-    },
-    {
-      "basename": "220228 0508",
-      "path": "글/220228 0508.md"
-    },
-    {
-      "basename": "민희진이 드러낸 게임업계의 민낯",
-      "path": "글/민희진이 드러낸 게임업계의 민낯.md"
-    },
-    {
-      "basename": "타입과 연산-프로퍼티",
-      "path": "강의/modules/타입과 연산-프로퍼티.md"
-    },
-    {
-      "basename": "서비스기획.index",
-      "path": "강의/modules/서비스기획.index.md"
     }
   ],
   "omittedPaths": [],
