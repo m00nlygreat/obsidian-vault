@@ -1,4 +1,0 @@
-[submodule "journal"]
-	path = journal
-	url = https://github.com/m00nlygreat/obsidian-journal
-    branch = main
