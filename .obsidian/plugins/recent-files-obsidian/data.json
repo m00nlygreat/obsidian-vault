@@ -1,8 +1,140 @@
 {
   "recentFiles": [
     {
+      "basename": "HTML-CSS 추가",
+      "path": "강의/notes/HTML-CSS 추가.md"
+    },
+    {
+      "basename": "노션 야무지게 쓰기",
+      "path": "강의/노션 야무지게 쓰기.md"
+    },
+    {
+      "basename": "디지텍고 강의",
+      "path": "강의/디지텍고 강의.md"
+    },
+    {
+      "basename": "노코드 개론",
+      "path": "강의/노코드 개론.md"
+    },
+    {
+      "basename": "풀스택 노코드 버블",
+      "path": "강의/풀스택 노코드 버블.md"
+    },
+    {
+      "basename": "이미지 생성 AI 활용",
+      "path": "강의/이미지 생성 AI 활용.md"
+    },
+    {
+      "basename": "포트폴리오 메모",
+      "path": "강의/notes/포트폴리오 메모.md"
+    },
+    {
+      "basename": "필살기 프레이머",
+      "path": "강의/필살기 프레이머.md"
+    },
+    {
+      "basename": "Make와 백엔드 자동화",
+      "path": "강의/Make와 백엔드 자동화.md"
+    },
+    {
+      "basename": "HTML-CSS",
+      "path": "강의/HTML-CSS.md"
+    },
+    {
+      "basename": "LLM을 UX에 통합하기",
+      "path": "강의/notes/LLM을 UX에 통합하기.md"
+    },
+    {
+      "basename": "ChatGPT 채팅 공유 링크",
+      "path": "강의/notes/ChatGPT 채팅 공유 링크.md"
+    },
+    {
+      "basename": "ChatGPT 기능 일람",
+      "path": "강의/modules/ChatGPT 기능 일람.md"
+    },
+    {
+      "basename": "인수-인자 vs 매개변수",
+      "path": "강의/notes/인수-인자 vs 매개변수.md"
+    },
+    {
+      "basename": "채용 공통",
+      "path": "강의/notes/채용 공통.md"
+    },
+    {
+      "basename": "생성형 AI 교안 조각",
+      "path": "강의/notes/생성형 AI 교안 조각.md"
+    },
+    {
+      "basename": "아는 만큼 쓰는 ChatGPT",
+      "path": "강의/아는 만큼 쓰는 ChatGPT.md"
+    },
+    {
+      "basename": "서비스 기획 잔소리",
+      "path": "강의/notes/서비스 기획 잔소리.md"
+    },
+    {
+      "basename": "서비스기획 재료",
+      "path": "강의/notes/서비스기획 재료.md"
+    },
+    {
+      "basename": "포트폴리오",
+      "path": "강의/notes/포트폴리오.md"
+    },
+    {
+      "basename": "사전 평가",
+      "path": "강의/practices/사전 평가.md"
+    },
+    {
+      "basename": "사전 평가 질문지",
+      "path": "강의/practices/사전 평가 질문지.md"
+    },
+    {
+      "basename": "바이브 코딩",
+      "path": "강의/바이브 코딩.md"
+    },
+    {
+      "basename": "버블",
+      "path": "강의/버블.md"
+    },
+    {
+      "basename": "사전 평가 질문지 - 노코드 엔지니어링",
+      "path": "강의/practices/사전 평가 질문지 - 노코드 엔지니어링.md"
+    },
+    {
       "basename": "실습 설계하기",
-      "path": "강의/실습 설계하기.md"
+      "path": "강의/notes/실습 설계하기.md"
+    },
+    {
+      "basename": "UX 이론",
+      "path": "강의/modules/UX 이론.md"
+    },
+    {
+      "basename": "모든 프로그램의 작동 방식",
+      "path": "강의/notes/모든 프로그램의 작동 방식.md"
+    },
+    {
+      "basename": "면접 멘토링",
+      "path": "강의/notes/면접 멘토링.md"
+    },
+    {
+      "basename": "데이터베이스",
+      "path": "강의/modules/데이터베이스.md"
+    },
+    {
+      "basename": "노코드를 시작하기 전에 알았으면 좋았을 것들",
+      "path": "강의/notes/노코드를 시작하기 전에 알았으면 좋았을 것들.md"
+    },
+    {
+      "basename": "노코드 유즈케이스",
+      "path": "강의/notes/노코드 유즈케이스.md"
+    },
+    {
+      "basename": "기획 선배의 맞는 말 대잔치",
+      "path": "강의/기획 선배의 맞는 말 대잔치.md"
+    },
+    {
+      "basename": "기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다",
+      "path": "강의/notes/기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다.md"
     },
     {
       "basename": "7z installer",
@@ -63,18 +195,6 @@
     {
       "basename": "uxdesign-molecular_design",
       "path": "강의/attachments/uxdesign-molecular_design.png"
-    },
-    {
-      "basename": "면접 멘토링",
-      "path": "강의/면접 멘토링.md"
-    },
-    {
-      "basename": "서비스기획 재료",
-      "path": "강의/서비스기획 재료.md"
-    },
-    {
-      "basename": "버블의 불편함을 해소하는 팁 3가지",
-      "path": "글/버블의 불편함을 해소하는 팁 3가지.md"
     }
   ],
   "omittedPaths": [],

@@ -78,7 +78,7 @@ type: text
 
 ![프롬프트 엔지니어링](modules/프롬프트%20엔지니어링.md)
 
-![마크다운](../마크다운.md)
+![마크다운](modules/마크다운.md)
 
 ## Obsidian과 GPT를 사용한 개인 지식DB 챗봇 구축
 

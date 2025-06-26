@@ -5,7 +5,7 @@ type: text
 
 # API
 
-![API](../API.md)
+![API](modules/API.md)
 
 # Make
 
