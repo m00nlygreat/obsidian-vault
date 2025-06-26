@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "터미널 사용하기",
+      "path": "강의/modules/터미널 사용하기.md"
+    },
+    {
+      "basename": "마크다운",
+      "path": "강의/modules/마크다운.md"
+    },
+    {
+      "basename": "서버는 무한루프다.",
+      "path": "강의/modules/서버는 무한루프다..md"
+    },
+    {
+      "basename": "모든 프로그램의 작동 방식",
+      "path": "강의/모든 프로그램의 작동 방식.md"
+    },
+    {
       "basename": "채용 공통",
       "path": "강의/채용 공통.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "프로젝트 매니지먼트",
       "path": "강의/modules/프로젝트 매니지먼트.md"
-    },
-    {
-      "basename": "pm-what_do_they_do_now",
-      "path": "강의/attachments/pm-what_do_they_do_now.png"
-    },
-    {
-      "basename": "pm-lean_startup",
-      "path": "강의/attachments/pm-lean_startup.png"
-    },
-    {
-      "basename": "pm-comparison_agile_waterfall_reality",
-      "path": "강의/attachments/pm-comparison_agile_waterfall_reality.png"
-    },
-    {
-      "basename": "pm-agile_and_waterfall",
-      "path": "강의/attachments/pm-agile_and_waterfall.png"
     }
   ],
   "omittedPaths": [],
