@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "구글 시트로 업무자산 관리하기",
+      "path": "강의/구글 시트로 업무자산 관리하기.md"
+    },
+    {
+      "basename": "강사 소개",
+      "path": "강의/강사 소개.md"
+    },
+    {
       "basename": "HTML-CSS 추가",
       "path": "강의/notes/HTML-CSS 추가.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "pm-agile_and_waterfall",
       "path": "강의/attachments/pm-agile_and_waterfall.png"
-    },
-    {
-      "basename": "uxdesign-molecular_design",
-      "path": "강의/attachments/uxdesign-molecular_design.png"
     }
   ],
   "omittedPaths": [],
