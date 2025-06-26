@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "강사 소개",
+      "path": "강의/강사 소개.md"
+    },
+    {
+      "basename": "구글 시트로 업무자산 관리하기",
+      "path": "강의/구글 시트로 업무자산 관리하기.md"
+    },
+    {
+      "basename": "기획 선배의 맞는 말 대잔치",
+      "path": "강의/기획 선배의 맞는 말 대잔치.md"
+    },
+    {
+      "basename": "노션 야무지게 쓰기",
+      "path": "강의/노션 야무지게 쓰기.md"
+    },
+    {
+      "basename": "디지텍고 강의",
+      "path": "강의/디지텍고 강의.md"
+    },
+    {
+      "basename": "바이브 코딩",
+      "path": "강의/바이브 코딩.md"
+    },
+    {
+      "basename": "버블",
+      "path": "강의/notes/버블.md"
+    },
+    {
+      "basename": "아는 만큼 쓰는 ChatGPT",
+      "path": "강의/아는 만큼 쓰는 ChatGPT.md"
+    },
+    {
       "basename": "Make 예제",
       "path": "강의/notes/Make 예제.md"
     },
@@ -41,28 +73,8 @@
       "path": "강의/modules/기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다.md"
     },
     {
-      "basename": "노션 야무지게 쓰기",
-      "path": "강의/노션 야무지게 쓰기.md"
-    },
-    {
-      "basename": "기획 선배의 맞는 말 대잔치",
-      "path": "강의/기획 선배의 맞는 말 대잔치.md"
-    },
-    {
-      "basename": "구글 시트로 업무자산 관리하기",
-      "path": "강의/구글 시트로 업무자산 관리하기.md"
-    },
-    {
-      "basename": "강사 소개",
-      "path": "강의/강사 소개.md"
-    },
-    {
       "basename": "HTML-CSS 추가",
       "path": "강의/notes/HTML-CSS 추가.md"
-    },
-    {
-      "basename": "디지텍고 강의",
-      "path": "강의/디지텍고 강의.md"
     },
     {
       "basename": "노코드 개론",
@@ -117,10 +129,6 @@
       "path": "강의/notes/생성형 AI 교안 조각.md"
     },
     {
-      "basename": "아는 만큼 쓰는 ChatGPT",
-      "path": "강의/아는 만큼 쓰는 ChatGPT.md"
-    },
-    {
       "basename": "서비스 기획 잔소리",
       "path": "강의/notes/서비스 기획 잔소리.md"
     },
@@ -139,14 +147,6 @@
     {
       "basename": "사전 평가 질문지",
       "path": "강의/practices/사전 평가 질문지.md"
-    },
-    {
-      "basename": "바이브 코딩",
-      "path": "강의/바이브 코딩.md"
-    },
-    {
-      "basename": "버블",
-      "path": "강의/버블.md"
     },
     {
       "basename": "사전 평가 질문지 - 노코드 엔지니어링",
