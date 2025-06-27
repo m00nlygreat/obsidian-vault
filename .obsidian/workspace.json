@@ -232,8 +232,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db4a2328eafaef33",
+  "active": "291f266d516ebdbe",
   "lastOpenFiles": [
+    "강의/debug/2_json_to_slide.json",
+    "강의/debug/1_markdown_to_json.json",
+    "강의/debug/0_flattened.md",
+    "강의/debug",
     "output/아는 만큼 쓰는 ChatGPT/아는 만큼 쓰는 ChatGPT.md",
     "output/아는 만큼 쓰는 ChatGPT/attachments/71d8aef64bd2cac0f736d67d7aa11468.md",
     "output/아는 만큼 쓰는 ChatGPT/attachments/4e902b2117a17eb46dc8412d6cdbcd99.md",
@@ -271,12 +275,8 @@
     "강의/modules/AI 이모저모.pptx",
     "강의/modules/~$VBA with GPT.pptx",
     "강의/modules/VBA with GPT.pptx",
-    "강의/modules/OpenAI API Key 발급.md",
     "강의/modules/~$GPT를 엑셀 안에서 사용하기.pptx",
-    "강의/modules/GPT를 엑셀 안에서 사용하기.pptx",
-    "강의/modules/~$ChatGPT 예제.pptx",
     "강의/attachments/chatgpt-obsidian_integration.png",
-    "강의/modules/왜 내 GPT는 대답을 이상하게 할까.md",
     "강의/attachments/gpt-hallucination.jpg",
     "강의/attachments/ux-know_your_menu.png",
     "강의/attachments/ux-lists_on_devices.png",
