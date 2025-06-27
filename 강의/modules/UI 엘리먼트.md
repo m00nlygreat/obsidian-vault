@@ -68,7 +68,7 @@
 
 - checked: boolean
 
-![](../attachments/Pasted%20image%2020240711132444.png)
+![](../attachments/ux-checkboxes.png)
 
 ## Switch
 
@@ -85,7 +85,7 @@
 
 - activated: boolean
 
-![](../attachments/Pasted%20image%2020240711132750.png)
+![](../attachments/ux-switches.png)
 
 ## Input
 
@@ -104,7 +104,7 @@
 
 - [인풋 입력 시 적절한 키보드가 나와야 한다.](http://mobileinputtypes.com/)
 
-![](../attachments/Pasted%20image%2020240711133227.png)
+![](../attachments/ux-inputs.png)
 
 ## Slider
 
@@ -124,7 +124,7 @@
 
 #### 난 슬라이더가 싫어요
 
-![](../attachments/Pasted%20image%2020240711150048.png)
+![](../attachments/ux-sliders.png)
 
 ## Progresss bar
 
@@ -143,7 +143,7 @@
 - value: 0<number<=1
 	- .. 인데 이 number 계산을 어떻게 하느냐가 중요
 
-![](../attachments/Pasted%20image%2020240711150334.png)
+![](../attachments/ux-elements_progress_bars.png)
 
 ## Dropdown ≒ Selectbox, Combobox
 
@@ -182,7 +182,7 @@
 
 - 대화상자. 
 
-![](../attachments/Pasted%20image%2020240711140919.png)
+![](../attachments/ux-elements_dialogues.png)
 
 ## Modal ≒ Window
 

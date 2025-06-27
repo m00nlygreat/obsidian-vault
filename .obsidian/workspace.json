@@ -39,6 +39,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "29a11038f8a7bd8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60d18cb073204ec0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "강의/attachments/Pasted image 20240711141425.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240711141425"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,10 +236,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "강의/modules/UI 엘리먼트.md"
+                "file": "강의/attachments/Pasted image 20240711141425.png"
               },
               "icon": "lucide-info",
-              "title": "File properties for UI 엘리먼트"
+              "title": "File properties for Pasted image 20240711141425"
             }
           }
         ],
@@ -248,8 +266,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "291f266d516ebdbe",
+  "active": "60d18cb073204ec0",
   "lastOpenFiles": [
+    "강의/modules/UI 엘리먼트.md",
+    "강의/attachments/ux-elements_dialogues.png",
+    "강의/attachments/ux-elements_progress_bars.png",
+    "강의/attachments/ux-sliders.png",
+    "강의/attachments/ux-inputs.png",
+    "강의/attachments/ux-switches.png",
+    "강의/attachments/ux-checkboxes.png",
     "강의/modules/UI 기타.md",
     "강의/modules/OpenAI API Key 발급.md",
     "강의/modules/Make와 G메일 연동.md",
@@ -277,19 +302,11 @@
     "강의/attachments/ux-persona_behavior.png",
     "강의/modules/왜 내 GPT는 대답을 이상하게 할까.md",
     "강의/modules/스프레드시트 예제.md",
-    "강의/modules/소프트웨어 분류.md",
-    "강의/modules/설문조사.md",
     "강의/attachments/ux-dark_pattern_baro.png",
-    "강의/attachments/ux-process_develop.png",
-    "강의/attachments/ux-dark_pattern_nag.png",
-    "강의/attachments/ux-dark_pattern_seat.png",
     "강의/notes",
     "강의/snippets",
     "강의/practices",
-    "강의/attachments/컴퓨터_프로그래밍_언어.jpg",
-    "강의/attachments/웹은_사각형으로.png.png",
     "강의/attachments/신한카드 UX Writing 가이드북_v1.0.pdf",
-    "강의/attachments/ux-toss-dark-mode.png",
     "강의/attachments/G메일과 make 연동하기.pdf",
     "강의/서비스기획/practices/UX 리포팅.project.pptx",
     "강의/서비스기획/practices/attachments",

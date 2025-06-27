@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Pasted image 20240711141425",
+      "path": "강의/attachments/Pasted image 20240711141425.png"
+    },
+    {
       "basename": "UI 엘리먼트",
       "path": "강의/modules/UI 엘리먼트.md"
+    },
+    {
+      "basename": "ux-elements_dialogues",
+      "path": "강의/attachments/ux-elements_dialogues.png"
+    },
+    {
+      "basename": "ux-elements_progress_bars",
+      "path": "강의/attachments/ux-elements_progress_bars.png"
+    },
+    {
+      "basename": "ux-sliders",
+      "path": "강의/attachments/ux-sliders.png"
+    },
+    {
+      "basename": "ux-inputs",
+      "path": "강의/attachments/ux-inputs.png"
+    },
+    {
+      "basename": "ux-switches",
+      "path": "강의/attachments/ux-switches.png"
+    },
+    {
+      "basename": "ux-checkboxes",
+      "path": "강의/attachments/ux-checkboxes.png"
     },
     {
       "basename": "UI 기타",
@@ -171,34 +199,6 @@
     {
       "basename": "ux-dark_pattern_seat",
       "path": "강의/attachments/ux-dark_pattern_seat.png"
-    },
-    {
-      "basename": "다양한 사용자를 고려하기",
-      "path": "강의/modules/다양한 사용자를 고려하기.md"
-    },
-    {
-      "basename": "노션 예제",
-      "path": "강의/notes/노션 예제.md"
-    },
-    {
-      "basename": "기획자의 무기",
-      "path": "강의/modules/기획자의 무기.md"
-    },
-    {
-      "basename": "기타 UX 도구들",
-      "path": "강의/modules/기타 UX 도구들.md"
-    },
-    {
-      "basename": "기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다",
-      "path": "강의/modules/기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다.md"
-    },
-    {
-      "basename": "경위서 쓰기",
-      "path": "강의/modules/경위서 쓰기.md"
-    },
-    {
-      "basename": "아는 만큼 쓰는 ChatGPT",
-      "path": "강의/아는 만큼 쓰는 ChatGPT.md"
     }
   ],
   "omittedPaths": [],
