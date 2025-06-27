@@ -28,35 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/modules/다크패턴.md",
+                "file": "강의/modules/조작-인터랙션-피드백.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "다크패턴"
+              "title": "조작-인터랙션-피드백"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "a5351dfdba967b65",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5ff1be6273748351",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "강의/attachments/ux-dark_pattern_baro.png"
-              },
-              "icon": "lucide-image",
-              "title": "ux-dark_pattern_baro"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -236,10 +218,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "강의/modules/다크패턴.md"
+                "file": "강의/modules/조작-인터랙션-피드백.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 다크패턴"
+              "title": "File properties for 조작-인터랙션-피드백"
             }
           }
         ],
@@ -268,34 +250,39 @@
   },
   "active": "291f266d516ebdbe",
   "lastOpenFiles": [
+    "강의/modules/인수-인자 vs 매개변수.md",
+    "강의/modules/이미지 생성 프롬프트.md",
+    "강의/attachments/genAI-looks_vibes_punks_waves.png",
+    "강의/modules/유저 퍼소나.md",
+    "강의/attachments/ux-persona_behavior2.png",
+    "강의/attachments/ux-persona_behavior.png",
+    "강의/modules/왜 내 GPT는 대답을 이상하게 할까.md",
+    "강의/modules/스프레드시트 예제.md",
+    "강의/modules/소프트웨어 분류.md",
+    "강의/modules/설문조사.md",
+    "강의/modules/서비스기획 Flow.md",
     "강의/attachments/ux-dark_pattern_baro.png",
+    "강의/attachments/ux-process_develop.png",
+    "강의/modules/서비스기획 개론.md",
+    "강의/modules/서버는 무한루프다..md",
+    "강의/modules/사용자 여정 지도.md",
+    "강의/modules/쁘띠 소프트웨어 공학.md",
+    "강의/modules/모든 프로그램의 작동 방식.md",
+    "강의/modules/마크다운.md",
+    "강의/modules/데이터베이스.md",
     "강의/modules/다크패턴.md",
     "강의/attachments/ux-dark_pattern_nag.png",
     "강의/attachments/ux-dark_pattern_seat.png",
     "강의/modules/다양한 사용자를 고려하기.md",
-    "강의/modules/마크다운.md",
-    "강의/modules/데이터베이스.md",
     "강의/notes/노션 예제.md",
     "강의/modules/기획자의 무기.md",
     "강의/modules/기타 UX 도구들.md",
     "강의/modules/기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다.md",
     "강의/modules/경위서 쓰기.md",
-    "강의/modules/모든 프로그램의 작동 방식.md",
     "강의/아는 만큼 쓰는 ChatGPT.md",
     "강의/구글 시트로 업무자산 관리하기.md",
     "강의/이미지 생성 AI 활용.md",
     "강의/강사 소개.md",
-    "강의/기획 선배의 맞는 말 대잔치.md",
-    "강의/노션 야무지게 쓰기.md",
-    "강의/디지텍고 강의.md",
-    "강의/바이브 코딩.md",
-    "강의/notes/버블.md",
-    "강의/notes/Make 예제.md",
-    "강의/modules/GPTs.md",
-    "강의/서비스기획.index.md",
-    "강의/modules/서비스기획 개론.md",
-    "강의/modules/서버는 무한루프다..md",
-    "conflict-files-obsidian-git.md",
     "강의/notes",
     "강의/snippets",
     "강의/practices",
@@ -303,11 +290,6 @@
     "강의/attachments/웹은_사각형으로.png.png",
     "강의/attachments/신한카드 UX Writing 가이드북_v1.0.pdf",
     "강의/attachments/ux-toss-dark-mode.png",
-    "강의/attachments/ux-card-sorting.png",
-    "강의/attachments/terminal.png",
-    "강의/attachments/read_finance.png",
-    "강의/attachments/pm-lean_startup.png",
-    "강의/attachments/page-panel.png",
     "강의/attachments/G메일과 make 연동하기.pdf",
     "강의/서비스기획/practices/UX 리포팅.project.pptx",
     "강의/서비스기획/practices/attachments",

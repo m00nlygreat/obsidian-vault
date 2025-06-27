@@ -89,7 +89,7 @@
 
 ## 구현 및 테스트
 
-![](../attachments/프로그램의%20완성%20과정.png)
+![](../attachments/ux-process_develop.png)
 
 ---
 
