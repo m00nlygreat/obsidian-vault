@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "바이브 코딩",
+      "path": "강의/바이브 코딩.md"
+    },
+    {
+      "basename": "노코드 개론",
+      "path": "강의/notes/노코드 개론.md"
+    },
+    {
+      "basename": "디지텍고 강의",
+      "path": "강의/notes/디지텍고 강의.md"
+    },
+    {
       "basename": "아는 만큼 쓰는 ChatGPT",
       "path": "강의/아는 만큼 쓰는 ChatGPT.md"
     },
@@ -187,14 +199,6 @@
     {
       "basename": "타입과 연산-프로퍼티",
       "path": "강의/modules/타입과 연산-프로퍼티.md"
-    },
-    {
-      "basename": "조작-인터랙션-피드백",
-      "path": "강의/modules/조작-인터랙션-피드백.md"
-    },
-    {
-      "basename": "인수-인자 vs 매개변수",
-      "path": "강의/modules/인수-인자 vs 매개변수.md"
     }
   ],
   "omittedPaths": [],
