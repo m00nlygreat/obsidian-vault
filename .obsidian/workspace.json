@@ -28,35 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/modules/UI 엘리먼트.md",
+                "file": "강의/아는 만큼 쓰는 ChatGPT.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "UI 엘리먼트"
+              "title": "아는 만큼 쓰는 ChatGPT"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "406ac7f86ac81ace",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b8ab71fdebf1ec6b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "강의/attachments/ux-lists_on_devices.png"
-              },
-              "icon": "lucide-image",
-              "title": "ux-lists_on_devices"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -236,10 +218,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "강의/modules/UI 엘리먼트.md"
+                "file": "강의/아는 만큼 쓰는 ChatGPT.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for UI 엘리먼트"
+              "title": "File properties for 아는 만큼 쓰는 ChatGPT"
             }
           }
         ],
@@ -268,8 +250,15 @@
   },
   "active": "291f266d516ebdbe",
   "lastOpenFiles": [
-    "강의/attachments/ux-lists_on_devices.png",
+    "강의/modules/VBA with GPT.md",
+    "강의/구글 시트로 업무자산 관리하기.pptx",
+    "강의/modules/UX Writing.md",
+    "강의/modules/UX 이모저모.md",
+    "강의/notes/UX 이론.md",
+    "강의/modules/UI-UX 개론.md",
     "강의/modules/UI 엘리먼트.md",
+    "강의/attachments/ux-know_your_menu.png",
+    "강의/attachments/ux-lists_on_devices.png",
     "강의/attachments/ux-lists.png",
     "강의/attachments/ux-screens.png",
     "강의/attachments/ux-popups.png",
@@ -278,7 +267,6 @@
     "강의/attachments/ux-sliders.png",
     "강의/attachments/ux-inputs.png",
     "강의/attachments/ux-switches.png",
-    "강의/attachments/ux-checkboxes.png",
     "강의/modules/UI 기타.md",
     "강의/modules/OpenAI API Key 발급.md",
     "강의/modules/Make와 G메일 연동.md",
@@ -299,11 +287,6 @@
     "강의/modules/타입과 연산-프로퍼티.md",
     "강의/modules/조작-인터랙션-피드백.md",
     "강의/modules/인수-인자 vs 매개변수.md",
-    "강의/modules/이미지 생성 프롬프트.md",
-    "강의/attachments/genAI-looks_vibes_punks_waves.png",
-    "강의/modules/유저 퍼소나.md",
-    "강의/modules/왜 내 GPT는 대답을 이상하게 할까.md",
-    "강의/modules/스프레드시트 예제.md",
     "강의/notes",
     "강의/snippets",
     "강의/practices",
@@ -314,7 +297,6 @@
     "강의/노코드 엔지니어링/Untitled.canvas",
     "강의/Untitled.canvas",
     "강의/기획 선배의 맞는 말 대잔치.pptx",
-    "강의/서비스기획/practices",
-    "강의/~$기획 선배의 맞는 말 대잔치.pptx"
+    "강의/서비스기획/practices"
   ]
 }

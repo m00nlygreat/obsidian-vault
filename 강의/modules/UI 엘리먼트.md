@@ -233,14 +233,14 @@
 - 프로퍼티를 가진 복수 개의 복잡한 정보를 나타내는 효과적인 UI 요소
 - Flat UI의 핵심
 
-![](../attachments/Pasted%20image%2020240711162808.png)
+![](../attachments/ux-cards.png)
 
 ## Popup / Context Menu
 
 - 우클릭하면 나타나는 상황에 맞는 (Contextual) 메뉴
 - Dropdown과 비슷하게 메뉴 출현 위치에 대해 고민 필요
 
-![](../attachments/Pasted%20image%2020240711163523.png)
+![](../attachments/ux-context_menu.png)
 
 ## 기타
 
@@ -277,7 +277,7 @@
 - Toast
 - Breadcrumbs
 
-![](../attachments/Pasted%20image%2020240711121345.png)
+![](../attachments/ux-know_your_menu.png)
 
 ## 이름에 집착하지 맙시다
 
