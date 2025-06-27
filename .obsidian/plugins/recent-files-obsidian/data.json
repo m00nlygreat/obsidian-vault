@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ChatGPT 기초 사용법",
+      "path": "강의/modules/ChatGPT 기초 사용법.md"
+    },
+    {
       "basename": "아는 만큼 쓰는 ChatGPT",
       "path": "강의/아는 만큼 쓰는 ChatGPT.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "ChatGPT 예제",
       "path": "강의/modules/ChatGPT 예제.md"
-    },
-    {
-      "basename": "ChatGPT 기초 사용법",
-      "path": "강의/modules/ChatGPT 기초 사용법.md"
     },
     {
       "basename": "ChatGPT 기능 일람",

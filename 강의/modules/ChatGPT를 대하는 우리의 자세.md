@@ -1,5 +1,6 @@
 ---
 type: module
+title: ChatGPT를 대하는 우리의 자세
 ---
 
 ## ChatGPT와 생성형 AI에 대한 오해
