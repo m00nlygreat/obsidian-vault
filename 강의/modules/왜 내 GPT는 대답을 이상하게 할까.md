@@ -1,6 +1,7 @@
 ---
 type: module
 ---
+
 ## 왜 내 GPT는 대답을 이상하게 할까?
 
 ### Knowledge Cut-off

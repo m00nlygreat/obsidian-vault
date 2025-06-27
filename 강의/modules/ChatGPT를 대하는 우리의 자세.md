@@ -1,6 +1,7 @@
 ---
 type: module
 ---
+
 ## ChatGPT와 생성형 AI에 대한 오해
 
 - *“대박 쉬운 ChatGPT로 코딩하기”*
