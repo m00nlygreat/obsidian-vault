@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/flattened.md",
+                "file": "postmortems/파이썬 가상환경 venv 및 requirements 사용.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "flattened"
+              "title": "파이썬 가상환경 venv 및 requirements 사용"
             }
           }
         ]
@@ -220,9 +220,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "postmortems/파이썬 가상환경 venv 및 requirements 사용.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 파이썬 가상환경 venv 및 requirements 사용"
             }
           }
         ],
@@ -249,8 +251,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1c9b42bc6e008595",
+  "active": "ecc4433780174b64",
   "lastOpenFiles": [
+    "postmortems/파이썬 가상환경 venv 및 requirements 사용.md",
     "강의/flattened.md",
     "강의/피그마 그래픽스.md",
     "강의/필살기 프레이머.md",
@@ -278,7 +281,6 @@
     "강의/notes/서비스 기획 잔소리.md",
     "강의/notes/생성형 AI 교안 조각.md",
     "강의/notes/버블.md",
-    "강의/notes/모든 프로그램의 작동 방식.md",
     "강의/notes",
     "강의/flattened.slides.json",
     "강의/flattened.pptx",
