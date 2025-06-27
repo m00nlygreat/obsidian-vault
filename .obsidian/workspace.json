@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/아는 만큼 쓰는 ChatGPT.md",
+                "file": "강의/modules/소프트웨어 분류.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "아는 만큼 쓰는 ChatGPT"
+              "title": "소프트웨어 분류"
             }
           }
         ],
@@ -218,10 +218,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "강의/아는 만큼 쓰는 ChatGPT.md"
+                "file": "강의/modules/소프트웨어 분류.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 아는 만큼 쓰는 ChatGPT"
+              "title": "File properties for 소프트웨어 분류"
             }
           }
         ],
@@ -248,8 +248,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db4a2328eafaef33",
+  "active": "291f266d516ebdbe",
   "lastOpenFiles": [
+    "강의/아는 만큼 쓰는 ChatGPT.md",
     "강의/기획 선배의 맞는 말 대잔치.pptx",
     "output/아는 만큼 쓰는 ChatGPT/아는 만큼 쓰는 ChatGPT.html",
     "output/아는 만큼 쓰는 ChatGPT/attachments/71d8aef64bd2cac0f736d67d7aa11468.md",
@@ -295,7 +296,6 @@
     "강의/snippets",
     "강의/practices",
     "강의/attachments/신한카드 UX Writing 가이드북_v1.0.pdf",
-    "강의/attachments/G메일과 make 연동하기.pdf",
     "강의/노코드 엔지니어링/Untitled.canvas",
     "강의/Untitled.canvas"
   ]

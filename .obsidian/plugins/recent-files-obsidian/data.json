@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "소프트웨어 분류",
+      "path": "강의/modules/소프트웨어 분류.md"
+    },
+    {
       "basename": "아는 만큼 쓰는 ChatGPT",
       "path": "강의/아는 만큼 쓰는 ChatGPT.md"
     },
@@ -179,10 +183,6 @@
     {
       "basename": "스프레드시트 예제",
       "path": "강의/modules/스프레드시트 예제.md"
-    },
-    {
-      "basename": "소프트웨어 분류",
-      "path": "강의/modules/소프트웨어 분류.md"
     },
     {
       "basename": "설문조사",
