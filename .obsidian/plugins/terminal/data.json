@@ -31,8 +31,8 @@
         "SIGTERM"
       ],
       "terminalOptions": {
-        "documentOverride": null,
-        "fontFamily": "Input Mono"
+        "fontFamily": "Input Mono",
+        "documentOverride": null
       },
       "type": "integrated",
       "useWin32Conhost": true
