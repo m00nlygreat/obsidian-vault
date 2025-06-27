@@ -11,10 +11,15 @@
             "id": "ecc4433780174b64",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "강의/flattened.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "flattened"
             }
           }
         ]
@@ -164,9 +169,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "강의/flattened.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for flattened"
             }
           }
         ],
@@ -195,6 +202,9 @@
   },
   "active": "ecc4433780174b64",
   "lastOpenFiles": [
+    "강의/피그마 그래픽스.md",
+    "강의/필살기 프레이머.md",
+    "강의/flattened.md",
     "강의/snippets/팩트체크.md",
     "강의/snippets/사주팔자 분석.md",
     "강의/snippets/사고 분석 및 조언.md",
@@ -220,9 +230,6 @@
     "강의/notes/생성형 AI 교안 조각.md",
     "강의/notes/버블.md",
     "강의/notes/모든 프로그램의 작동 방식.md",
-    "강의/notes/면접 멘토링.md",
-    "강의/notes/노코드를 시작하기 전에 알았으면 좋았을 것들.md",
-    "강의/notes/노코드 유즈케이스.md",
     "강의/notes",
     "강의/flattened.slides.json",
     "강의/flattened.pptx",
