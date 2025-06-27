@@ -2,6 +2,7 @@
 type: module
 title: ChatGPT 기초 사용법
 ---
+
 ## 소개
 
 ![](../attachments/chatgpt-gpt_models.png)
