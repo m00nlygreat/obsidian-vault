@@ -16,7 +16,7 @@
   "profiles": {
     "dc9ddbff-d138-4360-99d5-3ccab6f039fb": {
       "args": [],
-      "executable": "C:\\Users\\Moon\\AppData\\Local\\Programs\\nu\\bin\\nu.exe",
+      "executable": "nu.exe",
       "name": "NuShell",
       "platforms": {
         "darwin": false,
@@ -31,7 +31,8 @@
         "SIGTERM"
       ],
       "terminalOptions": {
-        "documentOverride": null
+        "documentOverride": null,
+        "fontFamily": "Input Mono"
       },
       "type": "integrated",
       "useWin32Conhost": true
