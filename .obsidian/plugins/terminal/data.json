@@ -11,7 +11,7 @@
   "newInstanceBehavior": "newVerticalSplit",
   "noticeTimeout": 5,
   "openChangelogOnUpdate": true,
-  "pinNewInstance": true,
+  "pinNewInstance": false,
   "preferredRenderer": "webgl",
   "profiles": {
     "dc9ddbff-d138-4360-99d5-3ccab6f039fb": {

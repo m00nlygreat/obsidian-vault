@@ -11,61 +11,15 @@
             "id": "6ccc8107d50c059c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "3681dafb67b31813",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "646a1f8463af31ac",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
+              "type": "markdown",
               "state": {
-                "terminal:terminal": {
-                  "cwd": "D:\\vault\\강의",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "nu.exe",
-                    "name": "NuShell",
-                    "platforms": {
-                      "darwin": false,
-                      "linux": false,
-                      "win32": true
-                    },
-                    "pythonExecutable": "",
-                    "restoreHistory": true,
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "fontFamily": "Input Mono",
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": {
-                    "columns": 86,
-                    "data": "",
-                    "rows": 60
-                  }
-                }
+                "file": "강의/아는 만큼 쓰는 ChatGPT.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
               },
-              "pinned": true,
-              "icon": "terminal",
-              "title": "Terminal: NuShell"
+              "icon": "lucide-file",
+              "title": "아는 만큼 쓰는 ChatGPT"
             }
           }
         ]
@@ -215,9 +169,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "강의/아는 만큼 쓰는 ChatGPT.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 아는 만큼 쓰는 ChatGPT"
             }
           }
         ],
@@ -244,7 +200,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "646a1f8463af31ac",
+  "active": "6ccc8107d50c059c",
   "lastOpenFiles": [
     "postmortems/파이썬 가상환경 venv 및 requirements 사용.md",
     "강의/flattened.md",
