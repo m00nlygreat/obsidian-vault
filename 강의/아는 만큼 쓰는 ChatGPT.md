@@ -68,7 +68,7 @@ type: text
 
 # AI 이모저모
 
-![AI이모저모](modules/AI이모저모.md)
+![AI 이모저모](modules/AI%20이모저모.md)
 
 # ChatGPT 사용해보기
 

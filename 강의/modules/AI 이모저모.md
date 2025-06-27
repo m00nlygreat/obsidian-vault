@@ -1,5 +1,6 @@
 ---
 type: module
+title: AI 이모저모
 ---
 ## AI의 역사
 
