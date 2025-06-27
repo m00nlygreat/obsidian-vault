@@ -1,5 +1,6 @@
 ---
-type: module
+type: practice
+title: OpenAI API Key 발급
 ---
 ## OpenAI API Key 발급
 

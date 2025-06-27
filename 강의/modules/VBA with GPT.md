@@ -1,6 +1,8 @@
 ---
 type: module
+title: VBA with GPT
 ---
+
 ## VBA
 
 - Visual Basic for Applications

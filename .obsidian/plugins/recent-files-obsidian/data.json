@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "GPT를 엑셀 안에서 사용하기",
-      "path": "강의/modules/GPT를 엑셀 안에서 사용하기.md"
-    },
-    {
       "basename": "아는 만큼 쓰는 ChatGPT",
       "path": "강의/아는 만큼 쓰는 ChatGPT.md"
+    },
+    {
+      "basename": "VBA with GPT",
+      "path": "강의/modules/VBA with GPT.md"
+    },
+    {
+      "basename": "OpenAI API Key 발급",
+      "path": "강의/modules/OpenAI API Key 발급.md"
+    },
+    {
+      "basename": "GPT를 엑셀 안에서 사용하기",
+      "path": "강의/modules/GPT를 엑셀 안에서 사용하기.md"
     },
     {
       "basename": "ChatGPT 예제",
@@ -47,10 +55,6 @@
     {
       "basename": "소프트웨어 분류",
       "path": "강의/modules/소프트웨어 분류.md"
-    },
-    {
-      "basename": "VBA with GPT",
-      "path": "강의/modules/VBA with GPT.md"
     },
     {
       "basename": "UX Writing",
@@ -119,10 +123,6 @@
     {
       "basename": "UI 기타",
       "path": "강의/modules/UI 기타.md"
-    },
-    {
-      "basename": "OpenAI API Key 발급",
-      "path": "강의/modules/OpenAI API Key 발급.md"
     },
     {
       "basename": "Make와 G메일 연동",

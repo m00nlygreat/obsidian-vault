@@ -1,5 +1,6 @@
 ---
 type: module
+title: GPT를 엑셀 안에서 사용하기
 ---
 ## GPT를 엑셀 안에서 사용하기
 
