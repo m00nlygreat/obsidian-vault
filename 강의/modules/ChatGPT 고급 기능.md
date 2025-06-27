@@ -1,6 +1,8 @@
 ---
 type: module
+title: ChatGPT 고급 기능
 ---
+
 ## Custom Instruction & Memory
 
 ### Custom Instruction 
