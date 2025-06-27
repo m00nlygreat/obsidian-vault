@@ -194,7 +194,7 @@
 
 - 2차 인증번호를 입력하는 Modeless 팝업?
 
-![](../attachments/Pasted%20image%2020240711141425.png)
+![](../attachments/ux-popups.png)
 
 
 ## Screen / Page
@@ -211,20 +211,20 @@
 	- Single Column
 	- 카드소팅(Card Sorting)
 
-![](../attachments/Pasted%20image%2020240711151605.png)
+![](../attachments/ux-screens.png)
 
 ## List
 
 - 여러 개의 항목을 보여주는 컨테이너
 - Swipe actions
 
-![](../attachments/Pasted%20image%2020240711162442.png)
+![](../attachments/ux-lists.png)
 
 ---
 
 ### 다양한 기기에서의 List
 
-![](../attachments/Pasted%20image%2020240711162607.png)
+![](../attachments/ux-lists_on_devices.png)
 
 ---
 

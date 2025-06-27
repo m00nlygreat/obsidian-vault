@@ -41,19 +41,19 @@
         "currentTab": 1
       },
       {
-        "id": "29a11038f8a7bd8e",
+        "id": "406ac7f86ac81ace",
         "type": "tabs",
         "children": [
           {
-            "id": "60d18cb073204ec0",
+            "id": "b8ab71fdebf1ec6b",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "강의/attachments/Pasted image 20240711141425.png"
+                "file": "강의/attachments/ux-lists_on_devices.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20240711141425"
+              "title": "ux-lists_on_devices"
             }
           }
         ]
@@ -236,10 +236,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "강의/attachments/Pasted image 20240711141425.png"
+                "file": "강의/modules/UI 엘리먼트.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Pasted image 20240711141425"
+              "title": "File properties for UI 엘리먼트"
             }
           }
         ],
@@ -266,9 +266,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "60d18cb073204ec0",
+  "active": "291f266d516ebdbe",
   "lastOpenFiles": [
+    "강의/attachments/ux-lists_on_devices.png",
     "강의/modules/UI 엘리먼트.md",
+    "강의/attachments/ux-lists.png",
+    "강의/attachments/ux-screens.png",
+    "강의/attachments/ux-popups.png",
     "강의/attachments/ux-elements_dialogues.png",
     "강의/attachments/ux-elements_progress_bars.png",
     "강의/attachments/ux-sliders.png",
@@ -298,11 +302,8 @@
     "강의/modules/이미지 생성 프롬프트.md",
     "강의/attachments/genAI-looks_vibes_punks_waves.png",
     "강의/modules/유저 퍼소나.md",
-    "강의/attachments/ux-persona_behavior2.png",
-    "강의/attachments/ux-persona_behavior.png",
     "강의/modules/왜 내 GPT는 대답을 이상하게 할까.md",
     "강의/modules/스프레드시트 예제.md",
-    "강의/attachments/ux-dark_pattern_baro.png",
     "강의/notes",
     "강의/snippets",
     "강의/practices",

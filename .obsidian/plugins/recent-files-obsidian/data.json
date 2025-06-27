@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Pasted image 20240711141425",
-      "path": "강의/attachments/Pasted image 20240711141425.png"
-    },
-    {
       "basename": "UI 엘리먼트",
       "path": "강의/modules/UI 엘리먼트.md"
+    },
+    {
+      "basename": "ux-lists_on_devices",
+      "path": "강의/attachments/ux-lists_on_devices.png"
+    },
+    {
+      "basename": "ux-lists",
+      "path": "강의/attachments/ux-lists.png"
+    },
+    {
+      "basename": "ux-screens",
+      "path": "강의/attachments/ux-screens.png"
+    },
+    {
+      "basename": "ux-popups",
+      "path": "강의/attachments/ux-popups.png"
     },
     {
       "basename": "ux-elements_dialogues",
@@ -187,18 +199,6 @@
     {
       "basename": "데이터베이스",
       "path": "강의/modules/데이터베이스.md"
-    },
-    {
-      "basename": "다크패턴",
-      "path": "강의/modules/다크패턴.md"
-    },
-    {
-      "basename": "ux-dark_pattern_nag",
-      "path": "강의/attachments/ux-dark_pattern_nag.png"
-    },
-    {
-      "basename": "ux-dark_pattern_seat",
-      "path": "강의/attachments/ux-dark_pattern_seat.png"
     }
   ],
   "omittedPaths": [],
