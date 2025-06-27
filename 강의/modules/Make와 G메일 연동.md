@@ -7,5 +7,5 @@
 - [G메일과 Make 연동하기.pdf 참고](https://drive.google.com/file/d/19nuEHqB_igGDb35ujPkOmrUScNJ01fX7/view?usp=sharing)
 	- [Make documentation](https://www.make.com/en/help/app/gmail)
 
-![](../../attachments/make-gmail_inte.png)
+![](../attachments/make-gmail_inte.png)
 

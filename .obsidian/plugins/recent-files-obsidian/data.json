@@ -1,6 +1,82 @@
 {
   "recentFiles": [
     {
+      "basename": "UI 엘리먼트",
+      "path": "강의/modules/UI 엘리먼트.md"
+    },
+    {
+      "basename": "UI 기타",
+      "path": "강의/modules/UI 기타.md"
+    },
+    {
+      "basename": "OpenAI API Key 발급",
+      "path": "강의/modules/OpenAI API Key 발급.md"
+    },
+    {
+      "basename": "Make와 G메일 연동",
+      "path": "강의/modules/Make와 G메일 연동.md"
+    },
+    {
+      "basename": "GPTs",
+      "path": "강의/modules/GPTs.md"
+    },
+    {
+      "basename": "GPT를 엑셀 안에서 사용하기",
+      "path": "강의/modules/GPT를 엑셀 안에서 사용하기.md"
+    },
+    {
+      "basename": "ChatGPT와 코딩하기",
+      "path": "강의/modules/ChatGPT와 코딩하기.md"
+    },
+    {
+      "basename": "ChatGPT를 대하는 우리의 자세",
+      "path": "강의/modules/ChatGPT를 대하는 우리의 자세.md"
+    },
+    {
+      "basename": "ChatGPT 예제",
+      "path": "강의/modules/ChatGPT 예제.md"
+    },
+    {
+      "basename": "ChatGPT 기초 사용법",
+      "path": "강의/modules/ChatGPT 기초 사용법.md"
+    },
+    {
+      "basename": "ChatGPT 기능 일람",
+      "path": "강의/modules/ChatGPT 기능 일람.md"
+    },
+    {
+      "basename": "ChatGPT 고급 기능",
+      "path": "강의/modules/ChatGPT 고급 기능.md"
+    },
+    {
+      "basename": "API",
+      "path": "강의/modules/API.md"
+    },
+    {
+      "basename": "AI이모저모",
+      "path": "강의/modules/AI이모저모.md"
+    },
+    {
+      "basename": "하이퍼 파라미터(Hyperparameters)",
+      "path": "강의/modules/하이퍼 파라미터(Hyperparameters).md"
+    },
+    {
+      "basename": "프롬프트 엔지니어링",
+      "path": "강의/modules/프롬프트 엔지니어링.md"
+    },
+    {
+      "basename": "프로젝트 매니지먼트",
+      "path": "강의/modules/프로젝트 매니지먼트.md"
+    },
+    {
+      "basename": "터미널 사용하기",
+      "path": "강의/modules/터미널 사용하기.md"
+    },
+    {
+      "basename": "타입과 연산-프로퍼티",
+      "path": "강의/modules/타입과 연산-프로퍼티.md"
+    },
+    {
       "basename": "조작-인터랙션-피드백",
       "path": "강의/modules/조작-인터랙션-피드백.md"
     },
@@ -123,82 +199,6 @@
     {
       "basename": "아는 만큼 쓰는 ChatGPT",
       "path": "강의/아는 만큼 쓰는 ChatGPT.md"
-    },
-    {
-      "basename": "구글 시트로 업무자산 관리하기",
-      "path": "강의/구글 시트로 업무자산 관리하기.md"
-    },
-    {
-      "basename": "이미지 생성 AI 활용",
-      "path": "강의/이미지 생성 AI 활용.md"
-    },
-    {
-      "basename": "강사 소개",
-      "path": "강의/강사 소개.md"
-    },
-    {
-      "basename": "기획 선배의 맞는 말 대잔치",
-      "path": "강의/기획 선배의 맞는 말 대잔치.md"
-    },
-    {
-      "basename": "노션 야무지게 쓰기",
-      "path": "강의/노션 야무지게 쓰기.md"
-    },
-    {
-      "basename": "디지텍고 강의",
-      "path": "강의/디지텍고 강의.md"
-    },
-    {
-      "basename": "바이브 코딩",
-      "path": "강의/바이브 코딩.md"
-    },
-    {
-      "basename": "버블",
-      "path": "강의/notes/버블.md"
-    },
-    {
-      "basename": "Make 예제",
-      "path": "강의/notes/Make 예제.md"
-    },
-    {
-      "basename": "GPTs",
-      "path": "강의/modules/GPTs.md"
-    },
-    {
-      "basename": "서비스기획.index",
-      "path": "강의/서비스기획.index.md"
-    },
-    {
-      "basename": "HTML-CSS 추가",
-      "path": "강의/notes/HTML-CSS 추가.md"
-    },
-    {
-      "basename": "노코드 개론",
-      "path": "강의/노코드 개론.md"
-    },
-    {
-      "basename": "풀스택 노코드 버블",
-      "path": "강의/풀스택 노코드 버블.md"
-    },
-    {
-      "basename": "포트폴리오 메모",
-      "path": "강의/notes/포트폴리오 메모.md"
-    },
-    {
-      "basename": "필살기 프레이머",
-      "path": "강의/필살기 프레이머.md"
-    },
-    {
-      "basename": "Make와 백엔드 자동화",
-      "path": "강의/Make와 백엔드 자동화.md"
-    },
-    {
-      "basename": "HTML-CSS",
-      "path": "강의/HTML-CSS.md"
-    },
-    {
-      "basename": "LLM을 UX에 통합하기",
-      "path": "강의/notes/LLM을 UX에 통합하기.md"
     }
   ],
   "omittedPaths": [],
