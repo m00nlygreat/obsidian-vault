@@ -23,55 +23,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "898d92a212b5edd0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1ffc24ecc40a706c",
-            "type": "leaf",
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "D:\\vault\\강의",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "nu.exe",
-                    "name": "NuShell",
-                    "platforms": {
-                      "darwin": false,
-                      "linux": false,
-                      "win32": true
-                    },
-                    "pythonExecutable": "",
-                    "restoreHistory": true,
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "fontFamily": "Input Mono",
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": {
-                    "columns": 86,
-                    "data": "\u001b[32m     __  ,\r\n .--()°'.' \u001b[0mWelcome to \u001b[32mNushell\u001b[0m,\r\n\u001b[32m'|, . ,'   \u001b[0mbased on the \u001b[32mnu\u001b[0m language,\r\n\u001b[32m !_-(_\\    \u001b[0mwhere all data is structured!\r\n\r\nVersion: \u001b[32m0.105.1 (x86_64-pc-windows-msvc)\r\n\u001b[0m╭────┬──────────────────────────────────┬──────┬─────────┬──────────────╮\r\n│  \u001b[92;1m#\u001b[0m │\u001b[15C\u001b[92;1mname\u001b[15C\u001b[0m│ \u001b[92;1mtype\u001b[0m │  \u001b[92;1msize\u001b[0m   │   \u001b[92;1mmodified\u001b[0m   │\r\n├────┼──────────────────────────────────┼──────┼─────────┼──────────────┤\r\n│  \u001b[92;1m0\u001b[0m │ \u001b[38;2;223;215;95mHTML-CSS.md\u001b[22C\u001b[0m│ file │ \u001b[36m16.9 kB\u001b[0m │ \u001b[35m3 weeks ago\u001b[0m  │\r\n│  \u001b[92;1m1\u001b[0m │ \u001b[38;2;223;215;95mMake와 백엔드 자동화.md\u001b[10C\u001b[0m│ file │  \u001b[36m4.4 kB\u001b[0m │ \u001b[35m11 hours ago\u001b[0m │\r\n│  \u001b[92;1m2\u001b[0m │ \u001b[38;2;95;215;255mattachments\u001b[22C\u001b[0m│ dir  │ \u001b[36m65.5 kB\u001b[0m │ \u001b[35m11 hours ago\u001b[0m │\r\n│  \u001b[92;1m3\u001b[0m │ \u001b[38;2;95;215;255mmodules\u001b[26C\u001b[0m│ dir  │  \u001b[36m8.1 kB\u001b[0m │ \u001b[35m11 hours ago\u001b[0m │\r\n│  \u001b[92;1m4\u001b[0m │ \u001b[38;2;95;215;255mnotes\u001b[28C\u001b[0m│ dir  │  \u001b[36m4.0 kB\u001b[0m │ \u001b[35m9 hours ago\u001b[0m  │\r\n│  \u001b[92;1m5\u001b[0m │ \u001b[38;2;95;215;255mpractices\u001b[24C\u001b[0m│ dir  │  \u001b[36m4.0 kB\u001b[0m │ \u001b[35m11 hours ago\u001b[0m │\r\n│  \u001b[92;1m6\u001b[0m │ \u001b[38;2;95;215;255msnippets\u001b[25C\u001b[0m│ dir  │     \u001b[36m0 B\u001b[0m │ \u001b[35m11 hours ago\u001b[0m │\r\n│  \u001b[92;1m7\u001b[0m │ \u001b[38;2;223;215;95m강사 소개.md\u001b[21C\u001b[0m│ file │   \u001b[36m452 B\u001b[0m │ \u001b[35m3 weeks ago\u001b[0m  │\r\n│  \u001b[92;1m8\u001b[0m │ \u001b[38;2;223;215;95m구글 시트로 업무자산 관리하기.md\u001b[0m │ file │  \u001b[36m9.7 kB\u001b[0m │ \u001b[35m11 hours ago\u001b[0m │\r\n│  \u001b[92;1m9\u001b[0m │ \u001b[38;2;223;215;95m기획 선배의 맞는 말 대잔치.md\u001b[0m    │ file │  \u001b[36m1.1 kB\u001b[0m │ \u001b[35m11 hours ago\u001b[0m │\r\n│ \u001b[92;1m10\u001b[0m │ \u001b[38;2;223;215;95m노션 야무지게 쓰기.md\u001b[12C\u001b[0m│ file │  \u001b[36m8.0 kB\u001b[0m │ \u001b[35m11 hours ago\u001b[0m │\r\n│ \u001b[92;1m11\u001b[0m │ \u001b[38;2;223;215;95m바이브 코딩.md\u001b[19C\u001b[0m│ file │  \u001b[36m1.4 kB\u001b[0m │ \u001b[35m9 hours ago\u001b[0m  │\r\n│ \u001b[92;1m12\u001b[0m │ \u001b[38;2;223;215;95m서비스기획.index.md\u001b[14C\u001b[0m│ file │  \u001b[36m1.4 kB\u001b[0m │ \u001b[35m11 hours ago\u001b[0m │\r\n│ \u001b[92;1m13\u001b[0m │ \u001b[38;2;223;215;95m아는 만큼 쓰는 ChatGPT.md\u001b[0m        │ file │  \u001b[36m3.1 kB\u001b[0m │ \u001b[35m9 hours ago\u001b[0m  │\r\n│ \u001b[92;1m14\u001b[0m │ \u001b[38;2;223;215;95m이미지 생성 AI 활용.md\u001b[11C\u001b[0m│ file │  \u001b[36m2.5 kB\u001b[0m │ \u001b[35m11 hours ago\u001b[0m │\r\n│ \u001b[92;1m15\u001b[0m │ \u001b[38;2;95;215;255m자료\u001b[29C\u001b[0m│ dir  │     \u001b[36m0 B\u001b[0m │ \u001b[35m3 weeks ago\u001b[0m  │\r\n│ \u001b[92;1m16\u001b[0m │ \u001b[38;2;223;215;95m풀스택 노코드 버블.md\u001b[12C\u001b[0m│ file │ \u001b[36m23.6 kB\u001b[0m │ \u001b[35m11 hours ago\u001b[0m │\r\n│ \u001b[92;1m17\u001b[0m │ \u001b[38;2;223;215;95m피그마 그래픽스.md\u001b[15C\u001b[0m│ file │ \u001b[36m12.6 kB\u001b[0m │ \u001b[35m11 hours ago\u001b[0m │\r\nSuccessfully converted D:\\vault\\강의\\아는 만큼 쓰는 ChatGPT.md to E:\\Downloads\\lecture\\아는 만큼 쓰는 ChatGPT 2025-06-28ture\\아는 만큼 쓰는 ChatGPT 2025-06-28 1456.pptx\r\n\u001b[92;1mD:\\vault\\강의\u001b[96;22m> \u001b[70C\u001b[35m 2025년 06월 28일 14시 56분 11초\u001b[54C 2025년 06월 28일 14시 56분 11초\u001b[2A\u001b[16D\u001b[0m",
-                    "rows": 60
-                  }
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -238,10 +189,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "copilot:Open Copilot Chat": false,
+      "terminal:Open terminal": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1ffc24ecc40a706c",
+  "active": "6ccc8107d50c059c",
   "lastOpenFiles": [
     "강의/바이브 코딩.md",
     "강의/노션 야무지게 쓰기.md",
