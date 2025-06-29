@@ -169,9 +169,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "강의/바이브 코딩.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 바이브 코딩"
             }
           }
         ],
