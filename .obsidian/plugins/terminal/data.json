@@ -1,19 +1,42 @@
 {
   "addToCommand": true,
-  "addToContextMenu": false,
+  "addToContextMenu": true,
   "createInstanceNearExistingOnes": true,
   "errorNoticeTimeout": 0,
   "exposeInternalModules": true,
   "focusOnNewInstance": true,
   "hideStatusBar": "focused",
   "interceptLogging": true,
-  "language": "",
+  "language": "ko",
   "newInstanceBehavior": "newVerticalSplit",
   "noticeTimeout": 5,
   "openChangelogOnUpdate": true,
-  "pinNewInstance": true,
+  "pinNewInstance": false,
   "preferredRenderer": "webgl",
   "profiles": {
+    "dc9ddbff-d138-4360-99d5-3ccab6f039fb": {
+      "args": [],
+      "executable": "nu.exe",
+      "name": "NuShell",
+      "platforms": {
+        "darwin": false,
+        "linux": false,
+        "win32": true
+      },
+      "pythonExecutable": "",
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {
+        "fontFamily": "Input Mono",
+        "documentOverride": null
+      },
+      "type": "integrated",
+      "useWin32Conhost": true
+    },
     "darwinExternalDefault": {
       "args": [
         "\"$PWD\""
@@ -142,24 +165,6 @@
       },
       "type": "integrated",
       "useWin32Conhost": true
-    },
-    "2364b090-0ed5-43ed-b7e3-94db37ba3c9b": {
-      "args": [],
-      "executable": "C:\\Users\\holyc\\AppData\\Local\\Programs\\nu\\bin\\nu.exe",
-      "name": "NuShell Windows",
-      "platforms": {
-        "win32": true
-      },
-      "restoreHistory": true,
-      "successExitCodes": [
-        "0",
-        "SIGINT",
-        "SIGTERM"
-      ],
-      "terminalOptions": {
-        "documentOverride": null
-      },
-      "type": "external"
     }
   }
 }

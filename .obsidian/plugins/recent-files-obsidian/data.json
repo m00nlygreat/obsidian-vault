@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "바이브 코딩",
+      "path": "강의/바이브 코딩.md"
+    },
+    {
+      "basename": "노션 야무지게 쓰기",
+      "path": "강의/노션 야무지게 쓰기.md"
+    },
+    {
+      "basename": "노코드 개론",
+      "path": "강의/notes/노코드 개론.md"
+    },
+    {
+      "basename": "디지텍고 강의",
+      "path": "강의/notes/디지텍고 강의.md"
+    },
+    {
       "basename": "아는 만큼 쓰는 ChatGPT",
       "path": "강의/아는 만큼 쓰는 ChatGPT.md"
+    },
+    {
+      "basename": "파이썬 가상환경 venv 및 requirements 사용",
+      "path": "postmortems/파이썬 가상환경 venv 및 requirements 사용.md"
+    },
+    {
+      "basename": "피그마 그래픽스",
+      "path": "강의/피그마 그래픽스.md"
+    },
+    {
+      "basename": "필살기 프레이머",
+      "path": "강의/필살기 프레이머.md"
     },
     {
       "basename": "기획 선배의 맞는 말 대잔치",
@@ -171,34 +199,6 @@
     {
       "basename": "터미널 사용하기",
       "path": "강의/modules/터미널 사용하기.md"
-    },
-    {
-      "basename": "타입과 연산-프로퍼티",
-      "path": "강의/modules/타입과 연산-프로퍼티.md"
-    },
-    {
-      "basename": "조작-인터랙션-피드백",
-      "path": "강의/modules/조작-인터랙션-피드백.md"
-    },
-    {
-      "basename": "인수-인자 vs 매개변수",
-      "path": "강의/modules/인수-인자 vs 매개변수.md"
-    },
-    {
-      "basename": "이미지 생성 프롬프트",
-      "path": "강의/modules/이미지 생성 프롬프트.md"
-    },
-    {
-      "basename": "genAI-looks_vibes_punks_waves",
-      "path": "강의/attachments/genAI-looks_vibes_punks_waves.png"
-    },
-    {
-      "basename": "유저 퍼소나",
-      "path": "강의/modules/유저 퍼소나.md"
-    },
-    {
-      "basename": "ux-persona_behavior2",
-      "path": "강의/attachments/ux-persona_behavior2.png"
     }
   ],
   "omittedPaths": [],
