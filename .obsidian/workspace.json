@@ -1,25 +1,20 @@
 {
   "main": {
-    "id": "2d989f89f11a2b4f",
+    "id": "5a3d71865f4bbbbe",
     "type": "split",
     "children": [
       {
-        "id": "d308d896d8728384",
+        "id": "66655ed784d9ca11",
         "type": "tabs",
         "children": [
           {
-            "id": "6ccc8107d50c059c",
+            "id": "f808767e4669ef19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "강의/바이브 코딩.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "바이브 코딩"
+              "title": "New tab"
             }
           }
         ]
@@ -28,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "eba32cf70094db4f",
+    "id": "36cada25334a9be1",
     "type": "split",
     "children": [
       {
-        "id": "4c75ebf85002087c",
+        "id": "00cd026434d50847",
         "type": "tabs",
         "children": [
           {
-            "id": "3758aaac7eaa4ebc",
+            "id": "db4a2328eafaef33",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +44,7 @@
             }
           },
           {
-            "id": "61f31de25fa073c7",
+            "id": "6f4362d110f0bbdc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +61,7 @@
             }
           },
           {
-            "id": "036b791dfaf2e2b6",
+            "id": "0f4f9dddb05d61f1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,22 +74,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 330.5
   },
   "right": {
-    "id": "1458befa9de87e25",
+    "id": "b79e6e91a3421ce8",
     "type": "split",
     "children": [
       {
-        "id": "e885c3cb83b8c7ee",
+        "id": "48d65e353675aa1d",
         "type": "tabs",
         "children": [
           {
-            "id": "178959480118ceb1",
+            "id": "3940a30b656835c5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "강의/서비스기획/practices/UX 리포팅.project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,24 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for UX 리포팅.project"
             }
           },
           {
-            "id": "98f81c968fe26f9e",
+            "id": "e453ca54f8db63b1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "강의/서비스기획/practices/UX 리포팅.project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from UX 리포팅.project"
             }
           },
           {
-            "id": "2f811b8260cde611",
+            "id": "c6a511c7edab48e3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,7 +133,7 @@
             }
           },
           {
-            "id": "07ed984ecbba31c0",
+            "id": "c375588749b86e10",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -150,22 +147,52 @@
             }
           },
           {
-            "id": "f645e352702623a1",
+            "id": "9a59e797e68e6712",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "postmortems/7z installer.md",
+                "file": "강의/노코드 엔지니어링/modules/타입과 연산-프로퍼티.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 7z installer"
+              "title": "Outline of 타입과 연산-프로퍼티"
             }
           },
           {
-            "id": "1ed501c4823a42cc",
+            "id": "942320e4ae9c8eeb",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "23b7e7aa58438fcd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "87a08736bdb14202",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "7a8caffa864efd5d",
             "type": "leaf",
             "state": {
               "type": "file-properties",
@@ -175,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -198,53 +225,55 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6ccc8107d50c059c",
+  "active": "f808767e4669ef19",
   "lastOpenFiles": [
-    "강의/바이브 코딩.md",
-    "강의/노션 야무지게 쓰기.md",
-    "강의/notes/노코드 개론.md",
-    "강의/notes/디지텍고 강의.md",
+    "강의/modules/다크패턴.md",
+    "강의/modules/기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다.md",
     "강의/아는 만큼 쓰는 ChatGPT.md",
+    "강의/notes/디지텍고 강의.md",
+    "강의/notes/노코드 개론.md",
     "postmortems/파이썬 가상환경 venv 및 requirements 사용.md",
-    "강의/flattened.md",
-    "강의/피그마 그래픽스.md",
-    "강의/필살기 프레이머.md",
-    "강의/snippets/팩트체크.md",
-    "강의/snippets/사주팔자 분석.md",
-    "강의/snippets/사고 분석 및 조언.md",
-    "강의/snippets",
-    "강의/practices/화면 만들기.project.md",
-    "강의/practices/유저 퍼소나.project.md",
-    "강의/practices/소프트웨어 분류하기.project.md",
-    "강의/practices/설문조사.project.md",
-    "강의/practices/사전 평가.md",
-    "강의/practices/사전 평가 질문지.md",
-    "강의/practices/사전 평가 질문지 - 노코드 엔지니어링.md",
-    "강의/practices/다크패턴을 만들어보자.project.md",
-    "강의/practices/UX 리포팅.project.md",
-    "강의/practices/Jira와 애자일.tutorial.md",
-    "강의/practices",
-    "강의/notes/포트폴리오.md",
-    "강의/notes/포트폴리오 메모.md",
-    "강의/notes/채용 공통.md",
-    "강의/notes/인수-인자 vs 매개변수.md",
-    "강의/notes",
-    "강의/flattened.slides.json",
+    "강의/~$flattened.pptx",
     "강의/flattened.pptx",
+    "강의/flattened.slides.json",
     "강의/flattened.json",
-    "강의/attachments/컴퓨터_프로그래밍_언어.jpg",
-    "강의/attachments/웹은_사각형으로.png.png",
-    "강의/attachments/신한카드 UX Writing 가이드북_v1.0.pdf",
-    "강의/attachments/ux-toss-dark-mode.png",
-    "강의/attachments/ux-switches.png",
-    "강의/attachments/ux-sliders.png",
-    "강의/attachments/ux-screens.png",
-    "강의/attachments/ux-process_develop.png",
-    "강의/attachments/ux-popups.png",
-    "강의/attachments/ux-persona_behavior2.png",
-    "강의/attachments/ux-persona_behavior.png",
-    "강의/attachments/G메일과 make 연동하기.pdf",
-    "postmortems/attachments",
-    "강의/서비스기획/practices/attachments"
+    "강의/flattened.md",
+    "강의/아는 만큼 쓰는 ChatGPT_flattened.md",
+    "강의/아는 만큼 쓰는 ChatGPT.slides.json",
+    "강의/아는 만큼 쓰는 ChatGPT.json",
+    "강의/debug/2_json_to_slide.json",
+    "강의/debug/1_markdown_to_json.json",
+    "강의/debug/0_flattened.md",
+    "강의/debug",
+    "output/아는 만큼 쓰는 ChatGPT/아는 만큼 쓰는 ChatGPT.md",
+    "output/아는 만큼 쓰는 ChatGPT/attachments/71d8aef64bd2cac0f736d67d7aa11468.md",
+    "output/아는 만큼 쓰는 ChatGPT/attachments/4e902b2117a17eb46dc8412d6cdbcd99.md",
+    "output/아는 만큼 쓰는 ChatGPT/attachments/b6d01a50a0f17fa9d1d9a0e8b7d2bb4c.md",
+    "output/아는 만큼 쓰는 ChatGPT/attachments/96a5a3eab3122aab85b814eb735658e9.md",
+    "output/아는 만큼 쓰는 ChatGPT/attachments/e0ffab185ae6167de1bf60efe892c797.png",
+    "output/아는 만큼 쓰는 ChatGPT/attachments/aaf311a5397ef0b0fccfcc0f42c3d766.md",
+    "output/아는 만큼 쓰는 ChatGPT/attachments/6dff18fe7bda53bcd8de61d96b84991c.md",
+    "output/아는 만큼 쓰는 ChatGPT/attachments/b8566c54c49b978e1001ac7ed57b6143.md",
+    "output/아는 만큼 쓰는 ChatGPT/attachments/76734f0b7d6909595c5e4d7dbc978b5e.md",
+    "output/아는 만큼 쓰는 ChatGPT/attachments/aa961138758959b713d9442f8ea750d2.md",
+    "output/아는 만큼 쓰는 ChatGPT/attachments/23d42ca06224be3c1004845fbfb1227a.md",
+    "output/아는 만큼 쓰는 ChatGPT/attachments/8aff58ef5af347d8e505a3b7c94325c1.jpg",
+    "output/아는 만큼 쓰는 ChatGPT/attachments/9ce9d4d1d35e73e233aec82e4e1dc236.png",
+    "output/아는 만큼 쓰는 ChatGPT/attachments/b0a0da8916cc1ecb76eb3d2771e6b901.png",
+    "output/아는 만큼 쓰는 ChatGPT/attachments/62c1b5d77e55b59b68a78c492e8a12b5.png",
+    "output/아는 만큼 쓰는 ChatGPT/attachments/a11611eae1484ae28180a6560f8a51d7.png",
+    "output/아는 만큼 쓰는 ChatGPT/attachments/dfda22879f174fda0822b8df825528f5.md",
+    "output/아는 만큼 쓰는 ChatGPT/attachments",
+    "강의/기획 선배의 맞는 말 대잔치.md",
+    "강의/modules/서비스기획 Flow.md",
+    "강의/modules/서비스기획 개론.md",
+    "강의/modules/AI 이모저모.md",
+    "강의/modules/ChatGPT 기초 사용법.md",
+    "강의/attachments/chatgpt-obsidian_integration.png",
+    "강의/attachments/gpt-hallucination.jpg",
+    "강의/attachments/ux-know_your_menu.png",
+    "강의/attachments/ux-lists_on_devices.png",
+    "강의/노코드 엔지니어링/Untitled.canvas",
+    "강의/Untitled.canvas"
   ]
 }

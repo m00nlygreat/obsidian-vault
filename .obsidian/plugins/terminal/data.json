@@ -1,23 +1,23 @@
 {
   "addToCommand": true,
-  "addToContextMenu": true,
+  "addToContextMenu": false,
   "createInstanceNearExistingOnes": true,
   "errorNoticeTimeout": 0,
   "exposeInternalModules": true,
   "focusOnNewInstance": true,
   "hideStatusBar": "focused",
   "interceptLogging": true,
-  "language": "ko",
+  "language": "",
   "newInstanceBehavior": "newVerticalSplit",
   "noticeTimeout": 5,
   "openChangelogOnUpdate": true,
   "pinNewInstance": false,
   "preferredRenderer": "webgl",
   "profiles": {
-    "dc9ddbff-d138-4360-99d5-3ccab6f039fb": {
+    "2364b090-0ed5-43ed-b7e3-94db37ba3c9b": {
       "args": [],
-      "executable": "nu.exe",
-      "name": "NuShell",
+      "executable": "",
+      "name": "NuShell Windows",
       "platforms": {
         "darwin": false,
         "linux": false,
@@ -31,7 +31,6 @@
         "SIGTERM"
       ],
       "terminalOptions": {
-        "fontFamily": "Input Mono",
         "documentOverride": null
       },
       "type": "integrated",
