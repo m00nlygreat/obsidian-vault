@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/아는 만큼 쓰는 ChatGPT_flattened.md",
+                "file": "강의/Make와 백엔드 자동화.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "아는 만큼 쓰는 ChatGPT_flattened"
+              "title": "Make와 백엔드 자동화"
             }
           }
         ]
@@ -202,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "강의/아는 만큼 쓰는 ChatGPT_flattened.md"
+                "file": "강의/Make와 백엔드 자동화.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 아는 만큼 쓰는 ChatGPT_flattened"
+              "title": "File properties for Make와 백엔드 자동화"
             }
           }
         ],
@@ -235,6 +235,10 @@
   },
   "active": "f808767e4669ef19",
   "lastOpenFiles": [
+    "강의/필살기 프레이머.md",
+    "강의/피그마 그래픽스.md",
+    "강의/이미지 생성 AI 활용.md",
+    "강의/아는 만큼 쓰는 ChatGPT_flattened.md",
     "강의/아는 만큼 쓰는 ChatGPT.md",
     "강의/아는 만큼 쓰는 ChatGPT.pptx",
     "강의/modules/VBA with GPT.md",
@@ -250,7 +254,6 @@
     "강의/modules/~$ChatGPT를 대하는 우리의 자세.pptx",
     "강의/modules/ChatGPT를 대하는 우리의 자세.pptx",
     "강의/modules/ChatGPT와 코딩하기.md",
-    "강의/아는 만큼 쓰는 ChatGPT_flattened.md",
     "강의/modules/다크패턴.md",
     "강의/modules/기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다.md",
     "강의/notes/디지텍고 강의.md",
@@ -268,8 +271,6 @@
     "output/아는 만큼 쓰는 ChatGPT/아는 만큼 쓰는 ChatGPT.md",
     "output/아는 만큼 쓰는 ChatGPT/attachments/71d8aef64bd2cac0f736d67d7aa11468.md",
     "output/아는 만큼 쓰는 ChatGPT/attachments/4e902b2117a17eb46dc8412d6cdbcd99.md",
-    "output/아는 만큼 쓰는 ChatGPT/attachments/b6d01a50a0f17fa9d1d9a0e8b7d2bb4c.md",
-    "output/아는 만큼 쓰는 ChatGPT/attachments/96a5a3eab3122aab85b814eb735658e9.md",
     "output/아는 만큼 쓰는 ChatGPT/attachments/e0ffab185ae6167de1bf60efe892c797.png",
     "output/아는 만큼 쓰는 ChatGPT/attachments/8aff58ef5af347d8e505a3b7c94325c1.jpg",
     "output/아는 만큼 쓰는 ChatGPT/attachments/9ce9d4d1d35e73e233aec82e4e1dc236.png",

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Make와 백엔드 자동화",
+      "path": "강의/Make와 백엔드 자동화.md"
+    },
+    {
+      "basename": "필살기 프레이머",
+      "path": "강의/필살기 프레이머.md"
+    },
+    {
+      "basename": "피그마 그래픽스",
+      "path": "강의/피그마 그래픽스.md"
+    },
+    {
+      "basename": "이미지 생성 AI 활용",
+      "path": "강의/이미지 생성 AI 활용.md"
+    },
+    {
       "basename": "아는 만큼 쓰는 ChatGPT_flattened",
       "path": "강의/아는 만큼 쓰는 ChatGPT_flattened.md"
     },
@@ -79,14 +95,6 @@
     {
       "basename": "파이썬 가상환경 venv 및 requirements 사용",
       "path": "postmortems/파이썬 가상환경 venv 및 requirements 사용.md"
-    },
-    {
-      "basename": "피그마 그래픽스",
-      "path": "강의/피그마 그래픽스.md"
-    },
-    {
-      "basename": "필살기 프레이머",
-      "path": "강의/필살기 프레이머.md"
     },
     {
       "basename": "기획 선배의 맞는 말 대잔치",
@@ -191,14 +199,6 @@
     {
       "basename": "Make와 G메일 연동",
       "path": "강의/modules/Make와 G메일 연동.md"
-    },
-    {
-      "basename": "ChatGPT 기능 일람",
-      "path": "강의/modules/ChatGPT 기능 일람.md"
-    },
-    {
-      "basename": "API",
-      "path": "강의/modules/API.md"
     }
   ],
   "omittedPaths": [],
