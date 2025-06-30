@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "ChatGPT와 코딩하기",
+      "path": "강의/modules/ChatGPT와 코딩하기.md"
+    },
+    {
+      "basename": "ChatGPT를 대하는 우리의 자세",
+      "path": "강의/modules/ChatGPT를 대하는 우리의 자세.md"
+    },
+    {
+      "basename": "아는 만큼 쓰는 ChatGPT_flattened",
+      "path": "강의/아는 만큼 쓰는 ChatGPT_flattened.md"
+    },
+    {
       "basename": "아는 만큼 쓰는 ChatGPT",
       "path": "강의/아는 만큼 쓰는 ChatGPT.md"
     },
@@ -97,10 +109,6 @@
       "path": "강의/modules/왜 내 GPT는 대답을 이상하게 할까.md"
     },
     {
-      "basename": "ChatGPT를 대하는 우리의 자세",
-      "path": "강의/modules/ChatGPT를 대하는 우리의 자세.md"
-    },
-    {
       "basename": "gpt-hallucination",
       "path": "강의/attachments/gpt-hallucination.jpg"
     },
@@ -185,20 +193,12 @@
       "path": "강의/modules/GPTs.md"
     },
     {
-      "basename": "ChatGPT와 코딩하기",
-      "path": "강의/modules/ChatGPT와 코딩하기.md"
-    },
-    {
       "basename": "ChatGPT 기능 일람",
       "path": "강의/modules/ChatGPT 기능 일람.md"
     },
     {
       "basename": "API",
       "path": "강의/modules/API.md"
-    },
-    {
-      "basename": "하이퍼 파라미터(Hyperparameters)",
-      "path": "강의/modules/하이퍼 파라미터(Hyperparameters).md"
     }
   ],
   "omittedPaths": [],

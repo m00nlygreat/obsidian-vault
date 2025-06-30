@@ -34,8 +34,6 @@ title: ChatGPT를 대하는 우리의 자세
 
 ![](../attachments/chatgpt-expectation.png)
 
----
-
 ## S.T.A.R 프레임워크
 
 - [경희대 김상균 교수의 AI 학습/훈련법](https://www.youtube.com/watch?v=sDBDHF6m578)
