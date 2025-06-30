@@ -47,8 +47,6 @@ type: text
 
 ![](attachments/chatgpt-multi-modal.png)
 
----
-
 ## 환각 (Hallucination)
 
 - 세종대왕 맥북 던짐 사건
