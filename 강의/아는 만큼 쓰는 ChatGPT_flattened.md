@@ -380,7 +380,6 @@ type: text
 
 # ChatGPT 사용해보기
 
-
 ## 소개
 
 ![](attachments/chatgpt-gpt_models.png)
