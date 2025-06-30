@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "ChatGPT 기초 사용법",
-      "path": "강의/modules/ChatGPT 기초 사용법.md"
-    },
-    {
       "basename": "아는 만큼 쓰는 ChatGPT",
       "path": "강의/아는 만큼 쓰는 ChatGPT.md"
+    },
+    {
+      "basename": "VBA with GPT",
+      "path": "강의/modules/VBA with GPT.md"
+    },
+    {
+      "basename": "GPT를 엑셀 안에서 사용하기",
+      "path": "강의/modules/GPT를 엑셀 안에서 사용하기.md"
+    },
+    {
+      "basename": "ChatGPT 예제",
+      "path": "강의/modules/ChatGPT 예제.md"
+    },
+    {
+      "basename": "ChatGPT 고급 기능",
+      "path": "강의/modules/ChatGPT 고급 기능.md"
+    },
+    {
+      "basename": "GPTs",
+      "path": "강의/modules/GPTs.md"
+    },
+    {
+      "basename": "마크다운",
+      "path": "강의/modules/마크다운.md"
+    },
+    {
+      "basename": "프롬프트 엔지니어링",
+      "path": "강의/modules/프롬프트 엔지니어링.md"
+    },
+    {
+      "basename": "ChatGPT 기초 사용법",
+      "path": "강의/modules/ChatGPT 기초 사용법.md"
     },
     {
       "basename": "왜 내 GPT는 대답을 이상하게 할까",
@@ -75,30 +103,6 @@
     {
       "basename": "AI 이모저모",
       "path": "강의/modules/AI 이모저모.md"
-    },
-    {
-      "basename": "프롬프트 엔지니어링",
-      "path": "강의/modules/프롬프트 엔지니어링.md"
-    },
-    {
-      "basename": "VBA with GPT",
-      "path": "강의/modules/VBA with GPT.md"
-    },
-    {
-      "basename": "GPT를 엑셀 안에서 사용하기",
-      "path": "강의/modules/GPT를 엑셀 안에서 사용하기.md"
-    },
-    {
-      "basename": "ChatGPT 예제",
-      "path": "강의/modules/ChatGPT 예제.md"
-    },
-    {
-      "basename": "ChatGPT 고급 기능",
-      "path": "강의/modules/ChatGPT 고급 기능.md"
-    },
-    {
-      "basename": "마크다운",
-      "path": "강의/modules/마크다운.md"
     },
     {
       "basename": "OpenAI API Key 발급",
@@ -187,10 +191,6 @@
     {
       "basename": "Make와 G메일 연동",
       "path": "강의/modules/Make와 G메일 연동.md"
-    },
-    {
-      "basename": "GPTs",
-      "path": "강의/modules/GPTs.md"
     },
     {
       "basename": "ChatGPT 기능 일람",
