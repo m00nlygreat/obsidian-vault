@@ -560,7 +560,6 @@ type: text
 
 ![](attachments/chatgpt-mini_projects.png)
 
-
 ## 마크다운(Markdown)
 
 - HTML의 Subset인, 리치 텍스트를 표현하기 위한 간이 문법
