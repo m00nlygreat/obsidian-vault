@@ -21,57 +21,24 @@
               "icon": "lucide-file",
               "title": "아는 만큼 쓰는 ChatGPT"
             }
-          }
-        ]
-      },
-      {
-        "id": "4e3cf6b5f14cf398",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "66ea30db216b19e9",
+            "id": "cf6aed1d6df2475c",
             "type": "leaf",
             "state": {
-              "type": "terminal:terminal",
+              "type": "markdown",
               "state": {
-                "terminal:terminal": {
-                  "cwd": "D:\\vault\\강의",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "nu.exe",
-                    "name": "NuShell",
-                    "platforms": {
-                      "darwin": false,
-                      "linux": false,
-                      "win32": true
-                    },
-                    "pythonExecutable": "",
-                    "restoreHistory": true,
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "fontFamily": "Input Mono",
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": {
-                    "columns": 49,
-                    "data": "\u001b[32m     __  ,\r\n .--()°'.' \u001b[0mWelcome to \u001b[32mNushell\u001b[0m,\r\n\u001b[32m'|, . ,'   \u001b[0mbased on the \u001b[32mnu\u001b[0m language,\r\n\u001b[32m !_-(_\\    \u001b[0mwhere all data is structured!\r\n\r\nVersion: \u001b[32m0.105.1 (x86_64-pc-windows-msvc)\r\n\u001b[0mPlease join our \u001b[35mDiscord\u001b[0m community at \u001b[35mhttps://discord.gg/NtAbbGn\r\n\u001b[0mOur \u001b[92;1mGitHub\u001b[0m repository is at \u001b[92;1mhttps://github.com/nushell/nushell\r\n\u001b[0mOur \u001b[35mDocumentation\u001b[0m is located at \u001b[35mhttps://nushell.sh\r\n\u001b[0mAnd the \u001b[32mLatest Nushell News\u001b[0m at \u001b[32mhttps://nushell.sh/blog/\r\n\u001b[0mLearn how to remove this at: \u001b[35mhttps://nushell.sh/book/configuration.html#remove-welcome-message\r\n\r\n\u001b[92;1mD:\\vault\\강의\u001b[96;22m> \u001b[33C\u001b[35m 2025년 07월 01일 23시 48분 26초\u001b[0m 14secs 793ms 350µ\u001b[1A\u001b[34D",
-                    "rows": 45
-                  }
-                }
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
               },
-              "icon": "terminal",
-              "title": "Terminal: D:\\vault\\강의"
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,9 +185,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for conflict-files-obsidian-git"
             }
           }
         ],
@@ -247,12 +216,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "66ea30db216b19e9",
+  "active": "cf6aed1d6df2475c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "강의/practices/생성형 AI 사전평가.quiz.md",
     "강의/아는 만큼 쓰는 ChatGPT.md",
     "강의/기획 선배의 맞는 말 대잔치.md",
     "강의/바이브 코딩.md",
-    "conflict-files-obsidian-git.md",
     "강의/노션 야무지게 쓰기.md",
     "강의/notes/노코드 개론.md",
     "강의/notes/디지텍고 강의.md",
@@ -276,7 +246,6 @@
     "강의/practices/Jira와 애자일.tutorial.md",
     "강의/practices",
     "강의/notes/포트폴리오.md",
-    "강의/notes/포트폴리오 메모.md",
     "강의/notes",
     "강의/flattened.slides.json",
     "강의/flattened.pptx",

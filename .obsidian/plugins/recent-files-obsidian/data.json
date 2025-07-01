@@ -5,8 +5,44 @@
       "path": "강의/아는 만큼 쓰는 ChatGPT.md"
     },
     {
+      "basename": "설문조사.project",
+      "path": "강의/practices/설문조사.project.md"
+    },
+    {
+      "basename": "소프트웨어 분류하기.project",
+      "path": "강의/practices/소프트웨어 분류하기.project.md"
+    },
+    {
       "basename": "기획 선배의 맞는 말 대잔치",
       "path": "강의/기획 선배의 맞는 말 대잔치.md"
+    },
+    {
+      "basename": "다크패턴을 만들어보자.project",
+      "path": "강의/practices/다크패턴을 만들어보자.project.md"
+    },
+    {
+      "basename": "사전 평가 질문지 - 노코드 엔지니어링",
+      "path": "강의/practices/사전 평가 질문지 - 노코드 엔지니어링.md"
+    },
+    {
+      "basename": "생성형 AI 사전평가.quiz",
+      "path": "강의/practices/생성형 AI 사전평가.quiz.md"
+    },
+    {
+      "basename": "기획자의 무기",
+      "path": "강의/modules/기획자의 무기.md"
+    },
+    {
+      "basename": "서비스기획 개론",
+      "path": "강의/modules/서비스기획 개론.md"
+    },
+    {
+      "basename": "기타 UX 도구들",
+      "path": "강의/modules/기타 UX 도구들.md"
+    },
+    {
+      "basename": "기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다",
+      "path": "강의/modules/기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다.md"
     },
     {
       "basename": "바이브 코딩",
@@ -77,10 +113,6 @@
       "path": "강의/modules/다크패턴.md"
     },
     {
-      "basename": "기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다",
-      "path": "강의/modules/기술의 출현은 단지 그 기술의 존재만을 의미하지 않는다.md"
-    },
-    {
       "basename": "노션 야무지게 쓰기",
       "path": "강의/노션 야무지게 쓰기.md"
     },
@@ -99,10 +131,6 @@
     {
       "basename": "서비스기획 Flow",
       "path": "강의/modules/서비스기획 Flow.md"
-    },
-    {
-      "basename": "서비스기획 개론",
-      "path": "강의/modules/서비스기획 개론.md"
     },
     {
       "basename": "AI 이모저모",
@@ -167,34 +195,6 @@
     {
       "basename": "ux-elements_dialogues",
       "path": "강의/attachments/ux-elements_dialogues.png"
-    },
-    {
-      "basename": "ux-elements_progress_bars",
-      "path": "강의/attachments/ux-elements_progress_bars.png"
-    },
-    {
-      "basename": "ux-sliders",
-      "path": "강의/attachments/ux-sliders.png"
-    },
-    {
-      "basename": "ux-inputs",
-      "path": "강의/attachments/ux-inputs.png"
-    },
-    {
-      "basename": "ux-switches",
-      "path": "강의/attachments/ux-switches.png"
-    },
-    {
-      "basename": "ux-checkboxes",
-      "path": "강의/attachments/ux-checkboxes.png"
-    },
-    {
-      "basename": "UI 기타",
-      "path": "강의/modules/UI 기타.md"
-    },
-    {
-      "basename": "Make와 G메일 연동",
-      "path": "강의/modules/Make와 G메일 연동.md"
     }
   ],
   "omittedPaths": [],
