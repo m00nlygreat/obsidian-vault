@@ -25,11 +25,11 @@
         ]
       },
       {
-        "id": "553b54ca3ad2fc58",
+        "id": "4295b7d4bb0f6995",
         "type": "tabs",
         "children": [
           {
-            "id": "024abc3be8576d0e",
+            "id": "4c84cb7a770b663b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -254,7 +254,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "024abc3be8576d0e",
+  "active": "4c84cb7a770b663b",
   "lastOpenFiles": [
     "강의/기획 선배의 맞는 말 대잔치.md",
     "강의/modules/서비스기획 개론.md",
