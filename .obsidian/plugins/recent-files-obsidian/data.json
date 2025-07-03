@@ -195,10 +195,6 @@
     {
       "basename": "ux-elements_dialogues",
       "path": "강의/attachments/ux-elements_dialogues.png"
-    },
-    {
-      "basename": "ux-elements_progress_bars",
-      "path": "강의/attachments/ux-elements_progress_bars.png"
     }
   ],
   "omittedPaths": [],
