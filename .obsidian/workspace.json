@@ -34,13 +34,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/practices/설문조사.project.md",
+                "file": "강의/practices/소프트웨어 분류하기.project.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "설문조사.project"
+              "title": "소프트웨어 분류하기.project"
             }
           }
         ]
@@ -254,17 +254,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4c84cb7a770b663b",
+  "active": "28645dd67081f568",
   "lastOpenFiles": [
     "강의/practices/소프트웨어 분류하기.project.md",
-    "강의/practices/설문조사.project.md",
-    "강의/practices/설문조사.project.pptx",
     "강의/기획 선배의 맞는 말 대잔치.md",
     "강의/practices/다크패턴을 만들어보자.project.md",
+    "강의/practices/생성형 AI 사전평가.quiz.md",
+    "강의/practices/설문조사.project.md",
+    "강의/practices/설문조사.project.pptx",
     "강의/practices/~$다크패턴을 만들어보자.project.pptx",
     "강의/practices/다크패턴을 만들어보자.project.pptx",
     "강의/practices/사전 평가 질문지 - 노코드 엔지니어링.md",
-    "강의/practices/생성형 AI 사전평가.quiz.md",
     "강의/modules/기획자의 무기.md",
     "강의/modules/서비스기획 개론.md",
     "강의/기획 선배의 맞는 말 대잔치.pptx",
