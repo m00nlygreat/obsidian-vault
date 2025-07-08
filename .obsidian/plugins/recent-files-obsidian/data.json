@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "서비스기획 개론",
-      "path": "강의/modules/서비스기획 개론.md"
+      "basename": "서비스기획 Flow",
+      "path": "강의/modules/서비스기획 Flow.md"
     },
     {
       "basename": "기획 선배의 맞는 말 대잔치",
       "path": "강의/기획 선배의 맞는 말 대잔치.md"
+    },
+    {
+      "basename": "서비스기획 개론",
+      "path": "강의/modules/서비스기획 개론.md"
     },
     {
       "basename": "아는 만큼 쓰는 ChatGPT",
@@ -127,10 +131,6 @@
     {
       "basename": "파이썬 가상환경 venv 및 requirements 사용",
       "path": "postmortems/파이썬 가상환경 venv 및 requirements 사용.md"
-    },
-    {
-      "basename": "서비스기획 Flow",
-      "path": "강의/modules/서비스기획 Flow.md"
     },
     {
       "basename": "AI 이모저모",

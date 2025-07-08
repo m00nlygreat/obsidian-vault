@@ -25,22 +25,22 @@
         ]
       },
       {
-        "id": "3a28e5ddbc772738",
+        "id": "75916e755fb2f313",
         "type": "tabs",
         "children": [
           {
-            "id": "3657282af4b7f5c5",
+            "id": "ab0b2be6edb27842",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/modules/서비스기획 개론.md",
+                "file": "강의/modules/서비스기획 Flow.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "서비스기획 개론"
+              "title": "서비스기획 Flow"
             }
           }
         ]
@@ -191,10 +191,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "강의/modules/서비스기획 개론.md"
+                "file": "강의/modules/서비스기획 Flow.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 서비스기획 개론"
+              "title": "File properties for 서비스기획 Flow"
             }
           }
         ],
@@ -221,7 +221,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3657282af4b7f5c5",
+  "active": "ab0b2be6edb27842",
   "lastOpenFiles": [
     "강의/기획 선배의 맞는 말 대잔치.md",
     "강의/modules/서비스기획 개론.md",
