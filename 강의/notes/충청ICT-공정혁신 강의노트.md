@@ -34,9 +34,8 @@
 # 강의 소재
 
 - VBA
-%% - MCP (클로드) // 쓸 수 없다.  %%
+- Genspark
+- MCP (클로드) // 쓸 수 없다.
 	- Filesystem
-
-
 - Make
 	- GPTs (이메일?)
