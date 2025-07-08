@@ -34,5 +34,8 @@
 # 강의 소재
 
 - MCP (클로드)
+	- Filesystem
 - Make
+	- GPTs (이메일?)
+	- 
 - 
