@@ -36,9 +36,8 @@
 - VBA
 - Genspark
 	- AI 슬라이드
-	- 
 - MCP (클로드) // 쓸 수 없다.
-	- Filesystem
+	- Filesystem 
 - Make
 	- GPTs (이메일?)
 
