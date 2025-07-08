@@ -33,8 +33,11 @@
 
 # 강의 소재
 
+- VBA
 - MCP (클로드)
 	- Filesystem
+
+
 - Make
 	- GPTs (이메일?)
 	- 
