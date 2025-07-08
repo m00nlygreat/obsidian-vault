@@ -31,10 +31,12 @@
         "SIGTERM"
       ],
       "terminalOptions": {
-        "documentOverride": null
+        "documentOverride": null,
+        "fontFamily": "Input Mono",
+        "fontSize": 12
       },
       "type": "integrated",
-      "useWin32Conhost": true
+      "useWin32Conhost": false
     },
     "darwinExternalDefault": {
       "args": [
