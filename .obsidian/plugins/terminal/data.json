@@ -36,7 +36,7 @@
         "fontSize": 12
       },
       "type": "integrated",
-      "useWin32Conhost": false
+      "useWin32Conhost": true
     },
     "darwinExternalDefault": {
       "args": [
