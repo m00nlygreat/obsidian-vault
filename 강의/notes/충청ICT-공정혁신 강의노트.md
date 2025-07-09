@@ -61,7 +61,13 @@
 
 (1H)
 
-## 
+## 데이터 분석
+
+- Advanced Data Analysis
+- Colab 사용하기
+
+
+
 # 조치사항
 
 ## 알고링크
