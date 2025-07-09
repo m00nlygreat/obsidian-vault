@@ -118,10 +118,11 @@
 
 - 사주 분석, 내 성격 분석
 - 이미지 링크 연결
+- Genspark AI 시트
+- Notebook LM
 
 - 준비물
 	- 구글 계정
 	- (권장) GPT 유료계정
 	- 원한다면 Genspark 유료계정
 
-- Genspark AI 시트
