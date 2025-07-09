@@ -10,7 +10,7 @@ title: 왜 내 GPT는 대답을 이상하게 할까
 - LLM은 특정 시점까지의 데이터를 학습하고 있기 때문에, 그 이후에 일어난 일은 잘 모름
 - 이를 Knowledge Cut-off라 하며, RAG 등을 사용해 데이터를 보강하는 것으로 해결할 수 있다
 
-![](attachments/chatgpt-knowledge_cutoff.png)
+![](../attachments/chatgpt-knowledge_cutoff.png)
 
 ---
 
