@@ -1,6 +1,6 @@
 ---
 type: module
-title: ChatGPT 기초 사용법
+title: ChatGPT 기초 사용법ㅋㅋ
 ---
 
 ## 소개
