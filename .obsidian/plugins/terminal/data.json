@@ -14,6 +14,25 @@
   "pinNewInstance": false,
   "preferredRenderer": "webgl",
   "profiles": {
+    "180cc6de-e228-4302-b9e3-d16b34e1e9c6": {
+      "args": [],
+      "executable": "wezterm.exe",
+      "name": "WezTerm",
+      "platforms": {
+        "win32": true
+      },
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {
+        "documentOverride": null,
+        "fontFamily": "Input Mono"
+      },
+      "type": "external"
+    },
     "2364b090-0ed5-43ed-b7e3-94db37ba3c9b": {
       "args": [],
       "executable": "nu.exe",
