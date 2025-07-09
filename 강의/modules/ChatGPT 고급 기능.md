@@ -84,7 +84,7 @@ title: ChatGPT 고급 기능
 ## GPTs
 
 - 자주 사용하는 GPT 프롬프트 설정을 별도의 GPT로 만들어서 편리하게 독립된 채널에서 대화하기
-- GPT-4의 모든 기능 사용 가능: 
+- GPT-4o의 고급기능 사용가능: 
 	*Vision, Browsing, Data Analysis*
 - GPTs Action: 요청 받은 텍스트의 내용에 따라, 외부 API를 사용해서 전용 기능을 실행하고 그 응답결과를 답변 처리에 사용가능
 
