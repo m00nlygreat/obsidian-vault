@@ -39,3 +39,9 @@ type: module
 	- [colab](https://colab.research.google.com/drive/11sL7AyK5Lub3GMcN22ahLakCBkr5QSg_?usp=sharing)
 
 ![](../attachments/chatgpt-tesla_colab.png)
+
+# 데이터분석 실습
+
+![스포티파이 2023 분석.project](../practices/스포티파이%202023%20분석.project.md)
+
+![미국 아보카도 가격 및 판매량 분석.project](../practices/미국%20아보카도%20가격%20및%20판매량%20분석.project.md)
