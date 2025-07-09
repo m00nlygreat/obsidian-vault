@@ -20,7 +20,7 @@ title: ChatGPT 기초 사용법ㅋㅋ
 - 질문해볼 만한 내용들
 	1. 오늘 무슨 날이야?
 	2. 너를 어떻게 쓰면 좋을까?
-- GPT한테 
+- [GPT를 공손하게 대해야 하나요?](https://www.mk.co.kr/news/it/11296878)
 
 ![](../attachments/chatgpt-simple_question.png)
 
