@@ -1,6 +1,7 @@
 ---
 title: ChatGPT 고급 업무 활용
 type: text
+author: 배문형
 ---
 
 # 들어가며
@@ -20,12 +21,6 @@ type: text
 # 프롬프트 엔지니어링
 
 ![프롬프트 엔지니어링](modules/프롬프트%20엔지니어링.md)
-
-![마크다운](modules/마크다운.md)
-
-## Obsidian과 GPT를 사용한 개인 지식DB 챗봇 구축
-
-![](attachments/chatgpt-obsidian_integration.png)
 
 # ChatGPT 고급 기능 소개
 
