@@ -16,9 +16,11 @@ title: ChatGPT 기초 사용법ㅋㅋ
 ### 간단한 의견 물어보기
 
 - 검색엔진을 대신하는 GPT의 사용법
+	- 친구에게 채팅하듯 물어보기
 - 질문해볼 만한 내용들
 	1. 오늘 무슨 날이야?
 	2. 너를 어떻게 쓰면 좋을까?
+- GPT한테 
 
 ![](../attachments/chatgpt-simple_question.png)
 
@@ -52,7 +54,7 @@ title: ChatGPT 기초 사용법ㅋㅋ
 
 > 성능이 좋아진 지금은 추억의 화면이 되었다
 
-![](../attachments/chatgpt-regenerate.png)
+![](../attachments/chatgpt-keep_generate.png)
 
 ---
 
@@ -60,3 +62,5 @@ title: ChatGPT 기초 사용법ㅋㅋ
 
 - ChatGPT는 일종의 창의성(Creativeness)을 가지고 있는데, *Top-P*, *Temperature*, *Beam Width* 와 같은 하이퍼 파라미터(Hyper Parameter)에 의한 것.
 - 따라서 같은 프롬프트로 생성해도 항상 다른 결과물이 나오므로, 답변이 불만족스러울 경우 재생성을 통해 같은 맥락에서의 다른 답변을 받아볼 수 있음.
+
+![](../attachments/chatgpt-regenerate.png)
