@@ -76,7 +76,7 @@ title: ChatGPT 고급 기능
 
 - 코드 또는 글을 작성할 때 좀 더 전문적으로 집중을 도와주는 도구
 	- Claude의 Artifact에 대응하는 기능이다
-		- 체감상, Claude가 글을 좀 더 꼼꼼히 읽고, 쓰는 경향 있음
+		- 체감상, Claude가 글을 좀 더 꼼꼼히 읽고 쓰는 경향 있음
 - 기본적으로 초안을 Develop하는 형태로 작동하여, 퇴고와 수정을 기본으로 작업하는 경우 유용
 
 ![](../attachments/chatgpt-canvas.png)
@@ -96,6 +96,8 @@ title: ChatGPT 고급 기능
 - 내장된 마이크를 통해 ChatGPT와 음성대화 가능!
 	- 원어민급 영어 회화 연습 가능
 	- 중간에 끊기(interrupt) 가능한 자연스러운 대화
+		- Advanced Voice Mode
+	- 이제 웹에서도 사용 가능 (2024. 11)
 - 향후 OS와 AI Agent 통합의 전초기지가 될 전망
 
 ![](../attachments/chatgpt-native_app.png)
