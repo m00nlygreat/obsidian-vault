@@ -28,6 +28,10 @@ author: 배문형
 
 ![GPTs](GPTs.md)
 
+# ChatGPT와 데이터 분석
+
+![ChatGPT와 데이터 분석하기](modules/ChatGPT와%20데이터%20분석하기.md)
+
 # 실전 ChatGPT
 
 ![ChatGPT 예제](modules/ChatGPT%20예제.md)
