@@ -1,6 +1,7 @@
 ---
 title: ChatGPT 소개
 type: module
+author: 배문형
 ---
 ## ChatGPT
 
