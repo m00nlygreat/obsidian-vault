@@ -35,7 +35,9 @@ type: text
 
 ![ChatGPT 고급 기능](modules/ChatGPT%20고급%20기능.md)
 
-![GPTs](GPTs.md)
+# GPTs 만들기
+
+![GPTs](modules/GPTs.md)
 
 # ChatGPT와 데이터 분석
 
