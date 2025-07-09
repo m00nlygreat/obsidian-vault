@@ -81,3 +81,5 @@
 	- 구글 계정
 	- (권장) GPT 유료계정
 	- 원한다면 Genspark 유료계정
+
+- Genspark AI 시트
