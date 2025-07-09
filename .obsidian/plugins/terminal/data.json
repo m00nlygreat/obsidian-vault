@@ -1,6 +1,6 @@
 {
   "addToCommand": true,
-  "addToContextMenu": false,
+  "addToContextMenu": true,
   "createInstanceNearExistingOnes": true,
   "errorNoticeTimeout": 0,
   "exposeInternalModules": true,
@@ -16,8 +16,8 @@
   "profiles": {
     "180cc6de-e228-4302-b9e3-d16b34e1e9c6": {
       "args": [],
-      "executable": "wezterm.exe",
-      "name": "WezTerm",
+      "executable": "nu.exe",
+      "name": "nushell external",
       "platforms": {
         "win32": true
       },
