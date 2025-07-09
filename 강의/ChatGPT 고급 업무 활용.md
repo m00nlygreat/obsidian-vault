@@ -26,6 +26,8 @@ author: 배문형
 
 ![ChatGPT 고급 기능](modules/ChatGPT%20고급%20기능.md)
 
+![GPTs](GPTs.md)
+
 # 실전 ChatGPT
 
 ![ChatGPT 예제](modules/ChatGPT%20예제.md)

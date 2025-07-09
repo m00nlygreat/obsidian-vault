@@ -90,8 +90,6 @@ title: ChatGPT 고급 기능
 
 ![](../attachments/chatgpt-gpts.png)
 
-![GPTs](GPTs.md)
-
 ## ChatGPT App
 
 - iOS/Android/Windows/Mac 을 지원하는 네이티브 앱
