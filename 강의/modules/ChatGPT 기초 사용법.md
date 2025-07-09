@@ -49,7 +49,8 @@ title: ChatGPT 기초 사용법ㅋㅋ
 
 - 만약 답변이 길어져 ChatGPT의 허용량을 넘고, 중단되었다면 Continue Generating 버튼을 눌러 계속 답변을 생성할 수 있다.
 	- 계속 생성하기 버튼이 출현하지 않은 채 답변이 중단된 경우 "계속"과 같은 키워드를 보냄으로써 이전 답변을 계속하게끔 할 수 있다
-	- 
+
+> 성능이 좋아진 지금은 추억의 화면이 되었다
 
 ![](../attachments/chatgpt-regenerate.png)
 
@@ -59,5 +60,3 @@ title: ChatGPT 기초 사용법ㅋㅋ
 
 - ChatGPT는 일종의 창의성(Creativeness)을 가지고 있는데, *Top-P*, *Temperature*, *Beam Width* 와 같은 하이퍼 파라미터(Hyper Parameter)에 의한 것.
 - 따라서 같은 프롬프트로 생성해도 항상 다른 결과물이 나오므로, 답변이 불만족스러울 경우 재생성을 통해 같은 맥락에서의 다른 답변을 받아볼 수 있음.
-
-![](../attachments/chatgpt-regenerate.png)
