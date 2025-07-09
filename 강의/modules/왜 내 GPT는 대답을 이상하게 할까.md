@@ -31,8 +31,6 @@ title: 왜 내 GPT는 대답을 이상하게 할까
 ### 챗봇의 기억력
 
 - LLM을 구동하는 데에는 많은 자원이 필요하며, 대화가 길어지면 긴 대화를 처리하기 어려워함
-- 답변의 생성은 매번 독립시행임을 생각할 때
-	- 기존의 대화를 요약해서 사전 프롬프트(pre-prompt)로 제공하고 있을 것
 	- [Exposing pre-prompt](https://www.reddit.com/r/ChatGPT/comments/12fnqhd/exposing_preprompt/?rdt=53762)
 	- [Gaslighting AI into 2+2=5](https://www.youtube.com/watch?v=3wlvNfTNgB8)
 
@@ -51,6 +49,6 @@ title: 왜 내 GPT는 대답을 이상하게 할까
 	- 딥페이크
 	- 반인륜적 주제
 - 이러한 제한사항은 탈옥(Jailbreak)이라 불리는 적대적 프롬프팅에 의해 해제되기도 함
-	- 개발자가 LLM을 완전히 통제할 수 없기에
+	- 개발자가 LLM을 완전히 통제할 수 없기에 일어나는 일
 
 ![](../attachments/gpt-deep-fake-trump-got-caught.png)
