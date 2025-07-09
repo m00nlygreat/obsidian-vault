@@ -32,7 +32,7 @@ title: ChatGPT 고급 기능
 ![](../attachments/chatgpt-vision.png)
 
 
-## 4o Image Generation
+## GPT-4o Image 생성
 
 - GPT에 탑재된 새로운 이미지 생성 모델
 - Input / Output에 각각 멀티모달 통합이 뛰어나 각각 `Image 2 Image` 등의 작업에 뛰어남
@@ -66,7 +66,6 @@ title: ChatGPT 고급 기능
 - 알아서 파이썬 코드를 짜고 실행함.
 	- 오류 발생 시 자동으로 재시도
 - 기본적으로 파이썬으로 수행가능한 데이터 분석, 파일 관련, 수학 등의 요청을 받아들이나, API콜, 크롤링 등 시스템에 영향을 주거나 부담스러운 작업은 거절
-	- [ChatGPT로 동영상 만들기](https://www.clien.net/service/board/lecture/18553432)
 
 ![](../attachments/chatgpt-data_analysis.png)
 
@@ -75,8 +74,7 @@ title: ChatGPT 고급 기능
 - 자주 사용하는 GPT 프롬프트 설정을 별도의 GPT로 만들어서 편리하게 독립된 채널에서 대화하기
 - GPT-4의 모든 기능 사용 가능: 
 	*Vision, Browsing, Data Analysis*
-- 액션: 요청 받은 텍스트의 내용에 따라, 외부 API를 사용해서 전용 기능을 실행하고 그 응답결과를 답변 처리에 사용가능
-- 만든 GPT는 스토어에 올려 누구나 쓸 수 있게 만들거나, 향후 유료화할 수도 있을 것
+- GPTs Action: 요청 받은 텍스트의 내용에 따라, 외부 API를 사용해서 전용 기능을 실행하고 그 응답결과를 답변 처리에 사용가능
 
 ![](../attachments/chatgpt-gpts.png)
 
