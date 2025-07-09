@@ -34,7 +34,13 @@ title: ChatGPT 고급 기능
 
 ## 4o Image Generation
 
-- GPT에 탑재된 새로운 이미지 생성 모델, 언어 이해가 뛰어나고 
+- GPT에 탑재된 새로운 이미지 생성 모델
+- Input / Output에 각각 멀티모달 통합이 뛰어나 각각 `Image 2 Image` 등의 작업에 뛰어남
+- 편집이나 재창작, 언어, 스타일 재현이 뛰어남
+
+### 지브리 프사 만들기
+
+
 
 ## Browsing
 
