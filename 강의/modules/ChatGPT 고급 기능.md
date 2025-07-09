@@ -34,6 +34,8 @@ title: ChatGPT 고급 기능
 
 ## GPT-4o 이미지 생성
 
+### GPT-4o Image Generation
+
 - GPT에 탑재된 새로운 이미지 생성 모델 (2025. 3)
 - Input / Output에 각각 멀티모달 통합이 뛰어나 각각 `Image 2 Image` 등의 작업에 뛰어남
 - 편집이나 재창작, 언어 이해, 스타일 재현이 뛰어남
@@ -55,6 +57,7 @@ title: ChatGPT 고급 기능
 	- GPT-3.5: 2022년 1월 까지
 	- GPT-4: 2023년 12월 까지
 	- GPT-4o: 2023년 9월 까지
+	- o3, 4o mini: 2024년 
 
 ![](../attachments/chatgpt-browsing.png)
 
