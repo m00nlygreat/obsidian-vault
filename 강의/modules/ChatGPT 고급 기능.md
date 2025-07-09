@@ -79,8 +79,7 @@ title: ChatGPT 고급 기능
 		- 체감상, Claude가 글을 좀 더 꼼꼼히 읽고, 쓰는 경향 있음
 - 기본적으로 초안을 Develop하는 형태로 작동하여, 퇴고와 수정을 기본으로 작업하는 경우 유용
 
-
-
+![](../attachments/chatgpt-canvas.png)
 
 ## GPTs
 
