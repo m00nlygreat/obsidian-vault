@@ -66,8 +66,9 @@
 - Advanced Data Analysis
 - Colab 사용하기
 
+## GPTs 커스터마이징
 
-
+- 
 # 조치사항
 
 ## 알고링크
