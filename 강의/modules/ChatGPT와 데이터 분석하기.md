@@ -13,3 +13,7 @@
 ```
 
 ![](../attachments/chatgpt-exploratory_data_analysis.png)
+
+## 상세 데이터 분석 요구사항
+
+- EDA 결과에서 얻어낸 인사이트, 궁금증을 토대로 분석을 진행시켜
