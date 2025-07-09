@@ -32,9 +32,9 @@ title: ChatGPT 고급 기능
 ![](../attachments/chatgpt-vision.png)
 
 
-## GPT-4o Image 생성
+## GPT-4o 이미지 생성
 
-- GPT에 탑재된 새로운 이미지 생성 모델
+- GPT에 탑재된 새로운 이미지 생성 모델 (2025. 3)
 - Input / Output에 각각 멀티모달 통합이 뛰어나 각각 `Image 2 Image` 등의 작업에 뛰어남
 - 편집이나 재창작, 언어 이해, 스타일 재현이 뛰어남
 
@@ -68,6 +68,14 @@ title: ChatGPT 고급 기능
 - 기본적으로 파이썬으로 수행가능한 데이터 분석, 파일 관련, 수학 등의 요청을 받아들이나, API콜, 크롤링 등 시스템에 영향을 주거나 부담스러운 작업은 거절
 
 ![](../attachments/chatgpt-data_analysis.png)
+
+## 캔버스
+
+- 코드 또는 글을 작성할 때 좀 더 전문적으로 집중을 도와주는 도구
+	- Claude의 Artifact에 대응하는 기능이다
+- 기본적으로 초안을 Develop하는 형태로 작동하여, 퇴고와 수정을 기본으로 작업하는 경우 유용
+
+
 
 ## GPTs
 
