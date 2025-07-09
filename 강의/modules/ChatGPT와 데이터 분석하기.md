@@ -24,4 +24,8 @@
 ## Google Colab 사용하기
 
 - GPT의 가상환경에서는 여러 제약(성능, 설치된 패키지 등)으로 수행할 수 없는 고급 데이터 분석을 **구글 Colaboraroty**에서 수행할 수 있습니다.
-- 코드 작성을 요청하고, 
+- 코드 작성을 요청하고, 구글 Colab에서 실행해 봅니다.
+- [tesla_lstm](https://chatgpt.com/c/686e9044-b420-8008-8c62-8d4bd17117f0)
+	- [colab](https://colab.research.google.com/drive/11sL7AyK5Lub3GMcN22ahLakCBkr5QSg_?usp=sharing)
+
+![](../attachments/chatgpt-tesla_colab.png)
