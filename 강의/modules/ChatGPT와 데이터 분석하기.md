@@ -12,4 +12,4 @@
 이 데이터를 읽고 탐색적 데이터 분석을 수행해주세요.
 ```
 
-![](attachments/Pasted%20image%2020250710005648.png)
+![](../attachments/chatgpt-exploratory_data_analysis.png)
