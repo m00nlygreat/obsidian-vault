@@ -52,7 +52,7 @@ title: ChatGPT 기초 사용법ㅋㅋ
 
 > 성능이 좋아진 지금은 보기 힘든 화면이 되었다.
 
-![](../attachments/chatgpt-regenerate.png)
+![](attachments/chatgpt-regenerate.png)
 
 ---
 
