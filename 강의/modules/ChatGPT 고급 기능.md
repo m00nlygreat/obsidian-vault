@@ -13,6 +13,10 @@ title: ChatGPT 고급 기능
 
 - ChatGPT는 대화 도중 사용자의 선호나 배경에 대한 정보가 감지되면 그 사실을 자신의 *메모리*에 업데이트하여 답변에 반영한다.
 
+```
+내가 너와 상호작용한 모든 내용을 바탕으로 내 사고 패턴과 의사 결정 방식, 무의식적인 편향, 반복적으로 드러나는 '약점'이나 '맹점'을 상세히 분석해 줘. 그리고 각 항목에 대해 나에게 필요한 조언을 구체적으로 적어줘. 5000자 이상
+```
+
 ![](../attachments/chatgpt-custom_instruction.png)
 
 ## Vision & DALL-E
@@ -24,6 +28,11 @@ title: ChatGPT 고급 기능
 - 풍경 사진, 이미지에서 도표, 이미지로 된 텍스트까지
 
 ![](../attachments/chatgpt-vision.png)
+
+
+## 4o Image Generation
+
+- GPT에 탑재된 새로운 이미지 생성 모델, 언어 이해가 뛰어나고 
 
 ## Browsing
 
