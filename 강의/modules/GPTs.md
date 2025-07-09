@@ -1,5 +1,7 @@
 ---
+title: GPTs
 type: module
+author: 배문형
 ---
 ## GPTs 만들기
 
