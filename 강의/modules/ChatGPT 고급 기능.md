@@ -57,7 +57,7 @@ title: ChatGPT 고급 기능
 	- GPT-3.5: 2022년 1월 까지
 	- GPT-4: 2023년 12월 까지
 	- GPT-4o: 2023년 9월 까지
-	- o3, 4o mini: 2024년 
+	- o3, 4o mini: 2024년 7월까지
 
 ![](../attachments/chatgpt-browsing.png)
 

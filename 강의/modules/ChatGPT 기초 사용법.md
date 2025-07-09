@@ -3,14 +3,6 @@ type: module
 title: ChatGPT 기초 사용법ㅋㅋ
 ---
 
-## 소개
-
-![](../attachments/chatgpt-gpt_models.png)
-
----
-
-![](../attachments/chatgpt-the_gpt_family.png)
-
 ## 질문해보기
 
 ### 간단한 의견 물어보기

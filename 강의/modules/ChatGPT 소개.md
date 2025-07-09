@@ -3,6 +3,7 @@ title: ChatGPT 소개
 type: module
 author: 배문형
 ---
+
 ## ChatGPT
 
 - OpenAI 가 발표한 *Generative Pre-trained Transformer* 모델의 생성형 AI 언어모델
@@ -55,3 +56,12 @@ author: 배문형
 - 환각 현상을 줄이는 테크닉 중 하나
 
 ![](../attachments/gpt-hallucination.jpg)
+
+
+## 소개
+
+![](../attachments/chatgpt-gpt_models.png)
+
+---
+
+![](../attachments/chatgpt-the_gpt_family.png)
