@@ -36,7 +36,7 @@ author: 배문형
 
 ![원영적사고 GPT 만들기.project](practices/원영적사고%20GPT%20만들기.project.md)
 
-
+![친절한 김대리 봇 만들기.project](practices/친절한%20김대리%20봇%20만들기.project.md)
 
 # ChatGPT와 데이터 분석
 
