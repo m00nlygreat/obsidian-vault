@@ -15,4 +15,4 @@ Make의 웹훅을 사용하면, GPTs가 판단하에 Make의 시나리오를 실
 1. Make에서 새 웹훅 모듈을 만들고 대기하기
 2. 새 GPTs를 만들고 작업(Actions) 만들기
 3. [ActionsGPT](https://chatgpt.com/g/g-TYEliDU6A-actionsgpt)를 사용해서 **OpenAPI 스키마** 작성하기
-4. Make에서 구글 캘린더 
+4. Make에서 구글 캘린더
