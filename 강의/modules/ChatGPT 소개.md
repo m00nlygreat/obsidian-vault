@@ -59,7 +59,16 @@ author: 배문형
 
 ## 에이전트
 
-사용자의 요청에 대한 목적을 달성하기 위해, 여러 번의 추론과 자동화 작업
+사용자의 요청에 대한 목적을 달성하기 위해, 여러 번의 추론과 자동화 작업을 통해 보장된 품질의 결과물을 내놓는 자동화 프로그램
+
+### 종류
+
+- 코딩: Cursor, Gemini-CLI, Claude-Code, Codex
+- 검색: OpenAI Deep Research, Perplexity, Manus.ai
+- 사무: Genspark
+- 디자인: Lovable
+
+![](../attachments/chatgpt-agents.png)
 
 ## 소개
 
