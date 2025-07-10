@@ -101,5 +101,3 @@ title: ChatGPT 고급 기능
 - 향후 OS와 AI Agent 통합의 전초기지가 될 전망
 
 ![](../attachments/chatgpt-native_app.png)
-
-![회사 재무제표 읽기.project](../practices/회사%20재무제표%20읽기.project.md)
