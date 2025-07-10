@@ -3,8 +3,6 @@ title: Make와 백엔드 자동화
 type: text
 ---
 
-# API
-
 ![API](modules/API.md)
 
 # Make
