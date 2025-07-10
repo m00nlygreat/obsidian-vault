@@ -28,9 +28,9 @@
         "SIGTERM"
       ],
       "terminalOptions": {
-        "documentOverride": null,
         "fontFamily": "Input Mono",
-        "fontSize": 12
+        "fontSize": 12,
+        "documentOverride": null
       },
       "type": "external"
     },
