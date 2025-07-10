@@ -6,7 +6,7 @@ author: 배문형
 
 ## Genspark.ai
 
-MoA(*Mixture of Agents*) 라고 부르는 기술을 사용해 여러 에이전트와 빠르게 소통하며 고품질의 정보를 생성하는 **슈퍼 에이전트** 기능을 대표로 가진 AI 서비스
+MoA(*Mixture of Agents*) 라고 부르는 기술을 사용해 여러 에이전트와 빠르게 소통하며 고품질의 정보를 생성하는 **슈퍼 에이전트** 기능을 대표로 가진 AI 서비스 (2025.4)
 
 ### Agents
 
@@ -15,3 +15,9 @@ MoA(*Mixture of Agents*) 라고 부르는 기술을 사용해 여러 에이전�
 - AI 통화 비서: 요청하면 에이전트가 목적을 달성하기 위해 사람과 통화하여 결과를 남김
 
 ![](../attachments/chatgpt-genspark_ai_sheets.png)
+
+## NotebookLM
+
+구글 Gemini를 사용해서, 주어진 자료에 집중 한정하여 RAG를 수행하고 정보를 정리하는 서비스
+
+- `PDF`, `txt`, `Markdown`, `MP3` 오디오, 구글 드라이브 문서, 
