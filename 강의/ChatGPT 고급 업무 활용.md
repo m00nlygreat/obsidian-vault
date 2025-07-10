@@ -26,6 +26,10 @@ author: 배문형
 
 ![ChatGPT 고급 기능](modules/ChatGPT%20고급%20기능.md)
 
+![이력서를 주고 물어보기.project](practices/이력서를%20주고%20물어보기.project.md)
+
+![회사 재무제표 읽기.project](practices/회사%20재무제표%20읽기.project.md)
+
 # GPTs 만들기
 
 ![GPTs](modules/GPTs.md)
