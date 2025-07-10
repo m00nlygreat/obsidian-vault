@@ -69,11 +69,3 @@ author: 배문형
 - 디자인: Lovable
 
 ![](../attachments/chatgpt-agents.png)
-
-## 소개
-
-![](../attachments/chatgpt-gpt_models.png)
-
----
-
-![](../attachments/chatgpt-the_gpt_family.png)

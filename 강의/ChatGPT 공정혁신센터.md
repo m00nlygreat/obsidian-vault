@@ -8,6 +8,7 @@ author: 배문형
 
 ![강사소개](강사%20소개.md)
 
+![ChatGPT 소개](modules/ChatGPT%20소개.md)
 
 ![ChatGPT를 대하는 우리의 자세](modules/ChatGPT를%20대하는%20우리의%20자세.md)
 
@@ -15,7 +16,15 @@ author: 배문형
 
 ![왜 내 GPT는 대답을 이상하게 할까](modules/왜%20내%20GPT는%20대답을%20이상하게%20할까.md)
 
-# ChatGPT 사용해보기
+# ChatGPT 기초 사용법 소개
+
+## 소개
+
+![](../attachments/chatgpt-gpt_models.png)
+
+---
+
+![](../attachments/chatgpt-the_gpt_family.png)
 
 ![ChatGPT 기초 사용법](modules/ChatGPT%20기초%20사용법.md)
 
