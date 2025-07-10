@@ -40,7 +40,7 @@ author: 배문형
 
 # ChatGPT와 데이터 분석
 
-![ChatGPT와 데이터 분석하기](modules/ChatGPT와%20데이터%20분석하기.md)
+![ChatGPT와 데이터 분석](modules/ChatGPT와%20데이터%20분석.md)
 
 # 실전 ChatGPT
 
