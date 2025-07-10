@@ -48,4 +48,8 @@ author: 배문형
 
 ![VBA with GPT](modules/VBA%20with%20GPT.md)
 
+# 기능을 가진 GPTs 만들기
+
+![Make와 백엔드 자동화](Make와%20백엔드%20자동화.md)
+
 # 감사합니다
