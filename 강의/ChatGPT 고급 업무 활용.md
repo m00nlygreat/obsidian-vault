@@ -42,7 +42,7 @@ author: 배문형
 
 ![ChatGPT와 데이터 분석](modules/ChatGPT와%20데이터%20분석.md)
 
-# 실전 ChatGPT
+# 엑셀과 ChatGPT
 
 ![GPT를 엑셀 안에서 사용하기](modules/GPT를%20엑셀%20안에서%20사용하기.md)
 
