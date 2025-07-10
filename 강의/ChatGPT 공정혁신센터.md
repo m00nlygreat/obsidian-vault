@@ -38,6 +38,8 @@ author: 배문형
 
 ![회사 재무제표 읽기.project](practices/회사%20재무제표%20읽기.project.md)
 
+![내 사주 분석하기.project](practices/내%20사주%20분석하기.project.md)
+
 # GPTs 만들기
 
 ![GPTs](modules/GPTs.md)
