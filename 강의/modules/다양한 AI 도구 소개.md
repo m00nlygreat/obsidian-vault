@@ -1,5 +1,5 @@
 ---
-title: 지금 체크해봐야할 다양한 AI 도구들
+title: 지금 체크해봐야 하는 다양한 AI 도구들
 type: module
 author: 배문형
 ---
@@ -27,3 +27,9 @@ MoA(*Mixture of Agents*) 라고 부르는 기술을 사용해 여러 에이전�
 - [서울 좀비 아포칼립스 서바이벌](https://notebooklm.google.com/notebook/dbf52a76-e468-4a5f-a88b-4a667c0f6435?original_referer=https:%2F%2Fnotebooklm.google%23&pli=1)
 
 ![](../attachments/chatgpt-notebook_lm.png)
+
+## MCP
+
+*Model-Context Protocol*
+
+- LLM의 손과 발이 되는, 다양한 기능에 접근할 수 있는 
