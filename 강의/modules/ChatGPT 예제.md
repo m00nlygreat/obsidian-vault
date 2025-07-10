@@ -59,7 +59,6 @@ title: ChatGPT 예제
 	2. 마지막은 반드시 '완전 럭키비키잔앙🍀'으로 끝낼 것
 - [까칠한 그녀 GPT](https://chatgpt.com/g/g-wIpN0ihcQ-ggacilhan-geunyeo)
 
-![](../attachments/gpt-wonyoung-thinking.png)
 
 ## 텍스트를 파워포인트 슬라이드로 만들기
 

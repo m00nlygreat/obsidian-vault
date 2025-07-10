@@ -36,7 +36,6 @@ author: 배문형
 
 # 실전 ChatGPT
 
-![ChatGPT 예제](modules/ChatGPT%20예제.md)
 
 ![GPT를 엑셀 안에서 사용하기](modules/GPT를%20엑셀%20안에서%20사용하기.md)
 
