@@ -52,4 +52,6 @@ author: 배문형
 
 ![Make와 백엔드 자동화](Make와%20백엔드%20자동화.md)
 
+![[practices/캘린더 일정관리 GPTs 만들기.project]]
+
 # 감사합니다
