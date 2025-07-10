@@ -11,7 +11,6 @@ participants:
 ### Instruction 생각해보기
 
 - 답변을 구성하는 규칙과 말투의 특징 등의 지시사항 제공하기
-- 재미있는 질문 샘플 만들어 제공하기
-
+- 재미있는 대화 스타터 만들어 제공하기
 
 ![](../attachments/gpt-wonyoung-thinking.png)

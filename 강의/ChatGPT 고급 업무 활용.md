@@ -30,6 +30,10 @@ author: 배문형
 
 ![GPTs](modules/GPTs.md)
 
+![원영적사고 GPT 만들기.project](practices/원영적사고%20GPT%20만들기.project.md)
+
+
+
 # ChatGPT와 데이터 분석
 
 ![ChatGPT와 데이터 분석하기](modules/ChatGPT와%20데이터%20분석하기.md)
