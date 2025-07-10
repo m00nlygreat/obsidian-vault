@@ -21,7 +21,6 @@ title: ChatGPT 예제
 	- 한국의 현 상황과 관련하여 투자의견 제안
 - 재무제표 분석 결과, 투자 관련 의견을 작성하여 보고하기
 
-![](../attachments/read_finance.png)
 
 ## 아보카도 가격 분석
 
