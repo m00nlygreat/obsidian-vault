@@ -90,6 +90,10 @@ title: ChatGPT 고급 기능
 
 ![](../attachments/chatgpt-gpts.png)
 
+## 심층 리서치(Deep Research)
+
+웹 검색, 학술문서 등을 반복 검색하며 정보를 수집, 분석, 정리하여 사용자가 제시한 연구 주제에 대해 
+
 ## ChatGPT App
 
 - iOS/Android/Windows/Mac 을 지원하는 네이티브 앱
