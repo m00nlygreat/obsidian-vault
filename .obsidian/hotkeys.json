@@ -53,8 +53,14 @@
       "key": "ArrowLeft"
     }
   ],
-  "app:go-back": [],
-  "app:go-forward": [],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
@@ -81,6 +87,14 @@
         "Shift"
       ],
       "key": "W"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
     }
   ]
 }

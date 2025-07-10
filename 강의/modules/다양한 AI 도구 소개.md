@@ -26,4 +26,4 @@ MoA(*Mixture of Agents*) 라고 부르는 기술을 사용해 여러 에이전�
 - 친구 공개 또는 전체 공개 등으로 공유 가능
 - [서울 좀비 아포칼립스 서바이벌](https://notebooklm.google.com/notebook/dbf52a76-e468-4a5f-a88b-4a667c0f6435?original_referer=https:%2F%2Fnotebooklm.google%23&pli=1)
 
-![](attachments/chatgpt-notebook_lm.png)
+![](../attachments/chatgpt-notebook_lm.png)

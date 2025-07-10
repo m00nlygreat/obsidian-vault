@@ -44,6 +44,10 @@ author: 배문형
 
 ![친절한 김대리 봇 만들기.project](practices/친절한%20김대리%20봇%20만들기.project.md)
 
+# 지금 체크해봐야 하는 AI 도구들
+
+![다양한 AI 도구 소개](modules/다양한%20AI%20도구%20소개.md)
+
 # ChatGPT와 데이터 분석
 
 ![ChatGPT와 데이터 분석](modules/ChatGPT와%20데이터%20분석.md)
