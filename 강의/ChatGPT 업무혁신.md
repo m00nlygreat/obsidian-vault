@@ -1,5 +1,5 @@
 ---
-title: ChatGPT 고급 업무 활용
+title: ChatGPT 고급 업무 혁신
 type: text
 author: 배문형
 ---

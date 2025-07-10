@@ -4,7 +4,7 @@ type: module
 author: 배문형
 ---
 
-## Genspark.ai
+## [Genspark.ai](https://www.genspark.ai/invite_member?invite_code=YzBkN2EzMDJMYTFmZExiNDhlTGE3MGRMY2M1N2NkODg0MjE2)
 
 MoA(*Mixture of Agents*) 라고 부르는 기술을 사용해 여러 에이전트와 빠르게 소통하며 고품질의 정보를 생성하는 **슈퍼 에이전트** 기능을 대표로 가진 AI 서비스 (2025.4)
 
