@@ -96,7 +96,7 @@ title: ChatGPT 고급 기능
 
 - 사용량 제한이 있으므로 마음껏 사용은 어려움 (Pro 플랜)
 - 연구 범위, 출처, 세부 주제 등의 상세한 목적과 배경, 요청사항을 줄수록 결과의 품질이 좋음
-- []
+- [딥 리서치 프롬프트 작성 도우미](https://chatgpt.com/g/g-67e2161dd7b88191bfc4e6b56b66ce90-dibriseoci-peurompeuteu-jagseong-doumi)를 활용해보자. [출처](https://www.youtube.com/shorts/ghIj-bjPBpU)
 
 ![](../attachments/chatgpt-deep_research.png)
 

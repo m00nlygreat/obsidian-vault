@@ -57,6 +57,9 @@ author: 배문형
 
 ![](../attachments/gpt-hallucination.jpg)
 
+## 에이전트
+
+사용자의 요청에 대한 목적을 달성하기 위해, 여러 번의 추론과 자동화 작업
 
 ## 소개
 
