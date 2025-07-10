@@ -63,9 +63,9 @@ author: 배문형
 
 ### 종류
 
-- 코딩: Cursor, Gemini-CLI, Claude-Code, Codex
+- 코딩: Cursor, Gemini-CLI, Claude-Code, Codex, Lovable
 - 검색: OpenAI Deep Research, Perplexity, Manus.ai
 - 사무: Genspark
-- 디자인: Lovable
+- 디자인: Lovable, Figma AI
 
 ![](../attachments/chatgpt-agents.png)
