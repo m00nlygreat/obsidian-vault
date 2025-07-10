@@ -11,3 +11,7 @@ type: module
 ---
 
 ![](../attachments/chatgpt-the_gpt_family.png)
+
+---
+
+![](../attachments/chatgpt-pricing.png)
