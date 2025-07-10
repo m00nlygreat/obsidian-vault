@@ -16,15 +16,9 @@ author: 배문형
 
 ![왜 내 GPT는 대답을 이상하게 할까](modules/왜%20내%20GPT는%20대답을%20이상하게%20할까.md)
 
-# ChatGPT 기초 사용법 소개
+# ChatGPT 써보기
 
-## 소개
-
-![](../attachments/chatgpt-gpt_models.png)
-
----
-
-![](../attachments/chatgpt-the_gpt_family.png)
+![ChatGPT 개요](modules/ChatGPT%20개요.md)
 
 ![ChatGPT 기초 사용법](modules/ChatGPT%20기초%20사용법.md)
 
