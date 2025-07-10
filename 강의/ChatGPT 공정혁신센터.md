@@ -22,6 +22,10 @@ author: 배문형
 
 ![프롬프트 엔지니어링](modules/프롬프트%20엔지니어링.md)
 
+![점보 고향만두 프로젝트 제안서 작성.project](practices/점보%20고향만두%20프로젝트%20제안서%20작성.project.md)
+
+![첵스나라 대통령 선거 프로젝트 제안.project](practices/첵스나라%20대통령%20선거%20프로젝트%20제안.project.md)
+
 # ChatGPT 고급 기능 소개
 
 ![ChatGPT 고급 기능](modules/ChatGPT%20고급%20기능.md)
