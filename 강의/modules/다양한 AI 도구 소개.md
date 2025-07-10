@@ -20,4 +20,10 @@ MoA(*Mixture of Agents*) 라고 부르는 기술을 사용해 여러 에이전�
 
 구글 Gemini를 사용해서, 주어진 자료에 집중 한정하여 RAG를 수행하고 정보를 정리하는 서비스
 
-- `PDF`, `txt`, `Markdown`, `MP3` 오디오, 구글 드라이브 문서, 
+- `PDF`, `txt`, `Markdown`, `MP3` 오디오, 구글 드라이브 문서, 웹사이트, Youtube 등의 다양한 포맷 지원
+- 주어진 자료 외에서 정보를 생성하는 **환각 현상 최소화**
+- 팟캐스트 생성 기능
+- 친구 공개 또는 전체 공개 등으로 공유 가능
+- [서울 좀비 아포칼립스 서바이벌](https://notebooklm.google.com/notebook/dbf52a76-e468-4a5f-a88b-4a667c0f6435?original_referer=https:%2F%2Fnotebooklm.google%23&pli=1)
+
+![](attachments/chatgpt-notebook_lm.png)
