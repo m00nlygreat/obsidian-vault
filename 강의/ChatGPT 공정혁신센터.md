@@ -8,7 +8,6 @@ author: 배문형
 
 ![강사소개](강사%20소개.md)
 
-![ChatGPT 소개](modules/ChatGPT%20소개.md)
 
 ![ChatGPT를 대하는 우리의 자세](modules/ChatGPT를%20대하는%20우리의%20자세.md)
 
