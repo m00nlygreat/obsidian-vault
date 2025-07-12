@@ -22,4 +22,4 @@ Make의 웹훅을 사용하면, GPTs가 판단하에 Make의 시나리오를 실
 
 ### 공정
 
-1. 먼저 Go
+1. 먼저 Basic Trigger 사용해 Google Calendar - Search Event 모듈 사용해보기
