@@ -11,9 +11,13 @@ Make의 웹훅을 사용하면, GPTs가 판단하에 Make의 시나리오를 실
 ### 전체 공정
 
 1. Make에서 새 웹훅 모듈을 만들고 대기하기
+	- d
 2. 새 GPTs를 만들고 작업(Actions) 만들기
 3. [ActionsGPT](https://chatgpt.com/g/g-TYEliDU6A-actionsgpt)를 사용해서 **OpenAPI 스키마** 작성하기
 	- GPTs 테스트
 4. Make에서 구글 캘린더 모듈을 연결하고, 입력 값 채워주기
 	- GPTs 테스트
 5. Instruction을 입력하고 GPTs 완성하기
+
+## 덤: 일정을 읽어오는 GPT 만들기
+
