@@ -1,6 +1,9 @@
 ---
 title: 아는 만큼 쓰는 ChatGPT
 type: text
+tags:
+  - ChatGPT
+  - 생성형AI
 ---
 
 # 들어가며
