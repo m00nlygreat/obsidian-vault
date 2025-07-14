@@ -68,6 +68,12 @@
         "Shift"
       ],
       "key": "["
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
     }
   ],
   "app:toggle-right-sidebar": [
@@ -77,6 +83,13 @@
         "Shift"
       ],
       "key": "]"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "B"
     }
   ],
   "workspace:close-window": [],
