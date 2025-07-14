@@ -1,6 +1,9 @@
 ---
 title: Make와 백엔드 자동화
 type: text
+author: 배문형
+tags:
+  - Make
 ---
 
 ![API](modules/API.md)

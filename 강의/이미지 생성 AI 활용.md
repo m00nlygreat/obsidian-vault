@@ -1,6 +1,9 @@
 ---
 title: 이미지 생성 AI 활용
 type: text
+author: 배문형
+tags:
+  - 생성형AI
 ---
 ## 이미지 생성형 AI
 
