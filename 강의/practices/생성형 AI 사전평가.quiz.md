@@ -1,3 +1,12 @@
+---
+title: 생성형 AI 사전 평가
+author: 배문형
+type: practice
+practice_type: quiz
+participants:
+  - indivisual
+---
+
 ### 1. ChatGPT 등의 생성형 AI에서 텍스트 뿐만이 아니라 이미지, 오디오, 비디오 등을 한 번에 처리하는 기술을 뭐라고 하나요?
 
 1. 멀티링구얼
