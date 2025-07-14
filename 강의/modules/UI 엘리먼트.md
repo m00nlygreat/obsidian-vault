@@ -1,3 +1,11 @@
+---
+title: UI 엘리먼트
+author: 배문형
+type: module
+tags:
+  - 서비스기획
+---
+
 ## UI를 뜯어보는 기준
 
 - Looks: 어떻게 생겼는지
