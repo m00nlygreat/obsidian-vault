@@ -4,6 +4,8 @@ type: practice
 participants:
   - indivisual
 practice_type: project
+tags:
+  - 서비스기획
 ---
 
 ## 실습 개요
