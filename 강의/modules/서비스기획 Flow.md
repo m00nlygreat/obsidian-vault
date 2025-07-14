@@ -1,3 +1,11 @@
+---
+title: 서비스기획 FLow
+type: module
+author: 배문형
+tags:
+  - 서비스기획
+---
+
 ## 더블 다이아몬드 모델
 
 - 기획의 여정(Design Process)은 발산과 수렴을 반복한다.
