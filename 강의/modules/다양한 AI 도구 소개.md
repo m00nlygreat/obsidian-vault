@@ -2,6 +2,8 @@
 title: 지금 체크해봐야 하는 다양한 AI 도구들
 type: module
 author: 배문형
+tags:
+  - 생성형AI
 ---
 
 ## [Genspark.ai](https://www.genspark.ai/invite_member?invite_code=YzBkN2EzMDJMYTFmZExiNDhlTGE3MGRMY2M1N2NkODg0MjE2)
