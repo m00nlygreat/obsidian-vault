@@ -17,6 +17,13 @@
         "type": "FILES_AND_DIRECTORIES",
         "pattern": "",
         "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "강의/기획 선배의 맞는 말 대잔치.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
@@ -30,7 +37,7 @@
     ]
   },
   "hideFilters": {
-    "active": true,
+    "active": false,
     "tags": [
       {
         "name": "",
