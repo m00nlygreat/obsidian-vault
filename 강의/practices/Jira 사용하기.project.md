@@ -7,4 +7,9 @@ participants:
   - team
 tags:
   - 서비스기획
+  - 프로젝트_메니지먼트
 ---
+
+## Jira
+
+- 애자일 
