@@ -1,3 +1,11 @@
+---
+title: 기타 UX 도구들
+author: 배문형
+type: module
+tags:
+  - 서비스기획
+  - UI-UX
+---
 
 ## 어피니티 다이어그램
 
