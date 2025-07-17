@@ -22,7 +22,7 @@
   "useVirtualTag": false,
   "useFrontmatterTagsForNewNotes": false,
   "doNotSimplifyTags": false,
-  "overrideTagClicking": true,
+  "overrideTagClicking": false,
   "useMultiPaneList": false,
   "archiveTags": "",
   "disableNarrowingDown": true,
@@ -30,7 +30,7 @@
   "disableDragging": false,
   "linkConfig": {
     "incoming": {
-      "enabled": true,
+      "enabled": false,
       "key": ""
     },
     "outgoing": {
@@ -38,7 +38,7 @@
       "key": ""
     }
   },
-  "linkShowOnlyFDR": true,
+  "linkShowOnlyFDR": false,
   "linkCombineOtherTree": true,
   "showListIn": "",
   "displayFolderAsTag": false
