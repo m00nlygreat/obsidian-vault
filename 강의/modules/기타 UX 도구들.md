@@ -47,7 +47,7 @@ tags:
 - 스크롤, 클릭, 커서 움직임 등의 유저 행동을 누적된 히트맵으로 보기
 - 사용자의 정보 습득 경로와 주 의사결정 요인 등을 확인할 수 있는 지표
 
-![](../attachments/Pasted%20image%2020241119033057.png)
+![](../attachments/ux-heatmap.png)
 
 ## 카드소팅 (Card Sorting)
 
