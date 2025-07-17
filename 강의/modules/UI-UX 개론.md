@@ -41,6 +41,7 @@ tags:
 ![](../attachments/uxdesign-affordance.png)
 
 ---
+
 ### 지각된 어포던스 (Perceived Affordance)
 
 - 또는 기표(Signifiant), 도널드 노먼
