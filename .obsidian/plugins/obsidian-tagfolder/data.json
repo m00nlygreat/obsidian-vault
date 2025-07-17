@@ -22,7 +22,7 @@
   "useVirtualTag": false,
   "useFrontmatterTagsForNewNotes": false,
   "doNotSimplifyTags": false,
-  "overrideTagClicking": false,
+  "overrideTagClicking": true,
   "useMultiPaneList": false,
   "archiveTags": "",
   "disableNarrowingDown": true,
