@@ -172,6 +172,10 @@ tags:
 
 ![](../attachments/uxdesign-selectBox.png)
 
+## Icon
+
+![](../attachments/ux-icon.png)
+
 # Composites
 
 ## Form
