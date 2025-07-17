@@ -6,8 +6,8 @@ practice_type: project
 participants:
   - team
 tags:
-  - 서비스기획
   - 프로젝트_메니지먼트
+	- 서비스기획
 ---
 
 ## 실습: Jira 사용하기
