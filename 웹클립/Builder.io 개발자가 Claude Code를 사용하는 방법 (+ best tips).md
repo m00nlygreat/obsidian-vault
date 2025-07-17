@@ -2,7 +2,7 @@
 title: "Builder.io 개발자가 Claude Code를 사용하는 방법 (+ best tips)"
 source: "https://news.hada.io/topic?id=22034"
 author:
-  - "[[spilist2]]"
+  - spilist2
 published: 2025-07-17
 created: 2025-07-17
 description: "예전에는 Cursor 파워 유저였고 How I use Cursor (+ my best tips)라는 글로 인기를 끌었던 Builder.io의 Steve Swell이 이번에는 좋은 클로드 코드 팁 글을 올려줬길래 번역 + 요약해서 공유드립니다. (블로그 글에는 참고 영상과 코드 스니펫이 있습니다)IDE에서 통합해서 써라. 다만 나는 이제 커서는 CMD+K 자"
