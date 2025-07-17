@@ -56,3 +56,7 @@ tags:
 - 사용자가 익숙하고 직관적이라고 느끼는 화면의 순서, 메뉴의 배치를 알아낼 수 있다
 
 ![](../attachments/ux-card-sorting.png)
+
+## 간트차트와 업무 분해도(WBS)
+
+![](../attachments/pm-wbs.png)
