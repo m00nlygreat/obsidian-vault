@@ -117,5 +117,8 @@
       ],
       "key": "'"
     }
-  ]
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "terminal:close-terminal": [],
+  "terminal:clear-terminal": []
 }
