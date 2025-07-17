@@ -39,6 +39,101 @@
       "enabled": true,
       "isBuiltIn": true,
       "core": true,
+      "plusExclusive": true,
+      "projectEnabled": false,
+      "capabilities": [
+        "vision"
+      ],
+      "apiKey": ""
+    },
+    {
+      "name": "google/gemini-2.5-flash-lite-preview-06-17",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ],
+      "apiKey": ""
+    },
+    {
+      "name": "google/gemini-2.5-flash",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ],
+      "apiKey": ""
+    },
+    {
+      "name": "google/gemini-2.5-pro",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ],
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-4.1",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ],
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-4.1-mini",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ],
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-4.1-nano",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ],
+      "apiKey": ""
+    },
+    {
+      "name": "o4-mini",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "reasoning"
+      ],
+      "apiKey": ""
+    },
+    {
+      "name": "claude-3-5-sonnet-latest",
+      "provider": "anthropic",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
       "capabilities": [
         "vision"
       ],
@@ -58,17 +153,6 @@
     {
       "name": "gpt-4o-mini",
       "provider": "openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "core": true,
-      "capabilities": [
-        "vision"
-      ],
-      "apiKey": ""
-    },
-    {
-      "name": "claude-3-5-sonnet-latest",
-      "provider": "anthropic",
       "enabled": true,
       "isBuiltIn": true,
       "core": true,
@@ -141,7 +225,9 @@
       "enabled": true,
       "isBuiltIn": true,
       "isEmbeddingModel": true,
-      "core": true
+      "core": true,
+      "plusExclusive": true,
+      "apiKey": ""
     },
     {
       "name": "copilot-plus-large",
@@ -150,8 +236,10 @@
       "isBuiltIn": true,
       "isEmbeddingModel": true,
       "core": true,
+      "plusExclusive": true,
       "believerExclusive": true,
-      "dimensions": 1024
+      "dimensions": 1024,
+      "apiKey": ""
     },
     {
       "name": "copilot-plus-multilingual",
@@ -160,7 +248,9 @@
       "isBuiltIn": true,
       "isEmbeddingModel": true,
       "core": true,
-      "dimensions": 512
+      "plusExclusive": true,
+      "dimensions": 512,
+      "apiKey": ""
     },
     {
       "name": "text-embedding-3-small",
@@ -168,35 +258,40 @@
       "enabled": true,
       "isBuiltIn": true,
       "isEmbeddingModel": true,
-      "core": true
+      "core": true,
+      "apiKey": ""
     },
     {
       "name": "text-embedding-3-large",
       "provider": "openai",
       "enabled": true,
       "isBuiltIn": true,
-      "isEmbeddingModel": true
+      "isEmbeddingModel": true,
+      "apiKey": ""
     },
     {
       "name": "embed-multilingual-light-v3.0",
       "provider": "cohereai",
       "enabled": true,
       "isBuiltIn": true,
-      "isEmbeddingModel": true
+      "isEmbeddingModel": true,
+      "apiKey": ""
     },
     {
       "name": "text-embedding-004",
       "provider": "google",
       "enabled": true,
       "isBuiltIn": true,
-      "isEmbeddingModel": true
+      "isEmbeddingModel": true,
+      "apiKey": ""
     },
     {
       "name": "azure-openai",
       "provider": "azure openai",
       "enabled": true,
       "isBuiltIn": true,
-      "isEmbeddingModel": true
+      "isEmbeddingModel": true,
+      "apiKey": ""
     }
   ],
   "embeddingRequestsPerSecond": 10,
@@ -265,5 +360,12 @@
   "promptUsageTimestamps": {},
   "embeddingRequestsPerMin": 90,
   "embeddingBatchSize": 16,
-  "isPlusUser": false
+  "isPlusUser": false,
+  "userId": "cfdd6513-1a60-4c38-8597-17f043bc15a4",
+  "includeActiveNoteAsContext": true,
+  "passMarkdownImages": true,
+  "enableCustomPromptTemplating": true,
+  "allowAdditionalContext": true,
+  "enableWordCompletion": false,
+  "suggestedDefaultCommands": true
 }
