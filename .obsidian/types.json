@@ -5,9 +5,6 @@
     "tags": "tags",
     "created": "datetime",
     "excalidraw-plugin": "text",
-    "excalidraw-url-prefix": "text",
-    "excalidraw-onload-script": "text",
-    "excalidraw-open-md": "checkbox",
     "participants": "multitext"
   }
 }
