@@ -1,3 +1,7 @@
+---
+title: Jira
+type: module
+---
 ## Jira
 
 Atlassian 社가 개발하고 운영하는, 애자일 방식의 협업을 돕는 협업도구
