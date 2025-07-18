@@ -198,7 +198,7 @@ tags:
 - 실행시 부모 컨테이너의 Interaction 중단됨 ≠ Modeless
 - Pop-ups / Pop-over
 
-### 닫히면 안되는 팝업
+#### 닫히면 안되는 팝업
 
 - 2차 인증번호를 입력하는 Modeless 팝업?
 
