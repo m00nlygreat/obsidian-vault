@@ -172,12 +172,6 @@ tags:
 
 ![](../attachments/uxdesign-selectBox.png)
 
-## Icon
-
-[나중에](../notes/나중에.md)
-
-![](../attachments/ux-icon.png)
-
 # Composites
 
 ## Form
