@@ -10,7 +10,7 @@ tags:
 
 - User Interface vs User Experience?
 - 둘은 서로 대립하는 개념이 아님.
-- UX는 
+- UX는 [나중에](../notes/나중에.md)
 
 ### 직관
 
