@@ -67,7 +67,7 @@ tags:
 
 # 기능을 가진 GPTs 만들기
 
-![Make와 백엔드 자동화](Make와%20백엔드%20자동화.md)
+![Make와 백엔드 자동화](Make와%20백엔드%20자동화/Make와%20백엔드%20자동화.md)
 
 ![캘린더 일정관리 GPTs 만들기.project](practices/캘린더%20일정관리%20GPTs%20만들기.project.md)
 

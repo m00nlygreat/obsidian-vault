@@ -4,9 +4,10 @@ type: text
 author: 배문형
 tags:
   - Make
+sticker: ""
 ---
 
-![API](modules/API.md)
+![API](../modules/API.md)
 
 # Make
 
@@ -21,7 +22,7 @@ tags:
 - 경제적: 넉넉한 무료 티어, 유료 기능도 재피어에 비해 저렴
 - 인터페이스: 섬세한 시각화 및 노드식 UI 구성으로 직관적
 
-![](attachments/make-intro.png)
+![](../attachments/make-intro.png)
 
 ## Terms
 
@@ -63,7 +64,7 @@ tags:
 - 요소마다 작업의 결과 데이터를 반환(Return)하고
 	- 이 데이터는 이후의 모듈에서 사용할 수 있다
 
-![](attachments/make-modules.png)
+![](../attachments/make-modules.png)
 
 ## 데이터 타입 (Data Types)
 
@@ -158,6 +159,6 @@ tags:
 - 구글시트, 노션과 비슷하게 Make 전용 함수들을 아이템 매핑에 사용할 수 있음
 - 특이하게 인수 구분자로 세미콜론(`;`)을 사용
 
-![](attachments/make-functions.png)
+![](../attachments/make-functions.png)
 
-![](modules/Make와%20G메일%20연동.md)
+![](../modules/Make와%20G메일%20연동.md)
