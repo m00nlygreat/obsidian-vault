@@ -240,8 +240,6 @@ tags:
 
 ![](../attachments/ux-lists_on_devices.png)
 
----
-
 ## Card
 
 - 프로퍼티를 가진 복수 개의 복잡한 정보를 나타내는 효과적인 UI 요소
