@@ -4,7 +4,6 @@ type: text
 author: 배문형
 tags:
   - Make
-sticker: ""
 ---
 
 ![API](../modules/API.md)
