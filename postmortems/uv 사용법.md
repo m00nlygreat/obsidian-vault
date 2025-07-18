@@ -10,7 +10,7 @@ uv init
 uv sync
 ```
 
-`uv run`이 알앗
+`uv run`이 알아서 sync 하기 때문에 필요는 없다
 
 ### python interactive
 
@@ -38,3 +38,10 @@ uv add {package-name}
 uv remove {package-name}
 ```
 
+### pip
+
+```bash
+uv pip install {package-name}
+```
+
+`pyproject.toml` / `uv.lock` 에 기록하지 않고 설치
