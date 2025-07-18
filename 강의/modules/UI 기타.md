@@ -29,8 +29,6 @@ tags:
 - [리디 디자인 시스템](https://www.makerhz.me/d3ad0b6f-3698-4907-9bcd-0372db8fd4a8)
 - [디지털정부 UI/UX 가이드라인](https://uiux.egovframe.go.kr/guide/index.html)
 
----
-
 ## 디자인 트렌드
 
 - 스큐어모픽 Skeuomporphic
