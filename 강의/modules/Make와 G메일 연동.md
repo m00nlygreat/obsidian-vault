@@ -4,7 +4,7 @@
 	- 전사적으로 G메일을 사용하고 이메일 주소가 gmail.com 이 아닌 것
 - 따라서 구글 클라우드 플랫폼(이하 GCP)에서 프로젝트를 등록하고, API의 허용 범위와 사용 신청
 	- 커스텀 Client ID와 Client Secret을 사용하는 방법으로 oAuth 로그인을 해야 함
-- [G메일과 Make 연동하기.pdf 참고](https://drive.google.com/file/d/19nuEHqB_igGDb35ujPkOmrUScNJ01fX7/view?usp=sharing)
+- [G메일과 Make 연동하기.pdf 참고](https://drive.google.com/file/d/1MJVbFbGLZGgr8ADDKMTgp1mm5N2cTQVE/view?usp=sharing)
 	- [Make documentation](https://www.make.com/en/help/app/gmail)
 
 ![](../attachments/make-gmail_inte.png)
