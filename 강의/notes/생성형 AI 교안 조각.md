@@ -1,4 +1,4 @@
-
+### cot, tree of thoughts
 
 [cot](https://process-mining.tistory.com/217)
 
