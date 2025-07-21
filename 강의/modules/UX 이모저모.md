@@ -57,6 +57,11 @@
 ## 아이콘
 
 - 아이콘, 이모지 등은 디자인 완성도를 높이고 심미적인 만족감을 주지만 사용에 주의할 필요가 있다 *아이콘에 대한 해석이 사람마다, 문화권, 언어권, 시대마다 다르기 때문*
-- 
+- [아이콘 현지화를 잊지 마세요](https://velog.io/@sehyunny/dont-forget-to-localize-icons)
+- [어몽어스와 제네바 협약](https://www.youtube.com/clip/UgkxWzNl3rFO9-MNru3m23EqkfIuaTTYaYnk)
 
 ![](../attachments/ux-icon.png)
+
+## LLM을 UX에 활용하기
+
+LLM을 UX에도 사용할 수 있을까? 
