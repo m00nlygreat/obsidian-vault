@@ -197,6 +197,7 @@ tags:
 ## Tab
 
 - 여러 페이지들을 묶어 버튼으로 전환할 수 있도록 추상화한 컨테이너 요소
+- 탭 중첩 (Nested Tab)
 
 ![](../attachments/uxdesign-tabs.png)
 
