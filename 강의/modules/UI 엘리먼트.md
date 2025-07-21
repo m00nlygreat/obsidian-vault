@@ -177,7 +177,12 @@ tags:
 ## Scroll or Pan
 
 - 표시할 수 있는 영역보다 컨테이너가 포함한 콘텐츠가 클 때 등장하는 인터랙션
-- 
+
+### Scroll Bar
+
+- 윈도우와 맥에서 동작 다름
+
+![](../attachments/ux-scroll.png)
 
 ## Form
 
