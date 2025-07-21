@@ -184,7 +184,7 @@ tags:
 
 ### Inner Scroll
 
-- 스크롤이 중첩되는 경우는 회피 
+- 스크롤이 중첩되는 것은 최악의 UX
 
 ![](../attachments/ux-scroll.png)
 
