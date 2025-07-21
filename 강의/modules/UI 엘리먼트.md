@@ -182,6 +182,10 @@ tags:
 
 - 윈도우와 맥에서 동작 다름
 
+### Inner Scroll
+
+- 스크롤이 중첩되는 경우는 회피 
+
 ![](../attachments/ux-scroll.png)
 
 ## Form
