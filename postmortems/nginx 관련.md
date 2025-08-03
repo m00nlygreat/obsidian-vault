@@ -23,6 +23,12 @@ server {
         proxy_set_header X-Real-IP $remote_addr;
         proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
         proxy_set_header X-Forwarded-Proto $scheme;
+
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection "upgrade";
     }
 }
 ```
+
+- cloud-flare 가변 모드 사용시 이정도로 충분
+- 맨 아래 두 줄은 wss (websocket over https를 위해서임)
