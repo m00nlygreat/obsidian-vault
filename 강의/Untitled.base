@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - type != ""
+    order:
+      - file.name
+      - type
+    sort:
+      - property: file.name
+        direction: ASC
