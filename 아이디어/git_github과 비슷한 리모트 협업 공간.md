@@ -14,4 +14,3 @@ modified: 2025-08-14T14:39:42+09:00
 - Desktop/Mobile 클라이언트
 - remote 서버
 	- github을 사용할 수도 있을 것 같아
-- 
