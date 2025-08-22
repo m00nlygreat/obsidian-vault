@@ -7,7 +7,7 @@ modified: 2025-08-14T14:39:42+09:00
 
 - 개발자들의 github처럼, 사무 협업자들의 github이 있으면 좋겠는데.
 - git의 remote 서버이되 credential이나 복잡한 branch, pull 등의 개념을 단순화하여 제공
-- GUI 위주로 사용하되, git 역시 사용할 수 있도록
+- GUI 위주로 사용하되, 개발자나 숙련된 사용자는 git 역시 사용할 수 있도록
 
 ## 구성
 
