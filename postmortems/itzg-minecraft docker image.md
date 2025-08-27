@@ -1,3 +1,5 @@
+## Curseforge
+
 docker-compose.yml 내용
 
 ```yaml
@@ -26,4 +28,36 @@ services:
     restart: unless-stopped
 ```
 
-up한 이후엔 해당 인스턴스를 변경하는 것으로 추가한다
+## Modrinth
+
+```yaml
+services:
+  mc:
+    image: docker.io/itzg/minecraft-server
+    tty: true
+    container_name: cobbleverse
+    stdin_open: true
+    ports:
+      - "25565:25565"
+    environment:
+      EULA: TRUE
+      MEMORY: 12G
+      TYPE: MODRINTH
+      MODRINTH_MODPACK: cobbleverse
+      ALLOW_FLIGHT: TRUE
+      ENFORCE_SECURE_PROFILE: FALSE
+      MOTD: Cobbleverse
+      RCON_PASSWORD: m00nlygreat
+      JVM_OPTS: "-Dfml.doVersionCheck=false"
+      MODRINTH_EXCLUDE_FILES: |
+        cobblemon-ui-tweaks
+      MODRINTH_OVERRIDES_EXCLUSIONS: |
+        mods/*cobblemon*ui*tweak*
+    volumes:
+      - ./data:/data
+    restart: unless-stopped
+```
+
+
+
+
