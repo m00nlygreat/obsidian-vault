@@ -30,6 +30,9 @@ services:
 
 ## Modrinth
 
+- simple voicechat 모드를 위해 24454 포트를 포워딩해준다.
+- Modrinth는 서버/클라이언트 팩이 구분이 안돼있기 때문에, exclude로 클라이언트 모드를 빼줘야함 ..
+
 ```yaml
 services:
   mc:
@@ -39,6 +42,7 @@ services:
     stdin_open: true
     ports:
       - "25565:25565"
+      - "24454:24454"
     environment:
       EULA: TRUE
       MEMORY: 12G
