@@ -7,7 +7,11 @@ libncurses5-dev libncursesw5-dev uuid-dev ca-certificates
 ```
 
 ```bash
-- `mise plugins update && rm -rf ~/.cache/mise/ruby ~/.cache/mise/ruby-build`
+mise plugins update && rm -rf ~/.cache/mise/ruby ~/.cache/mise/ruby-build
 ```
 
-### 
+### ruby 설치
+
+```bash
+mise install ruby@3.4.2
+```
