@@ -10,6 +10,8 @@ libncurses5-dev libncursesw5-dev uuid-dev ca-certificates
 mise plugins update && rm -rf ~/.cache/mise/ruby ~/.cache/mise/ruby-build
 ```
 
+- 공식 문서를 한 번 더 참고하자. 저렇게 많이 설치할 필요는 없다.
+
 ### ruby 설치
 
 ```bash
