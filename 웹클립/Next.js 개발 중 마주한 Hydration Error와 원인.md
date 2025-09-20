@@ -190,12 +190,3 @@ Next.js의 SSR(Server Side Rendering)은 Node.js 환경에서 렌더링되기 �
 
 이 글이 비슷한 문제를 겪는 분들에게 작은 도움이 되길 바랍니다.
 
-## More from Henby and 여기어때 기술블로그
-
-## Recommended from Medium
-
-[
-
-See more recommendations
-
-](https://medium.com/?source=post_page---read_next_recirc--a439ee2345aa---------------------------------------)
