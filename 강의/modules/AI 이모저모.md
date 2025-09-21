@@ -111,9 +111,7 @@ title: AI 이모저모
 ![](../attachments/chatgpt-future_of_AI.png)
 
 
-## AI 이모저모
-
-> AI 전쟁에서 승리하기 위한 키는 무엇일까?
+## AI 전쟁에서 승리하기
 
 ### 하드웨어 vs 소프트웨어?
 
@@ -136,7 +134,7 @@ title: AI 이모저모
 
 ---
 
-### GPT-4o
+## GPT-4o
 
 - GPT-4 Omni
 	- 진정한 멀티 모달
@@ -196,3 +194,4 @@ title: AI 이모저모
 - o3 출시 취소
 
 ![](../attachments/chatgpt-deepseek-o3.png)
+
