@@ -147,46 +147,18 @@ title: AI 이모저모
 
 ![](../attachments/chatgpt-4o_announce.png)
 
----
-
-### 대규모 언어모델 경쟁심화
-
-- 언어모델 자체의 성능은 상향평준화 되는 추세
-	- Llama 3.3
-	- Claude 3.5
-	- Gemini 2.0
-- ChatGPT는 유틸리티, 애플리케이션 측면에서 선두
-	- GPT-4o / mini / long output
-	- Structured Output
-
-***
-
-#### 새로운 전장, AI 에이전트
+## AI 에이전트
 
 - Anthropic "Claude 3.5 Computer Use"로 가상환경에서 컴퓨터를 직접 조작하는 기능 선봬
 - OpenAI는 macOS / iOS 등의 OS 통합(integration)으로 대응
 	- Apple Inteligence 발표와 ChatGPT 통합에서 예견됨
+- Genspark, 에이전트형 AI 서비스 출시
 
----
-
-### GPT-4 o1
+## GPT-o1 추론모델
 
 - 스스로 회고(Self-reflect)하는 특성으로 추론(Reasoning) 능력을 대폭 향상
 	- 인간으로 치면 IQ 120
 	- 박사 학위 수준
-
-![](../attachments/chatgpt-o1_reasoning.png)
-
----
-
-### 딥시크(Deepseek) 충격
-
-- 중국의 AI 스타트업이 개발한 오픈소스 LLM 모델 Deepseek V3와 R1
-- NVIDIA의 저가형 *H800* 칩을 사용해 훈련, 추론에는 화웨이 *어센드 910C*
-	- NVIDIA의 하드웨어 패권에 대한 회의론 확산
-	- 그러나 여전히 CUDA 생태계에 의존하고 있음
-- MoE(Mixture of Experts) 기법과 강화학습 위주의 학습 방식으로 저비용 고효율 달성
-	- 
 
 #### OpenAI o3 / o3 mini 출시
 
@@ -195,3 +167,18 @@ title: AI 이모저모
 
 ![](../attachments/chatgpt-deepseek-o3.png)
 
+## 딥시크(Deepseek) 충격
+
+- 중국의 AI 스타트업이 개발한 오픈소스 LLM 모델 Deepseek V3와 R1
+- NVIDIA의 저가형 *H800* 칩을 사용해 훈련, 추론에는 화웨이 *어센드 910C*
+	- NVIDIA의 하드웨어 패권에 대한 회의론 확산
+	- 그러나 여전히 CUDA 생태계에 의존하고 있음
+- MoE(Mixture of Experts) 기법과 강화학습 위주의 학습 방식으로 저비용 고효율 달성
+
+## GPT 4o 이미지 생성 출시
+
+- 
+
+## 구글 nano-banana / Veo 3
+
+## GPT-5 출시
