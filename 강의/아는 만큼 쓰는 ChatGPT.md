@@ -14,6 +14,8 @@ tags:
 
 ![ChatGPT를 대하는 우리의 자세](modules/ChatGPT를%20대하는%20우리의%20자세.md)
 
+# 왜 내 GPT는 대답을 이상하게 할까
+
 ![왜 내 GPT는 대답을 이상하게 할까](modules/왜%20내%20GPT는%20대답을%20이상하게%20할까.md)
 
 # AI 이모저모
@@ -21,6 +23,8 @@ tags:
 ![AI 이모저모](modules/AI%20이모저모.md)
 
 # ChatGPT 사용해보기
+
+![ChatGPT 개요](modules/ChatGPT%20개요.md)
 
 ![ChatGPT 기초 사용법](modules/ChatGPT%20기초%20사용법.md)
 

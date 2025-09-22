@@ -25,6 +25,10 @@ tags:
 
 ![ChatGPT 기초 사용법](modules/ChatGPT%20기초%20사용법.md)
 
+# AI 이모저모
+
+![AI 이모저모](modules/AI%20이모저모.md)
+
 # 프롬프트 엔지니어링
 
 ![프롬프트 엔지니어링](modules/프롬프트%20엔지니어링.md)
