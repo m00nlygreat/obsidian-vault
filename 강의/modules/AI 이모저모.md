@@ -192,6 +192,9 @@ title: AI 이모저모
 
 ## GPT-5 출시
 
-- 단일 모델이면서, 라우팅(routing)을 사용해 용도에 맞는 
+- 단일 모델이면서, 라우팅(routing)을 사용해 용도에 맞는 다양한 크기와 목적의 세부 모델이 응답하게 하는 
 
 ## AI 브라우저
+
+- Perplexity Comet
+- Genspark AI Browser
