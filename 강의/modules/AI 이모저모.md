@@ -201,7 +201,10 @@ title: AI 이모저모
 
 ### 코딩 에이전트 전성시대
 
-- Cursor, Windsurf 등 IDE 통합형 코딩 에이전트에서 CLI 기반 코딩 에이전트로의 이행
+- Cursor, Windsurf 등 IDE 통합형 코딩 에이전트에서 
+- Gemini-CLi, Claude-code, Codex-CLI 등 CLI 기반 코딩 에이전트로의 이행
+
+![](../attachments/ai-vibe_coding.png)
 
 ## GPT-5 출시
 
@@ -209,7 +212,7 @@ title: AI 이모저모
 
 ### 사용자 불만 폭증
 
-- 정서적으로 
+- GPT로부터 위안을 받거나, 농담따먹기, 영어
 
 ## AI 브라우저
 
