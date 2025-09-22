@@ -177,4 +177,17 @@ title: AI 이모저모
 
 ## 구글 nano-banana / Veo 3
 
+### `nano-banana`
+
+- `nano-banana` 라는 이름으로 AI 벤치마크 랭킹에 등장한 이미지 모델
+	- 이후 `gemini-2.5-flash-image` 라는 이름으로 출시
+- 뛰어난 일관성(consistency)이 특징
+
+### Veo3
+
+- 음성과 영상을 동시에 생성하는 모델
+- 유리 과일 자르기 등 영상 유행
+
 ## GPT-5 출시
+
+## AI 브라우저
