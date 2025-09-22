@@ -93,7 +93,7 @@ title: AI 이모저모
 - 얀 르쿤, 메타 인공지능 수석 과학자
 	- "Transformer 모델로는 AGI 달성 못해"
 	- "o1은 Transformer가 아냐"
-	- AMI는 2040년 -> 2030년에 올 것
+	- Advanced Machine Intelligence는 2030년에 올 것
 
 ---
 
