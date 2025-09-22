@@ -175,10 +175,6 @@ title: AI 이모저모
 	- 그러나 여전히 CUDA 생태계에 의존하고 있음
 - MoE(Mixture of Experts) 기법과 강화학습 위주의 학습 방식으로 저비용 고효율 달성
 
-## GPT 4o 이미지 생성 출시
-
-- 
-
 ## 구글 nano-banana / Veo 3
 
 ## GPT-5 출시
