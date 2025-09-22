@@ -38,6 +38,10 @@ tags:
 
 ![](attachments/chatgpt-obsidian_integration.png)
 
+# 지금 체크해봐야 하는 AI 도구들
+
+![다양한 AI 도구 소개](modules/다양한%20AI%20도구%20소개.md)
+
 # ChatGPT 고급 기능 소개
 
 ![ChatGPT 고급 기능](modules/ChatGPT%20고급%20기능.md)
@@ -45,6 +49,10 @@ tags:
 # GPTs 만들기
 
 ![GPTs](modules/GPTs.md)
+
+![원영적사고 GPT 만들기.project](practices/원영적사고%20GPT%20만들기.project.md)
+
+![친절한 김대리 봇 만들기.project](practices/친절한%20김대리%20봇%20만들기.project.md)
 
 # ChatGPT와 데이터 분석
 
