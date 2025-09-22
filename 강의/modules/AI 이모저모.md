@@ -190,6 +190,10 @@ title: AI 이모저모
 
 ![](../attachments/ai-cutting_glass_fruits.png)
 
+## 바이브코딩
+
+- 안드레이 카파시 (Andrej Kaparthy)가 
+
 ## GPT-5 출시
 
 - 단일 모델이면서, 라우팅(routing)을 사용해 용도에 맞는 다양한 크기와 목적의 세부 모델이 응답하게 하는 
@@ -198,3 +202,4 @@ title: AI 이모저모
 
 - Perplexity Comet
 - Genspark AI Browser
+- 
