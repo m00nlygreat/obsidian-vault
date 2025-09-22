@@ -154,6 +154,12 @@ title: AI 이모저모
 	- Apple Inteligence 발표와 ChatGPT 통합에서 예견됨
 - Genspark, 에이전트형 AI 서비스 출시
 
+### 툴 콜링 (Tool calling)
+
+- 또는 펑션 콜링이라고 부름.
+- LLM이 자기주도적으로 판단 하에 외부 기능(Tool)을 실행하는 것
+- MCP로 대표됨
+
 ## GPT-o1 추론모델
 
 - 스스로 회고(Self-reflect)하는 특성으로 추론(Reasoning) 능력을 대폭 향상
