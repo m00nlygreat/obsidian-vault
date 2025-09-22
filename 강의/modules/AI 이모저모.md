@@ -217,8 +217,11 @@ title: AI 이모저모
 - 답변이 짧아졌고 멍청해졌다는 증언
 - [샘 올트먼, GPT-5 실패를 인정](https://www.reddit.com/r/OpenAI/comments/1muhlun/sam_altman_admits_openai_totally_screwed_up_its/)
 
-## AI 브라우저
+## AI 브라우저 대결
 
+- OpenAI 'Agent' Mode
 - Perplexity Comet
 - Genspark AI Browser
 - Chrome + Gemini
+
+![](../attachments/ai-openai_agent.png)
