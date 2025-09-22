@@ -188,6 +188,10 @@ title: AI 이모저모
 - 음성과 영상을 동시에 생성하는 모델
 - 유리 과일 자르기 등 영상 유행
 
+![](../attachments/ai-cutting_glass_fruits.png)
+
 ## GPT-5 출시
+
+- 
 
 ## AI 브라우저
