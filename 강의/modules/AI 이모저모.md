@@ -195,6 +195,7 @@ title: AI 이모저모
 ### 두 가지 의미
 
 - **완전한 바이브코딩**: 개발을 모르는 사람이 자연어만으로 코드를 작성하는 것
+	- Replit, Lovable, v0, 
 - **AI 페어 프로그래밍**: 개발자가 설계 및 코드 품질 검토를 담당하며 언어모델을 동료직원처럼 대하며 코드를 작성하는 것
 
 ---
@@ -202,7 +203,7 @@ title: AI 이모저모
 ### 코딩 에이전트 전성시대
 
 - Cursor, Windsurf 등 IDE 통합형 코딩 에이전트에서 
-- Gemini-CLi, Claude-code, Codex-CLI 등 CLI 기반 코딩 에이전트로의 이행
+- Gemini-CLi, Claude-Code, Codex-CLI 등 CLI 기반 코딩 에이전트로의 이행
 
 ![](../attachments/ai-vibe_coding.png)
 
@@ -212,7 +213,7 @@ title: AI 이모저모
 
 ### 사용자 불만 폭증
 
-- GPT로부터 위안을 받거나, 농담따먹기, 영어회화 연습 등의 목적으로 GPT를 이용하던 사람들이 'GPT가 재미없어졌다.'라며 호소
+- GPT로부터 위안을 받거나, 농담따먹기, 영어회화 연습 등의 목적으로 GPT를 이용하던 사람들이 *'GPT가 재미없어졌다.'* 라며 호소
 - 답변이 짧아졌고 멍청해졌다는 증언
 - [샘 올트먼, GPT-5 실패를 인정](https://www.reddit.com/r/OpenAI/comments/1muhlun/sam_altman_admits_openai_totally_screwed_up_its/)
 
