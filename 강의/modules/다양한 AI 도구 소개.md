@@ -49,4 +49,6 @@ LLM이 다양한 기능에 접근할 수 있도록 만든 규칙과 인터페이
 
 ![make-intro](../attachments/make-intro.png)
 
-<div class="ob-html-comment" id="comment-80669e33-25f6-4b1d-a446-4cdef8c74da3" data-tags="[comment,]"><span class="ob-html-comment-body">Skywork AI 추가하자</span></div>
+## Google AI Studio
+
+- 
