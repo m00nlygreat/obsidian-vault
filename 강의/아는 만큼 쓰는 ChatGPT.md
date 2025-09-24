@@ -38,10 +38,6 @@ tags:
 
 ![](attachments/chatgpt-obsidian_integration.png)
 
-# 지금 체크해봐야 하는 AI 도구들
-
-![다양한 AI 도구 소개](modules/다양한%20AI%20도구%20소개.md)
-
 # ChatGPT 고급 기능 소개
 
 ![ChatGPT 고급 기능](modules/ChatGPT%20고급%20기능.md)
@@ -65,5 +61,9 @@ tags:
 ![GPT를 엑셀 안에서 사용하기](modules/GPT를%20엑셀%20안에서%20사용하기.md)
 
 ![VBA with GPT](modules/VBA%20with%20GPT.md)
+
+# 지금 체크해봐야 하는 AI 도구들
+
+![다양한 AI 도구 소개](modules/다양한%20AI%20도구%20소개.md)
 
 # 감사합니다
