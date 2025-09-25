@@ -55,4 +55,7 @@ LLM이 다양한 기능에 접근할 수 있도록 만든 규칙과 인터페이
 - `nano-banana` 또는 Build Apps with Gemini 등 자유롭게 테스트해볼 수 있고 무료
 
 ![](../attachments/chatgpt-google_studio.png)
-d
+
+## Google Stitch
+
+- 디자인을 제작해주는 
