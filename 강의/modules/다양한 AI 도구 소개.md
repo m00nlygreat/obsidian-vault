@@ -47,10 +47,12 @@ LLM이 다양한 기능에 접근할 수 있도록 만든 규칙과 인터페이
 - API를 사용해 ChatGPT, Claude, Gemini와 같은 LLM에 접근할 수 있고 이를 통해, 이메일 자동화, 사무 자동화, 챗봇 등 다양한 애플리케이션을 개발
 - 코드를 전혀 사용하지 않거나 최소한의 코드를 사용해 강력한 확장성
 
-![make-intro](../attachments/make-intro.png)
+![](../attachments/make-intro.png)
 
 ## Google AI Studio
 
 - 구글 Gemini 관련 기능을 테스트하거나, API 키를 관리할 수 있는 간단한 도구
-- `nano-banana` 또는 Build Apps with Gemini
+- `nano-banana` 또는 Build Apps with Gemini 등 자유롭게 테스트해볼 수 있고 무료
 
+![](../attachments/chatgpt-google_studio.png)
+d
