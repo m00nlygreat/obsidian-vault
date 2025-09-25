@@ -49,5 +49,6 @@ LLM이 다양한 기능에 접근할 수 있도록 만든 규칙과 인터페이
 
 ![make-intro](../attachments/make-intro.png)
 
-## Google AI St 
-- 
+## Google AI Studio
+
+- 구글의 
