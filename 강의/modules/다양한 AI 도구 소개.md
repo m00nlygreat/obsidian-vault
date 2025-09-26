@@ -58,4 +58,7 @@ LLM이 다양한 기능에 접근할 수 있도록 만든 규칙과 인터페이
 
 ## Google Stitch
 
-- 
+- 구글의 디자인 에이전트
+- **피그마 export** 가능!
+
+![](attachments/Pasted%20image%2020250926181050.png)
