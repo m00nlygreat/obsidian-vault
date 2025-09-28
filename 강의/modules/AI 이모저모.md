@@ -24,10 +24,6 @@ title: AI 이모저모
 ![](../attachments/nnet2.png)
 
 ---
- 
-	- OpenAI와 ChatGPT의 등장
-
----
 
 ![](../attachments/chatgpt-perceptron.png)
 
