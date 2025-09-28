@@ -56,7 +56,7 @@ LLM이 다양한 기능에 접근할 수 있도록 만든 규칙과 인터페이
 
 ### Build Apps with Gemini
 
-- Gemini와 nano-banana 등의 도구를 활용해 웹앱을 만드릭
+- Gemini와 nano-banana 등의 도구를 활용해 웹앱을 만들기
 - [Enhance!](https://aistudio.google.com/apps/bundled/enhance?showPreview=true&showAssistant=true)
 
 ![](../attachments/chatgpt-google_studio.png)
