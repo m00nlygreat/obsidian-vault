@@ -54,6 +54,11 @@ LLM이 다양한 기능에 접근할 수 있도록 만든 규칙과 인터페이
 - 구글 Gemini 관련 기능을 테스트하거나, API 키를 관리할 수 있는 간단한 도구
 - `nano-banana` 또는 Build Apps with Gemini 등 자유롭게 테스트해볼 수 있고 무료
 
+### Build Apps with Gemini
+
+- Gemini와 nano-banana 등의 도구를 활용해 웹앱을 만드릭
+- [Enhance!](https://aistudio.google.com/apps/bundled/enhance?showPreview=true&showAssistant=true)
+
 ![](../attachments/chatgpt-google_studio.png)
 
 ## Google Stitch
