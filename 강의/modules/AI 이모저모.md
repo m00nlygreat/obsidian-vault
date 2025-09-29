@@ -31,6 +31,8 @@ title: AI 이모저모
 
 ![](../attachments/chatgpt-LLMs.png)
 
+[figma]: # (https://www.figma.com/design/iubwB7Prnrvzy147L1mMpM/%EA%B0%95%EC%9D%98-%EC%82%BD%ED%99%94?node-id=5-33&t=DmgUW0UCLRFfz0J8-4)
+
 ## 오픈 AI와 일론 머스크
 
 ![](../attachments/chatgpt-larry_vs_elon.png)
