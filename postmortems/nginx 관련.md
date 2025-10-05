@@ -32,3 +32,14 @@ server {
 
 - cloud-flare 가변 모드 사용시 이정도로 충분
 - 맨 아래 두 줄은 wss (websocket over https를 위해서임)
+
+## client_max_body_size
+
+```
+server {
+    client_max_body_size 100M;
+    # ...
+}
+```
+
+위와같이 설정해서 업로드 제한을 풀어줄 수 있다
