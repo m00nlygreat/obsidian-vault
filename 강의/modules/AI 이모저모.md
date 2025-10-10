@@ -193,6 +193,7 @@ title: AI 이모저모
 - **완전한 바이브코딩**: 개발을 모르는 사람이 자연어만으로 코드를 작성하는 것
 	- *Replit*, *Lovable*, *v0*, *Figma Make* 등
 - **AI 페어 프로그래밍**: 개발자가 설계 및 코드 품질 검토를 담당하며 언어모델을 동료직원처럼 대하며 코드를 작성하는 것
+	- 이걸 뭐라고 불러야 하는가에 대한 논의 진행 중. *Vibe Engineering*, *Augmented Coding*, *AI assisted Programming* 등
 
 ---
 
