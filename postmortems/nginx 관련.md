@@ -33,7 +33,7 @@ server {
 - cloud-flare 가변 모드 사용시 이정도로 충분
 - 맨 아래 두 줄은 wss (websocket over https를 위해서임)
 
-## client_max_body_size
+### client_max_body_size
 
 ```
 server {
