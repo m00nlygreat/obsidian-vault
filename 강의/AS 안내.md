@@ -12,5 +12,6 @@ type: module
 
 - [moonlygreat@gmail.com](mailto:moonlygreat@gmail.com)
 - [010-5051-1596](tel:+8201050511596)
+- `deepgilder` (KAKAO)
 
 ![](attachments/thanks.png)
