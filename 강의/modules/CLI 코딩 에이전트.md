@@ -123,4 +123,4 @@ codex mcp add <server-name> --env VAR1=VALUE1 --env VAR2=VALUE2 -- <stdio server
 - Figma: 피그마 디자인을 읽어와 그대로 구현
 - Taskmaster: 작업을 태스크로 쪼개고 
 - Serena: LSP 서버를 사용해 사용하는 토큰을 줄여주고 작업속도 향상
-- Supabase MCP
+- Supabase: Supabase 관리를 도와줌
