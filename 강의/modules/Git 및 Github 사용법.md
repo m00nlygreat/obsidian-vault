@@ -14,21 +14,41 @@ winget install -e Git.Git
 
 - 리포지토리 클론
 
-```shell
+```bash
 git clone https://github.com/... [dirName]
 ```
 
 - 커밋 / 푸쉬
 
-```shell
+```bash
 git status
 ```
 
-```shell
+```bash
 git add .
 ```
 
-```shell
+```bash
 git commit -m "커밋 메시지"
+```
+
+***
+
+- 풀 (땡겨오기)
+
+```bash
+git pull
+```
+
+- 브랜치 생성
+
+```
+git branch [branchName]
+```
+
+- 해당 브랜치로 변경 (체크아웃)
+
+```bash
+git checkout branchName
 ```
 
