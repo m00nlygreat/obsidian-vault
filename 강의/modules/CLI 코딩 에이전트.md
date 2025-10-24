@@ -24,8 +24,6 @@ type: module
 
 ![Git 및 Github 사용법.md](Git%20및%20Github%20사용법.md)
 
-# CLI 코딩 에이전트 사용하기
-
 ## Node.js 설치
 
 - Windows
