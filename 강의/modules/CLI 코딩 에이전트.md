@@ -86,4 +86,27 @@ gemini
 
 ## MCP 사용하기
 
+### Codex
+
+
+
 ### GEMINI
+
+- `.GEMINI/settings.json` 에 기록
+
+```json
+{ 
+  "mcpServers": {
+    "serverName": {
+      "command": "path/to/server",
+      "args": ["--arg1", "value1"],
+      "env": {
+        "API_KEY": "$MY_API_TOKEN"
+      },
+      "cwd": "./server-directory",
+      "timeout": 30000,
+      "trust": false
+    }
+  }
+}
+```
