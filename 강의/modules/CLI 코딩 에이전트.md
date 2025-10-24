@@ -57,3 +57,33 @@ brew install node
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+
+## 설치하기
+
+### Codex-CLI
+
+```bash
+npm install -g @openai/codex
+```
+
+#### 실행
+
+```bash
+codex
+```
+
+### Gemini-CLI (무료)
+
+```bash
+npm install -g @google/gemini-cli
+```
+
+#### 실행
+
+```bash
+gemini
+```
+
+## MCP 사용하기
+
+### GEMINI
