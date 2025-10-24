@@ -12,7 +12,23 @@ winget install -e Git.Git
 
 ## Git 명령어
 
-- 
+- 리포지토리 클론
+
 ```shell
-git clone https://github.com/... [folder]
+git clone https://github.com/... [dirName]
 ```
+
+- 커밋 / 푸쉬
+
+```shell
+git status
+```
+
+```shell
+git add .
+```
+
+```shell
+git commit -m "커밋 메시지"
+```
+
