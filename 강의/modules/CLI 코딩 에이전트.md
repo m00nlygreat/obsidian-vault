@@ -24,3 +24,24 @@ type: module
 
 ![Git 및 Github 사용법.md](Git%20및%20Github%20사용법.md)
 
+# CLI 코딩 에이전트 사용하기
+
+## Node.js 설치
+
+- Windows
+
+```powershell
+winget install -e OpenJS.NodeJS
+```
+
+- `winget`이 없는 경우
+
+```powershell
+$progressPreference = 'silentlyContinue'
+Write-Host "Installing WinGet PowerShell module from PSGallery..."
+Install-PackageProvider -Name NuGet -Force | Out-Null
+Install-Module -Name Microsoft.WinGet.Client -Force -Repository PSGallery | Out-Null
+Write-Host "Using Repair-WinGetPackageManager cmdlet to bootstrap WinGet..."
+Repair-WinGetPackageManager -AllUsers
+Write-Host "Done."
+```
