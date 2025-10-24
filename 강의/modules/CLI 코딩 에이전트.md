@@ -15,7 +15,12 @@ type: module
 - 터미널 사용법
 	- `cd`, `dir`/`ls`, `exit`
 - Git 사용법 및 Github 연동
-	- `git init`, `git clone`, , `git commit`, `.gitignore`
+	- `git init`, `git clone`, `git commit`, `git push`, `.gitignore`
 - CLI 코딩 에이전트 설치 및 사용법
-- MCP, `AGENTS.md` 등 도구별
+	- `node`, `npm`
+- MCP, `AGENTS.md` 등 도구별 설정
+
+![터미널 사용하기](터미널%20사용하기.md)
+
+![Git 및 Github 사용법.md](Git%20및%20Github%20사용법.md)
 
