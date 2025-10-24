@@ -43,12 +43,12 @@ git pull
 - 브랜치 생성
 
 ```
-git branch [branchName]
+git branch {branchName}
 ```
 
 - 해당 브랜치로 변경 (체크아웃)
 
 ```bash
-git checkout branchName
+git checkout {branchName}
 ```
 
