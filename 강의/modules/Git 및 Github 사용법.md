@@ -6,13 +6,13 @@ type: module
 
 ## Git 설치
 
-- Windows
+#### Windows
 
 ```powershell
 winget install -e Git.Git
 ```
 
-- Mac
+#### Mac
 
 ```bash
 brew install git
@@ -31,13 +31,13 @@ git config --global user.email "email@company.com"
 
 ## Git 명령어
 
-- 리포지토리 클론
+#### 리포지토리 클론
 
 ```bash
 git clone https://github.com/... [dirName]
 ```
 
-- 커밋 / 푸쉬
+#### 커밋 / 푸쉬
 
 ```bash
 git status
@@ -51,7 +51,7 @@ git add .
 git commit -m "커밋 메시지"
 ```
 
-- 풀 (땡겨오기)
+#### 풀 (땡겨오기)
 
 ```bash
 git pull
@@ -59,13 +59,13 @@ git pull
 
 ***
 
-- 브랜치 생성
+#### 브랜치 생성
 
 ```
 git branch {branchName}
 ```
 
-- 해당 브랜치로 변경 (체크아웃)
+#### 해당 브랜치로 변경 (체크아웃)
 
 ```bash
 git checkout {branchName}
@@ -75,12 +75,9 @@ git checkout {branchName}
 git checkout -b {branchName}
 ```
 
-- 브랜치 병합
+#### 브랜치 병합
 
 ```bash
 git merge {branchName}
 ```
-
-
-
 

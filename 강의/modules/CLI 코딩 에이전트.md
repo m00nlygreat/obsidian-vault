@@ -26,13 +26,13 @@ type: module
 
 ## Node.js 설치
 
-- Windows
+### Windows
 
 ```powershell
 winget install -e OpenJS.NodeJS
 ```
 
-- `winget`이 없는 경우
+#### `winget`이 없는 경우
 
 ```powershell
 $progressPreference = 'silentlyContinue'
@@ -42,4 +42,18 @@ Install-Module -Name Microsoft.WinGet.Client -Force -Repository PSGallery | Out-
 Write-Host "Using Repair-WinGetPackageManager cmdlet to bootstrap WinGet..."
 Repair-WinGetPackageManager -AllUsers
 Write-Host "Done."
+```
+
+***
+
+### Mac
+
+```bash
+brew install node
+```
+
+#### Homebrew가 없는 경우
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
