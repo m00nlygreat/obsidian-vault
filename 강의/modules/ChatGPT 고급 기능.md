@@ -61,7 +61,7 @@ title: ChatGPT 고급 기능
 
 ![](../attachments/chatgpt-browsing.png)
 
-## Data Analysis
+## Advanced Data Analysis
 
 - 파이썬 백엔드를 실행하여 데이터 분석 등을 수행하는 기능
 	- 파일 리딩: CSV, PDF, PPT, XLS, DOC 등 문서 제공
