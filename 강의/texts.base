@@ -11,3 +11,9 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: cards
+    name: View
+    filters:
+      and:
+        - type == "text"
+    cardSize: 240
