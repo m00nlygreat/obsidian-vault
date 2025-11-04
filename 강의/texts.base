@@ -1,19 +1,9 @@
 views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - type == "text"
-    order:
-      - type
-      - file.name
-      - tags
-    sort:
-      - property: file.name
-        direction: ASC
   - type: cards
     name: View
     filters:
       and:
         - type == "text"
+    order:
+      - file.name
     cardSize: 240
