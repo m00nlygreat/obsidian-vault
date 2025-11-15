@@ -13,7 +13,7 @@ tags:
 ## Make.com
 
 - 구 인티그로맷(Integromat)
-- 재피어(Zapier), IFTTT, n8n과 같은 **백엔드 자동화 도구**
+- 재피어(Zapier), IFTTT, n8n과 같은 클라우드 기반 **백엔드 자동화 도구**
 
 ### 재피어와의 비교
 
@@ -67,21 +67,22 @@ tags:
 
 ## 데이터 타입 (Data Types)
 
-- 번들(Bundles)
+- **번들**(Bundles)
 	- 엄밀한 의미에서 타입은 아니고 Make의 개념에 가까움
 	- 모듈은 실행되었을 때 하나에서 여러 개의 번들을 리턴할 수 있고
 	- 연결된 모듈에서 번들 당 1회 모듈이 실행됨
-- 컬렉션(Collections)
-- 숫자(Number)
-- 텍스트(Text)
+- **컬렉션**(Collections): Key-Value 형태의 프로퍼티 집합 ≒ Dictionary, Object
+- **배열**(Array)
+- **숫자**(Number)
+- **텍스트**(Text)
 
 ***
 
-- 날짜(Date)
+- **날짜**(Date)
 	- ISO 8601 형식을 따름
 	- `2024-12-10T00:45:00`
-- 불리언(Boolean)
-- 바이너리(Binary)
+- **불리언**(Boolean)
+- **바이너리**(Binary)
 	- 파일, 이미지, 음성 등
 
 ## 인증 (Authentication)
@@ -131,7 +132,7 @@ tags:
 
 ---
 
-### Generative AI
+### AI / LLM
 
 - OpenAI
 - Claude
