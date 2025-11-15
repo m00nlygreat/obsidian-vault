@@ -214,11 +214,12 @@ title: AI 이모저모
 - GPT로부터 위안을 받거나, 농담따먹기, 영어회화 연습 등의 목적으로 GPT를 이용하던 사람들이 *'GPT가 재미없어졌다.'* 라며 호소
 - 답변이 짧아졌고 멍청해졌다는 증언
 - [샘 올트먼, GPT-5 실패를 인정](https://www.reddit.com/r/OpenAI/comments/1muhlun/sam_altman_admits_openai_totally_screwed_up_its/)
-	- GPT-5.1 (2025. 11. )
+	- GPT-5.1 (2025. 11. 12)
 
 ## AI 브라우저 대결
 
 - OpenAI 'Agent' Mode
+	- OpenAI Atlas
 - Perplexity Comet
 - Genspark AI Browser
 - Chrome + Gemini
