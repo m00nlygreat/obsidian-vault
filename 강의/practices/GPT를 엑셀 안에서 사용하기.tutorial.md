@@ -1,6 +1,7 @@
 ---
-type: module
+type: practice
 title: GPT를 엑셀 안에서 사용하기
+practice_type: tutorial
 ---
 ## GPT를 엑셀 안에서 사용하기
 
@@ -70,4 +71,4 @@ GPT_FILL(패턴 범위, 입력 범위, [온도])
 
 ![](../attachments/chatgpt-gpt_fill.png)
 
-![OpenAI API Key 발급](OpenAI%20API%20Key%20발급.md)
+![OpenAI API Key 발급](../modules/OpenAI%20API%20Key%20발급.md)

@@ -58,7 +58,7 @@ tags:
 
 # 엑셀과 ChatGPT
 
-![GPT를 엑셀 안에서 사용하기](modules/GPT를%20엑셀%20안에서%20사용하기.md)
+![GPT를 엑셀 안에서 사용하기.tutorial](practices/GPT를%20엑셀%20안에서%20사용하기.tutorial.md)
 
 ![VBA with GPT](modules/VBA%20with%20GPT.md)
 
