@@ -23,7 +23,7 @@ author: 배문형
 - 인터넷 등에 쓰여진 대량의 텍스트를 학습하여 주어진 글의 다음에 올 확률이 높은 단어를 배치하는 인공지능 모델
 - 개발자들도 원리를 잘 모른다!
 	- ChatGPT 자신도 스스로 무슨 말을 하는지 모름!
-	- [앤스로픽, AI블랙박스 작동원리 밝혀냈다](https://www.mk.co.kr/news/it/11021534)
+	- [앤스로픽, AI블랙박스 작동원리 밝혀냈다?](https://www.mk.co.kr/news/it/11021534)
 
 ![](../attachments/chatgpt-words-rate.png)
 
