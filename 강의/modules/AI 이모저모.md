@@ -144,9 +144,9 @@ title: AI 이모저모
 
 ### 툴 콜링 (Tool calling)
 
-- 또는 펑션 콜링이라고 부름.
+- 또는 펑션 콜링(Function Calling)
 - LLM이 자기주도적으로 판단 하에 외부 기능(Tool)을 실행하는 것
-- MCP로 대표됨
+	- MCP
 
 ## GPT-o1 추론모델
 
@@ -157,7 +157,7 @@ title: AI 이모저모
 #### OpenAI o3 / o3 mini 출시
 
 - 최초로 AGI에 진입했다는 의견
-- o3 출시 취소
+- o3 출시 (2025. 4. 16)
 
 ![](../attachments/chatgpt-deepseek-o3.png)
 
@@ -181,6 +181,7 @@ title: AI 이모저모
 
 - 음성과 영상을 동시에 생성하는 모델
 - 유리 과일 자르기 등 영상 유행
+	- Veo 3.1
 
 ![](../attachments/ai-cutting_glass_fruits.png)
 
@@ -213,6 +214,7 @@ title: AI 이모저모
 - GPT로부터 위안을 받거나, 농담따먹기, 영어회화 연습 등의 목적으로 GPT를 이용하던 사람들이 *'GPT가 재미없어졌다.'* 라며 호소
 - 답변이 짧아졌고 멍청해졌다는 증언
 - [샘 올트먼, GPT-5 실패를 인정](https://www.reddit.com/r/OpenAI/comments/1muhlun/sam_altman_admits_openai_totally_screwed_up_its/)
+	- GPT-5.1 (2025. 11. )
 
 ## AI 브라우저 대결
 
